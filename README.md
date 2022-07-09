@@ -9,7 +9,7 @@ These data are mined from the Museum's Collections API, which is protected by a 
 ## Data Structure
 
 Data in this repository comes as CSV and JSON.
-
+```
 |-Root
   |- objects
     |- *.json
@@ -29,6 +29,7 @@ Data in this repository comes as CSV and JSON.
   |- scripts
     |- rstats
     |- python
+```
 
 ## License
 
