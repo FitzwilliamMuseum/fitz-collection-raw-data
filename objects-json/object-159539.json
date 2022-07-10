@@ -1,0 +1,206 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-126129"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-126129"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-126129"],
+        "summary_title": ["2 pfennig"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["CM.3512-2003"],
+        "type": ["accession number"],
+        "value": ["CM.3512-2003"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["159539"],
+        "type": ["priref"],
+        "value": ["159539"]
+      },
+      {
+        "type": ["Rogers"],
+        "value": ["2090"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/159539"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/159539"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["From the estate of Dr David J. de Sola Rogers (1946-99)."]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1594852839000"],
+      "id": ["object-159539"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["2003"],
+            "value": ["2003-11-25"],
+            "latest": ["2003"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Withers, Paul"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-180445"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-180445"],
+            "agent": ["agent-180445"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["1945"],
+              "value": ["1945"],
+              "latest": ["1945"]
+            },
+            "to": {
+              "precision": ["uncertain"],
+              "earliest": ["1960"],
+              "value": ["1960"],
+              "latest": ["1960"]
+            },
+            "earliest": ["1945"],
+            "latest": ["1960"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Lauer, Ludwig Christian"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-180298"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-180298"],
+            "term": ["agent-180298"],
+            "role": [
+              {
+                "value": ["issuer"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-39618"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39618"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39618"],
+            "summary_title": ["zinc"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-126129"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-126129"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-126129"],
+        "summary_title": ["2 pfennig"]
+      },
+      {
+        "term": ["term-125724"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-125724"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-125724"],
+        "summary_title": ["toy coin"]
+      }
+    ],
+    "inscription": [
+      {
+        "transcription": [
+          {
+            "value": ["LAUER'SCHES KINDERGELD"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Sprig of five oak-leaves with denomination around"]
+          }
+        ],
+        "location": ["obverse"],
+        "type": ["design"]
+      },
+      {
+        "description": [
+          {
+            "value": ["Denomination with two corn-ears around and mint-mark above"]
+          }
+        ],
+        "location": ["reverse"],
+        "type": ["design"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-125724"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-125724"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-125724"],
+        "summary_title": ["toy coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["mm"],
+          "dimension": ["Image(height)"],
+          "value": ["10.9"]
+        },
+        {
+          "units": ["mm"],
+          "dimension": ["Image(width)"],
+          "value": ["10.9"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-6086"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-6086"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-6086"],
+        "summary_title": ["Toy Coins"],
+        "page": ["178"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-159539"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/159539"],
+    "object": ["object-159539"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
