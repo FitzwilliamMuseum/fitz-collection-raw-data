@@ -1,0 +1,173 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-91989"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-91989"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-91989"],
+        "summary_title": ["caudle cup"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["2009"],
+            "value": ["2009"],
+            "latest": ["2009"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Gray, Jonathan"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-193981"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-193981"],
+            "agent": ["agent-193981"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "era": [
+              ["CE"]
+            ],
+            "precision": ["circa"],
+            "earliest": ["1650"],
+            "value": ["1650"],
+            "latest": ["1650"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Commonwealth"],
+            "period": ["term-22454"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-22454"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-22454"]
+          },
+          {
+            "summary_title": ["17th Century"],
+            "period": ["term-106447"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106447"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106447"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Skottowe, Timothy"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-187770"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-187770"],
+            "term": ["agent-187770"],
+            "role": [
+              {
+                "value": ["silversmith"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Bury St Edmunds"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-116213"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-116213"],
+            "place": ["term-116213"],
+            "coordinates": {
+              "lat": ["52.24685165"],
+              "lng": ["0.71849040711587"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["England"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["AAL.21-2009"],
+        "type": ["accession number"],
+        "value": ["AAL.21-2009"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["184527"],
+        "type": ["priref"],
+        "value": ["184527"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/184527"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/184527"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-91989"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-91989"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-91989"],
+        "summary_title": ["caudle cup"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1569413104000"],
+      "id": ["object-184527"]
+    },
+    "description": [
+      {
+        "value": ["The plain compressed baluster shaped body with two single scroll handles.  Engraved on base with initials \"S R\" and date \"Aug 1st 1725\"."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-193982"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-193982"],
+        "owner": ["agent-193982"],
+        "summary_title": ["The Bill Gray Collection"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-39778"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39778"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39778"],
+        "summary_title": ["silver"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Diameter"],
+          "value": ["10"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Height"],
+          "value": ["7.5"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-184527"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/184527"],
+    "object": ["object-184527"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

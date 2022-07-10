@@ -1,0 +1,230 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-98032"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98032"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98032"],
+        "summary_title": ["print"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["P.68-1970"],
+        "type": ["accession number"],
+        "value": ["P.68-1970"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["184405"],
+        "type": ["priref"],
+        "value": ["184405"]
+      },
+      {
+        "type": ["Greenwood"],
+        "value": ["52"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/184405"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/184405"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1582637549000"],
+      "id": ["object-184405"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "title": [
+      {
+        "type": ["assigned"],
+        "value": ["Cattle and creeping thing"]
+      },
+      {
+        "type": ["series"],
+        "value": ["Genesis"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bought"],
+        "date": [
+          {
+            "earliest": ["1970"],
+            "value": ["1970"],
+            "latest": ["1970"]
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["1923"],
+              "value": ["1923"],
+              "latest": ["1923"]
+            },
+            "to": {
+              "earliest": ["1924"],
+              "value": ["1924"],
+              "latest": ["1924"]
+            },
+            "earliest": ["1923"],
+            "latest": ["1924"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["20th century"],
+            "period": ["term-107318"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-107318"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107318"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Nash, Paul"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-97639"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-97639"],
+            "term": ["agent-97639"],
+            "role": [
+              {
+                "value": ["printmaker"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "school_or_style": [
+      {
+        "term": ["term-9168"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-9168"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-9168"],
+        "summary_title": ["British"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-39155"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39155"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39155"],
+            "summary_title": ["Japanese paper"]
+          }
+        ]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-29150"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-29150"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-29150"],
+        "summary_title": ["wood engraving"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-98032"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98032"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98032"],
+        "summary_title": ["print"]
+      }
+    ],
+    "inscription": [
+      {
+        "method": ["graphite"],
+        "transcription": [
+          {
+            "value": ["Paul Nash"]
+          }
+        ],
+        "location": ["sheet lower right"],
+        "type": ["signature"]
+      },
+      {
+        "method": ["graphite"],
+        "transcription": [
+          {
+            "value": ["The Animals"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["the artist's handwriting"]
+          }
+        ],
+        "location": ["lower centre of paper mount"],
+        "type": ["title"]
+      },
+      {
+        "method": ["graphite"],
+        "transcription": [
+          {
+            "value": ["PN"]
+          }
+        ],
+        "location": ["inside folded paper mount, right side, upper right corner"],
+        "type": ["monogram"]
+      },
+      {
+        "method": ["graphite"],
+        "transcription": [
+          {
+            "value": ["(10) / 8"]
+          }
+        ],
+        "location": ["inside folded paper mount, right side, upper centre"],
+        "type": ["number"]
+      },
+      {
+        "method": ["graphite"],
+        "transcription": [
+          {
+            "value": ["drawing of a face"]
+          }
+        ],
+        "location": ["inside folded paper mount, right side, upper centre"],
+        "type": ["mark"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-98032"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98032"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98032"],
+        "summary_title": ["print"]
+      }
+    ],
+    "department": {
+      "value": ["Paintings, Drawings and Prints"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-184405"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/184405"],
+    "object": ["object-184405"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
