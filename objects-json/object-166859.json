@@ -1,0 +1,235 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-81903"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-81903"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-81903"],
+        "summary_title": ["spoon"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["MAR.M.168-1912"],
+        "type": ["accession number"],
+        "value": ["MAR.M.168-1912"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["166859"],
+        "type": ["priref"],
+        "value": ["166859"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/166859"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/166859"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["not known before Charles Brinsley Marlay, London"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1443197947000"],
+      "id": ["object-166859"]
+    },
+    "description": [
+      {
+        "value": ["rock crystal and silver-gilt; rock crystal bowl and handle formed of two octagonal tubes and two facetted knops with silver-gilt mounts"]
+      },
+      {
+        "value": ["Rock crystal and silver-gilt; the rock crystal bowl is fig-shaped with a flat base.  The rock crystal handle is formed of two octagonal tubes and two facetted knops with engraved silver-gilt mounts and a finial formed from two balls sitting on a small calyx of leaves."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1912"],
+            "value": ["1912"],
+            "latest": ["1912"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Marlay, Charles Brinsley"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149674"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149674"],
+            "agent": ["agent-149674"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["1600"],
+              "value": ["1600"],
+              "latest": ["1600"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["1700"],
+              "value": ["1700"],
+              "latest": ["1700"]
+            },
+            "earliest": ["1600"],
+            "latest": ["1700"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["17th Century"],
+            "period": ["term-106447"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106447"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106447"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["carver"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "school_or_style": [
+      {
+        "term": ["term-8400"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-8400"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-8400"],
+        "summary_title": ["German"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Bead"],
+        "materials": [
+          {
+            "term": ["term-120487"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-120487"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-120487"],
+            "summary_title": ["rock crystal"]
+          }
+        ]
+      },
+      {
+        "name": ["Bowl"],
+        "materials": [
+          {
+            "term": ["term-120487"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-120487"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-120487"],
+            "summary_title": ["rock crystal"]
+          }
+        ]
+      },
+      {
+        "name": ["Surface Of Mount"],
+        "materials": [
+          {
+            "term": ["term-39593"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39593"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39593"],
+            "summary_title": ["gold"]
+          }
+        ]
+      },
+      {
+        "name": ["Mount"],
+        "materials": [
+          {
+            "term": ["term-39778"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39778"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39778"],
+            "summary_title": ["silver"]
+          }
+        ]
+      },
+      {
+        "name": ["Mounts"],
+        "materials": []
+      },
+      {
+        "name": ["Rock Crystal"],
+        "materials": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-81903"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-81903"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-81903"],
+        "summary_title": ["spoon"]
+      },
+      {
+        "term": ["term-81900"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-81900"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-81900"],
+        "summary_title": ["flatware"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-81891"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-81891"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-81891"],
+        "summary_title": ["cutlery"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Length"],
+          "value": ["16"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-166859"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/166859"],
+    "object": ["object-166859"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
