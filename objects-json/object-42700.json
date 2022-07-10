@@ -1,0 +1,153 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["2001"],
+            "value": ["2001-08-01"],
+            "latest": ["2001"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Lister, Raymond"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-152474"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-152474"],
+            "agent": ["agent-152474"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "era": [
+              ["CE"]
+            ],
+            "earliest": ["1989"],
+            "value": ["1989-06-09"],
+            "latest": ["1989"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Hartley, Miriam"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-156722"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-156722"],
+            "term": ["agent-156722"],
+            "role": [
+              {
+                "value": ["production"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Seascale"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-116645"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-116645"],
+            "place": ["term-116645"],
+            "coordinates": {
+              "lat": ["54.39894105"],
+              "lng": ["-3.4771675340439"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["England"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Cumbria"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["MS 15-2001"],
+        "type": ["accession number"],
+        "value": ["MS 15-2001"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["42700"],
+        "type": ["priref"],
+        "value": ["42700"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/42700"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/42700"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Lister, Raymond"]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-27007"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27007"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27007"],
+        "summary_title": ["handwriting"],
+        "descriptions": []
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1598275568000"],
+      "id": ["object-42700"]
+    },
+    "description": [
+      {
+        "value": ["A postcard from Miriam Hartley to Raymond Lister."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-102831"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-102831"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-102831"],
+        "summary_title": ["postcard"]
+      },
+      {
+        "term": ["term-117339"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117339"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-117339"],
+        "summary_title": ["archive document"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-42700"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/42700"],
+    "object": ["object-42700"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
