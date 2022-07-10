@@ -1,0 +1,162 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1996"],
+            "value": ["1996"],
+            "latest": ["1996"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Lister, Raymond"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-152474"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-152474"],
+            "agent": ["agent-152474"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "era": [
+              ["CE"]
+            ],
+            "earliest": ["1972"],
+            "value": ["1972-03-25"],
+            "latest": ["1972"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Bentley, Jerry"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-158335"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-158335"],
+            "term": ["agent-158335"],
+            "role": [
+              {
+                "value": ["author"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Toronto"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-107026"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107026"],
+            "place": ["term-107026"],
+            "coordinates": {
+              "lat": ["43.6534817"],
+              "lng": ["-79.3839347"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Canada"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["PM22-1996"],
+        "type": ["accession number"],
+        "value": ["PM22-1996"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["45517"],
+        "type": ["priref"],
+        "value": ["45517"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/45517"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/45517"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Lister, Raymond"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-106206"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106206"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106206"],
+            "summary_title": ["paper"]
+          }
+        ]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-27526"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27526"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27526"],
+        "summary_title": ["printing"],
+        "descriptions": []
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1598275846000"],
+      "id": ["object-45517"]
+    },
+    "description": [
+      {
+        "value": ["A letter from Jerry Bentley to Raymond Lister"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-106412"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106412"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106412"],
+        "summary_title": ["letter"]
+      },
+      {
+        "term": ["term-117339"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117339"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-117339"],
+        "summary_title": ["archive document"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-45517"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/45517"],
+    "object": ["object-45517"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
