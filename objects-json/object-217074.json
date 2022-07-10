@@ -1,0 +1,200 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-101415"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101415"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101415"],
+        "summary_title": ["penny"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["1960"],
+            "value": ["1960-01-14"],
+            "latest": ["1960"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Peterhouse College"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-187314"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-187314"],
+            "agent": ["agent-187314"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["899"],
+              "value": ["899"],
+              "latest": ["899"]
+            },
+            "earliest": ["899"],
+            "latest": ["899"]
+          },
+          {
+            "range": ["1"],
+            "to": {
+              "earliest": ["924"],
+              "value": ["924"],
+              "latest": ["924"]
+            },
+            "earliest": ["924"],
+            "latest": ["924"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Wessex"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-190132"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-190132"],
+            "term": ["agent-190132"],
+            "role": [
+              {
+                "value": ["production place"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.P.1-1960"],
+        "type": ["accession number"],
+        "value": ["CM.P.1-1960"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["217074"],
+        "type": ["priref"],
+        "value": ["217074"]
+      },
+      {
+        "type": ["North"],
+        "value": ["651"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/217074"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/217074"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Peterhouse 1960; Barnes 1934"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-39778"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39778"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39778"],
+            "summary_title": ["silver"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-101415"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101415"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101415"],
+        "summary_title": ["penny"]
+      },
+      {
+        "term": ["term-10603"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-10603"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-10603"],
+        "summary_title": ["Medieval"]
+      },
+      {
+        "term": ["term-14584"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-14584"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-14584"],
+        "summary_title": ["Anglo-Saxon"]
+      },
+      {
+        "term": ["term-107139"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107139"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107139"],
+        "summary_title": ["England"]
+      },
+      {
+        "term": ["term-133806"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-133806"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-133806"],
+        "summary_title": ["Portrait type"]
+      }
+    ],
+    "admin": {
+      "created": ["1405962895000"],
+      "modified": ["1552401513000"],
+      "id": ["object-217074"]
+    },
+    "inscription": [
+      {
+        "transcription": [
+          {
+            "value": ["+EADVVEãRD REX"]
+          }
+        ],
+        "location": ["obverse"],
+        "type": ["design"]
+      },
+      {
+        "transcription": [
+          {
+            "value": ["VVLF / RED MO"]
+          }
+        ],
+        "location": ["reverse"],
+        "type": ["design"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-187314"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-187314"],
+        "owner": ["agent-187314"],
+        "summary_title": ["Peterhouse College"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-217074"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/217074"],
+    "object": ["object-217074"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
