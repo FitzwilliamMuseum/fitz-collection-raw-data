@@ -1,0 +1,167 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-101418"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101418"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101418"],
+        "summary_title": ["sixpence"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-200860"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-200860"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-200860"],
+        "summary_title": ["CAMFZ"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["2016"],
+            "value": ["2016-11-21"],
+            "latest": ["2016"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Buttrey, T.V., Prof."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-196171"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-196171"],
+            "agent": ["agent-196171"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "earliest": ["1893"],
+            "value": ["1893"],
+            "latest": ["1893"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Royal Mint"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-180322"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-180322"],
+            "term": ["agent-180322"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.494-2016"],
+        "type": ["accession number"],
+        "value": ["CM.494-2016"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["243055"],
+        "type": ["priref"],
+        "value": ["243055"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/243055"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/243055"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-39778"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39778"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39778"],
+            "summary_title": ["silver"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-101418"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101418"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101418"],
+        "summary_title": ["sixpence"]
+      },
+      {
+        "term": ["term-115357"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-115357"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-115357"],
+        "summary_title": ["United Kingdom"]
+      }
+    ],
+    "admin": {
+      "created": ["1597679998000"],
+      "modified": ["1626868407000"],
+      "id": ["object-243055"]
+    },
+    "inscription": [
+      {
+        "transcription": [
+          {
+            "value": ["VICTORIA DEI GRATIA BRITT REGINA F D"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Jubilee Head. Crowned, draped bust left."]
+          }
+        ],
+        "location": ["obverse"],
+        "type": ["design"]
+      },
+      {
+        "transcription": [
+          {
+            "value": ["SIX PENCE 1893"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Inscription, crowned, within oak wreath. Date below."]
+          }
+        ],
+        "location": ["reverse"],
+        "type": ["design"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-243055"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/243055"],
+    "object": ["object-243055"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
