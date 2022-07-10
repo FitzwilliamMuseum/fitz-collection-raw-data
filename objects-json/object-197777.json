@@ -1,0 +1,352 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-119363"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119363"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119363"],
+        "summary_title": ["trihemiobol"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["CM.178-2013"],
+        "type": ["accession number"],
+        "value": ["CM.178-2013"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["197777"],
+        "type": ["priref"],
+        "value": ["197777"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/197777"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/197777"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["From Romanorum List 1, February 2013, lot 3."]
+      }
+    ],
+    "admin": {
+      "created": ["1397234365000"],
+      "modified": ["1397234367000"],
+      "id": ["object-197777"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["2013"],
+            "value": ["2013-04-29"],
+            "latest": ["2013"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Shillam, Matthew and Katrina"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-187054"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-187054"],
+            "agent": ["agent-187054"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["500"],
+              "value": ["500"],
+              "latest": ["500"]
+            },
+            "to": {
+              "precision": ["circa"],
+              "earliest": ["463"],
+              "value": ["463"],
+              "latest": ["463"]
+            },
+            "earliest": ["500"],
+            "latest": ["463"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Thasos"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-170175"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-170175"],
+            "term": ["agent-170175"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-39778"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39778"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39778"],
+            "summary_title": ["silver"]
+          }
+        ]
+      }
+    ],
+    "multimedia": [
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616248686150"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm48/preview_cm_178_2013_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["263"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616248686150"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm48/cm_178_2013_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["1232"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["1171"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616248686150"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm48/large_cm_178_2013_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["1077"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["1024"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616248686150"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm48/mid_cm_178_2013_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["526"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616250045687"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm48/preview_cm_178_2013_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["257"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616250045687"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm48/cm_178_2013_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["1146"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["1116"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616250045687"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm48/large_cm_178_2013_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["1052"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["1024"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616250045687"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm48/mid_cm_178_2013_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["513"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-119363"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119363"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119363"],
+        "summary_title": ["trihemiobol"]
+      },
+      {
+        "term": ["term-12401"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12401"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-12401"],
+        "summary_title": ["Greek"]
+      },
+      {
+        "term": ["term-119347"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119347"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119347"],
+        "summary_title": ["Thrace"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "publications": [
+      {
+        "term": ["publication-7589"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-7589"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-7589"],
+        "summary_title": ["Sylloge nummorum Graecorum : Italia, Milano, Civiche Raccolte Numismatiche. Volume VI, Macedonia - Thracia 3. Chersonesus Tauricus - Sarmatis - Thracia - Chersonesus Thraciae - Isole della Thracia"],
+        "page": ["56"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-197777"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/197777"],
+    "object": ["object-197777"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
