@@ -1,0 +1,307 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-90855"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-90855"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-90855"],
+        "summary_title": ["dish"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["C.199-1928"],
+        "type": ["accession number"],
+        "value": ["C.199-1928"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["72938"],
+        "type": ["priref"],
+        "value": ["72938"]
+      },
+      {
+        "source": ["Glaisher MS Catalogue, vol. 35"],
+        "type": ["old object number"],
+        "value": ["4991"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/72938"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/72938"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1612875417000"],
+      "id": ["object-72938"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1928"],
+            "value": ["1928"],
+            "latest": ["1928"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Glaisher, J. W. L., Dr"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-152564"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-152564"],
+            "agent": ["agent-152564"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["1725"],
+              "value": ["1725"],
+              "latest": ["1725"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["1775"],
+              "value": ["1775"],
+              "latest": ["1775"]
+            },
+            "earliest": ["1725"],
+            "latest": ["1775"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Clifton"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-131140"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-131140"],
+            "place": ["term-131140"],
+            "coordinates": {
+              "lat": ["40.8584328"],
+              "lng": ["-74.1637553"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["England"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Cumbria"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "component": [
+      {
+        "name": ["Front"],
+        "materials": [
+          {
+            "term": ["term-107733"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107733"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107733"],
+            "summary_title": ["lead-glaze"]
+          }
+        ]
+      },
+      {
+        "name": ["Decoration"],
+        "materials": [
+          {
+            "term": ["term-34794"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-34794"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-34794"],
+            "summary_title": ["slip"]
+          }
+        ]
+      }
+    ],
+    "multimedia": [
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616260796862"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa7/preview_C_199_1928.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["325"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616260796862"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa7/C_199_1928.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["740"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["570"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616260796862"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa7/C_199_1928.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["740"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["570"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616260796862"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa7/mid_C_199_1928.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["649"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-120085"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-120085"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-120085"],
+        "summary_title": ["press-moulding"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-90855"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-90855"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-90855"],
+        "summary_title": ["dish"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-108657"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-108657"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-108657"],
+        "summary_title": ["lead-glazed earthenware"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Diameter"],
+          "value": ["39.3"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-1031"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-1031"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-1031"],
+        "summary_title": ["Catalogue of the Glaisher Collection of Pottery and Porcelain in the Fitzwilliam Museum Cambridge"],
+        "page": ["34"],
+        "notes": ["Publ. Vol. I, p. 34, no. 199"]
+      },
+      {
+        "term": ["publication-200002960"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-200002960"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-200002960"],
+        "summary_title": ["Burslem Potters in Cumbria Around 1700"],
+        "page": ["30-34"],
+        "notes": ["Publ. p. 33, fig. 7. Cf. A dish in the British Museum, p. 32, figs. 3 and 4.  Attributed to Clifton or nearby by Stephen Shaw, c. 1725."]
+      },
+      {
+        "term": ["publication-7711"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-7711"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-7711"],
+        "summary_title": ["Good European Ceramics & Glass"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-72938"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/72938"],
+    "object": ["object-72938"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

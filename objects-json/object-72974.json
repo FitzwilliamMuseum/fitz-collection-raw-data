@@ -1,0 +1,292 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-91165"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-91165"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-91165"],
+        "summary_title": ["cup"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["C.2 & A-1909"],
+        "type": ["accession number"],
+        "value": ["C.2 & A-1909"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["72974"],
+        "type": ["priref"],
+        "value": ["72974"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/72974"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/72974"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1626797431000"],
+      "id": ["object-72974"]
+    },
+    "description": [
+      {
+        "value": ["Hard-paste porcelain cup and saucer. With moulded decoration and an iridescent pearl like glaze."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1909"],
+            "value": ["1909-05"],
+            "latest": ["1905"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Sayle, Charles Edward"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149971"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149971"],
+            "agent": ["agent-149971"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["1891"],
+              "value": ["1891"],
+              "latest": ["1891"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["1904"],
+              "value": ["1904"],
+              "latest": ["1904"]
+            },
+            "earliest": ["1891"],
+            "latest": ["1904"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["End of 19th century to beginning of the 20th century"],
+            "period": ["term-121391"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-121391"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-121391"]
+          },
+          {
+            "summary_title": ["Victorian"],
+            "period": ["term-15214"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-15214"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-15214"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["The Belleek Pottery Ltd"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-166121"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-166121"],
+            "term": ["agent-166121"],
+            "role": [
+              {
+                "value": ["factory"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Fermanagh"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-117209"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117209"],
+            "place": ["term-117209"],
+            "coordinates": {
+              "lat": ["-33.03162945"],
+              "lng": ["148.08213185"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Ireland"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "component": [
+      {
+        "name": ["Saucer"],
+        "materials": []
+      },
+      {
+        "name": ["Cup"],
+        "materials": []
+      }
+    ],
+    "multimedia": [
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616277185706"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa3/preview_C_2_20_26_20A_1909.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["181"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616277185706"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa3/C_2_20_26_20A_1909.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["550"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["760"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616277185706"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa3/C_2_20_26_20A_1909.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["550"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["760"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616277185706"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa3/mid_C_2_20_26_20A_1909.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["362"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-27616"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27616"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27616"],
+        "summary_title": ["glazing (coating)"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-91165"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-91165"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-91165"],
+        "summary_title": ["cup"]
+      },
+      {
+        "term": ["term-91594"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-91594"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-91594"],
+        "summary_title": ["saucer"]
+      },
+      {
+        "value": ["cup and saucer"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-37627"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-37627"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-37627"],
+        "summary_title": ["hard-paste porcelain"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-72974"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/72974"],
+    "object": ["object-72974"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

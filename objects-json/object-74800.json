@@ -1,0 +1,267 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-27402"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27402"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27402"],
+        "summary_title": ["fragment"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1964"],
+            "value": ["1964-03-12"],
+            "latest": ["1964"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Rackham, Bernard"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-152751"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-152751"],
+            "agent": ["agent-152751"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["1700"],
+              "value": ["1700"],
+              "latest": ["1700"]
+            },
+            "to": {
+              "earliest": ["1730"],
+              "value": ["1730"],
+              "latest": ["1730"]
+            },
+            "earliest": ["1700"],
+            "latest": ["1730"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["early 18th Century"],
+            "period": ["term-106655"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106655"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106655"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unidentified Lambeth Pottery"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-188412"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-188412"],
+            "term": ["agent-188412"],
+            "role": [
+              {
+                "value": ["production"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["London"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106216"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106216"],
+            "place": ["term-106216"],
+            "coordinates": {
+              "lat": ["51.5073219"],
+              "lng": ["-0.1276474"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["England"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["C.4.12-1964"],
+        "type": ["accession number"],
+        "value": ["C.4.12-1964"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["74800"],
+        "type": ["priref"],
+        "value": ["74800"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/74800"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/74800"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Found in central London (outside the City boundary) and given by G.F. Lawrence of Wandsworth to Bernard Rackham (1876-1964)"]
+      }
+    ],
+    "multimedia": [
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616282736835"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa10/preview_C_4_12_1964.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["181"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616282736835"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa10/C_4_12_1964.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["550"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["760"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616282736835"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa10/C_4_12_1964.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["550"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["760"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616282736835"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa10/mid_C_4_12_1964.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["362"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-27402"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27402"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27402"],
+        "summary_title": ["fragment"]
+      },
+      {
+        "value": ["sherd"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1519743201000"],
+      "id": ["object-74800"]
+    },
+    "description": [
+      {
+        "value": ["buff earthenware tin-glazed on both sides and painted in blue, green and red. Roughly oblong with five sides of irregular lengths, possibly from the rim of a dish. the decoration comprises part of two blue circles, a space, another blue circle, a narrow space, a red circle, a narrow space, a wider green circle, and a blue circle."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-108348"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-108348"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-108348"],
+        "summary_title": ["tin-glazed earthenware"]
+      },
+      {
+        "term": ["term-110399"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110399"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110399"],
+        "summary_title": ["English delftware"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-74800"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/74800"],
+    "object": ["object-74800"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

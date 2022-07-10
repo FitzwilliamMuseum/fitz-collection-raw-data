@@ -1,0 +1,378 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-107454"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107454"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107454"],
+        "summary_title": ["figure"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["C.30-1930"],
+        "type": ["accession number"],
+        "value": ["C.30-1930"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["74319"],
+        "type": ["priref"],
+        "value": ["74319"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/74319"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/74319"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1467373309000"],
+      "id": ["object-74319"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["The Sweep"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1930"],
+            "value": ["1930"],
+            "latest": ["1930"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Dickson, W. D. (Frances Louisa), Mrs"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-180712"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-180712"],
+            "agent": ["agent-180712"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["1783"],
+              "value": ["1783"],
+              "latest": ["1783"]
+            },
+            "to": {
+              "precision": ["circa"],
+              "earliest": ["1800"],
+              "value": ["1800"],
+              "latest": ["1800"]
+            },
+            "earliest": ["1783"],
+            "latest": ["1800"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["18th century"],
+            "period": ["term-106400"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106400"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106400"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Wood, Ralph, II"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-167262"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-167262"],
+            "term": ["agent-167262"],
+            "role": [
+              {
+                "value": ["potter"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Burslem"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-108171"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-108171"],
+            "place": ["term-108171"],
+            "coordinates": {
+              "lat": ["53.0446287"],
+              "lng": ["-2.1928235"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["England"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Staffordshire"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "multimedia": [
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616272253053"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa8/preview_C_30_1930_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["325"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616272253053"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa8/C_30_1930_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["740"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["570"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616272253053"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa8/C_30_1930_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["740"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["570"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616272253053"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa8/mid_C_30_1930_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["649"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616269100048"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa8/preview_C_30_1930_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["325"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616269100048"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa8/C_30_1930_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["740"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["570"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616269100048"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa8/C_30_1930_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["740"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["570"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616269100048"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa8/mid_C_30_1930_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["649"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-107605"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107605"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107605"],
+        "summary_title": ["lead-glazed"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-107454"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107454"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107454"],
+        "summary_title": ["figure"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-108657"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-108657"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-108657"],
+        "summary_title": ["lead-glazed earthenware"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Height"],
+          "value": ["17.1"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Width"],
+          "value": ["5.7"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-200002847"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-200002847"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-200002847"],
+        "summary_title": ["Staffordshire Pottery Figures"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-74319"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/74319"],
+    "object": ["object-74319"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
