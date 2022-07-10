@@ -1,0 +1,166 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-110078"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110078"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110078"],
+        "summary_title": ["column"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1900"],
+            "value": ["1900"],
+            "latest": ["1900"]
+          }
+        ]
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Abydos Egypt"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-112047"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-112047"],
+            "coordinates": {
+              "lat": ["26.76246285"],
+              "lng": ["32.090993613434"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["BC"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["1878"],
+              "value": ["-1878"],
+              "latest": ["1878"]
+            },
+            "to": {
+              "era": [
+                ["BC"]
+              ],
+              "earliest": ["1841"],
+              "value": ["-1841"],
+              "latest": ["1841"]
+            },
+            "earliest": ["1878"],
+            "latest": ["1841"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Twelfth Dynasty"],
+            "period": ["term-12465"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-12465"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12465"]
+          },
+          {
+            "summary_title": ["Middle Kingdom"],
+            "period": ["term-12462"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-12462"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12462"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["E.202.1900"],
+        "type": ["accession number"],
+        "value": ["E.202.1900"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["50218"],
+        "type": ["priref"],
+        "value": ["50218"]
+      },
+      {
+        "type": ["oldadmincategory"],
+        "value": ["SS"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/50218"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/50218"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-110078"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110078"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110078"],
+        "summary_title": ["column"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1621011895000"],
+      "id": ["object-50218"]
+    },
+    "description": [
+      {
+        "value": ["column fragment, with cartouche of Senwosret III"]
+      }
+    ],
+    "inscription": [
+      {
+        "transcription": [
+          {
+            "value": ["xa-kAw ..."]
+          }
+        ],
+        "type": ["inscription"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-43046"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-43046"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-43046"],
+        "summary_title": ["architectural element"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.14"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.24"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-50218"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/50218"],
+    "object": ["object-50218"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

@@ -1,0 +1,151 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-110846"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110846"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110846"],
+        "summary_title": ["reel"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1891"],
+            "value": ["1891"],
+            "latest": ["1891"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Chester, Rev. Greville J."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159667"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159667"],
+            "agent": ["agent-159667"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Italy"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106629"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106629"],
+            "coordinates": {
+              "lat": ["42.6384261"],
+              "lng": ["12.674297"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "places": [
+          {
+            "summary_title": ["Chiusi"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-132798"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-132798"],
+            "place": ["term-132798"],
+            "coordinates": {
+              "lat": ["43.0160467"],
+              "lng": ["11.947524"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Italy"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Etruria"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["E.130.1891"],
+        "type": ["accession number"],
+        "value": ["E.130.1891"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["49342"],
+        "type": ["priref"],
+        "value": ["49342"]
+      },
+      {
+        "type": ["oldadmincategory"],
+        "value": ["P"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/49342"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/49342"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-110846"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110846"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110846"],
+        "summary_title": ["reel"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1337012141000"],
+      "id": ["object-49342"]
+    },
+    "description": [
+      {
+        "value": ["reel ?"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-110834"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110834"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110834"],
+        "summary_title": ["miscellaneous equipment"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Length"],
+          "value": ["0.068"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-4057"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-4057"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-4057"],
+        "summary_title": ["Catalogue of the Egyptian collection in the Fitzwilliam Museum, Cambridge"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-49342"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/49342"],
+    "object": ["object-49342"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
