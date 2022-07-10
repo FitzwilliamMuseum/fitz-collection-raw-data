@@ -1,0 +1,189 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-106226"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106226"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106226"],
+        "summary_title": ["painting"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["PD.12-1981"],
+        "type": ["accession number"],
+        "value": ["PD.12-1981"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["2753"],
+        "type": ["priref"],
+        "value": ["2753"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/2753"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/2753"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1596468620000"],
+      "id": ["object-2753"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "title": [
+      {
+        "translation": [
+          {
+            "value": ["The tortoise, 1940"]
+          }
+        ],
+        "value": ["La Torture, 1940"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1981"],
+            "value": ["1981"],
+            "latest": ["1981"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Leeb, Nat"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-77750"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-77750"],
+            "agent": ["agent-77750"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "earliest": ["1940"],
+            "value": ["1940"],
+            "latest": ["1940"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Leeb, Nat"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-77750"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-77750"],
+            "term": ["agent-77750"],
+            "role": [
+              {
+                "value": ["painter"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-39136"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39136"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39136"],
+            "summary_title": ["canvas"]
+          }
+        ]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-106211"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106211"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106211"],
+        "summary_title": ["watercolour"],
+        "descriptions": [
+          {
+            "description": ["oil and gouache/ tempera on canvas"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-106226"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106226"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106226"],
+        "summary_title": ["painting"]
+      }
+    ],
+    "inscription": [
+      {
+        "transcription": [
+          {
+            "value": ["Leeb"]
+          }
+        ],
+        "location": ["lower right"],
+        "type": ["signature"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-106226"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106226"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106226"],
+        "summary_title": ["painting"]
+      }
+    ],
+    "department": {
+      "value": ["Paintings, Drawings and Prints"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Height"],
+          "value": ["46"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Width"],
+          "value": ["38"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-556"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-556"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-556"],
+        "summary_title": ["Nat Leeb"],
+        "page": ["60"],
+        "notes": ["reproduced opp., exhibition catalogue"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-2753"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/2753"],
+    "object": ["object-2753"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

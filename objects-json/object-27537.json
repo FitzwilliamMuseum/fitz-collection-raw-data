@@ -1,0 +1,238 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-107454"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107454"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107454"],
+        "summary_title": ["figure"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["C/G.1.12-1928"],
+        "type": ["accession number"],
+        "value": ["C/G.1.12-1928"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["27537"],
+        "type": ["priref"],
+        "value": ["27537"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/27537"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/27537"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1534258473000"],
+      "id": ["object-27537"]
+    },
+    "description": [
+      {
+        "value": ["Figure of a saint (?) holding lilies, lampworked in white, blue, yellow and black glass."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1928"],
+            "value": ["1928-12-07"],
+            "latest": ["1928"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Glaisher, J. W. L., Dr"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-152564"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-152564"],
+            "agent": ["agent-152564"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["1750"],
+              "value": ["1750"],
+              "latest": ["1750"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["1799"],
+              "value": ["1799"],
+              "latest": ["1799"]
+            },
+            "earliest": ["1750"],
+            "latest": ["1799"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["second half of 18th century"],
+            "period": ["term-121186"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-121186"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-121186"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Haly Workshop"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-188507"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-188507"],
+            "term": ["agent-188507"],
+            "role": [
+              {
+                "value": ["glassmaker"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Nevers"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-109937"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-109937"],
+            "place": ["term-109937"],
+            "coordinates": {
+              "lat": ["46.9876601"],
+              "lng": ["3.1577203"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["France"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "component": [
+      {
+        "name": ["Parts"],
+        "materials": [
+          {
+            "term": ["term-109823"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-109823"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-109823"],
+            "summary_title": ["blue glass"]
+          },
+          {
+            "term": ["term-109859"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-109859"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-109859"],
+            "summary_title": ["white glass"]
+          },
+          {
+            "term": ["term-109893"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-109893"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-109893"],
+            "summary_title": ["black glass"]
+          },
+          {
+            "term": ["term-109894"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-109894"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-109894"],
+            "summary_title": ["yellow glass"]
+          }
+        ]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-28280"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-28280"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-28280"],
+        "summary_title": ["lampworking"],
+        "descriptions": [
+          {
+            "description": ["lampworked yellow, blue, white and black glass"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-107454"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107454"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107454"],
+        "summary_title": ["figure"]
+      },
+      {
+        "term": ["term-28280"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-28280"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-28280"],
+        "summary_title": ["lampworking"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-91170"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-91170"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-91170"],
+        "summary_title": ["glass"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "publications": [
+      {
+        "term": ["publication-200000734"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-200000734"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-200000734"],
+        "summary_title": ["Le Verre Filé, A Propos d'une Crèche"],
+        "page": ["pp. 294-310"],
+        "notes": ["Cf. pp. 294-310"]
+      },
+      {
+        "term": ["publication-200002831"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-200002831"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-200002831"],
+        "summary_title": ["French Glass in the British Museum Collection"]
+      },
+      {
+        "term": ["publication-8403"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-8403"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-8403"],
+        "summary_title": ["Venezianisches Glas der Veste Coburg. Die Sammlung Herzog Alfreds von Sachsen-Coburg und Gotha (1844-1900)"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-27537"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/27537"],
+    "object": ["object-27537"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
