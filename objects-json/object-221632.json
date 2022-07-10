@@ -1,0 +1,147 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-111005"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111005"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-111005"],
+        "summary_title": ["toy doll"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1946"],
+            "value": ["1946-11-01"],
+            "latest": ["1946"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Wace, A. J. B., Professor"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159474"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159474"],
+            "agent": ["agent-159474"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["1800"],
+              "value": ["1800"],
+              "latest": ["1800"]
+            },
+            "to": {
+              "earliest": ["1899"],
+              "value": ["1899"],
+              "latest": ["1899"]
+            },
+            "earliest": ["1800"],
+            "latest": ["1899"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["19th century"],
+            "period": ["term-106853"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106853"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106853"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["maker"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["T.167-1946"],
+        "type": ["accession number"],
+        "value": ["T.167-1946"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["221632"],
+        "type": ["priref"],
+        "value": ["221632"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/221632"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/221632"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-111005"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111005"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-111005"],
+        "summary_title": ["toy doll"]
+      }
+    ],
+    "admin": {
+      "created": ["1500652921000"],
+      "modified": ["1508251686000"],
+      "id": ["object-221632"]
+    },
+    "description": [
+      {
+        "value": ["Mechanical doll"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-107454"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107454"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107454"],
+        "summary_title": ["figure"]
+      },
+      {
+        "term": ["term-42576"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-42576"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-42576"],
+        "summary_title": ["textiles"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-221632"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/221632"],
+    "object": ["object-221632"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

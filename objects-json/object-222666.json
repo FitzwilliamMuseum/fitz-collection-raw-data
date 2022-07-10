@@ -1,0 +1,173 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-118684"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-118684"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-118684"],
+        "summary_title": ["stole"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1928"],
+            "value": ["1928"],
+            "latest": ["1928"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Fordham, Ernest O"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-198038"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-198038"],
+            "agent": ["agent-198038"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["1600"],
+              "value": ["1600"],
+              "latest": ["1600"]
+            },
+            "to": {
+              "earliest": ["1699"],
+              "value": ["1699"],
+              "latest": ["1699"]
+            },
+            "earliest": ["1600"],
+            "latest": ["1699"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["17th Century"],
+            "period": ["term-106447"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106447"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106447"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["maker"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Sicily"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-107491"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107491"],
+            "place": ["term-107491"],
+            "coordinates": {
+              "lat": ["37.587794"],
+              "lng": ["14.155048"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Italy"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["T.190B-1928"],
+        "type": ["accession number"],
+        "value": ["T.190B-1928"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["222666"],
+        "type": ["priref"],
+        "value": ["222666"]
+      },
+      {
+        "source": ["The Fitzwilliam Museum"],
+        "type": ["old object number"],
+        "value": ["T.1B-1928"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/222666"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/222666"]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-29899"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-29899"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-29899"],
+        "summary_title": ["embroidering"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-118684"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-118684"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-118684"],
+        "summary_title": ["stole"]
+      }
+    ],
+    "admin": {
+      "created": ["1507212030000"],
+      "modified": ["1508242259000"],
+      "id": ["object-222666"]
+    },
+    "description": [
+      {
+        "value": ["pure silk embroidered with gold and silver metal thread."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-42576"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-42576"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-42576"],
+        "summary_title": ["textiles"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-222666"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/222666"],
+    "object": ["object-222666"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

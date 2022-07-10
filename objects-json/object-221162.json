@@ -1,0 +1,169 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-101415"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101415"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101415"],
+        "summary_title": ["penny"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bought"],
+        "date": [
+          {
+            "earliest": ["2015"],
+            "value": ["2015-04-27"],
+            "latest": ["2015"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Dix Noonan Webb"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-189592"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-189592"],
+            "agent": ["agent-189592"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["1272"],
+              "value": ["1272"],
+              "latest": ["1272"]
+            },
+            "earliest": ["1272"],
+            "latest": ["1272"]
+          },
+          {
+            "range": ["1"],
+            "to": {
+              "earliest": ["1307"],
+              "value": ["1307"],
+              "latest": ["1307"]
+            },
+            "earliest": ["1307"],
+            "latest": ["1307"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Edward I (1272-1307)"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-178247"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-178247"],
+            "term": ["agent-178247"],
+            "role": [
+              {
+                "value": ["ruler"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.1631-2015"],
+        "type": ["accession number"],
+        "value": ["CM.1631-2015"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["221162"],
+        "type": ["priref"],
+        "value": ["221162"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/221162"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/221162"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["ex Dix Noonan Webb auction 11 February 2015, lot 301; ex Jim Sazama; ex EBay August 2010."]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-39778"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39778"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39778"],
+            "summary_title": ["silver"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-101415"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101415"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101415"],
+        "summary_title": ["penny"]
+      },
+      {
+        "term": ["term-42759"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-42759"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-42759"],
+        "summary_title": ["counterfeit"]
+      },
+      {
+        "term": ["term-10603"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-10603"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-10603"],
+        "summary_title": ["Medieval"]
+      }
+    ],
+    "admin": {
+      "created": ["1437486081000"],
+      "modified": ["1499095142000"],
+      "id": ["object-221162"]
+    },
+    "description": [
+      {
+        "value": ["Contemporary base silver counterfeit of Edward I penny."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-221162"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/221162"],
+    "object": ["object-221162"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

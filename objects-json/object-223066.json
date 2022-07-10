@@ -1,0 +1,158 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-119511"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119511"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119511"],
+        "summary_title": ["Roman Provincial"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["1976"],
+            "value": ["1976"],
+            "latest": ["1976"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Burkitt, M.I., Mrs"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159592"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159592"],
+            "agent": ["agent-159592"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["166"],
+              "value": ["166"],
+              "latest": ["166"]
+            },
+            "to": {
+              "earliest": ["177"],
+              "value": ["177"],
+              "latest": ["177"]
+            },
+            "earliest": ["166"],
+            "latest": ["177"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Philadelphia"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-151557"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-151557"],
+            "term": ["agent-151557"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Philadelphia"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-129617"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-129617"],
+            "place": ["term-129617"],
+            "coordinates": {
+              "lat": ["39.9527237"],
+              "lng": ["-75.1635262"]
+            }
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.BU.813-R"],
+        "type": ["accession number"],
+        "value": ["CM.BU.813-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["223066"],
+        "type": ["priref"],
+        "value": ["223066"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/223066"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/223066"]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-119622"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119622"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119622"],
+        "summary_title": ["struck"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-119511"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119511"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119511"],
+        "summary_title": ["Roman Provincial"]
+      }
+    ],
+    "admin": {
+      "created": ["1512573829000"],
+      "modified": ["1512574415000"],
+      "id": ["object-223066"]
+    },
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["g"],
+          "dimension": ["Weight"],
+          "value": ["4.72"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-6905"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-6905"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-6905"],
+        "summary_title": ["The coins of the Decapolis and Provincia Arabia"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-223066"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/223066"],
+    "object": ["object-223066"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

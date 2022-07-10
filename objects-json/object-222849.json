@@ -1,0 +1,177 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-119511"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119511"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119511"],
+        "summary_title": ["Roman Provincial"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["1976"],
+            "value": ["1976"],
+            "latest": ["1976"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Burkitt, M.I., Mrs"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159592"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159592"],
+            "agent": ["agent-159592"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "note": [
+              {
+                "value": ["Reign of Augustus"]
+              }
+            ],
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["BCE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["2701"],
+              "value": ["-27"],
+              "latest": ["2800"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["1401"],
+              "value": ["14"],
+              "latest": ["1500"]
+            },
+            "earliest": ["2701"],
+            "latest": ["1500"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Colonia Patricia"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-174903"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-174903"],
+            "term": ["agent-174903"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Córdoba"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-122363"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-122363"],
+            "place": ["term-122363"],
+            "coordinates": {
+              "lat": ["37.8845813"],
+              "lng": ["-4.7760138"]
+            }
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.BU.978-R"],
+        "type": ["accession number"],
+        "value": ["CM.BU.978-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["222849"],
+        "type": ["priref"],
+        "value": ["222849"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/222849"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/222849"]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-119622"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119622"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119622"],
+        "summary_title": ["struck"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-119511"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119511"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119511"],
+        "summary_title": ["Roman Provincial"]
+      }
+    ],
+    "admin": {
+      "created": ["1511523013000"],
+      "modified": ["1511523395000"],
+      "id": ["object-222849"]
+    },
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["g"],
+          "dimension": ["Weight"],
+          "value": ["2.797"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-3905"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-3905"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-3905"],
+        "summary_title": ["Roman Provincial Coinage"]
+      },
+      {
+        "term": ["publication-7242"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-7242"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-7242"],
+        "summary_title": ["Corpus Nummum Hispaniae Ante Augusti Aetatem"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-222849"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/222849"],
+    "object": ["object-222849"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

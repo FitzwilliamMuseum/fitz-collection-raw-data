@@ -1,0 +1,173 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["unknown"],
+        "date": [
+          {
+            "earliest": ["1999"],
+            "value": ["1999"],
+            "latest": ["1999"]
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "era": [
+              ["CE"]
+            ],
+            "earliest": ["1999"],
+            "value": ["1999"],
+            "latest": ["1999"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Whittington Press"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-160618"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-160618"],
+            "term": ["agent-160618"],
+            "role": [
+              {
+                "value": ["printer"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["London"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106216"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106216"],
+            "place": ["term-106216"],
+            "coordinates": {
+              "lat": ["51.5073219"],
+              "lng": ["-0.1276474"]
+            }
+          },
+          {
+            "summary_title": ["Risbury"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-115868"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-115868"],
+            "place": ["term-115868"],
+            "coordinates": {
+              "lat": ["52.1920077"],
+              "lng": ["-2.6614681"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["England"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["PB 6-2015"],
+        "type": ["accession number"],
+        "value": ["PB 6-2015"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["222737"],
+        "type": ["priref"],
+        "value": ["222737"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/222737"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/222737"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-106206"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106206"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106206"],
+            "summary_title": ["paper"]
+          }
+        ]
+      },
+      {
+        "name": ["Illustrations"],
+        "materials": []
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-26853"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-26853"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-26853"],
+        "summary_title": ["chine collé"],
+        "descriptions": []
+      },
+      {
+        "term": ["term-27526"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27526"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27526"],
+        "summary_title": ["printing"],
+        "descriptions": []
+      },
+      {
+        "term": ["term-29420"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-29420"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-29420"],
+        "summary_title": ["mezzotint"],
+        "descriptions": []
+      }
+    ],
+    "admin": {
+      "created": ["1508947712000"],
+      "modified": ["1569861090000"],
+      "id": ["object-222737"]
+    },
+    "description": [
+      {
+        "value": ["\"350 copies set in 12-point Monotype Caslon and printed at Whittington for Harold Smith on Sommerville Laid paper, & bound in Morris 'Willow' pattern paper. May Day 1999\"--Colophon.\nSigned by the author.\nIncludes bibliographical references (pages 25-26)."]
+      },
+      {
+        "value": ["Nine Elms series on the Arts and Crafts Movement."]
+      },
+      {
+        "value": ["26 pages ; 27 cm."]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-102154"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-102154"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-102154"],
+        "summary_title": ["book"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["Walter Crane and the rhetoric of art"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-222737"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/222737"],
+    "object": ["object-222737"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
