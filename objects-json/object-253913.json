@@ -1,0 +1,90 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["2020"],
+            "value": ["2020-10-28"],
+            "latest": ["2020"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Trinity College, Cambridge"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-169619"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-169619"],
+            "agent": ["agent-169619"]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["Loan.mss.tr.214.bb.01.2"],
+        "type": ["accession number"],
+        "value": ["Loan.mss.tr.214.bb.01.2"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["253913"],
+        "type": ["priref"],
+        "value": ["253913"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/253913"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/253913"]
+      }
+    ],
+    "admin": {
+      "created": ["1603382508000"],
+      "modified": ["1605180952000"],
+      "id": ["object-253913"]
+    },
+    "description": [
+      {
+        "value": ["214.bb.01.2"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-169619"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-169619"],
+        "owner": ["agent-169619"],
+        "summary_title": ["Trinity College, Cambridge"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-106246"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106246"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106246"],
+        "summary_title": ["box"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "title": [
+      {
+        "value": ["Box for Mayatt, facsimile of La prose du Transsiberien.  2018"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-253913"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/253913"],
+    "object": ["object-253913"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
