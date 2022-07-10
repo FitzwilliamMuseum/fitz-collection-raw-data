@@ -1,0 +1,422 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-101403"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101403"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101403"],
+        "summary_title": ["halfpenny"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["CM.TR.1378-R"],
+        "type": ["accession number"],
+        "value": ["CM.TR.1378-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["164318"],
+        "type": ["priref"],
+        "value": ["164318"]
+      },
+      {
+        "type": ["Dalton & Hamer"],
+        "value": ["486"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/164318"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/164318"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1599485735000"],
+      "id": ["object-164318"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-169619"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-169619"],
+        "owner": ["agent-169619"],
+        "summary_title": ["Trinity College, Cambridge"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["1958"],
+            "value": ["1958-01-16"],
+            "latest": ["1958"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Trinity College, Cambridge"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-169619"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-169619"],
+            "agent": ["agent-169619"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["uncertain"],
+              "earliest": ["1787"],
+              "value": ["1787"],
+              "latest": ["1787"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["uncertain"],
+              "earliest": ["1805"],
+              "value": ["1805"],
+              "latest": ["1805"]
+            },
+            "earliest": ["1787"],
+            "latest": ["1805"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Skidmore, John"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-176814"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-176814"],
+            "term": ["agent-176814"],
+            "role": [
+              {
+                "value": ["manufacturer"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Salisbury"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-107119"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107119"],
+            "place": ["term-107119"],
+            "coordinates": {
+              "lat": ["51.0690613"],
+              "lng": ["-1.7954134"]
+            },
+            "note": ["place of issue (inferred)"]
+          }
+        ]
+      }
+    },
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-39588"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39588"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39588"],
+            "summary_title": ["copper"]
+          }
+        ]
+      }
+    ],
+    "multimedia": [
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616285866174"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm22/preview_CM_TR_1378_R_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["247"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616285866174"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm22/CM_TR_1378_R_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["356"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["360"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616285866174"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm22/CM_TR_1378_R_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["356"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["360"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616285866174"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm22/CM_TR_1378_R_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["356"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["360"]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616240230980"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm22/preview_CM_TR_1378_R_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["248"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616240230980"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm22/CM_TR_1378_R_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["357"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["360"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616240230980"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm22/CM_TR_1378_R_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["357"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["360"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616240230980"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm22/CM_TR_1378_R_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["357"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["360"]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-101403"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101403"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101403"],
+        "summary_title": ["halfpenny"]
+      },
+      {
+        "term": ["term-100890"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100890"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100890"],
+        "summary_title": ["tokens"]
+      },
+      {
+        "term": ["term-124921"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-124921"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-124921"],
+        "summary_title": ["18th-century Tokens"]
+      },
+      {
+        "term": ["term-110773"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110773"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110773"],
+        "summary_title": ["Middlesex"]
+      },
+      {
+        "term": ["term-126886"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-126886"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-126886"],
+        "summary_title": ["Skidmore"]
+      }
+    ],
+    "inscription": [
+      {
+        "transcription": [
+          {
+            "value": ["PAYABLE AT SKIDMORE'S FURNISHING REPOSITORY * // No 123 / HIGH / HOLBORN / LONDON"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Register stove with inscription on all four sides in a circle without which border carrying legend"]
+          }
+        ],
+        "location": ["obverse"],
+        "type": ["design"]
+      },
+      {
+        "transcription": [
+          {
+            "value": ["PAYABLE AT SAlISBURY"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Bust of General Elliot left"]
+          }
+        ],
+        "location": ["reverse"],
+        "type": ["design"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100819"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100819"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100819"],
+        "summary_title": ["token"]
+      },
+      {
+        "term": ["term-137021"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-137021"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-137021"],
+        "summary_title": ["18th-century token"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["mm"],
+          "dimension": ["Image(height)"],
+          "value": ["29.17"]
+        },
+        {
+          "units": ["mm"],
+          "dimension": ["Image(width)"],
+          "value": ["29.92"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-164318"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/164318"],
+    "object": ["object-164318"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

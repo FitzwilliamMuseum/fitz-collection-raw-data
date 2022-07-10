@@ -1,0 +1,242 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-81903"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-81903"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-81903"],
+        "summary_title": ["spoon"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["MAR.M.116-1912"],
+        "type": ["accession number"],
+        "value": ["MAR.M.116-1912"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["163169"],
+        "type": ["priref"],
+        "value": ["163169"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/163169"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/163169"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["not known before testator"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1621523241000"],
+      "id": ["object-163169"]
+    },
+    "description": [
+      {
+        "value": ["copper-gilt and steel inlaid with silver and gold; oval bowl with a flat hinged decorated with birds, cornucopia and foliage"]
+      },
+      {
+        "value": ["Copper-gilt and steel inlaid with silver and gold; the oval copper-gilt bowl is engraved near the junction with the handle with a fern.  Before the hinge the flat handle is of copper-gilt, as is the slide.  Above the hinge the flat handle is of steel inlaid with silver and gold birds, cornucopia and scrolling foliage, and turns up slightly at the trefid terminal."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1912"],
+            "value": ["1912"],
+            "latest": ["1912"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Marlay, Charles Brinsley"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149674"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149674"],
+            "agent": ["agent-149674"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "era": [
+              ["CE"]
+            ],
+            "precision": ["circa"],
+            "earliest": ["1750"],
+            "value": ["1750"],
+            "latest": ["1750"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["mid 18th Century"],
+            "period": ["term-106451"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106451"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106451"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["silversmith"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Karlsbad"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-126959"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-126959"],
+            "place": ["term-126959"],
+            "coordinates": {
+              "lat": ["50.2306147"],
+              "lng": ["12.8699868"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Switzerland"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "component": [
+      {
+        "name": ["Surface Of Spoon"],
+        "materials": [
+          {
+            "term": ["term-27716"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27716"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27716"],
+            "summary_title": ["gilt"]
+          }
+        ]
+      },
+      {
+        "name": ["Bowl Of Spoon"],
+        "materials": [
+          {
+            "term": ["term-39588"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39588"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39588"],
+            "summary_title": ["copper"]
+          }
+        ]
+      },
+      {
+        "name": ["Inlay"],
+        "materials": [
+          {
+            "term": ["term-39593"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39593"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39593"],
+            "summary_title": ["gold"]
+          },
+          {
+            "term": ["term-39778"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39778"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39778"],
+            "summary_title": ["silver"]
+          }
+        ]
+      },
+      {
+        "name": ["Handle"],
+        "materials": [
+          {
+            "term": ["term-40136"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-40136"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-40136"],
+            "summary_title": ["steel"]
+          }
+        ]
+      },
+      {
+        "name": ["Bowl"],
+        "materials": []
+      },
+      {
+        "name": ["Decoration"],
+        "materials": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-81903"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-81903"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-81903"],
+        "summary_title": ["spoon"]
+      },
+      {
+        "value": ["folding spoon"]
+      },
+      {
+        "value": ["trefid spoon"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-81904"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-81904"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-81904"],
+        "summary_title": ["spoons"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Length"],
+          "value": ["18.2"]
+        },
+        {
+          "units": ["in"],
+          "dimension": ["Length"],
+          "value": ["7⅛"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-163169"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/163169"],
+    "object": ["object-163169"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
