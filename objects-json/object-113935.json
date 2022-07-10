@@ -1,0 +1,209 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-12401"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12401"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-12401"],
+        "summary_title": ["Greek"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["1991"],
+            "value": ["1991"],
+            "latest": ["1991"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Lewis, S. S."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-162613"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-162613"],
+            "agent": ["agent-162613"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["BCE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["176"],
+              "value": ["-175"],
+              "latest": ["176"]
+            },
+            "to": {
+              "era": [
+                ["BCE"]
+              ],
+              "earliest": ["165"],
+              "value": ["-164"],
+              "latest": ["165"]
+            },
+            "earliest": ["176"],
+            "latest": ["165"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Sanli Urfa"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-189775"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-189775"],
+            "term": ["agent-189775"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Edessa"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-119603"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119603"],
+            "place": ["term-119603"],
+            "coordinates": {
+              "lat": ["40.8009492"],
+              "lng": ["22.050117"]
+            },
+            "note": ["Sanli Urfa"]
+          },
+          {
+            "summary_title": ["Sanli Urfa"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-125411"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-125411"],
+            "place": ["term-125411"],
+            "coordinates": {
+              "lat": ["36.7571885"],
+              "lng": ["38.7548865"]
+            },
+            "note": ["Edessa"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.LS.1148-R"],
+        "type": ["accession number"],
+        "value": ["CM.LS.1148-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["113935"],
+        "type": ["priref"],
+        "value": ["113935"]
+      },
+      {
+        "type": ["SNG Lewis"],
+        "value": ["1148"]
+      },
+      {
+        "type": ["ordering"],
+        "value": ["LW-1147"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/113935"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/113935"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Bequeathed to Corpus by the Revd. Samuel Savage Lewis, 1891."]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-12401"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12401"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-12401"],
+        "summary_title": ["Greek"]
+      },
+      {
+        "term": ["term-114099"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-114099"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-114099"],
+        "summary_title": ["Mesopotamia"]
+      },
+      {
+        "term": ["term-119603"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119603"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119603"],
+        "summary_title": ["Edessa"]
+      }
+    ],
+    "admin": {
+      "created": ["1397472617000"],
+      "modified": ["1397474358000"],
+      "id": ["object-113935"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-167778"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-167778"],
+        "owner": ["agent-167778"],
+        "summary_title": ["Corpus Christi College"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["degrees"],
+          "dimension": ["Die Axis"],
+          "value": ["0"]
+        },
+        {
+          "units": ["mm"],
+          "dimension": ["Image(height)"],
+          "value": ["18"]
+        },
+        {
+          "units": ["mm"],
+          "dimension": ["Image(width)"],
+          "value": ["18"]
+        },
+        {
+          "units": ["g"],
+          "dimension": ["Weight"],
+          "value": ["5.64"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-113935"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/113935"],
+    "object": ["object-113935"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

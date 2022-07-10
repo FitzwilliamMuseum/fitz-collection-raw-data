@@ -1,0 +1,180 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-12401"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12401"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-12401"],
+        "summary_title": ["Greek"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["1991"],
+            "value": ["1991"],
+            "latest": ["1991"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Lewis, S. S."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-162613"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-162613"],
+            "agent": ["agent-162613"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "earliest": ["251"],
+            "value": ["-250"],
+            "latest": ["251"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Carthage"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-161590"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-161590"],
+            "term": ["agent-161590"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Carthage"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-113896"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-113896"],
+            "place": ["term-113896"],
+            "coordinates": {
+              "lat": ["36.8548083"],
+              "lng": ["10.3309924"]
+            }
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.LS.432-R"],
+        "type": ["accession number"],
+        "value": ["CM.LS.432-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["113518"],
+        "type": ["priref"],
+        "value": ["113518"]
+      },
+      {
+        "type": ["SNG Lewis"],
+        "value": ["432"]
+      },
+      {
+        "type": ["ordering"],
+        "value": ["LW-0431"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/113518"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/113518"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Bequeathed to Corpus by the Revd. Samuel Savage Lewis, 1891."]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-12401"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12401"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-12401"],
+        "summary_title": ["Greek"]
+      },
+      {
+        "term": ["term-119341"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119341"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119341"],
+        "summary_title": ["Zeugitana"]
+      },
+      {
+        "term": ["term-113896"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-113896"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-113896"],
+        "summary_title": ["Carthage"]
+      }
+    ],
+    "admin": {
+      "created": ["1397472617000"],
+      "modified": ["1397474638000"],
+      "id": ["object-113518"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-167778"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-167778"],
+        "owner": ["agent-167778"],
+        "summary_title": ["Corpus Christi College"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["degrees"],
+          "dimension": ["Die Axis"],
+          "value": ["0"]
+        },
+        {
+          "units": ["mm"],
+          "dimension": ["Image(height)"],
+          "value": ["22"]
+        },
+        {
+          "units": ["mm"],
+          "dimension": ["Image(width)"],
+          "value": ["23"]
+        },
+        {
+          "units": ["g"],
+          "dimension": ["Weight"],
+          "value": ["10.44"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-113518"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/113518"],
+    "object": ["object-113518"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
