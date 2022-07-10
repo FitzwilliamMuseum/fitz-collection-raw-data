@@ -1,0 +1,159 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-117273"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117273"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-117273"],
+        "summary_title": ["secretaire"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1938"],
+            "value": ["1938"],
+            "latest": ["1938"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Byas, Cecil E."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-155812"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-155812"],
+            "agent": ["agent-155812"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["1700"],
+              "value": ["1700"],
+              "latest": ["1700"]
+            },
+            "to": {
+              "precision": ["circa"],
+              "earliest": ["1800"],
+              "value": ["1800"],
+              "latest": ["1800"]
+            },
+            "earliest": ["1700"],
+            "latest": ["1800"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["18th century"],
+            "period": ["term-106400"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106400"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106400"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["production"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["M/F.16-1938"],
+        "type": ["accession number"],
+        "value": ["M/F.16-1938"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["97799"],
+        "type": ["priref"],
+        "value": ["97799"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/97799"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/97799"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Carcase"],
+        "materials": [
+          {
+            "term": ["term-38291"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-38291"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-38291"],
+            "summary_title": ["mahogany"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-117273"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117273"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-117273"],
+        "summary_title": ["secretaire"]
+      },
+      {
+        "value": ["secretary"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1349370531000"],
+      "id": ["object-97799"]
+    },
+    "description": [
+      {
+        "value": ["Mahogany secretary with fitted recesses."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-67107"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-67107"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-67107"],
+        "summary_title": ["furniture"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-97799"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/97799"],
+    "object": ["object-97799"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

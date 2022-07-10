@@ -1,0 +1,145 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["2003"],
+            "value": ["2003-05"],
+            "latest": ["2005"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Dreyfus, John"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-163304"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-163304"],
+            "agent": ["agent-163304"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["2001"],
+              "value": ["2001-04-03"],
+              "latest": ["2001"]
+            },
+            "to": {
+              "earliest": ["2001"],
+              "value": ["2001-04-17"],
+              "latest": ["2001"]
+            },
+            "earliest": ["2001"],
+            "latest": ["2001"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Shakespeare's Globe"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-163906"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-163906"],
+            "term": ["agent-163906"],
+            "role": [
+              {
+                "value": ["writer"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["PM 402-2003"],
+        "type": ["accession number"],
+        "value": ["PM 402-2003"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["98054"],
+        "type": ["priref"],
+        "value": ["98054"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/98054"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/98054"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-106206"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106206"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106206"],
+            "summary_title": ["paper"]
+          }
+        ]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-27023"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27023"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27023"],
+        "summary_title": ["typewriting"],
+        "descriptions": []
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1598276518000"],
+      "id": ["object-98054"]
+    },
+    "description": [
+      {
+        "value": ["John Dreyfus to Mark Rylance (Shakespeare's Globe) (carbon copy) offering a 37 vol. set of Shakespeare's plays published by The Limited Editions Club to the theatre, and letter of acceptance from Mark Rylance"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-103262"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-103262"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-103262"],
+        "summary_title": ["letter (correspondence)"]
+      },
+      {
+        "term": ["term-117339"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117339"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-117339"],
+        "summary_title": ["archive document"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-98054"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/98054"],
+    "object": ["object-98054"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

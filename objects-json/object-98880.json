@@ -1,0 +1,156 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["2004"],
+            "value": ["2004-05"],
+            "latest": ["2005"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Tait, Jim"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-166964"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-166964"],
+            "agent": ["agent-166964"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "earliest": ["1730"],
+            "value": ["1730"],
+            "latest": ["1730"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Aris, Thomas"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-166960"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-166960"],
+            "term": ["agent-166960"],
+            "role": [
+              {
+                "value": ["printer"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["London"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106216"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106216"],
+            "place": ["term-106216"],
+            "coordinates": {
+              "lat": ["51.5073219"],
+              "lng": ["-0.1276474"]
+            },
+            "note": ["possibly London"],
+            "hierarchies": [
+              {
+                "summary_title": ["England"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["PB 2-2004"],
+        "type": ["accession number"],
+        "value": ["PB 2-2004"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["98880"],
+        "type": ["priref"],
+        "value": ["98880"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/98880"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/98880"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-106206"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106206"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106206"],
+            "summary_title": ["paper"]
+          }
+        ]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-27526"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27526"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27526"],
+        "summary_title": ["printing"],
+        "descriptions": []
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1467303508000"],
+      "id": ["object-98880"]
+    },
+    "description": [
+      {
+        "value": ["\"An historical and chronological list of the painters\". London. Printed for Tho. Aris, for S. Harding [173-?]\": broadside (36 x 46 cm. fold. to 16 x 10 cm.) mounted inside back cover."]
+      },
+      {
+        "value": ["69, [1] p : ill. ; 16cm"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-102154"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-102154"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-102154"],
+        "summary_title": ["book"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["Repertorium sculptile-typicum: : or A complete collection and explanation of the several marks and cyphers by which the prints of the best engravers are distinguished. With an alphabetical index of their names, places of abode, and times in which they lived. Translated from the Abcedario [sic] pittorico of Pellegrini Antonio Orlandi.."]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-98880"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/98880"],
+    "object": ["object-98880"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
