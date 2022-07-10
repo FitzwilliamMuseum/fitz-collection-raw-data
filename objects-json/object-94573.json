@@ -1,0 +1,165 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["2003"],
+            "value": ["2003-05"],
+            "latest": ["2005"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Dreyfus, John"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-163304"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-163304"],
+            "agent": ["agent-163304"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "earliest": ["1985"],
+            "value": ["1985"],
+            "latest": ["1985"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Florin Press"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-163416"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-163416"],
+            "term": ["agent-163416"],
+            "role": [
+              {
+                "value": ["publisher"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Biddenden"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-115364"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-115364"],
+            "place": ["term-115364"],
+            "coordinates": {
+              "lat": ["51.115357"],
+              "lng": ["0.6428608"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["England"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Kent"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["PM 16-2003"],
+        "type": ["accession number"],
+        "value": ["PM 16-2003"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["94573"],
+        "type": ["priref"],
+        "value": ["94573"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/94573"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/94573"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-106206"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106206"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106206"],
+            "summary_title": ["paper"]
+          }
+        ]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-27526"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27526"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27526"],
+        "summary_title": ["printing"],
+        "descriptions": []
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1598276453000"],
+      "id": ["object-94573"]
+    },
+    "description": [
+      {
+        "value": ["Details of the above issued by the publisher, Florin Press, together with details and order form for \"An appreciation of Naum Gabo\""]
+      },
+      {
+        "value": ["2 leaves"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-101673"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101673"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101673"],
+        "summary_title": ["prospectus"]
+      },
+      {
+        "term": ["term-117339"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117339"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-117339"],
+        "summary_title": ["archive document"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["Leo Wyatt's little book of alphabets"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-94573"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/94573"],
+    "object": ["object-94573"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

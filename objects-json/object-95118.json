@@ -1,0 +1,141 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["2003"],
+            "value": ["2003-05"],
+            "latest": ["2005"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Dreyfus, John"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-163304"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-163304"],
+            "agent": ["agent-163304"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "earliest": ["1998"],
+            "value": ["1998-03-31"],
+            "latest": ["1998"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Berry, W. Turner"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-163954"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-163954"],
+            "term": ["agent-163954"],
+            "role": [
+              {
+                "value": ["author"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["PM 218-2003"],
+        "type": ["accession number"],
+        "value": ["PM 218-2003"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["95118"],
+        "type": ["priref"],
+        "value": ["95118"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/95118"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/95118"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-33926"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-33926"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-33926"],
+            "summary_title": ["paper (fibre product)"]
+          }
+        ]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-27526"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27526"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27526"],
+        "summary_title": ["printing"],
+        "descriptions": []
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1598276487000"],
+      "id": ["object-95118"]
+    },
+    "description": [
+      {
+        "value": ["Article on Talbot Baines Reed by W. Turner Berry from British & Colonial Printer March 28 1952 p.388.  Review of Reed's \"A history of the Old English Letter Foundries\" TLS Sept. 5 1952"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-24095"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-24095"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-24095"],
+        "summary_title": ["review"]
+      },
+      {
+        "term": ["term-30182"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-30182"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-30182"],
+        "summary_title": ["article"]
+      },
+      {
+        "term": ["term-117339"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117339"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-117339"],
+        "summary_title": ["archive document"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-95118"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/95118"],
+    "object": ["object-95118"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

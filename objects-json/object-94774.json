@@ -1,0 +1,235 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-98032"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98032"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98032"],
+        "summary_title": ["print"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["P.1998-1991"],
+        "type": ["accession number"],
+        "value": ["P.1998-1991"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["94774"],
+        "type": ["priref"],
+        "value": ["94774"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/94774"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/94774"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1627313260000"],
+      "id": ["object-94774"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["Clives House, 45 Berkeley Square"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1991"],
+            "value": ["1991"],
+            "latest": ["1991"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Reitlinger, Henry Scipio"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-150552"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-150552"],
+            "agent": ["agent-150552"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "era": [
+              ["CE"]
+            ],
+            "earliest": ["1937"],
+            "value": ["1937"],
+            "latest": ["1937"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["The Baynard Press"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-188984"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-188984"],
+            "term": ["agent-188984"],
+            "role": [
+              {
+                "value": ["printer"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["London"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106216"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106216"],
+            "place": ["term-106216"],
+            "coordinates": {
+              "lat": ["51.5073219"],
+              "lng": ["-0.1276474"]
+            }
+          }
+        ]
+      }
+    },
+    "school_or_style": [
+      {
+        "term": ["term-9168"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-9168"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-9168"],
+        "summary_title": ["British"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-37178"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-37178"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-37178"],
+            "summary_title": ["wove paper"]
+          }
+        ]
+      },
+      {
+        "name": ["Image"],
+        "materials": []
+      },
+      {
+        "name": ["Sheet"],
+        "materials": []
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-28409"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-28409"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-28409"],
+        "summary_title": ["colour printing"],
+        "descriptions": []
+      },
+      {
+        "term": ["term-29446"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-29446"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-29446"],
+        "summary_title": ["lithography"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-98032"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98032"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98032"],
+        "summary_title": ["print"]
+      }
+    ],
+    "inscription": [
+      {
+        "method": ["printed"],
+        "transcription": [
+          {
+            "value": ["ALAN SORRELL"]
+          }
+        ],
+        "location": ["image lower right"],
+        "type": ["signature"]
+      },
+      {
+        "method": ["printed"],
+        "transcription": [
+          {
+            "value": ["37."]
+          }
+        ],
+        "location": ["image lower right, following the above"],
+        "type": ["date"]
+      },
+      {
+        "method": ["printed"],
+        "transcription": [
+          {
+            "value": ["Clives House, 45 Berkeley Square, - By Alan Sorrell."]
+          }
+        ],
+        "location": ["image lower centre"],
+        "type": ["title"]
+      },
+      {
+        "method": ["printed"],
+        "transcription": [
+          {
+            "value": ["37/1060/1750 THE BAYNARD PRESS"]
+          }
+        ],
+        "location": ["lower left"],
+        "type": ["inscription"]
+      },
+      {
+        "method": ["printed"],
+        "transcription": [
+          {
+            "value": ["LONDON TRANSPORT"]
+          }
+        ],
+        "location": ["lower right"],
+        "type": ["logo"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-98032"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98032"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98032"],
+        "summary_title": ["print"]
+      }
+    ],
+    "department": {
+      "value": ["Paintings, Drawings and Prints"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-94774"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/94774"],
+    "object": ["object-94774"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

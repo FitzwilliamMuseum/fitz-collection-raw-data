@@ -1,0 +1,168 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["2003"],
+            "value": ["2003-05"],
+            "latest": ["2005"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Dreyfus, John"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-163304"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-163304"],
+            "agent": ["agent-163304"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "era": [
+              ["CE"]
+            ],
+            "earliest": ["1980"],
+            "value": ["1980"],
+            "latest": ["1980"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Roswell Bookbinding"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-163518"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-163518"],
+            "term": ["agent-163518"],
+            "role": [
+              {
+                "value": ["binder (person)"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Flagstaff"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-115429"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-115429"],
+            "place": ["term-115429"],
+            "coordinates": {
+              "lat": ["35.1987522"],
+              "lng": ["-111.6518229"]
+            }
+          },
+          {
+            "summary_title": ["phoenix"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-108736"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-108736"],
+            "place": ["term-108736"],
+            "coordinates": {
+              "lat": ["33.4484367"],
+              "lng": ["-112.074141"]
+            }
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["PB 43-2003"],
+        "type": ["accession number"],
+        "value": ["PB 43-2003"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["94566"],
+        "type": ["priref"],
+        "value": ["94566"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/94566"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/94566"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-106206"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106206"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106206"],
+            "summary_title": ["paper"]
+          }
+        ]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-27526"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27526"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27526"],
+        "summary_title": ["printing"],
+        "descriptions": []
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1569861093000"],
+      "id": ["object-94566"]
+    },
+    "description": [
+      {
+        "value": ["Contents: Foreword / by T.G. Harmsen -- Books and memories / by W. Ritchie -- I call him Richman / by L.C. Powell -- A tribute to Ward Ritchie / by J. Dreyfus -- A designer-printer's salute to a master / by A. Wilson -- Harry Ward Ritchie at seventy-five / by J. Zeitlin."]
+      },
+      {
+        "value": ["[4],22,[6] p"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-102154"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-102154"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-102154"],
+        "summary_title": ["book"]
+      },
+      {
+        "term": ["term-103262"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-103262"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-103262"],
+        "summary_title": ["letter (correspondence)"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["Ward Ritchie, printer : a seventy-fifth birthday salute on June 15, 1980."]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-94566"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/94566"],
+    "object": ["object-94566"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
