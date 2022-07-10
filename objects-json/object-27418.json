@@ -1,0 +1,191 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-90128"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-90128"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-90128"],
+        "summary_title": ["goblet"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["C.11-1986"],
+        "type": ["accession number"],
+        "value": ["C.11-1986"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["27418"],
+        "type": ["priref"],
+        "value": ["27418"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/27418"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/27418"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1582633471000"],
+      "id": ["object-27418"]
+    },
+    "description": [
+      {
+        "value": ["Goblet. Clear glass, cut, wheel-engraved with a view inscribed and dated 'Gürtlerbad/Andenken von Zeylitz (?)/1824' and further inscribed on two cut disks, 'R M/Ruben' 'von Henritte Ruben'."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1986"],
+            "value": ["1986-10-13"],
+            "latest": ["1986"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Lewisohn, Doreen"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-152513"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-152513"],
+            "agent": ["agent-152513"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "note": [
+              {
+                "value": ["dated 1824"]
+              }
+            ],
+            "era": [
+              ["CE"]
+            ],
+            "earliest": ["1824"],
+            "value": ["1824"],
+            "latest": ["1824"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["early 19th Century"],
+            "period": ["term-106498"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106498"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106498"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["production"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "component": [
+      {
+        "name": ["Bowl"],
+        "materials": []
+      },
+      {
+        "name": ["Decoration"],
+        "materials": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-90128"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-90128"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-90128"],
+        "summary_title": ["goblet"]
+      }
+    ],
+    "inscription": [
+      {
+        "method": ["inscribed"],
+        "transcription": [
+          {
+            "value": ["Gürtlerbad/Andenken von Zeylitz (?)/1824"]
+          }
+        ],
+        "location": ["on goblet"],
+        "type": ["inscription"]
+      },
+      {
+        "method": ["inscribed"],
+        "transcription": [
+          {
+            "value": ["'R M/Ruben' and 'von Henritte Ruben'"]
+          }
+        ],
+        "location": ["on two cut disks"],
+        "type": ["inscription"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-91170"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-91170"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-91170"],
+        "summary_title": ["glass"]
+      },
+      {
+        "term": ["term-91741"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-91741"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-91741"],
+        "summary_title": ["drinking glasses"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Diameter"],
+          "value": ["8.8"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Height"],
+          "value": ["17.8"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-27418"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/27418"],
+    "object": ["object-27418"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
