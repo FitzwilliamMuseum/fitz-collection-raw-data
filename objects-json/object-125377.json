@@ -1,0 +1,173 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-120859"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-120859"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-120859"],
+        "summary_title": ["pepper-pot"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1933"],
+            "value": ["1933"],
+            "latest": ["1933"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Navarro, J. M. de"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-172191"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-172191"],
+            "agent": ["agent-172191"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["1800"],
+              "value": ["1800"],
+              "latest": ["1800"]
+            },
+            "to": {
+              "earliest": ["1850"],
+              "value": ["1850"],
+              "latest": ["1850"]
+            },
+            "earliest": ["1800"],
+            "latest": ["1850"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["early 19th Century"],
+            "period": ["term-106498"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106498"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106498"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["production"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["NAV.167-1933"],
+        "type": ["accession number"],
+        "value": ["NAV.167-1933"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["125377"],
+        "type": ["priref"],
+        "value": ["125377"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/125377"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/125377"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Liner"],
+        "materials": [
+          {
+            "term": ["term-32652"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-32652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-32652"],
+            "summary_title": ["glaze"]
+          },
+          {
+            "term": ["term-37418"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-37418"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-37418"],
+            "summary_title": ["ceramic"]
+          }
+        ]
+      },
+      {
+        "name": ["Drum, Collar"],
+        "materials": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-120859"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-120859"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-120859"],
+        "summary_title": ["pepper-pot"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1440171446000"],
+      "id": ["object-125377"]
+    },
+    "description": [
+      {
+        "value": ["Pewter pepper pot. Screw top with finial and pierced drum and collar. 'Mallet' shaped body with glazed ceramic liner"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-40400"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-40400"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-40400"],
+        "summary_title": ["pewter"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Height"],
+          "value": ["12.7"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-125377"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/125377"],
+    "object": ["object-125377"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

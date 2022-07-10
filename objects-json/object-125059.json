@@ -1,0 +1,165 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["2004"],
+            "value": ["2004"],
+            "latest": ["2004"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Pouncey, Jacqueline"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-172573"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-172573"],
+            "agent": ["agent-172573"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "era": [
+              ["CE"]
+            ],
+            "earliest": ["1793"],
+            "value": ["1793"],
+            "latest": ["1793"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Stamperia di Giovanni Zempel"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-172580"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-172580"],
+            "term": ["agent-172580"],
+            "role": [
+              {
+                "value": ["publisher"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Venice"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106518"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106518"],
+            "place": ["term-106518"],
+            "coordinates": {
+              "lat": ["45.4371908"],
+              "lng": ["12.3345898"]
+            }
+          },
+          {
+            "summary_title": ["Rome"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106366"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106366"],
+            "place": ["term-106366"],
+            "coordinates": {
+              "lat": ["41.8933203"],
+              "lng": ["12.4829321"]
+            }
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["PB 201-2004"],
+        "type": ["accession number"],
+        "value": ["PB 201-2004"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["125059"],
+        "type": ["priref"],
+        "value": ["125059"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/125059"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/125059"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-106206"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106206"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106206"],
+            "summary_title": ["paper"]
+          }
+        ]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-27526"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27526"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27526"],
+        "summary_title": ["printing"],
+        "descriptions": []
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1582636171000"],
+      "id": ["object-125059"]
+    },
+    "description": [
+      {
+        "value": ["Vol. 1 has imprint: Venezia, Presso Giovambatista Pasquali., 1782. Vol. 2 has imprint: Roma, Presso Generoso Salomoni, 1785 ; v. 3: Roma, Stamperia di Giovanni Zempel., 1786."]
+      },
+      {
+        "value": ["Vols. 2-3 have title: Lettere sanesi del padre M. Guglielmo della Valle ... sopra le belle arti (v. 3 with slight variation)"]
+      },
+      {
+        "value": ["v.1: [4], 292, [1], [2] folded leaves of plates; v.2: vi, 283, [4] p. [4 un-numerbered pages bet. p.282 and 283]; v.3: [4] 479, [1] [2] leaves of plates (1 folded)"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-102154"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-102154"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-102154"],
+        "summary_title": ["book"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["Lettere senesi di un socio dell’ Accademia di Fossano sopra le belle arti"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-125059"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/125059"],
+    "object": ["object-125059"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

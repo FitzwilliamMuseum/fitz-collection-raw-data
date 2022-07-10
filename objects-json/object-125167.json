@@ -1,0 +1,162 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-123598"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-123598"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-123598"],
+        "summary_title": ["temple fan"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1985"],
+            "value": ["1985-12-09"],
+            "latest": ["1985"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Gordhandas, Kishor N."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-173001"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-173001"],
+            "agent": ["agent-173001"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "era": [
+              ["CE"]
+            ],
+            "precision": ["circa"],
+            "earliest": ["1985"],
+            "value": ["1985"],
+            "latest": ["1985"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["late 20th Century"],
+            "period": ["term-109890"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-109890"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-109890"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["maker"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Bombay"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-110300"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110300"],
+            "place": ["term-110300"],
+            "coordinates": {
+              "lat": ["19.0785451"],
+              "lng": ["72.878176"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["India"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["O.83-1985"],
+        "type": ["accession number"],
+        "value": ["O.83-1985"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["125167"],
+        "type": ["priref"],
+        "value": ["125167"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/125167"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/125167"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-123598"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-123598"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-123598"],
+        "summary_title": ["temple fan"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1582636181000"],
+      "id": ["object-125167"]
+    },
+    "description": [
+      {
+        "value": ["Fixed temple fan (one of pair): silver lame and red and yellow velvet."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-109696"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-109696"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-109696"],
+        "summary_title": ["fans"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Height"],
+          "value": ["17.6"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-125167"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/125167"],
+    "object": ["object-125167"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
