@@ -1,0 +1,354 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-27402"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27402"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27402"],
+        "summary_title": ["fragment"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["C.539-1991"],
+        "type": ["accession number"],
+        "value": ["C.539-1991"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["75462"],
+        "type": ["priref"],
+        "value": ["75462"]
+      },
+      {
+        "source": ["Allocated by Wendy Rose when object left Maidenhead"],
+        "type": ["packing number"],
+        "value": ["ISCER 582"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/75462"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/75462"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1610540925000"],
+      "id": ["object-75462"]
+    },
+    "description": [
+      {
+        "value": ["Fritware/stonepaste fragment of a bowl centre. With underglaze painting in blue and black, decorated with plants"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1991"],
+            "value": ["1991"],
+            "latest": ["1991"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Reitlinger, Henry Scipio"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-150552"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-150552"],
+            "agent": ["agent-150552"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["1400"],
+              "value": ["1400"],
+              "latest": ["1400"]
+            },
+            "to": {
+              "earliest": ["1499"],
+              "value": ["1499"],
+              "latest": ["1499"]
+            },
+            "earliest": ["1400"],
+            "latest": ["1499"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["15th century"],
+            "period": ["term-107270"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-107270"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107270"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["production"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "multimedia": [
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616284071177"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa7/preview_C_539_1991_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["181"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616284071177"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa7/C_539_1991_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["550"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["760"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616284071177"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa7/C_539_1991_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["550"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["760"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616284071177"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa7/mid_C_539_1991_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["362"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616264710696"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa7/preview_C_539_1991_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["181"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616264710696"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa7/C_539_1991_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["550"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["760"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616264710696"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa7/C_539_1991_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["550"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["760"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616264710696"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa7/mid_C_539_1991_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["362"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-29074"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-29074"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-29074"],
+        "summary_title": ["underglaze"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-27402"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27402"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27402"],
+        "summary_title": ["fragment"]
+      },
+      {
+        "value": ["fragment of a dish or bowl centre"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-116791"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-116791"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-116791"],
+        "summary_title": ["fritware/stonepaste"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Length"],
+          "value": ["10"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Width"],
+          "value": ["9.5"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-75462"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/75462"],
+    "object": ["object-75462"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

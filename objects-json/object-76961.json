@@ -1,0 +1,351 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-34935"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-34935"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-34935"],
+        "summary_title": ["plate"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["EC.35B-1945"],
+        "type": ["accession number"],
+        "value": ["EC.35B-1945"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["76961"],
+        "type": ["priref"],
+        "value": ["76961"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/76961"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/76961"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Tilley & Co."]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1508247509000"],
+      "id": ["object-76961"]
+    },
+    "description": [
+      {
+        "value": ["tin-glazed earthenware painted in polychrome with floral sprays; a pair with EC.35A-1945"]
+      },
+      {
+        "value": ["Pale brown earthenware, thickly tin-glazed overall and painted in blue, green, yellow, pale purple, dark purple, and black enamels. The plate is of 'silver'shape' with a shaped rim, concave, sloping rim, and curved  well, standing on a footring.  The front is decorated in the well with one large floral spray comprising a carnation and three other types of flower, and two smaller sprigs, one with a yellow flower and the other with three blue. On the rim there are three sprigs, one a pansy, one with three yellow flowers, and the other with a blue flower and two buds. The edge is encircled by a dark purple line. Three peg marks on the reverse. A pair with EC.35A-1945."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bought"],
+        "date": [
+          {
+            "earliest": ["1945"],
+            "value": ["1945-09-06"],
+            "latest": ["1945"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Tilley & Co."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-193806"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-193806"],
+            "agent": ["agent-193806"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["1746"],
+              "value": ["1746"],
+              "latest": ["1746"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["1756"],
+              "value": ["1756"],
+              "latest": ["1756"]
+            },
+            "earliest": ["1746"],
+            "latest": ["1756"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["mid 18th Century"],
+            "period": ["term-106451"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106451"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106451"]
+          },
+          {
+            "summary_title": ["Adam Ludwig period"],
+            "period": ["term-135561"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-135561"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-135561"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Ludwig, Adam"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-193807"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-193807"],
+            "term": ["agent-193807"],
+            "role": [
+              {
+                "value": ["production"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Höchst"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-128359"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-128359"],
+            "place": ["term-128359"],
+            "coordinates": {
+              "lat": ["50.0995118"],
+              "lng": ["8.5452956"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Germany"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "school_or_style": [
+      {
+        "term": ["term-9010"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-9010"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-9010"],
+        "summary_title": ["Rococo"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Decoration"],
+        "materials": [
+          {
+            "term": ["term-32638"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-32638"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-32638"],
+            "summary_title": ["enamel"]
+          }
+        ]
+      }
+    ],
+    "multimedia": [
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616268147565"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa1/preview_EC_35_1945.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["181"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616268147565"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa1/EC_35_1945.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["550"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["760"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616268147565"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa1/EC_35_1945.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["550"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["760"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616268147565"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa1/mid_EC_35_1945.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["362"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-111179"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111179"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-111179"],
+        "summary_title": ["moulding"],
+        "descriptions": [
+          {
+            "description": ["pale brown earthenware, tin-glazed, and painted overglaze in blue, green, yellow, pale purple, dark purple, and black enamels"]
+          }
+        ]
+      },
+      {
+        "term": ["term-120059"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-120059"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-120059"],
+        "summary_title": ["tin-glazing"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-34935"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-34935"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-34935"],
+        "summary_title": ["plate"]
+      }
+    ],
+    "inscription": [
+      {
+        "method": ["painted in blue and black"],
+        "transcription": [
+          {
+            "value": ["i /wheel / A L"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["blue wheel, the rest in black"]
+          }
+        ],
+        "location": ["on base"],
+        "type": ["factory mark"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-108348"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-108348"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-108348"],
+        "summary_title": ["tin-glazed earthenware"]
+      },
+      {
+        "term": ["term-132697"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-132697"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-132697"],
+        "summary_title": ["German faience"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Diameter"],
+          "value": ["25.4"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Height"],
+          "value": ["3.5"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-76961"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/76961"],
+    "object": ["object-76961"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

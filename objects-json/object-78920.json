@@ -1,0 +1,160 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1993"],
+            "value": ["1993-05"],
+            "latest": ["1905"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Lister, Raymond"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-152474"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-152474"],
+            "agent": ["agent-152474"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["1992"],
+              "value": ["1992"],
+              "latest": ["1992"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["1993"],
+              "value": ["1993"],
+              "latest": ["1993"]
+            },
+            "earliest": ["1992"],
+            "latest": ["1993"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["King, Jack"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-157869"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-157869"],
+            "term": ["agent-157869"],
+            "role": [
+              {
+                "value": ["author"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Washington"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106550"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106550"],
+            "place": ["term-106550"],
+            "coordinates": {
+              "lat": ["38.8950368"],
+              "lng": ["-77.0365427"]
+            }
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["MS 1322-1993"],
+        "type": ["accession number"],
+        "value": ["MS 1322-1993"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["78920"],
+        "type": ["priref"],
+        "value": ["78920"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/78920"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/78920"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Lister, Raymond"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-33926"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-33926"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-33926"],
+            "summary_title": ["paper (fibre product)"]
+          }
+        ]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1598276227000"],
+      "id": ["object-78920"]
+    },
+    "description": [
+      {
+        "value": ["a postcard from Jack and Ruth King to Raymond and Pamela Lister"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-102831"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-102831"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-102831"],
+        "summary_title": ["postcard"]
+      },
+      {
+        "term": ["term-117339"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117339"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-117339"],
+        "summary_title": ["archive document"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-78920"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/78920"],
+    "object": ["object-78920"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
