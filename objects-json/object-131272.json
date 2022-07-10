@@ -1,0 +1,107 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "agents": {
+          "agent": {
+            "summary_title": ["Gayer-Anderson, R. G. (Major)"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159803"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159803"],
+            "agent": ["agent-159803"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Egypt"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-107870"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107870"],
+            "coordinates": {
+              "lat": ["26.2540493"],
+              "lng": ["29.2675469"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["1292"],
+              "value": ["-1292"],
+              "latest": ["1292"]
+            },
+            "to": {
+              "earliest": ["1070"],
+              "value": ["-1070"],
+              "latest": ["1070"]
+            },
+            "earliest": ["1292"],
+            "latest": ["1070"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["New Kingdom"],
+            "period": ["term-12502"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-12502"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12502"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["E.1479.1947"],
+        "type": ["accession number"],
+        "value": ["E.1479.1947"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["131272"],
+        "type": ["priref"],
+        "value": ["131272"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/131272"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/131272"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1459504914000"],
+      "id": ["object-131272"]
+    },
+    "description": [
+      {
+        "value": ["An ostrakon is a reused fragment of stone or clay, this one is inscribed with a hymn to the sun."]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "title": [
+      {
+        "value": ["Limestone ostrakon of a sun hymn"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-131272"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/131272"],
+    "object": ["object-131272"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

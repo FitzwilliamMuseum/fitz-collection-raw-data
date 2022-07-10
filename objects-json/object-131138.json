@@ -1,0 +1,95 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "agents": {
+          "agent": {
+            "summary_title": ["The Egyptian Exploration Fund"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-173406"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-173406"],
+            "agent": ["agent-173406"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Naukratis Egypt"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-111311"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111311"]
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["541"],
+              "value": ["-540"],
+              "latest": ["541"]
+            },
+            "to": {
+              "earliest": ["401"],
+              "value": ["-400"],
+              "latest": ["401"]
+            },
+            "earliest": ["541"],
+            "latest": ["401"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.130.1899"],
+        "type": ["accession number"],
+        "value": ["GR.130.1899"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["131138"],
+        "type": ["priref"],
+        "value": ["131138"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/131138"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/131138"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1582636226000"],
+      "id": ["object-131138"]
+    },
+    "description": [
+      {
+        "value": ["Featuring Poseidon. red/black figured vessel."]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "title": [
+      {
+        "value": ["Fragment of a vessel"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-131138"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/131138"],
+    "object": ["object-131138"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
