@@ -1,0 +1,378 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-9168"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-9168"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-9168"],
+        "summary_title": ["British"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["CM.1780-1911"],
+        "type": ["accession number"],
+        "value": ["CM.1780-1911"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["227067"],
+        "type": ["priref"],
+        "value": ["227067"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/227067"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/227067"]
+      }
+    ],
+    "admin": {
+      "created": ["1423473477000"],
+      "modified": ["1557763209000"],
+      "id": ["object-227067"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["Eastbourne 1911 Coronation Medal"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1911"],
+            "value": ["1911"],
+            "latest": ["1911"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Corporation of Eastbourne"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-199298"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-199298"],
+            "agent": ["agent-199298"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["1911"],
+              "value": ["1911"],
+              "latest": ["1911"]
+            },
+            "earliest": ["1911"],
+            "latest": ["1911"]
+          },
+          {
+            "range": ["1"],
+            "to": {
+              "earliest": ["1911"],
+              "value": ["1911"],
+              "latest": ["1911"]
+            },
+            "earliest": ["1911"],
+            "latest": ["1911"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["London"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149658"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149658"],
+            "term": ["agent-149658"],
+            "role": [
+              {
+                "value": ["production place"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-27716"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27716"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27716"],
+            "summary_title": ["gilt"]
+          }
+        ]
+      }
+    ],
+    "multimedia": [
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616264088856"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm61/preview_CM_1780_1911_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["278"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616264088856"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm61/CM_1780_1911_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["1024"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["921"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616264088856"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm61/CM_1780_1911_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["1024"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["921"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616264088856"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm61/mid_CM_1780_1911_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["556"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616258662212"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm61/preview_CM_1780_1911_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["278"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616258662212"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm61/CM_1780_1911_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["1024"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["920"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616258662212"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm61/CM_1780_1911_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["1024"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["920"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616258662212"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm61/mid_CM_1780_1911_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["557"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-9168"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-9168"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-9168"],
+        "summary_title": ["British"]
+      },
+      {
+        "term": ["term-24899"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-24899"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-24899"],
+        "summary_title": ["coronation"]
+      }
+    ],
+    "inscription": [
+      {
+        "transcription": [
+          {
+            "value": ["KING GEORGE V QUEEN MARY."]
+          }
+        ],
+        "description": [
+          {
+            "value": ["The profiles of George V and Queen Mary"]
+          }
+        ],
+        "location": ["obverse"],
+        "type": ["design"]
+      },
+      {
+        "transcription": [
+          {
+            "value": ["CORONATION CELEBRATION EASTBOURNE (in exergue) MELIORA SEQUIMUR"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["The historic Eastbourne coat of arms."]
+          }
+        ],
+        "location": ["reverse"],
+        "type": ["design"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-42993"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-42993"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-42993"],
+        "summary_title": ["medal"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "publications": [
+      {
+        "term": ["publication-8607"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-8607"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-8607"],
+        "summary_title": ["Royal commemorative medals, 1837-1977. Vol. 5, King George the Fifth 1910 -1936"],
+        "page": ["69"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-227067"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/227067"],
+    "object": ["object-227067"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

@@ -1,0 +1,361 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-106629"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106629"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106629"],
+        "summary_title": ["Italy"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1986"],
+            "value": ["1986"],
+            "latest": ["1986"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["McHale, Nora"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-154450"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-154450"],
+            "agent": ["agent-154450"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["1556"],
+              "value": ["1556"],
+              "latest": ["1556"]
+            },
+            "to": {
+              "earliest": ["1559"],
+              "value": ["1559"],
+              "latest": ["1559"]
+            },
+            "earliest": ["1556"],
+            "latest": ["1559"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Venice"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-150221"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-150221"],
+            "term": ["agent-150221"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Venice"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106518"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106518"],
+            "place": ["term-106518"],
+            "coordinates": {
+              "lat": ["45.4371908"],
+              "lng": ["12.3345898"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Italy"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Venice"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.2-1986"],
+        "type": ["accession number"],
+        "value": ["CM.2-1986"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["226462"],
+        "type": ["priref"],
+        "value": ["226462"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/226462"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/226462"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-39593"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39593"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39593"],
+            "summary_title": ["gold"]
+          }
+        ]
+      }
+    ],
+    "multimedia": [
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616256576793"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm66/preview_CM_2_1986_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["250"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616256576793"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm66/CM_2_1986_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["2835"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["2835"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616256576793"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm66/large_CM_2_1986_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["1024"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["1024"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616256576793"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm66/mid_CM_2_1986_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["500"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616279575336"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm66/preview_CM_2_1986_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["250"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616279575336"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm66/CM_2_1986_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["2835"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["2835"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616279575336"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm66/large_CM_2_1986_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["1024"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["1024"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616279575336"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm66/mid_CM_2_1986_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["500"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-106629"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106629"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106629"],
+        "summary_title": ["Italy"]
+      },
+      {
+        "term": ["term-106518"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106518"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106518"],
+        "summary_title": ["Venice"]
+      },
+      {
+        "term": ["term-101187"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101187"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101187"],
+        "summary_title": ["ducat"]
+      },
+      {
+        "value": ["zecchino"]
+      }
+    ],
+    "admin": {
+      "created": ["1550147032000"],
+      "modified": ["1607600755000"],
+      "id": ["object-226462"]
+    },
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "publications": [
+      {
+        "term": ["publication-7654"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-7654"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-7654"],
+        "summary_title": ["Corpus nummorum italicorum; Primo Tentativo di un Catalogo Generale delle Monete medievali e moderne coniate in Italia o da Italiani in altri Paesi, Volume VII Veneto"],
+        "page": ["361"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-226462"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/226462"],
+    "object": ["object-226462"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

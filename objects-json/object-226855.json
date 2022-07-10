@@ -1,0 +1,121 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["1981"],
+            "value": ["1981"],
+            "latest": ["1981"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Family of the Late Prof. Roberto Weiss"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-199211"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-199211"],
+            "agent": ["agent-199211"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "precision": ["circa"],
+            "earliest": ["1600"],
+            "value": ["1600"],
+            "latest": ["1600"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Venus"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-139324"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-139324"],
+            "term": ["agent-139324"],
+            "role": [
+              {
+                "value": ["ruler"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["LOANCM.78-2012"],
+        "type": ["accession number"],
+        "value": ["LOANCM.78-2012"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["226855"],
+        "type": ["priref"],
+        "value": ["226855"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/226855"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/226855"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-40365"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-40365"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-40365"],
+            "summary_title": ["bronze"]
+          }
+        ]
+      }
+    ],
+    "admin": {
+      "created": ["1549879865000"],
+      "modified": ["1597657996000"],
+      "id": ["object-226855"]
+    },
+    "description": [
+      {
+        "value": ["Uncertain origin; Netherlands or South Germany"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-199211"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-199211"],
+        "owner": ["agent-199211"],
+        "summary_title": ["Family of the Late Prof. Roberto Weiss"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-42993"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-42993"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-42993"],
+        "summary_title": ["medal"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-226855"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/226855"],
+    "object": ["object-226855"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
