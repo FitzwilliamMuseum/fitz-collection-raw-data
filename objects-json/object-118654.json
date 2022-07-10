@@ -1,0 +1,129 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1903"],
+            "value": ["1903"],
+            "latest": ["1903"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Thompson, Henry Yates"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-134386"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-134386"],
+            "agent": ["agent-134386"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "era": [
+              ["CE"]
+            ],
+            "earliest": ["1903"],
+            "value": ["1903"],
+            "latest": ["1903"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Thompson, Henry Yates"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-134386"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-134386"],
+            "term": ["agent-134386"],
+            "role": [
+              {
+                "value": ["publisher"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["London"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106216"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106216"],
+            "place": ["term-106216"],
+            "coordinates": {
+              "lat": ["51.5073219"],
+              "lng": ["-0.1276474"]
+            },
+            "note": ["possibly London"],
+            "hierarchies": [
+              {
+                "summary_title": ["England"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["PB 1903.2"],
+        "type": ["accession number"],
+        "value": ["PB 1903.2"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["118654"],
+        "type": ["priref"],
+        "value": ["118654"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/118654"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/118654"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1582636083000"],
+      "id": ["object-118654"]
+    },
+    "description": [
+      {
+        "value": ["Cover title: Jean Fouquet, etc. : three-colour photographs."]
+      },
+      {
+        "value": ["4 leaves of plates (col.) with accompanying leaves of text; 38 cm"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-102154"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-102154"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-102154"],
+        "summary_title": ["book"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "title": [
+      {
+        "value": ["Four photographic facsimiles (by three-colour process) from detached pages of a fifteenth-century manuscript of \"Histoire ancienne jusqu'à César\" and \"Faits des Romains.\"."]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-118654"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/118654"],
+    "object": ["object-118654"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

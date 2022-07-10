@@ -1,0 +1,255 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-127916"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-127916"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-127916"],
+        "summary_title": ["girdle and buckle"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["M.1 & A-1950"],
+        "type": ["accession number"],
+        "value": ["M.1 & A-1950"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["119018"],
+        "type": ["priref"],
+        "value": ["119018"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/119018"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/119018"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Bought privately in London"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1519230726000"],
+      "id": ["object-119018"]
+    },
+    "description": [
+      {
+        "value": ["silver-gilt and yellow-ochre coloured velvet."]
+      },
+      {
+        "value": ["Buckle in silver-gilt and belt (A) of yellow-ochre coloured velvet. The belt is in two pieces joined, folded over and stitched over petersham ribbon. It has three hand-stitched eyelet holes. The buckle and belt end are of silver-gilt, decorated on the outside with openwork birds and beasts amid curling foliage. The back of the buckle mount is engraved with a man and woman in early 16th century dress, standing in front of a wall on which there is a ewer. Over their heads is a coiling scroll inscribed ACLĀVVΛ. The back of the belt end is engraved with a half sun; the two small holes for attachment to the belt have lines engraved around them to resemble stars."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1950"],
+            "value": ["1950"],
+            "latest": ["1950"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["The Friends of the Fitzwilliam Museum"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149645"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149645"],
+            "agent": ["agent-149645"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["1500"],
+              "value": ["1500"],
+              "latest": ["1500"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["1510"],
+              "value": ["1510"],
+              "latest": ["1510"]
+            },
+            "earliest": ["1500"],
+            "latest": ["1510"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["early 16th Century"],
+            "period": ["term-106256"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106256"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106256"]
+          },
+          {
+            "summary_title": ["Renaissance"],
+            "period": ["term-10618"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-10618"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-10618"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["maker"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Augsburg"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-108955"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-108955"],
+            "place": ["term-108955"],
+            "coordinates": {
+              "lat": ["48.3668041"],
+              "lng": ["10.8986971"]
+            },
+            "note": ["probably"],
+            "hierarchies": [
+              {
+                "summary_title": ["Germany"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "school_or_style": [
+      {
+        "term": ["term-10618"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-10618"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-10618"],
+        "summary_title": ["Renaissance"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Belt"],
+        "materials": [
+          {
+            "term": ["term-40762"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-40762"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-40762"],
+            "summary_title": ["velvet"]
+          }
+        ]
+      },
+      {
+        "name": ["Buckle & Belt End"],
+        "materials": [
+          {
+            "term": ["term-115571"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-115571"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-115571"],
+            "summary_title": ["silver-gilt"]
+          }
+        ]
+      },
+      {
+        "name": ["Fabric"],
+        "materials": []
+      },
+      {
+        "name": ["Belt End"],
+        "materials": []
+      },
+      {
+        "name": ["Buckle & Mount"],
+        "materials": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-127916"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-127916"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-127916"],
+        "summary_title": ["girdle and buckle"]
+      }
+    ],
+    "inscription": [
+      {
+        "transcription": [
+          {
+            "value": ["ACLĀVVΛ"]
+          }
+        ],
+        "type": ["inscription"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-109541"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-109541"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-109541"],
+        "summary_title": ["jewellery"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "publications": [
+      {
+        "term": ["publication-3147"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-3147"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-3147"],
+        "summary_title": ["Friends of the Fitzwilliam Museum, Forty-second Annual Report, for the Year 1950"],
+        "page": ["5"],
+        "notes": ["Publ. p. 5, no. 2, illustrated."]
+      },
+      {
+        "term": ["publication-5348"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-5348"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-5348"],
+        "summary_title": ["European sculpture and works of art 900-1900"],
+        "page": ["21"],
+        "notes": ["Ref. p. 21, lot 31. Not similar, but reminiscent."]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-119018"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/119018"],
+    "object": ["object-119018"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
