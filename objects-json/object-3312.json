@@ -1,0 +1,246 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-106226"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106226"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106226"],
+        "summary_title": ["painting"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["2395"],
+        "type": ["accession number"],
+        "value": ["2395"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["3312"],
+        "type": ["priref"],
+        "value": ["3312"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/3312"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/3312"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Thomas Agnew & Sons Ltd, London, exh.'Recent pictures by British artists',  (47), bought F. Hindley Smith"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1596468696000"],
+      "id": ["object-3312"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["Miss Mary Coss"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1939"],
+            "value": ["1939"],
+            "latest": ["1939"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Hindley Smith, Frank"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-150002"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-150002"],
+            "agent": ["agent-150002"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "era": [
+              ["CE"]
+            ],
+            "earliest": ["1931"],
+            "value": ["1931"],
+            "latest": ["1931"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Grant, Duncan"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-54965"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-54965"],
+            "term": ["agent-54965"],
+            "role": [
+              {
+                "value": ["painter"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Rome"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106366"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106366"],
+            "place": ["term-106366"],
+            "coordinates": {
+              "lat": ["41.8933203"],
+              "lng": ["12.4829321"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Italy"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "school_or_style": [
+      {
+        "term": ["term-9168"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-9168"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-9168"],
+        "summary_title": ["British"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-40537"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-40537"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-40537"],
+            "summary_title": ["canvas board"]
+          }
+        ]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-30011"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-30011"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-30011"],
+        "summary_title": ["painting (image-making)"],
+        "descriptions": [
+          {
+            "description": ["oil on canvas covered board"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-106226"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106226"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106226"],
+        "summary_title": ["painting"]
+      }
+    ],
+    "inscription": [
+      {
+        "transcription": [
+          {
+            "value": ["D Grant"]
+          }
+        ],
+        "location": ["upper right"],
+        "type": ["signature"]
+      },
+      {
+        "transcription": [
+          {
+            "value": [".1 31"]
+          }
+        ],
+        "location": ["upper right"],
+        "type": ["date"]
+      },
+      {
+        "transcription": [
+          {
+            "value": ["Thomas Agnew & Sons, no. 7381, (both) London and Manchester addresses"]
+          }
+        ],
+        "location": ["verso"],
+        "type": ["label"]
+      },
+      {
+        "method": ["MS"],
+        "transcription": [
+          {
+            "value": ["Portrait of Miss Mary Coss by Duncan Grant"]
+          }
+        ],
+        "location": ["verso"],
+        "type": ["label"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-106226"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106226"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106226"],
+        "summary_title": ["painting"]
+      }
+    ],
+    "department": {
+      "value": ["Paintings, Drawings and Prints"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Height"],
+          "value": ["44.2"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Width"],
+          "value": ["35.3"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-144"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-144"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-144"],
+        "summary_title": ["Catalogue of Paintings in the Fitzwilliam Museum, Cambridge, Vol. III, British School"],
+        "page": ["95-96"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-3312"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/3312"],
+    "object": ["object-3312"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
