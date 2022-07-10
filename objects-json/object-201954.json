@@ -1,0 +1,155 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-29447"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-29447"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-29447"],
+        "summary_title": ["fresco painting"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1929"],
+            "value": ["1929"],
+            "latest": ["1929"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["The Friends of the Fitzwilliam Museum"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149645"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149645"],
+            "agent": ["agent-149645"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "precision": ["circa"],
+            "earliest": ["1600"],
+            "value": ["1600"],
+            "latest": ["1600"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Ming Dynasty"],
+            "period": ["term-117335"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-117335"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117335"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["maker"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["O.44-1929"],
+        "type": ["accession number"],
+        "value": ["O.44-1929"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["201954"],
+        "type": ["priref"],
+        "value": ["201954"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/201954"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/201954"]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-106226"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106226"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106226"],
+        "summary_title": ["painting"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-29447"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-29447"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-29447"],
+        "summary_title": ["fresco painting"]
+      }
+    ],
+    "admin": {
+      "created": ["1435315908000"],
+      "modified": ["1435316250000"],
+      "id": ["object-201954"]
+    },
+    "description": [
+      {
+        "value": ["Part of a fresco, depicting an empress with attendants.  One walks in front, while there are two either side of her with fans, and they are crossing a bridge.  Part of a building is on the left, with foliage on the right.  The colours used are red, olive green, grey, dull yellow, and gold.  Painted details in relief."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-106226"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106226"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106226"],
+        "summary_title": ["painting"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Height"],
+          "value": ["49.5"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Width"],
+          "value": ["44.5"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-201954"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/201954"],
+    "object": ["object-201954"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

@@ -1,0 +1,150 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-110835"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110835"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110835"],
+        "summary_title": ["key"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1912"],
+            "value": ["1912"],
+            "latest": ["1912"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Marlay, Charles Brinsley"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149674"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149674"],
+            "agent": ["agent-149674"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["1600"],
+              "value": ["1600"],
+              "latest": ["1600"]
+            },
+            "to": {
+              "earliest": ["1699"],
+              "value": ["1699"],
+              "latest": ["1699"]
+            },
+            "earliest": ["1600"],
+            "latest": ["1699"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["17th Century"],
+            "period": ["term-106447"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106447"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106447"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["maker"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["MAR.M.234-1912"],
+        "type": ["accession number"],
+        "value": ["MAR.M.234-1912"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["201736"],
+        "type": ["priref"],
+        "value": ["201736"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/201736"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/201736"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-110835"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110835"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110835"],
+        "summary_title": ["key"]
+      }
+    ],
+    "admin": {
+      "created": ["1433422978000"],
+      "modified": ["1452005571000"],
+      "id": ["object-201736"]
+    },
+    "description": [
+      {
+        "value": ["Iron key, with a piped stem, cut flange wards, a square flat collar, and a bow of geometrical open-work"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-42600"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-42600"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-42600"],
+        "summary_title": ["metalwork"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Length"],
+          "value": ["8.5"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-201736"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/201736"],
+    "object": ["object-201736"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

@@ -1,0 +1,169 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-107484"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107484"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107484"],
+        "summary_title": ["plaque"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1939"],
+            "value": ["1939-11-18"],
+            "latest": ["1939"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Hanson, H."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-193379"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-193379"],
+            "agent": ["agent-193379"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["1600"],
+              "value": ["1600"],
+              "latest": ["1600"]
+            },
+            "to": {
+              "earliest": ["1799"],
+              "value": ["1799"],
+              "latest": ["1799"]
+            },
+            "earliest": ["1600"],
+            "latest": ["1799"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["17th-18th Century"],
+            "period": ["term-120892"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-120892"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-120892"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["maker"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["O.2-1939"],
+        "type": ["accession number"],
+        "value": ["O.2-1939"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["201996"],
+        "type": ["priref"],
+        "value": ["201996"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/201996"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/201996"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Frame"],
+        "materials": [
+          {
+            "term": ["term-106692"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106692"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106692"],
+            "summary_title": ["wood"]
+          }
+        ]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-29586"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-29586"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-29586"],
+        "summary_title": ["cloisonné"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-107484"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107484"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107484"],
+        "summary_title": ["plaque"]
+      }
+    ],
+    "admin": {
+      "created": ["1435685420000"],
+      "modified": ["1610471555000"],
+      "id": ["object-201996"]
+    },
+    "description": [
+      {
+        "value": ["Enamel plaque with a wooden frame, depicting Taoist deities in the guise of children in a garden.  The plaque has dark blue and turquoise grounds."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-107484"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107484"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107484"],
+        "summary_title": ["plaque"]
+      },
+      {
+        "term": ["term-32638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-32638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-32638"],
+        "summary_title": ["enamel"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-201996"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/201996"],
+    "object": ["object-201996"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
