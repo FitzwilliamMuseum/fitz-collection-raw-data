@@ -1,0 +1,233 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-42208"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-42208"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-42208"],
+        "summary_title": ["sword"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["MAR.ARM.O.185-1912"],
+        "type": ["accession number"],
+        "value": ["MAR.ARM.O.185-1912"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["169135"],
+        "type": ["priref"],
+        "value": ["169135"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/169135"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/169135"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1582636670000"],
+      "id": ["object-169135"]
+    },
+    "description": [
+      {
+        "value": ["Long, straight, double edged blade with gold damascened floral decoration. Attached to carved jade hilt with buckle bow and knot finial. Scabbard set with turquoises and garnets. Three gold bands embossed with floral scrolls. Top end mounted with ivory, engraved and set with turquoises. Two plain gold bands holding carrying rings. Mughal."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1912"],
+            "value": ["1912"],
+            "latest": ["1912"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Marlay, Charles Brinsley"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149674"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149674"],
+            "agent": ["agent-149674"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["1600"],
+              "value": ["1600"],
+              "latest": ["1600"]
+            },
+            "to": {
+              "earliest": ["1699"],
+              "value": ["1699"],
+              "latest": ["1699"]
+            },
+            "earliest": ["1600"],
+            "latest": ["1699"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["17th Century"],
+            "period": ["term-106447"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106447"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106447"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["production"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "school_or_style": [
+      {
+        "term": ["term-14024"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-14024"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-14024"],
+        "summary_title": ["Mughal"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Scabbard, Top End"],
+        "materials": [
+          {
+            "term": ["term-31100"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-31100"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-31100"],
+            "summary_title": ["turquoise"]
+          }
+        ]
+      },
+      {
+        "name": ["Scabbard"],
+        "materials": [
+          {
+            "term": ["term-32060"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-32060"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-32060"],
+            "summary_title": ["garnet"]
+          }
+        ]
+      },
+      {
+        "name": ["Hilt"],
+        "materials": [
+          {
+            "term": ["term-32103"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-32103"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-32103"],
+            "summary_title": ["jade"]
+          }
+        ]
+      },
+      {
+        "name": ["Decoration"],
+        "materials": [
+          {
+            "term": ["term-39593"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39593"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39593"],
+            "summary_title": ["gold"]
+          }
+        ]
+      },
+      {
+        "name": ["Top End"],
+        "materials": [
+          {
+            "term": ["term-40149"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-40149"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-40149"],
+            "summary_title": ["ivory"]
+          }
+        ]
+      },
+      {
+        "name": ["Blade"],
+        "materials": []
+      },
+      {
+        "name": ["Sword"],
+        "materials": []
+      },
+      {
+        "name": ["Gold Ends"],
+        "materials": []
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-120077"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-120077"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-120077"],
+        "summary_title": ["insetting (process)"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-42208"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-42208"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-42208"],
+        "summary_title": ["sword"]
+      },
+      {
+        "term": ["term-89295"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89295"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89295"],
+        "summary_title": ["scabbard"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-86575"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-86575"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-86575"],
+        "summary_title": ["weapons"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-169135"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/169135"],
+    "object": ["object-169135"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
