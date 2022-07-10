@@ -1,0 +1,155 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["2009"],
+            "value": ["2009"],
+            "latest": ["2009"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Gray, Jonathan"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-193981"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-193981"],
+            "agent": ["agent-193981"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "era": [
+              ["CE"]
+            ],
+            "earliest": ["1808"],
+            "value": ["1808"],
+            "latest": ["1808"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["19th century"],
+            "period": ["term-106853"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106853"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106853"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Phipps & Robinson"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-188402"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-188402"],
+            "term": ["agent-188402"],
+            "role": [
+              {
+                "value": ["silversmith"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["London"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106216"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106216"],
+            "place": ["term-106216"],
+            "coordinates": {
+              "lat": ["51.5073219"],
+              "lng": ["-0.1276474"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["England"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["AAL.37-2009"],
+        "type": ["accession number"],
+        "value": ["AAL.37-2009"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["208673"],
+        "type": ["priref"],
+        "value": ["208673"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/208673"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/208673"]
+      }
+    ],
+    "name": [
+      {
+        "value": ["wine label"]
+      }
+    ],
+    "admin": {
+      "created": ["1462360187000"],
+      "modified": ["1569413129000"],
+      "id": ["object-208673"]
+    },
+    "description": [
+      {
+        "value": ["wine label"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-193982"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-193982"],
+        "owner": ["agent-193982"],
+        "summary_title": ["The Bill Gray Collection"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-39778"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39778"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39778"],
+        "summary_title": ["silver"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Diameter"],
+          "value": ["3.8"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Height"],
+          "value": ["2.2"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-208673"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/208673"],
+    "object": ["object-208673"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-89480"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89480"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89480"],
+        "summary_title": ["vase"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["1986"],
+            "value": ["1986"],
+            "latest": ["1986"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Jenyns, Roger"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-195060"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-195060"],
+            "agent": ["agent-195060"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["1675"],
+              "value": ["1675"],
+              "latest": ["1675"]
+            },
+            "to": {
+              "earliest": ["1725"],
+              "value": ["1725"],
+              "latest": ["1725"]
+            },
+            "earliest": ["1675"],
+            "latest": ["1725"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Edo Period (1615-1868)"],
+            "period": ["term-109673"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-109673"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-109673"]
+          },
+          {
+            "summary_title": ["late 17th-early 18th Century"],
+            "period": ["term-120948"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-120948"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-120948"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Arita Kilns"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-195101"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-195101"],
+            "term": ["agent-195101"],
+            "role": [
+              {
+                "value": ["production"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Arita"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-15025"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-15025"],
+            "place": ["term-15025"],
+            "coordinates": {
+              "lat": ["33.192301"],
+              "lng": ["129.8669613"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Japan"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Hizen"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["JL.100-1986"],
+        "type": ["accession number"],
+        "value": ["JL.100-1986"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["208884"],
+        "type": ["priref"],
+        "value": ["208884"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/208884"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/208884"]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-28386"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-28386"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-28386"],
+        "summary_title": ["throwing (pottery technique)"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-89480"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89480"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89480"],
+        "summary_title": ["vase"]
+      }
+    ],
+    "admin": {
+      "created": ["1464020543000"],
+      "modified": ["1569413150000"],
+      "id": ["object-208884"]
+    },
+    "description": [
+      {
+        "value": ["Hard-paste porcelain cylindrical vase (rollwagon). Thrown, painted underglaze in blue with figures in landscape."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-195060"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-195060"],
+        "owner": ["agent-195060"],
+        "summary_title": ["Jenyns, Roger"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-37627"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-37627"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-37627"],
+        "summary_title": ["hard-paste porcelain"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-208884"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/208884"],
+    "object": ["object-208884"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

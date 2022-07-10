@@ -1,0 +1,273 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-88053"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-88053"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-88053"],
+        "summary_title": ["watch"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1913"],
+            "value": ["1913-06-05"],
+            "latest": ["1913"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Smart, Frank Gray"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-167062"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-167062"],
+            "agent": ["agent-167062"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "note": [
+              {
+                "value": ["Movement circa 1880, case circa 1650"]
+              }
+            ],
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["1650"],
+              "value": ["1650"],
+              "latest": ["1650"]
+            },
+            "to": {
+              "precision": ["circa"],
+              "earliest": ["1880"],
+              "value": ["1880"],
+              "latest": ["1880"]
+            },
+            "earliest": ["1650"],
+            "latest": ["1880"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Mallet, G."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-194032"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-194032"],
+            "term": ["agent-194032"],
+            "role": [
+              {
+                "value": ["maker"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Clermont-Ferrand"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106758"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106758"],
+            "place": ["term-106758"],
+            "coordinates": {
+              "lat": ["45.7774551"],
+              "lng": ["3.0819427"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["France"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["M/P.27-1913"],
+        "type": ["accession number"],
+        "value": ["M/P.27-1913"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["207162"],
+        "type": ["priref"],
+        "value": ["207162"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/207162"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/207162"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Case, Dial"],
+        "materials": [
+          {
+            "term": ["term-109055"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-109055"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-109055"],
+            "summary_title": ["gilt brass"]
+          }
+        ]
+      },
+      {
+        "name": ["Movement, Fusee Post"],
+        "materials": [
+          {
+            "term": ["term-114506"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-114506"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-114506"],
+            "summary_title": ["iron"]
+          }
+        ]
+      },
+      {
+        "name": ["Fusee"],
+        "materials": [
+          {
+            "term": ["term-32966"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-32966"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-32966"],
+            "summary_title": ["gut"]
+          }
+        ]
+      },
+      {
+        "name": ["Alarm Disc"],
+        "materials": [
+          {
+            "term": ["term-39778"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39778"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39778"],
+            "summary_title": ["silver"]
+          }
+        ]
+      },
+      {
+        "name": ["Movement"],
+        "materials": [
+          {
+            "term": ["term-40136"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-40136"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-40136"],
+            "summary_title": ["steel"]
+          },
+          {
+            "term": ["term-40335"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-40335"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-40335"],
+            "summary_title": ["brass (alloy)"]
+          }
+        ]
+      },
+      {
+        "name": ["Movement (top Plate)"],
+        "materials": []
+      },
+      {
+        "name": ["Movement (pillar Plate)"],
+        "materials": []
+      },
+      {
+        "name": ["Movement (brass Edge)"],
+        "materials": []
+      },
+      {
+        "name": ["Case"],
+        "materials": []
+      },
+      {
+        "name": ["Movement (pillar)"],
+        "materials": []
+      },
+      {
+        "name": ["Movement, Dial"],
+        "materials": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-88053"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-88053"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-88053"],
+        "summary_title": ["watch"]
+      },
+      {
+        "value": ["verge clock-watch"]
+      }
+    ],
+    "admin": {
+      "created": ["1448884721000"],
+      "modified": ["1521041659000"],
+      "id": ["object-207162"]
+    },
+    "description": [
+      {
+        "value": ["Verge clock watch with alarm, in gilt and silver case.\n\nMOVEMENT: Full plate movement engraved 'G. Mallet Cermont'. Balance cock with pierced and engraved oval table and foot, fixed by a screw. End of table missing, repaired with soft solder at neck. Gilt brass pierced and engraved set up cock, secured by a screw, with blued steel spring. Cock over locking plate with pierced and engraved table and engraved foot, secured by screw. Brass locking plate with radial Arabic hours. Striking and alarm stop work missing. Plate engraved with two sets of double lines around edge, engraved as above between lines. Double and single ring engraved, about 1/3rd plate diameter, and line around escapement rectangular cut-out. Potance and alarm potance riveted, ends engraved with a flower. Rectangular section, segment profile, fusee iron post. Case bolt on brass edge missing. Striking barrel with pierced panel, decorated iron gates. Rectangular potance riveted to plate, counter-potance screwed to plate. Alarm potance rectangular engraved and formed. Pillar plate with five turned baluster pillars with square ends. Second and contrate bar for time and alarm trains. Split fusee, set-up click on top plate, barrel with top lip. Verge escapement. Train planted anti-clockwise. Striking train with weight on last arbour. Hammer, clockwise, under great wheel, planted anti-clockwise. Alarm main wheel brass, rest iron, planted anti-clockwise. Hammer under time barrel and alarm train. \n\nBRASS EDGE: Case bolt missing. Pinion of report prevents the brass edge fitting down. Electro-gilt.\n\nDIAL PLATE: Electro-gilt brass with four tabs to fit case. Front engraved with foliage and birds outside applied chapter ring. Scratched on edge 'E. M. A.'\n\nCHAPTER RING: Silver engraved with radial Roman chapters and half-hour marks.\n\nALARM DISC: Silver engraved with radial Arabic hours, pin hole at 12, centre engraved with flowers. No alarm cam under dial, 19th century (?) minute wheel fitted to hour hand, wheel does not reach replaced pinion of report.\n\nBELL: Thin with straight sides\n\nCASE: Gilt brass with silver band. Body, straight sides with raised bands at ends, central semi-circular band pierced and engraved. Back pierced and engraved with verse, flowers and foliage, turned silver drop, turned verse shaped gilt brass pendant with ring. Cover gilt brass pierced and engraved inside and out."]
+      }
+    ],
+    "inscription": [
+      {
+        "method": ["engraved"],
+        "transcription": [
+          {
+            "value": ["G. Mallet Cermont"]
+          }
+        ],
+        "location": ["movement"],
+        "type": ["maker's name"]
+      },
+      {
+        "method": ["scratched"],
+        "transcription": [
+          {
+            "value": ["'E. M. A'"]
+          }
+        ],
+        "location": ["dial plate"],
+        "type": ["name"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-88414"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-88414"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-88414"],
+        "summary_title": ["watches"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-207162"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/207162"],
+    "object": ["object-207162"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

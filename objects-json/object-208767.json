@@ -1,0 +1,149 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-120865"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-120865"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-120865"],
+        "summary_title": ["measure"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["1969"],
+            "value": ["1969"],
+            "latest": ["1969"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Trinity College, Cambridge"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-169619"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-169619"],
+            "agent": ["agent-169619"]
+          }
+        }
+      },
+      "creation": {
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["pewterer"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["AAL.2-1969"],
+        "type": ["accession number"],
+        "value": ["AAL.2-1969"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["208767"],
+        "type": ["priref"],
+        "value": ["208767"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/208767"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/208767"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-120865"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-120865"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-120865"],
+        "summary_title": ["measure"]
+      }
+    ],
+    "admin": {
+      "created": ["1463057124000"],
+      "modified": ["1569413140000"],
+      "id": ["object-208767"]
+    },
+    "description": [
+      {
+        "value": ["Measure, pewter of baluster form with a bud thumb-piece attached to the cover with a three-tiered flat wedge. Initials 'EW' are struck on the cover. \nMarks: ?G over IW in a square outlined, and the maker’s touch, RB with bird and date 16?"]
+      }
+    ],
+    "inscription": [
+      {
+        "method": ["struck"],
+        "transcription": [
+          {
+            "value": ["'EW'"]
+          }
+        ],
+        "location": ["cover"],
+        "type": ["initials"]
+      },
+      {
+        "transcription": [
+          {
+            "value": ["?'G' over 'IW'"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["in a square outlined"]
+          }
+        ],
+        "type": ["mark"]
+      },
+      {
+        "transcription": [
+          {
+            "value": ["'RB' with bird and date 16?"]
+          }
+        ],
+        "type": ["maker's mark"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-169619"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-169619"],
+        "owner": ["agent-169619"],
+        "summary_title": ["Trinity College, Cambridge"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-40400"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-40400"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-40400"],
+        "summary_title": ["pewter"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-208767"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/208767"],
+    "object": ["object-208767"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

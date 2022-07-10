@@ -1,0 +1,157 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-110401"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110401"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110401"],
+        "summary_title": ["display case"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bought"],
+        "date": [
+          {
+            "earliest": ["1978"],
+            "value": ["1978"],
+            "latest": ["1978"]
+          }
+        ]
+      },
+      "creation": {
+        "maker": {
+          "maker": {
+            "summary_title": ["Makepeace, John"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-84025"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-84025"],
+            "term": ["agent-84025"],
+            "role": [
+              {
+                "value": ["maker"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Beaminster"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-110400"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110400"],
+            "place": ["term-110400"],
+            "coordinates": {
+              "lat": ["50.8097736"],
+              "lng": ["-2.7392749"]
+            }
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["Unaccessioned"],
+        "type": ["accession number"],
+        "value": ["Unaccessioned"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["20994"],
+        "type": ["priref"],
+        "value": ["20994"]
+      },
+      {
+        "source": ["packing no. allocated by Wendy Rose, Reitlinger Trust"],
+        "type": ["old object number"],
+        "value": ["CHICER/116(3)"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/20994"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/20994"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Showcase"],
+        "materials": [
+          {
+            "term": ["term-32234"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-32234"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-32234"],
+            "summary_title": ["wood (plant material)"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-110401"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110401"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110401"],
+        "summary_title": ["display case"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1582633108000"],
+      "id": ["object-20994"]
+    },
+    "description": [
+      {
+        "value": ["Blue lined wooden showcase, with three pedestals."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-67107"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-67107"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-67107"],
+        "summary_title": ["furniture"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Depth"],
+          "value": ["14.5"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Diameter"],
+          "value": ["37.0"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Height"],
+          "value": ["25.4"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-20994"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/20994"],
+    "object": ["object-20994"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

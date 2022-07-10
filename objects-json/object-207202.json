@@ -1,0 +1,213 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-89480"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89480"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89480"],
+        "summary_title": ["vase"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["C.265-2015"],
+        "type": ["accession number"],
+        "value": ["C.265-2015"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["207202"],
+        "type": ["priref"],
+        "value": ["207202"]
+      },
+      {
+        "value": ["1381"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/207202"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/207202"]
+      }
+    ],
+    "admin": {
+      "created": ["1449071536000"],
+      "modified": ["1504709144000"],
+      "id": ["object-207202"]
+    },
+    "description": [
+      {
+        "value": ["White earthenware, slip cast,  the exterior painted in black enamel over cream glaze, and the interior glazed yellow. The vase is pine-cone-shaped with smooth sides and has an oval aperture on one side of the apex.The exterior is decorated overall with black streaks."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["2015"],
+            "value": ["2015"],
+            "latest": ["2015"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Zolman, N. J."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-173423"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-173423"],
+            "agent": ["agent-173423"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "era": [
+              ["CE"]
+            ],
+            "precision": ["circa"],
+            "earliest": ["1960"],
+            "value": ["1960"],
+            "latest": ["1960"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["third quarter of 20th Century"],
+            "period": ["term-120080"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-120080"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-120080"]
+          },
+          {
+            "summary_title": ["Elizabeth II"],
+            "period": ["term-107700"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-107700"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107700"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["John Beswick Ltd."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-194080"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-194080"],
+            "term": ["agent-194080"],
+            "role": [
+              {
+                "value": ["factory"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Longton"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-110418"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110418"],
+            "place": ["term-110418"],
+            "coordinates": {
+              "lat": ["37.3778244"],
+              "lng": ["-96.0808216"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["England"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Staffordshire"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "component": [
+      {
+        "name": ["Mark"],
+        "materials": []
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-28662"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-28662"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-28662"],
+        "summary_title": ["enamelling"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-89480"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89480"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89480"],
+        "summary_title": ["vase"]
+      }
+    ],
+    "inscription": [
+      {
+        "method": ["impresssed"],
+        "transcription": [
+          {
+            "value": ["BESWICK ENGLAND"]
+          }
+        ],
+        "location": ["on base"],
+        "type": ["factory mark"]
+      },
+      {
+        "method": ["printed in dark blue"],
+        "transcription": [
+          {
+            "value": ["BESWICK/ENGLAND/REGISTRATION/APPLIED FOR"]
+          }
+        ],
+        "location": ["on base"],
+        "type": ["factory mark"]
+      },
+      {
+        "method": ["integrally moulded in relief"],
+        "transcription": [
+          {
+            "value": ["1381"]
+          }
+        ],
+        "location": ["on base"],
+        "type": ["mark"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-108838"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-108838"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-108838"],
+        "summary_title": ["glazed earthenware"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-207202"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/207202"],
+    "object": ["object-207202"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

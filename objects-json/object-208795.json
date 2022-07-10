@@ -1,0 +1,177 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-118890"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-118890"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-118890"],
+        "summary_title": ["horse"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["1992"],
+            "value": ["1992"],
+            "latest": ["1992"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Anonymous"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149647"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149647"],
+            "agent": ["agent-149647"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["after"],
+              "earliest": ["1600"],
+              "value": ["1600"],
+              "latest": ["1600"]
+            },
+            "to": {
+              "precision": ["before"],
+              "earliest": ["1650"],
+              "value": ["1650"],
+              "latest": ["1650"]
+            },
+            "earliest": ["1600"],
+            "latest": ["1650"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["first half of 17th century"],
+            "period": ["term-110396"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-110396"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110396"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["maker"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Augsburg"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-108955"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-108955"],
+            "place": ["term-108955"],
+            "coordinates": {
+              "lat": ["48.3668041"],
+              "lng": ["10.8986971"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Germany"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["AAL.3-1992"],
+        "type": ["accession number"],
+        "value": ["AAL.3-1992"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["208795"],
+        "type": ["priref"],
+        "value": ["208795"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/208795"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/208795"]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-26699"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-26699"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-26699"],
+        "summary_title": ["casting (process)"],
+        "descriptions": []
+      },
+      {
+        "term": ["term-29641"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-29641"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-29641"],
+        "summary_title": ["chasing"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-118890"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-118890"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-118890"],
+        "summary_title": ["horse"]
+      }
+    ],
+    "admin": {
+      "created": ["1463486344000"],
+      "modified": ["1569413145000"],
+      "id": ["object-208795"]
+    },
+    "description": [
+      {
+        "value": ["Horse, bronze, cast and chased"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149647"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149647"],
+        "owner": ["agent-149647"],
+        "summary_title": ["Anonymous"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-40365"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-40365"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-40365"],
+        "summary_title": ["bronze"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-208795"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/208795"],
+    "object": ["object-208795"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
