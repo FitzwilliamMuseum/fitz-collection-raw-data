@@ -1,0 +1,228 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-98032"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98032"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98032"],
+        "summary_title": ["print"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["P.1023-R"],
+        "type": ["accession number"],
+        "value": ["P.1023-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["2057"],
+        "type": ["priref"],
+        "value": ["2057"]
+      },
+      {
+        "date": [
+          {
+            "earliest": ["1887"],
+            "value": ["1887"],
+            "latest": ["1887"]
+          }
+        ],
+        "type": ["Béraldi"],
+        "value": ["14"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/2057"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/2057"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1596468524000"],
+      "id": ["object-2057"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "title": [
+      {
+        "type": ["assigned"],
+        "value": ["The Van der Paele Altarpiece"]
+      },
+      {
+        "value": ["la Vierge adorée par Saint Georges et Saint Donatien et le Chanoine Van der Paele"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1915"],
+            "value": ["1915-07"],
+            "latest": ["1907"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Bliss, James Howard"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-175656"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-175656"],
+            "agent": ["agent-175656"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "era": [
+              ["CE"]
+            ],
+            "earliest": ["1887"],
+            "value": ["1887"],
+            "latest": ["1887"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Dumont, L."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-150456"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-150456"],
+            "term": ["agent-150456"],
+            "role": [
+              {
+                "value": ["publisher"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Paris"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-129470"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-129470"],
+            "place": ["term-129470"],
+            "coordinates": {
+              "lat": ["48.8588897"],
+              "lng": ["2.3200410217201"]
+            }
+          }
+        ]
+      }
+    },
+    "school_or_style": [
+      {
+        "term": ["term-8399"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-8399"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-8399"],
+        "summary_title": ["French"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-32211"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-32211"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-32211"],
+            "summary_title": ["vellum (skin)"]
+          }
+        ]
+      },
+      {
+        "name": ["Plate"],
+        "materials": []
+      },
+      {
+        "name": ["Sheet"],
+        "materials": []
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-99807"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-99807"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-99807"],
+        "summary_title": ["etching"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-98032"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98032"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98032"],
+        "summary_title": ["print"]
+      }
+    ],
+    "inscription": [
+      {
+        "method": ["graphite"],
+        "transcription": [
+          {
+            "value": ["Gaujean"]
+          }
+        ],
+        "location": ["lower right"],
+        "type": ["signature"]
+      },
+      {
+        "method": ["printed"],
+        "transcription": [
+          {
+            "value": ["L. Dumont Editeur, 21 Quai des Grands Augstins, Paris"]
+          }
+        ],
+        "location": ["upper right"],
+        "type": ["signature"]
+      },
+      {
+        "method": ["embossed"],
+        "transcription": [
+          {
+            "value": ["B.S."]
+          }
+        ],
+        "description": [
+          {
+            "value": ["initials B.S. inscribed in an oval"]
+          }
+        ],
+        "location": ["lower left"],
+        "type": ["stamp"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-98032"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98032"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98032"],
+        "summary_title": ["print"]
+      }
+    ],
+    "department": {
+      "value": ["Paintings, Drawings and Prints"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-2057"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/2057"],
+    "object": ["object-2057"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

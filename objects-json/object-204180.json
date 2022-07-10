@@ -1,0 +1,283 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-98032"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98032"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98032"],
+        "summary_title": ["print"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["P.10-2014"],
+        "type": ["accession number"],
+        "value": ["P.10-2014"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["204180"],
+        "type": ["priref"],
+        "value": ["204180"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/204180"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/204180"]
+      }
+    ],
+    "admin": {
+      "created": ["1435930146000"],
+      "modified": ["1582639974000"],
+      "id": ["object-204180"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "title": [
+      {
+        "type": ["assigned"],
+        "value": ["Cod, whiting and lobster"]
+      },
+      {
+        "type": ["series"],
+        "value": ["Piscum vivae icones (Living images of fish)"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["2014"],
+            "value": ["2014"],
+            "latest": ["2014"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["The Friends of the Fitzwilliam Museum"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149645"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149645"],
+            "agent": ["agent-149645"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["1600"],
+              "value": ["1600"],
+              "latest": ["1600"]
+            },
+            "earliest": ["1600"],
+            "latest": ["1600"]
+          },
+          {
+            "range": ["1"],
+            "to": {
+              "earliest": ["1610"],
+              "value": ["1610"],
+              "latest": ["1610"]
+            },
+            "earliest": ["1610"],
+            "latest": ["1610"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["17th Century"],
+            "period": ["term-106447"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106447"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106447"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Collaert, Adriaen"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-28844"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-28844"],
+            "term": ["agent-28844"],
+            "role": [
+              {
+                "value": ["publisher"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "school_or_style": [
+      {
+        "term": ["term-8407"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-8407"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-8407"],
+        "summary_title": ["Flemish"]
+      }
+    ],
+    "multimedia": [
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1550104827000"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/630/508/preview_P_10_2014_02_201406_mfj22_dc1.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["165"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1550104827000"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/630/508/P_10_2014_02_201406_mfj22_dc1.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["3972"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["6024"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1550104827000"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/630/508/large_P_10_2014_02_201406_mfj22_dc1.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["675"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["1024"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1550104827000"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/630/508/mid_P_10_2014_02_201406_mfj22_dc1.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["330"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        },
+        "zoom": {
+          "resizable": ["1"],
+          "format": ["pyramid tiff"],
+          "modified": ["1550104827000"],
+          "location": ["https://api.fitz.ms/iipsrv/iipsrv.fcgi?FIF=/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/630/508/P_10_2014_02_201406_mfj22_dc1.ptif&cvt=jpeg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["3972"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["6024"]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-29409"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-29409"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-29409"],
+        "summary_title": ["engraving"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-98032"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98032"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98032"],
+        "summary_title": ["print"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-98032"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98032"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98032"],
+        "summary_title": ["print"]
+      }
+    ],
+    "department": {
+      "value": ["Paintings, Drawings and Prints"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-204180"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/204180"],
+    "object": ["object-204180"],
+    "manifestURI": ["https://api.fitz.ms/data-distributor/iiif/object-204180/manifest"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
