@@ -1,0 +1,170 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-12401"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12401"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-12401"],
+        "summary_title": ["Greek"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["1982"],
+            "value": ["1982"],
+            "latest": ["1982"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Barker, Sir E."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-174472"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-174472"],
+            "agent": ["agent-174472"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["401"],
+              "value": ["-400"],
+              "latest": ["401"]
+            },
+            "to": {
+              "earliest": ["351"],
+              "value": ["-350"],
+              "latest": ["351"]
+            },
+            "earliest": ["401"],
+            "latest": ["351"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Aegina"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-174170"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-174170"],
+            "term": ["agent-174170"],
+            "role": [
+              {
+                "value": ["state"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Aegina"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-119456"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119456"],
+            "place": ["term-119456"],
+            "coordinates": {
+              "lat": ["37.72436935"],
+              "lng": ["23.493810921234"]
+            }
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.BK.500-R"],
+        "type": ["accession number"],
+        "value": ["CM.BK.500-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["134764"],
+        "type": ["priref"],
+        "value": ["134764"]
+      },
+      {
+        "type": ["othernumber"],
+        "value": ["SNG Cop.539"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/134764"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/134764"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Barker Collection."]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-12401"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12401"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-12401"],
+        "summary_title": ["Greek"]
+      }
+    ],
+    "admin": {
+      "created": ["1397472617000"],
+      "modified": ["1397473656000"],
+      "id": ["object-134764"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-174471"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-174471"],
+        "owner": ["agent-174471"],
+        "summary_title": ["Museum of Classical Archaeology"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["mm"],
+          "dimension": ["Image(height)"],
+          "value": ["12"]
+        },
+        {
+          "units": ["mm"],
+          "dimension": ["Image(width)"],
+          "value": ["11"]
+        },
+        {
+          "units": ["g"],
+          "dimension": ["Weight"],
+          "value": ["1.46"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-134764"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/134764"],
+    "object": ["object-134764"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

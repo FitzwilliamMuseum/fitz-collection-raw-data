@@ -1,0 +1,163 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-12401"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12401"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-12401"],
+        "summary_title": ["Greek"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bought"],
+        "date": [
+          {
+            "earliest": ["1864"],
+            "value": ["1864"],
+            "latest": ["1864"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Leake, William Martin"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-77439"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-77439"],
+            "agent": ["agent-77439"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "era": [
+              ["BCE"]
+            ],
+            "precision": ["circa"],
+            "earliest": ["581"],
+            "value": ["-580"],
+            "latest": ["581"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Teos"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-170332"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-170332"],
+            "term": ["agent-170332"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.LK.9110-R"],
+        "type": ["accession number"],
+        "value": ["CM.LK.9110-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["134264"],
+        "type": ["priref"],
+        "value": ["134264"]
+      },
+      {
+        "type": ["SNG"],
+        "value": ["4586"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/134264"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/134264"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Leake, W.M."]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-12401"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12401"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-12401"],
+        "summary_title": ["Greek"]
+      },
+      {
+        "term": ["term-119526"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119526"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119526"],
+        "summary_title": ["Ionia"]
+      },
+      {
+        "term": ["term-119506"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119506"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119506"],
+        "summary_title": ["hecte"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1432115062000"],
+      "id": ["object-134264"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["mm"],
+          "dimension": ["Image(height)"],
+          "value": ["10"]
+        },
+        {
+          "units": ["mm"],
+          "dimension": ["Image(width)"],
+          "value": ["10"]
+        },
+        {
+          "units": ["g"],
+          "dimension": ["Weight"],
+          "value": ["2.7"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-134264"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/134264"],
+    "object": ["object-134264"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

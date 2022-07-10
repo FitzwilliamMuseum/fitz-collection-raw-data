@@ -1,0 +1,177 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-101420"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101420"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101420"],
+        "summary_title": ["shilling"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["2002"],
+            "value": ["2002-10-14"],
+            "latest": ["2002"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["The Friends of the Fitzwilliam Museum"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149645"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149645"],
+            "agent": ["agent-149645"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "era": [
+              ["CE"]
+            ],
+            "precision": ["circa"],
+            "earliest": ["630"],
+            "value": ["0630"],
+            "latest": ["630"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Canterbury"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-159959"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159959"],
+            "term": ["agent-159959"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Canterbury"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-109549"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-109549"],
+            "place": ["term-109549"],
+            "coordinates": {
+              "lat": ["51.2800275"],
+              "lng": ["1.0802533"]
+            }
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.778-2002"],
+        "type": ["accession number"],
+        "value": ["CM.778-2002"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["135212"],
+        "type": ["priref"],
+        "value": ["135212"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/135212"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/135212"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Purchased from Mr C. Bradshaw (finder) and T. Hume & Son Farmers (landowner) with the aid of a grant from the National Art Collections Fund. Found Goodnestone, Kent, September 2001."]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-101420"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101420"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101420"],
+        "summary_title": ["shilling"]
+      },
+      {
+        "term": ["term-10603"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-10603"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-10603"],
+        "summary_title": ["Medieval"]
+      },
+      {
+        "term": ["term-12571"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12571"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-12571"],
+        "summary_title": ["Early Medieval"]
+      },
+      {
+        "term": ["term-14584"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-14584"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-14584"],
+        "summary_title": ["Anglo-Saxon"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1607592421000"],
+      "id": ["object-135212"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["mm"],
+          "dimension": ["Image(height)"],
+          "value": ["11"]
+        },
+        {
+          "units": ["mm"],
+          "dimension": ["Image(width)"],
+          "value": ["11"]
+        },
+        {
+          "units": ["g"],
+          "dimension": ["Weight"],
+          "value": ["1.28"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-135212"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/135212"],
+    "object": ["object-135212"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
