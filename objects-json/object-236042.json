@@ -1,0 +1,189 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-12401"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12401"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-12401"],
+        "summary_title": ["Greek"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1906"],
+            "value": ["1906-11-22"],
+            "latest": ["1906"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["McClean, J. R."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159486"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159486"],
+            "agent": ["agent-159486"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["134"],
+              "value": ["-133"],
+              "latest": ["134"]
+            },
+            "to": {
+              "precision": ["circa"],
+              "earliest": ["4801"],
+              "value": ["-48"],
+              "latest": ["4900"]
+            },
+            "earliest": ["134"],
+            "latest": ["4900"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Apameia"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-170363"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-170363"],
+            "term": ["agent-170363"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.MC.8765-R"],
+        "type": ["accession number"],
+        "value": ["CM.MC.8765-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["236042"],
+        "type": ["priref"],
+        "value": ["236042"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/236042"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/236042"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-40365"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-40365"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-40365"],
+            "summary_title": ["bronze"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-12401"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12401"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-12401"],
+        "summary_title": ["Greek"]
+      },
+      {
+        "term": ["term-119559"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119559"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119559"],
+        "summary_title": ["Phrygia"]
+      },
+      {
+        "term": ["term-136340"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-136340"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-136340"],
+        "summary_title": ["Apameia"]
+      }
+    ],
+    "admin": {
+      "created": ["1568048037000"],
+      "modified": ["1568048610000"],
+      "id": ["object-236042"]
+    },
+    "inscription": [
+      {
+        "description": [
+          {
+            "value": ["Draped bust of Athene, right, wearing crested Corinthian helmet decorated with griffin running right."]
+          }
+        ],
+        "location": ["obverse"],
+        "type": ["design"]
+      },
+      {
+        "transcription": [
+          {
+            "value": ["[???????] ???oKPAT[Ov?] API?[TEoY]"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Eagle flying right over maeander pattern, to left and right of which, caps of the Dioscuri surmounted by stars; magistrate's name below; city name above."]
+          }
+        ],
+        "location": ["reverse"],
+        "type": ["design"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "publications": [
+      {
+        "term": ["publication-7290"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-7290"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-7290"],
+        "summary_title": ["Catalogue of the McClean Collection of Greek Coins Volume III Asia Minor, Farther Asia, Egypt, Africa"],
+        "page": ["234"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-236042"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/236042"],
+    "object": ["object-236042"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
