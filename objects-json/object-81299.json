@@ -1,0 +1,189 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-98032"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98032"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98032"],
+        "summary_title": ["print"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["P.191-1949"],
+        "type": ["accession number"],
+        "value": ["P.191-1949"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["81299"],
+        "type": ["priref"],
+        "value": ["81299"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/81299"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/81299"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1623927360000"],
+      "id": ["object-81299"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["J. McLure Hamilton"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1949"],
+            "value": ["1949-10"],
+            "latest": ["1910"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Dodgson, Campbell"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-150855"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-150855"],
+            "agent": ["agent-150855"]
+          }
+        }
+      },
+      "creation": {
+        "maker": {
+          "maker": {
+            "summary_title": ["Hartrick, Archibald Standish"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-59684"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-59684"],
+            "term": ["agent-59684"],
+            "role": [
+              {
+                "value": ["printmaker"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "school_or_style": [
+      {
+        "term": ["term-9168"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-9168"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-9168"],
+        "summary_title": ["British"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-106206"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106206"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106206"],
+            "summary_title": ["paper"]
+          }
+        ]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-28409"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-28409"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-28409"],
+        "summary_title": ["colour printing"],
+        "descriptions": []
+      },
+      {
+        "term": ["term-29446"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-29446"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-29446"],
+        "summary_title": ["lithography"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-98032"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98032"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98032"],
+        "summary_title": ["print"]
+      }
+    ],
+    "inscription": [
+      {
+        "method": ["graphite"],
+        "transcription": [
+          {
+            "value": ["A. S. Hartrick"]
+          }
+        ],
+        "location": ["image lower left"],
+        "type": ["signature"]
+      },
+      {
+        "method": ["graphite"],
+        "transcription": [
+          {
+            "value": ["J. McLure Hamilton Esq"]
+          }
+        ],
+        "location": ["lower centre"],
+        "type": ["title"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-98032"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98032"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98032"],
+        "summary_title": ["print"]
+      }
+    ],
+    "department": {
+      "value": ["Paintings, Drawings and Prints"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["mm"],
+          "dimension": ["Height"],
+          "value": ["416"]
+        },
+        {
+          "units": ["mm"],
+          "dimension": ["Width"],
+          "value": ["272"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-81299"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/81299"],
+    "object": ["object-81299"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

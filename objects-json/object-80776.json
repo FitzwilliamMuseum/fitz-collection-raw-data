@@ -1,0 +1,150 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["2001"],
+            "value": ["2001"],
+            "latest": ["2001"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Lubbock, Joseph Guy"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-157865"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-157865"],
+            "agent": ["agent-157865"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "earliest": ["2000"],
+            "value": ["2000"],
+            "latest": ["2000"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Lubbock, Joseph Guy"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-157865"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-157865"],
+            "term": ["agent-157865"],
+            "role": [
+              {
+                "value": ["printer"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["London"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106216"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106216"],
+            "place": ["term-106216"],
+            "coordinates": {
+              "lat": ["51.5073219"],
+              "lng": ["-0.1276474"]
+            },
+            "note": ["possibly London"],
+            "hierarchies": [
+              {
+                "summary_title": ["England"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["PB 1-2001"],
+        "type": ["accession number"],
+        "value": ["PB 1-2001"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["80776"],
+        "type": ["priref"],
+        "value": ["80776"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/80776"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/80776"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Lubbock, Joe"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-106206"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106206"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106206"],
+            "summary_title": ["paper"]
+          }
+        ]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1467303383000"],
+      "id": ["object-80776"]
+    },
+    "description": [
+      {
+        "value": ["A book signed and illustrated by the author with ten hand- coloured prints made from copper plates.  No. 37 in a limited edition of 45 copies."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-102154"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-102154"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-102154"],
+        "summary_title": ["book"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["Loves, Lands, and Waters"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-80776"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/80776"],
+    "object": ["object-80776"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

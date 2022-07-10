@@ -1,0 +1,182 @@
+{
+  "data": {
+    "identifier": [
+      {
+        "accession_number": ["MS 8-2002"],
+        "type": ["accession number"],
+        "value": ["MS 8-2002"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["80489"],
+        "type": ["priref"],
+        "value": ["80489"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/80489"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/80489"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Lister, Raymond"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1598370415000"],
+      "id": ["object-80489"]
+    },
+    "description": [
+      {
+        "value": ["An illumination by Raymond Lister"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["The Garden of Ecstasy"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["2002"],
+            "value": ["2002"],
+            "latest": ["2002"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Lister, Raymond"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-152474"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-152474"],
+            "agent": ["agent-152474"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "era": [
+              ["CE"]
+            ],
+            "earliest": ["1963"],
+            "value": ["1963"],
+            "latest": ["1963"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Lister, Raymond"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-152474"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-152474"],
+            "term": ["agent-152474"],
+            "role": [
+              {
+                "value": ["artist"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Cambridge (Cambs.)"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106176"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106176"],
+            "place": ["term-106176"],
+            "coordinates": {
+              "lat": ["52.19758465"],
+              "lng": ["0.13915373736874"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["England"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Cambridgeshire"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-33926"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-33926"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-33926"],
+            "summary_title": ["paper (fibre product)"]
+          }
+        ]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-25908"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-25908"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-25908"],
+        "summary_title": ["illumination"],
+        "descriptions": []
+      }
+    ],
+    "inscription": [
+      {
+        "method": ["written in ink"],
+        "transcription": [
+          {
+            "value": ["For Teddy Cusdin, in gratitude for much kindness, Raymond Lister, 12th June 1965"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["title and note"]
+          }
+        ],
+        "location": ["back of frame"],
+        "type": ["title"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-25908"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-25908"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-25908"],
+        "summary_title": ["illumination"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-80489"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/80489"],
+    "object": ["object-80489"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

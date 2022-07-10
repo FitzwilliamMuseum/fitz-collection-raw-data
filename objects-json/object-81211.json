@@ -1,0 +1,294 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-97946"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-97946"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-97946"],
+        "summary_title": ["drawing"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["PD.24-2000"],
+        "type": ["accession number"],
+        "value": ["PD.24-2000"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["81211"],
+        "type": ["priref"],
+        "value": ["81211"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/81211"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/81211"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1596471862000"],
+      "id": ["object-81211"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["Helleborus orientalis x 'David Ballard'"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["2000"],
+            "value": ["2000"],
+            "latest": ["2000"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Palermo, Luca Massenzio"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-160809"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-160809"],
+            "agent": ["agent-160809"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "earliest": ["2000"],
+            "value": ["2000"],
+            "latest": ["2000"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Palermo, Luca Massenzio"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-160809"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-160809"],
+            "term": ["agent-160809"],
+            "role": [
+              {
+                "value": ["draughtsman"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "school_or_style": [
+      {
+        "term": ["term-8403"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-8403"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-8403"],
+        "summary_title": ["Italian"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-106206"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106206"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106206"],
+            "summary_title": ["paper"]
+          }
+        ]
+      }
+    ],
+    "multimedia": [
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616264906387"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp13/preview_PD_24_2000.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["231"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616264906387"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp13/PD_24_2000.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["701"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["760"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616264906387"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp13/PD_24_2000.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["701"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["760"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616264906387"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp13/mid_PD_24_2000.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["461"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-106211"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106211"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106211"],
+        "summary_title": ["watercolour"],
+        "descriptions": [
+          {
+            "description": ["watercolour and gouache over graphite on paper 'Schoellers Hammer' RP prepared with fish glue only and Alum"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-97946"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-97946"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-97946"],
+        "summary_title": ["drawing"]
+      }
+    ],
+    "inscription": [
+      {
+        "method": ["red watercolour"],
+        "transcription": [
+          {
+            "value": ["LP"]
+          }
+        ],
+        "location": ["lower right"],
+        "type": ["monogram"]
+      },
+      {
+        "method": ["red watercolour"],
+        "transcription": [
+          {
+            "value": ["2000"]
+          }
+        ],
+        "location": ["lower right, below the above"],
+        "type": ["date"]
+      },
+      {
+        "method": ["graphite"],
+        "transcription": [
+          {
+            "value": ["Helleborus orientalis \"David Ballard\""]
+          }
+        ],
+        "location": ["verso"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-97946"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-97946"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-97946"],
+        "summary_title": ["drawing"]
+      }
+    ],
+    "department": {
+      "value": ["Paintings, Drawings and Prints"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["mm"],
+          "dimension": ["Height"],
+          "value": ["427"]
+        },
+        {
+          "units": ["mm"],
+          "dimension": ["Width"],
+          "value": ["515"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-81211"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/81211"],
+    "object": ["object-81211"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
