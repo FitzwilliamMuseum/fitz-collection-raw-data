@@ -1,0 +1,157 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-123405"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-123405"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-123405"],
+        "summary_title": ["lance head"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1932"],
+            "value": ["1932"],
+            "latest": ["1932"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["British School of Archaeology"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159709"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159709"],
+            "agent": ["agent-159709"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Tell el Ajjul Gaza Strip"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-127508"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-127508"]
+          }
+        ]
+      },
+      "creation": {
+        "periods": [
+          {
+            "summary_title": ["Eighteenth Dynasty"],
+            "period": ["term-12491"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-12491"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12491"]
+          },
+          {
+            "summary_title": ["New Kingdom"],
+            "period": ["term-12502"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-12502"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12502"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Tell el Ajjul"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-132829"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-132829"],
+            "place": ["term-132829"],
+            "hierarchies": [
+              {
+                "summary_title": ["Gaza Strip"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["ANE.454a.1932"],
+        "type": ["accession number"],
+        "value": ["ANE.454a.1932"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["87385"],
+        "type": ["priref"],
+        "value": ["87385"]
+      },
+      {
+        "type": ["oldadmincategory"],
+        "value": ["O"]
+      },
+      {
+        "type": ["oldobjectnumber"],
+        "value": ["WAE.454a.1932"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/87385"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/87385"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-123405"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-123405"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-123405"],
+        "summary_title": ["lance head"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1337261452000"],
+      "id": ["object-87385"]
+    },
+    "description": [
+      {
+        "value": ["lance head"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-86550"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-86550"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-86550"],
+        "summary_title": ["weapon"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Length"],
+          "value": ["0.146"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-4218"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-4218"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-4218"],
+        "summary_title": ["Gaza II"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-87385"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/87385"],
+    "object": ["object-87385"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

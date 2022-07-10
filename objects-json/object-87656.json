@@ -1,0 +1,143 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-106616"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106616"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106616"],
+        "summary_title": ["lamp"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1966"],
+            "value": ["1966"],
+            "latest": ["1966"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["British Museum and British School of Archaeology in Iraq"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-179858"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-179858"],
+            "agent": ["agent-179858"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Syria"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-107896"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107896"],
+            "coordinates": {
+              "lat": ["34.6401861"],
+              "lng": ["39.0494106"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["101"],
+              "value": ["-100"],
+              "latest": ["101"]
+            },
+            "to": {
+              "earliest": ["99"],
+              "value": ["-1"],
+              "latest": ["1"]
+            },
+            "earliest": ["101"],
+            "latest": ["1"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["ANE.60.1966"],
+        "type": ["accession number"],
+        "value": ["ANE.60.1966"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["87656"],
+        "type": ["priref"],
+        "value": ["87656"]
+      },
+      {
+        "type": ["oldadmincategory"],
+        "value": ["O"]
+      },
+      {
+        "type": ["oldobjectnumber"],
+        "value": ["WAE.60.1966"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/87656"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/87656"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-106616"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106616"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106616"],
+        "summary_title": ["lamp"]
+      }
+    ],
+    "admin": {
+      "created": ["1312633661000"],
+      "modified": ["1312648526000"],
+      "id": ["object-87656"]
+    },
+    "description": [
+      {
+        "value": ["moulded red-glazed lamp"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-89198"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89198"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89198"],
+        "summary_title": ["vessel"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Length"],
+          "value": ["0.089"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-87656"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/87656"],
+    "object": ["object-87656"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

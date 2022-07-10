@@ -1,0 +1,356 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-107796"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107796"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107796"],
+        "summary_title": ["knife"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1963"],
+            "value": ["1963"],
+            "latest": ["1963"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Lamb, Winifred"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159497"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159497"],
+            "agent": ["agent-159497"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Kusura Turkey"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-111704"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111704"],
+            "coordinates": {
+              "lat": ["38.365467"],
+              "lng": ["30.227787"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["BCE"]
+              ],
+              "earliest": ["3000"],
+              "value": ["-3000"],
+              "latest": ["3000"]
+            },
+            "to": {
+              "era": [
+                ["BCE"]
+              ],
+              "earliest": ["2001"],
+              "value": ["-2001"],
+              "latest": ["2001"]
+            },
+            "earliest": ["3000"],
+            "latest": ["2001"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["3rd Millennium BC"],
+            "period": ["term-123316"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-123316"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-123316"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Kusura"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-132812"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-132812"],
+            "place": ["term-132812"],
+            "coordinates": {
+              "lat": ["38.365467"],
+              "lng": ["30.227787"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Turkey"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["ANE.10g.1963"],
+        "type": ["accession number"],
+        "value": ["ANE.10g.1963"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["87579"],
+        "type": ["priref"],
+        "value": ["87579"]
+      },
+      {
+        "type": ["oldadmincategory"],
+        "value": ["O"]
+      },
+      {
+        "type": ["oldobjectnumber"],
+        "value": ["WAE.10g.1963"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/87579"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/87579"]
+      }
+    ],
+    "multimedia": [
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616284067780"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant27/preview_ANE_10g_1963_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["180"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616284067780"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant27/ANE_10g_1963_281_29.JPG"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["546"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["760"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616284067780"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant27/ANE_10g_1963_281_29.JPG"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["546"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["760"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616284067780"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant27/mid_ANE_10g_1963_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["359"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616259351573"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant27/preview_ANE_10g_1963_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["178"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616259351573"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant27/ANE_10g_1963_282_29.JPG"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["540"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["760"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616259351573"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant27/ANE_10g_1963_282_29.JPG"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["540"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["760"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616259351573"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant27/mid_ANE_10g_1963_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["355"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-107796"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107796"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107796"],
+        "summary_title": ["knife"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1337166728000"],
+      "id": ["object-87579"]
+    },
+    "description": [
+      {
+        "value": ["knife"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-78429"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-78429"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-78429"],
+        "summary_title": ["tool"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Length"],
+          "value": ["0.06"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-87579"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/87579"],
+    "object": ["object-87579"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

@@ -1,0 +1,161 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-123298"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-123298"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-123298"],
+        "summary_title": ["dress pin"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1966"],
+            "value": ["1966"],
+            "latest": ["1966"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["British Museum and British School of Archaeology in Iraq"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-179858"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-179858"],
+            "agent": ["agent-179858"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Tell Brak Syria"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-114137"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-114137"],
+            "coordinates": {
+              "lat": ["36.6671786"],
+              "lng": ["41.058576072929"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "note": [
+              {
+                "value": ["1st-2nd dynasties"]
+              }
+            ],
+            "range": ["1"],
+            "from": {
+              "earliest": ["2900"],
+              "value": ["-2900"],
+              "latest": ["2900"]
+            },
+            "to": {
+              "earliest": ["2601"],
+              "value": ["-2601"],
+              "latest": ["2601"]
+            },
+            "earliest": ["2900"],
+            "latest": ["2601"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["First Dynasty"],
+            "period": ["term-12419"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-12419"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12419"]
+          },
+          {
+            "summary_title": ["Second Dynasty"],
+            "period": ["term-12423"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-12423"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12423"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["ANE.26.1966"],
+        "type": ["accession number"],
+        "value": ["ANE.26.1966"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["87635"],
+        "type": ["priref"],
+        "value": ["87635"]
+      },
+      {
+        "type": ["oldadmincategory"],
+        "value": ["O"]
+      },
+      {
+        "type": ["oldobjectnumber"],
+        "value": ["WAE.26.1966"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/87635"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/87635"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-123298"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-123298"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-123298"],
+        "summary_title": ["dress pin"]
+      }
+    ],
+    "admin": {
+      "created": ["1312633661000"],
+      "modified": ["1312648517000"],
+      "id": ["object-87635"]
+    },
+    "description": [
+      {
+        "value": ["dress pin"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-109541"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-109541"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-109541"],
+        "summary_title": ["jewellery"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Length"],
+          "value": ["0.096"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-87635"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/87635"],
+    "object": ["object-87635"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

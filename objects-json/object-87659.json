@@ -1,0 +1,142 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-42180"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-42180"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-42180"],
+        "summary_title": ["amulet"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1967"],
+            "value": ["1967"],
+            "latest": ["1967"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Whitehead, R. G., and family"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-161851"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-161851"],
+            "agent": ["agent-161851"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Indus region (?)"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-114160"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-114160"],
+            "coordinates": {
+              "lat": ["55.0642161"],
+              "lng": ["21.9494279"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["3000"],
+              "value": ["3000"],
+              "latest": ["3000"]
+            },
+            "to": {
+              "earliest": ["1501"],
+              "value": ["1501"],
+              "latest": ["1501"]
+            },
+            "earliest": ["3000"],
+            "latest": ["1501"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["ANE.4.1967"],
+        "type": ["accession number"],
+        "value": ["ANE.4.1967"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["87659"],
+        "type": ["priref"],
+        "value": ["87659"]
+      },
+      {
+        "type": ["oldadmincategory"],
+        "value": ["O"]
+      },
+      {
+        "type": ["oldobjectnumber"],
+        "value": ["WAE.4.1967"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/87659"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/87659"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-42180"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-42180"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-42180"],
+        "summary_title": ["amulet"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1441365152000"],
+      "id": ["object-87659"]
+    },
+    "description": [
+      {
+        "value": ["turtle amulet. Pierced laterally through middle. Possibly originated in Indus region"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-109541"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-109541"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-109541"],
+        "summary_title": ["jewellery"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Length"],
+          "value": ["0.014"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-87659"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/87659"],
+    "object": ["object-87659"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

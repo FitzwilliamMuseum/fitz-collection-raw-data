@@ -1,0 +1,143 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-45970"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-45970"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-45970"],
+        "summary_title": ["arrowhead"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1931"],
+            "value": ["1931"],
+            "latest": ["1931"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["British School of Archaeology"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159709"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159709"],
+            "agent": ["agent-159709"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Tell el Ajjul Gaza Strip"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-127508"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-127508"]
+          }
+        ]
+      },
+      "creation": {
+        "periods": [
+          {
+            "summary_title": ["Roman"],
+            "period": ["term-111193"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-111193"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111193"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Tell el Ajjul"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-132829"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-132829"],
+            "place": ["term-132829"],
+            "hierarchies": [
+              {
+                "summary_title": ["Gaza Strip"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["ANE.218.1931"],
+        "type": ["accession number"],
+        "value": ["ANE.218.1931"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["87376"],
+        "type": ["priref"],
+        "value": ["87376"]
+      },
+      {
+        "type": ["oldadmincategory"],
+        "value": ["O"]
+      },
+      {
+        "type": ["oldobjectnumber"],
+        "value": ["WAE.218.1931"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/87376"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/87376"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-45970"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-45970"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-45970"],
+        "summary_title": ["arrowhead"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1337261560000"],
+      "id": ["object-87376"]
+    },
+    "description": [
+      {
+        "value": ["arrowhead"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-86550"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-86550"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-86550"],
+        "summary_title": ["weapon"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Length"],
+          "value": ["0.029"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-87376"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/87376"],
+    "object": ["object-87376"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

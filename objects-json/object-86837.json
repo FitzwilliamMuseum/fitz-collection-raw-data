@@ -1,0 +1,193 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-98879"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98879"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98879"],
+        "summary_title": ["relief"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1927"],
+            "value": ["1927"],
+            "latest": ["1927"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Morgan, J. Pierpont"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-163354"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-163354"],
+            "agent": ["agent-163354"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Palace of Xerxes Persepolis Persia Iran"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-127472"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-127472"]
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "note": [
+              {
+                "value": ["reign of Artaxerxes III"]
+              }
+            ],
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["BCE"]
+              ],
+              "earliest": ["358"],
+              "value": ["-0358"],
+              "latest": ["358"]
+            },
+            "to": {
+              "era": [
+                ["BCE"]
+              ],
+              "earliest": ["338"],
+              "value": ["-0338"],
+              "latest": ["338"]
+            },
+            "earliest": ["358"],
+            "latest": ["338"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Achaemenid Empire"],
+            "period": ["term-114739"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-114739"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-114739"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Persepolis"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-132819"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-132819"],
+            "place": ["term-132819"],
+            "coordinates": {
+              "lat": ["29.93516685"],
+              "lng": ["52.890404142675"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Persia"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["ANE.43.1927"],
+        "type": ["accession number"],
+        "value": ["ANE.43.1927"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["86837"],
+        "type": ["priref"],
+        "value": ["86837"]
+      },
+      {
+        "type": ["oldadmincategory"],
+        "value": ["O"]
+      },
+      {
+        "type": ["oldobjectnumber"],
+        "value": ["WAE.43.1927"]
+      },
+      {
+        "source": ["Sketchfab"],
+        "type": ["Online 3D model"],
+        "value": ["6904454ec76c43a1834c45e479f3eb20"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/86837"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/86837"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-98879"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98879"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98879"],
+        "summary_title": ["relief"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1611258492000"],
+      "id": ["object-86837"]
+    },
+    "description": [
+      {
+        "value": ["Two Persian courtiers, one standing sideways, one standing frontally, with head turned back, grabbing each other's beards in greeting"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-43046"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-43046"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-43046"],
+        "summary_title": ["architectural element"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Length"],
+          "value": ["0.71"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.42"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-200001618"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-200001618"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-200001618"],
+        "summary_title": ["[Unknown: Iran 15 (1977)]"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-86837"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/86837"],
+    "object": ["object-86837"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
