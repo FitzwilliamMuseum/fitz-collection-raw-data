@@ -1,0 +1,198 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-97946"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-97946"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-97946"],
+        "summary_title": ["drawing"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["1511"],
+        "type": ["accession number"],
+        "value": ["1511"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["13703"],
+        "type": ["priref"],
+        "value": ["13703"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/13703"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/13703"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1614250394000"],
+      "id": ["object-13703"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["Robert Bridges O.M."]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1929"],
+            "value": ["1929"],
+            "latest": ["1929"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Knowles, Guy John Fenton"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-150079"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-150079"],
+            "agent": ["agent-150079"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "note": [
+              {
+                "value": ["see 'inscriptions/marks'"]
+              }
+            ],
+            "precision": ["circa"],
+            "earliest": ["1890"],
+            "value": ["1890"],
+            "latest": ["1890"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Strang, William"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-131055"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-131055"],
+            "term": ["agent-131055"],
+            "role": [
+              {
+                "value": ["draughtsman"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "school_or_style": [
+      {
+        "term": ["term-9168"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-9168"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-9168"],
+        "summary_title": ["British"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-37166"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-37166"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-37166"],
+            "summary_title": ["laid paper"]
+          }
+        ]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-27762"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27762"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27762"],
+        "summary_title": ["drawing (image-making)"],
+        "descriptions": [
+          {
+            "description": ["graphite on laid paper"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-97946"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-97946"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-97946"],
+        "summary_title": ["drawing"]
+      }
+    ],
+    "inscription": [
+      {
+        "method": ["graphite"],
+        "transcription": [
+          {
+            "value": ["W. STRANG"]
+          }
+        ],
+        "location": ["lower right"],
+        "type": ["signature"]
+      },
+      {
+        "method": ["graphite"],
+        "transcription": [
+          {
+            "value": ["Robert Bridges. O.M. (apparently not by Strang)"]
+          }
+        ],
+        "location": ["lower left"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-97946"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-97946"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-97946"],
+        "summary_title": ["drawing"]
+      }
+    ],
+    "department": {
+      "value": ["Paintings, Drawings and Prints"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["mm"],
+          "dimension": ["Height"],
+          "value": ["328"]
+        },
+        {
+          "units": ["mm"],
+          "dimension": ["Width"],
+          "value": ["225"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-13703"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/13703"],
+    "object": ["object-13703"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
