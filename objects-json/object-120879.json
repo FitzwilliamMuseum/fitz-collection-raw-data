@@ -1,0 +1,187 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-98032"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98032"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98032"],
+        "summary_title": ["print"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1943"],
+            "value": ["1943-10"],
+            "latest": ["1910"]
+          },
+          {
+            "earliest": ["1943"],
+            "value": ["1943"],
+            "latest": ["1943"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Clarke, Louis Colville Gray"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149875"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149875"],
+            "agent": ["agent-149875"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["1516"],
+              "value": ["1516"],
+              "latest": ["1516"]
+            },
+            "to": {
+              "earliest": ["1518"],
+              "value": ["1518"],
+              "latest": ["1518"]
+            },
+            "earliest": ["1516"],
+            "latest": ["1518"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["16th century"],
+            "period": ["term-106602"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106602"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106602"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Beck, Leonhard"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-9184"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-9184"],
+            "term": ["agent-9184"],
+            "role": [
+              {
+                "value": ["printmaker"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["P.269-1943"],
+        "type": ["accession number"],
+        "value": ["P.269-1943"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["120879"],
+        "type": ["priref"],
+        "value": ["120879"]
+      },
+      {
+        "type": ["Bartsch"],
+        "value": ["82 (p.240) 47 (Beck?)"]
+      },
+      {
+        "type": ["Hollstein German"],
+        "value": ["12"]
+      },
+      {
+        "type": ["Dodgson (BM German & Flemish)"],
+        "value": ["134.66."]
+      },
+      {
+        "type": ["New Hollstein (German)"],
+        "value": ["47.2"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/120879"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/120879"]
+      }
+    ],
+    "school_or_style": [
+      {
+        "term": ["term-8400"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-8400"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-8400"],
+        "summary_title": ["German"]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-29158"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-29158"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-29158"],
+        "summary_title": ["woodcut"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-98032"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98032"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98032"],
+        "summary_title": ["print"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1533203717000"],
+      "id": ["object-120879"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-98032"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98032"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98032"],
+        "summary_title": ["print"]
+      }
+    ],
+    "title": [
+      {
+        "type": ["assigned"],
+        "value": ["St Guntramus"]
+      },
+      {
+        "value": ["Guntram I, King of Burgandy"]
+      },
+      {
+        "type": ["series"],
+        "value": ["Saints connected with the House of Hapsburg"]
+      }
+    ],
+    "department": {
+      "value": ["Paintings, Drawings and Prints"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-120879"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/120879"],
+    "object": ["object-120879"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

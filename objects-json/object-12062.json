@@ -1,0 +1,641 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-91394"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-91394"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-91394"],
+        "summary_title": ["teapot"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["EC.22-1939"],
+        "type": ["accession number"],
+        "value": ["EC.22-1939"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["12062"],
+        "type": ["priref"],
+        "value": ["12062"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/12062"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/12062"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["unknown before donor"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1582632771000"],
+      "id": ["object-12062"]
+    },
+    "description": [
+      {
+        "value": ["Caneware with applied dark grey moulded reliefs, the interior glazed. Oval with incurved shoulder with a flange rising upwards at one end to meet the strap handle. Straight upward sloping spout. On side is decorated with Charlotte kneeling at the tomb of Werther, with a tree on the left, and a dog and a two-handled pot of flowers on the right. The other side is decorated with Sportive Love (a seated woman playing with Cupid), with a plant and a ewer on the left and a tree on the right. Cover missing."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1939"],
+            "value": ["1939-05"],
+            "latest": ["1905"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Erskine, Miss"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-152931"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-152931"],
+            "agent": ["agent-152931"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["1790"],
+              "value": ["1790"],
+              "latest": ["1790"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["1820"],
+              "value": ["1820"],
+              "latest": ["1820"]
+            },
+            "earliest": ["1790"],
+            "latest": ["1820"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["late 18th or early 19th century"],
+            "period": ["term-110483"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-110483"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110483"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Hackwood, William"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-57908"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-57908"],
+            "term": ["agent-57908"],
+            "role": [
+              {
+                "value": ["modeller"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Etruria"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-113623"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-113623"],
+            "place": ["term-113623"],
+            "coordinates": {
+              "lat": ["53.0203844"],
+              "lng": ["-2.1984874"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["England"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Staffordshire"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "component": [
+      {
+        "name": ["Reliefs"],
+        "materials": []
+      }
+    ],
+    "multimedia": [
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616239523724"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa3/preview_EC_22_1939_283_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["325"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616239523724"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa3/EC_22_1939_283_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["740"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["570"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616239523724"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa3/EC_22_1939_283_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["740"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["570"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616239523724"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa3/mid_EC_22_1939_283_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["649"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616257366059"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa4/preview_EC_22_1939_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["181"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616257366059"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa4/EC_22_1939_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["550"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["760"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616257366059"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa4/EC_22_1939_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["550"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["760"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616257366059"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa4/mid_EC_22_1939_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["362"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616257316949"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa4/preview_EC_22_1939_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["181"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616257316949"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa4/EC_22_1939_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["550"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["760"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616257316949"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa4/EC_22_1939_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["550"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["760"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616257316949"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa4/mid_EC_22_1939_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["362"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616252341081"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa4/preview_EC_22_1939_284_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["181"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616252341081"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa4/EC_22_1939_284_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["550"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["760"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616252341081"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa4/EC_22_1939_284_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["550"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["760"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616252341081"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa4/mid_EC_22_1939_284_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["362"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-111179"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111179"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-111179"],
+        "summary_title": ["moulding"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-91394"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-91394"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-91394"],
+        "summary_title": ["teapot"]
+      },
+      {
+        "term": ["term-42812"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-42812"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-42812"],
+        "summary_title": ["caneware"]
+      }
+    ],
+    "inscription": [
+      {
+        "method": ["impressed"],
+        "transcription": [
+          {
+            "value": ["WEDGWOOD"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["impressed in upward curve"]
+          }
+        ],
+        "location": ["on base"],
+        "type": ["factory mark"]
+      },
+      {
+        "method": ["scratched"],
+        "description": [
+          {
+            "value": ["'18' or 'IB'"]
+          }
+        ],
+        "location": ["on base"],
+        "type": ["mark"]
+      },
+      {
+        "method": ["inscribed in pencil"],
+        "transcription": [
+          {
+            "value": ["Wedgwood, about 1779-1795'/Given by Miss Erskine/for the purpose of study/May 1939"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["A square paper inside the pot inscribed in pencil after acquisition with a two-line description, 'Wedgwood, about 1779-1795'/Given by Miss Erskine/for the purpose of study/May 1939.'"]
+          }
+        ],
+        "location": ["square paper inside the pot"],
+        "type": ["label"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-42825"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-42825"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-42825"],
+        "summary_title": ["stoneware"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Height"],
+          "value": ["12.1"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Length"],
+          "value": ["20.1"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-1016"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-1016"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-1016"],
+        "summary_title": ["Catalogue of cameos, intaglios, medals, bas-reliefs, busts, and small statutes; with a general account of tablets, vases, escritoires, and other ornamental and useful articles. The whole formed in different kinds of porcelain and terra-cotta, chiefly after the antique and the first models of modern artists. By Josiah Wedgwood FRS, potter to Her Majesty, and to His Royal Highness the Duke of York and Albany. Sold at his rooms in Greek Str., Soho, London, and at his manufactory in Staffordshire."],
+        "page": ["39"],
+        "notes": ["Ref."]
+      },
+      {
+        "term": ["publication-983"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-983"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-983"],
+        "summary_title": ["Masterpieces of Wedgwood in the British Museum"],
+        "page": ["p. 45"],
+        "notes": ["Ref. p. 45, citing Wedgwood letter E.26-18923 re caneware"]
+      },
+      {
+        "term": ["publication-998"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-998"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-998"],
+        "summary_title": ["Wedgwood"],
+        "page": ["604-5"],
+        "notes": ["Ref. pp. 604-5, for the reliefs, citing Wedgwood letter E.26-18958"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-12062"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/12062"],
+    "object": ["object-12062"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
