@@ -1,0 +1,143 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["2000"],
+            "value": ["2000"],
+            "latest": ["2000"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Alexander, David"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-1570"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-1570"],
+            "agent": ["agent-1570"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "era": [
+              ["CE"]
+            ],
+            "earliest": ["1925"],
+            "value": ["1925"],
+            "latest": ["1925"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Nash, Paul"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-97639"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-97639"],
+            "term": ["agent-97639"],
+            "role": [
+              {
+                "value": ["designer"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Bungay"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-108395"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-108395"],
+            "place": ["term-108395"],
+            "coordinates": {
+              "lat": ["52.4562248"],
+              "lng": ["1.4373413"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Suffolk"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["PB1-2000"],
+        "type": ["accession number"],
+        "value": ["PB1-2000"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["16111"],
+        "type": ["priref"],
+        "value": ["16111"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/16111"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/16111"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["At one time owned by Dennis Wheatley - contains exlibris bookplate inside frontcover"]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-27526"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27526"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27526"],
+        "summary_title": ["printing"],
+        "descriptions": []
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1344866883000"],
+      "id": ["object-16111"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-102154"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-102154"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-102154"],
+        "summary_title": ["book"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["Autumn: being the first volume of The peasants"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-16111"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/16111"],
+    "object": ["object-16111"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
