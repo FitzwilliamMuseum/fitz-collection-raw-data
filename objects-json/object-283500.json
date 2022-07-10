@@ -1,0 +1,157 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-101116"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101116"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101116"],
+        "summary_title": ["antoninianus"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1985"],
+            "value": ["1985-06-03"],
+            "latest": ["1985"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["The President and Fellows of Wolfson College, Cambridge"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-186199"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-186199"],
+            "agent": ["agent-186199"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["268"],
+              "value": ["0268"],
+              "latest": ["268"]
+            },
+            "to": {
+              "earliest": ["270"],
+              "value": ["0270"],
+              "latest": ["270"]
+            },
+            "earliest": ["268"],
+            "latest": ["270"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Claudius II (AD 268-70)"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-167002"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-167002"],
+            "term": ["agent-167002"],
+            "role": [
+              {
+                "value": ["ruler"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.101-1985"],
+        "type": ["accession number"],
+        "value": ["CM.101-1985"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["283500"],
+        "type": ["priref"],
+        "value": ["283500"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/283500"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/283500"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-39745"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39745"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39745"],
+            "summary_title": ["billon"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-101116"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101116"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101116"],
+        "summary_title": ["antoninianus"]
+      },
+      {
+        "term": ["term-10939"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-10939"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-10939"],
+        "summary_title": ["Roman Empire"]
+      }
+    ],
+    "admin": {
+      "created": ["1617703587000"],
+      "modified": ["1629908918000"],
+      "id": ["object-283500"]
+    },
+    "description": [
+      {
+        "value": ["Claudius II, AD 268-270, base billon radiate, wt. 1.72g. Mint of Rome. RIC V 1, 212 no.10. Bought Ephesus, March 1963'."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["One of a miscellaneous collection of forty ancient and modern coins; Roman Empire"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-283500"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/283500"],
+    "object": ["object-283500"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

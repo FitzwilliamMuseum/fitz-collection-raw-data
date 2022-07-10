@@ -1,0 +1,159 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-12401"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12401"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-12401"],
+        "summary_title": ["Greek"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1983"],
+            "value": ["1983-07-25"],
+            "latest": ["1983"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Kinns, Philip, Dr."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-188196"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-188196"],
+            "agent": ["agent-188196"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["238"],
+              "value": ["-0238"],
+              "latest": ["238"]
+            },
+            "to": {
+              "precision": ["circa"],
+              "earliest": ["168"],
+              "value": ["-0168"],
+              "latest": ["168"]
+            },
+            "earliest": ["238"],
+            "latest": ["168"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Ambracia"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-174144"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-174144"],
+            "term": ["agent-174144"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.59-1983"],
+        "type": ["accession number"],
+        "value": ["CM.59-1983"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["283160"],
+        "type": ["priref"],
+        "value": ["283160"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/283160"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/283160"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-40365"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-40365"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-40365"],
+            "summary_title": ["bronze"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-12401"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12401"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-12401"],
+        "summary_title": ["Greek"]
+      },
+      {
+        "term": ["term-118791"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-118791"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-118791"],
+        "summary_title": ["Epirus"]
+      }
+    ],
+    "admin": {
+      "created": ["1617028373000"],
+      "modified": ["1629903892000"],
+      "id": ["object-283160"]
+    },
+    "description": [
+      {
+        "value": ["Epirus, Amracia. Bronze coin, ca.238-168 BC, wt. 4.00g. SNG Cop. ? 27)."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["One of three Hellenistic bronze coins"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-283160"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/283160"],
+    "object": ["object-283160"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

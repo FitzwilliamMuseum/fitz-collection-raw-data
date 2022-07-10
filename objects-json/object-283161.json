@@ -1,0 +1,159 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-12401"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12401"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-12401"],
+        "summary_title": ["Greek"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1983"],
+            "value": ["1983-07-25"],
+            "latest": ["1983"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Kinns, Philip, Dr."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-188196"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-188196"],
+            "agent": ["agent-188196"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["261"],
+              "value": ["-0261"],
+              "latest": ["261"]
+            },
+            "to": {
+              "precision": ["circa"],
+              "earliest": ["246"],
+              "value": ["-0246"],
+              "latest": ["246"]
+            },
+            "earliest": ["261"],
+            "latest": ["246"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Antiochus II Theos (261 BC-246 BC)"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-173615"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-173615"],
+            "term": ["agent-173615"],
+            "role": [
+              {
+                "value": ["ruler"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.60-1983"],
+        "type": ["accession number"],
+        "value": ["CM.60-1983"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["283161"],
+        "type": ["priref"],
+        "value": ["283161"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/283161"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/283161"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-40365"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-40365"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-40365"],
+            "summary_title": ["bronze"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-12401"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12401"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-12401"],
+        "summary_title": ["Greek"]
+      },
+      {
+        "term": ["term-10542"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-10542"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-10542"],
+        "summary_title": ["Seleucid"]
+      }
+    ],
+    "admin": {
+      "created": ["1617028373000"],
+      "modified": ["1629903914000"],
+      "id": ["object-283161"]
+    },
+    "description": [
+      {
+        "value": ["Seleucid Kingdom, Antiochus II (261-246 BC), bronze coin, Mint of Sardis (Lydia), ca. 261-250 BC, wt. 1.97 g. (WSM 1401)"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["One of three Hellenistic bronze coins"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-283161"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/283161"],
+    "object": ["object-283161"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

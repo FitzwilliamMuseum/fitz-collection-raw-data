@@ -1,0 +1,261 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-88137"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-88137"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-88137"],
+        "summary_title": ["ewer"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["C.374-1991"],
+        "type": ["accession number"],
+        "value": ["C.374-1991"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["27987"],
+        "type": ["priref"],
+        "value": ["27987"]
+      },
+      {
+        "date": [
+          {
+            "earliest": ["1989"],
+            "value": ["1989"],
+            "latest": ["1989"]
+          }
+        ],
+        "source": ["Allocated by Wendy Rose when object left Maidenhead"],
+        "type": ["packing number"],
+        "value": ["GLA 319"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/27987"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/27987"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["H.S. Reitlinger (d.1950); the Reitlinger Trust, Maidenhead, from which transferred in 1991."]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1582633520000"],
+      "id": ["object-27987"]
+    },
+    "description": [
+      {
+        "value": ["Blue glass with remnants of gilding. Tear-shaped body with slender neck, pointed lip, angular handle and low conical foot with an angular knop between it and the body. The foot and body bear remnants of gilding, including the heads of grotesque birds."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1950"],
+            "value": ["1950"],
+            "latest": ["1950"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Reitlinger, Henry Scipio"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-150552"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-150552"],
+            "agent": ["agent-150552"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "note": [
+              {
+                "value": ["late 16th century or 19th century"]
+              }
+            ],
+            "precision": ["circa"],
+            "earliest": ["1575"],
+            "value": ["1575"],
+            "latest": ["1575"]
+          },
+          {
+            "note": [
+              {
+                "value": ["late 16th century or 19th century"]
+              }
+            ],
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["1800"],
+              "value": ["1800"],
+              "latest": ["1800"]
+            },
+            "to": {
+              "earliest": ["1900"],
+              "value": ["1900"],
+              "latest": ["1900"]
+            },
+            "earliest": ["1800"],
+            "latest": ["1900"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["late 16th Century"],
+            "period": ["term-106402"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106402"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106402"]
+          },
+          {
+            "summary_title": ["19th century"],
+            "period": ["term-106853"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106853"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106853"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["glassmaker"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Venice"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106518"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106518"],
+            "place": ["term-106518"],
+            "coordinates": {
+              "lat": ["45.4371908"],
+              "lng": ["12.3345898"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Italy"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["The Veneto"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "component": [
+      {
+        "name": ["Decoration"],
+        "materials": [
+          {
+            "term": ["term-27716"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27716"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27716"],
+            "summary_title": ["gilt"]
+          }
+        ]
+      },
+      {
+        "name": ["Body"],
+        "materials": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-88137"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-88137"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-88137"],
+        "summary_title": ["ewer"]
+      }
+    ],
+    "inscription": [
+      {
+        "method": ["inscribed"],
+        "transcription": [
+          {
+            "value": ["508/C"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["circular with serrated edge inscribed"]
+          }
+        ],
+        "type": ["label"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-91170"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-91170"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-91170"],
+        "summary_title": ["glass"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Diameter"],
+          "value": ["9.5"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Height"],
+          "value": ["29.4"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-2106"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-2106"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-2106"],
+        "summary_title": ["The Golden Age of Venetian Glass"],
+        "page": ["p. 132"],
+        "notes": ["Cf. A rosewater (?) sprinkler in the British Museum with gilt decoration, see colour pl. 10 & p. 132, no. 228"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-27987"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/27987"],
+    "object": ["object-27987"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

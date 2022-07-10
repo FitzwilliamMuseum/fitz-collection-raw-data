@@ -1,0 +1,165 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-101372"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101372"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101372"],
+        "summary_title": ["denarius"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1979"],
+            "value": ["1979-06-04"],
+            "latest": ["1979"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Mason, Eileen, Mrs"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-203765"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-203765"],
+            "agent": ["agent-203765"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["193"],
+              "value": ["0193"],
+              "latest": ["193"]
+            },
+            "to": {
+              "precision": ["uncertain"],
+              "earliest": ["211"],
+              "value": ["0211"],
+              "latest": ["211"]
+            },
+            "earliest": ["193"],
+            "latest": ["211"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Septimius Severus (193-211)"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-174204"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-174204"],
+            "term": ["agent-174204"],
+            "role": [
+              {
+                "value": ["ruler"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.4-1979"],
+        "type": ["accession number"],
+        "value": ["CM.4-1979"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["282201"],
+        "type": ["priref"],
+        "value": ["282201"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/282201"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/282201"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Under Review"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-39778"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39778"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39778"],
+            "summary_title": ["silver"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-101372"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101372"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101372"],
+        "summary_title": ["denarius"]
+      },
+      {
+        "term": ["term-10939"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-10939"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-10939"],
+        "summary_title": ["Roman Empire"]
+      }
+    ],
+    "admin": {
+      "created": ["1615895280000"],
+      "modified": ["1622037303000"],
+      "id": ["object-282201"]
+    },
+    "description": [
+      {
+        "value": ["Contemporary cast silver copy of a denarius of Septimius Severus (193-211) for Plautilla, found at Little Wilbraham, Prototype cp. EMCRE V 236: 408)."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      },
+      {
+        "term": ["term-42759"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-42759"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-42759"],
+        "summary_title": ["counterfeit"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-282201"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/282201"],
+    "object": ["object-282201"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
