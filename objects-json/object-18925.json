@@ -1,0 +1,216 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-42208"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-42208"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-42208"],
+        "summary_title": ["sword"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["HEN.M.211-1933"],
+        "type": ["accession number"],
+        "value": ["HEN.M.211-1933"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["18925"],
+        "type": ["priref"],
+        "value": ["18925"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/18925"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/18925"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Unknown before testator,  Mr James Stewart Henderson, 'Abbotsford', Downs Road, St Helen's Park, Hastings, Sussex"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1618914287000"],
+      "id": ["object-18925"]
+    },
+    "description": [
+      {
+        "value": ["Long, facetted pear-shaped pommel with strong button and knobbed collars. Grip of wood bound with steel wire with turks' heads at top and bottom. Knuckle-guards of flat ribbon section widening at the midpoint where it is divided by an elongated oval motif between small zig-zag dividers. Below this division, a loop-guard of the same section and form rims across the outside of the hilt to join the root of the hilt quillon. Within this loop is a downturned oval shell-guard. Quillons of flat section very sharply turned towards the blade and finished in spirals. There is a thumb-ring at the back of the hilt, the lower end of which spreads out into a diamond-shaped plate decorated on its outer edges with scrolls. The whole of the outside of this hilt is decorated with longitudinal reeded ribs, with a zig-zag running down the middle of each guard. The eight facets of the pommel are similarly decorated. Blade of flat diamond section, the mid-ribs flattened and the faces hollowed. On the outside, the blade bears the engraved inscription: 'Vive Le Roy' in very large letters which span the whole width of the blade. On the reverse, the lillies of France within an oval, crowned cartouche, the crown containing also some fleur-de-lis."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1933"],
+            "value": ["1933-03-16"],
+            "latest": ["1933"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Henderson, James Stewart"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-154334"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-154334"],
+            "agent": ["agent-154334"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "note": [
+              {
+                "value": ["blade is French, c.1700, and the hilt is Dutch, c.1640s"]
+              }
+            ],
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["1650"],
+              "value": ["1650"],
+              "latest": ["1650"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["1670"],
+              "value": ["1670"],
+              "latest": ["1670"]
+            },
+            "earliest": ["1650"],
+            "latest": ["1670"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["mid 17th century"],
+            "period": ["term-113347"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-113347"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-113347"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["hilt maker"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "component": [
+      {
+        "name": ["Grip"],
+        "materials": [
+          {
+            "term": ["term-33522"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-33522"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-33522"],
+            "summary_title": ["wire"]
+          },
+          {
+            "term": ["term-32234"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-32234"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-32234"],
+            "summary_title": ["wood (plant material)"]
+          }
+        ]
+      },
+      {
+        "name": ["Sword"],
+        "materials": [
+          {
+            "term": ["term-40136"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-40136"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-40136"],
+            "summary_title": ["steel"]
+          }
+        ]
+      },
+      {
+        "name": ["Decoration"],
+        "materials": []
+      },
+      {
+        "name": ["Pommel And Hilt"],
+        "materials": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-42208"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-42208"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-42208"],
+        "summary_title": ["sword"]
+      }
+    ],
+    "inscription": [
+      {
+        "method": ["etched"],
+        "transcription": [
+          {
+            "value": ["VIVE LE ROY"]
+          }
+        ],
+        "location": ["on blade"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-86575"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-86575"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-86575"],
+        "summary_title": ["weapons"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "publications": [
+      {
+        "term": ["publication-1749"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-1749"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-1749"],
+        "summary_title": ["Wallace Collection Catalogues:  European Arms and Armour"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-18925"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/18925"],
+    "object": ["object-18925"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
