@@ -1,0 +1,251 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-128341"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-128341"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-128341"],
+        "summary_title": ["lipstick case"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["M.18-1988"],
+        "type": ["accession number"],
+        "value": ["M.18-1988"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["150751"],
+        "type": ["priref"],
+        "value": ["150751"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/150751"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/150751"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1440512253000"],
+      "id": ["object-150751"]
+    },
+    "description": [
+      {
+        "value": ["silver; rectangular, engraved and set with a green cabochon hardstone"]
+      },
+      {
+        "value": ["Silver; rectangular engraved with scrolling foliage and set with a green hardstone button.  The case has a sprung hinged lid, which opens to reveal a mirror.  The holder pulls out from the case, and has a hardstone button on a slide to push up the lipstick and to hold down the mirror when the two pieces are pushed together."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1988"],
+            "value": ["1988-07-25"],
+            "latest": ["1988"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Silow, R. A., Dr"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-176441"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-176441"],
+            "agent": ["agent-176441"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["1957"],
+              "value": ["1957"],
+              "latest": ["1957"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["1963"],
+              "value": ["1963"],
+              "latest": ["1963"]
+            },
+            "earliest": ["1957"],
+            "latest": ["1963"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["third quarter of 20th Century"],
+            "period": ["term-120080"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-120080"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-120080"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["maker"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Rome"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106366"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106366"],
+            "place": ["term-106366"],
+            "coordinates": {
+              "lat": ["41.8933203"],
+              "lng": ["12.4829321"]
+            },
+            "note": ["possibly"],
+            "hierarchies": [
+              {
+                "summary_title": ["Italy"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "component": [
+      {
+        "name": ["Stone"],
+        "materials": [
+          {
+            "term": ["term-128013"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-128013"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-128013"],
+            "summary_title": ["green hardstone"]
+          }
+        ]
+      },
+      {
+        "name": ["Box"],
+        "materials": [
+          {
+            "term": ["term-39778"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39778"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39778"],
+            "summary_title": ["silver"]
+          }
+        ]
+      },
+      {
+        "name": ["Decoration"],
+        "materials": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-128341"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-128341"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-128341"],
+        "summary_title": ["lipstick case"]
+      },
+      {
+        "term": ["term-39778"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39778"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39778"],
+        "summary_title": ["silver"]
+      },
+      {
+        "term": ["term-128241"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-128241"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-128241"],
+        "summary_title": ["objet de vertu"]
+      }
+    ],
+    "inscription": [
+      {
+        "method": ["struck"],
+        "transcription": [
+          {
+            "value": ["800"]
+          }
+        ],
+        "location": ["on the interior of the lipstick holder"],
+        "type": ["standard mark"]
+      },
+      {
+        "method": ["struck"],
+        "transcription": [
+          {
+            "value": ["indistinct"]
+          }
+        ],
+        "location": ["on the interior of the lipstick holder"],
+        "type": ["unknown"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-110356"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110356"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110356"],
+        "summary_title": ["boxes"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Height"],
+          "value": ["2.2"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Length"],
+          "value": ["5.6"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Width"],
+          "value": ["1.8"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-150751"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/150751"],
+    "object": ["object-150751"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

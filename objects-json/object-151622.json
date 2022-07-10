@@ -1,0 +1,231 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-116166"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-116166"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-116166"],
+        "summary_title": ["desk seal"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["PER.M.40-1923"],
+        "type": ["accession number"],
+        "value": ["PER.M.40-1923"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["151622"],
+        "type": ["priref"],
+        "value": ["151622"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/151622"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/151622"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["the Martin family of Lockynge, Berkshire"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1439218759000"],
+      "id": ["object-151622"]
+    },
+    "description": [
+      {
+        "value": ["desk seal with carnelian sealstone and facetted red jasper handle with chased gold mounts"]
+      },
+      {
+        "value": ["Carved carnelian and red jasper with chased gold mounts.  Oval carnelian sealstone with an intaglio coat-of-arms within a garter inscribed 'TRIA JUNCTA IN UNO' with a pendant order and ribbon inscribed 'ICH DIEN', and a crest.  Eight sided jasper handle broadening towards the rounded terminal.  The domed mount decorated with flutes and bands of reeding."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1922"],
+            "value": ["1922-03-07"],
+            "latest": ["1922"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Perceval, Spencer George"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-151972"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-151972"],
+            "agent": ["agent-151972"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["1780"],
+              "value": ["1780"],
+              "latest": ["1780"]
+            },
+            "to": {
+              "precision": ["circa"],
+              "earliest": ["1850"],
+              "value": ["1850"],
+              "latest": ["1850"]
+            },
+            "earliest": ["1780"],
+            "latest": ["1850"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["late 18th-mid 19th century"],
+            "period": ["term-120998"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-120998"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-120998"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["maker"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "component": [
+      {
+        "name": ["Handle"],
+        "materials": [
+          {
+            "term": ["term-115163"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-115163"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-115163"],
+            "summary_title": ["jasper, red"]
+          }
+        ]
+      },
+      {
+        "name": ["Sealstone"],
+        "materials": [
+          {
+            "term": ["term-33530"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-33530"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-33530"],
+            "summary_title": ["carnelian"]
+          }
+        ]
+      },
+      {
+        "name": ["Mount"],
+        "materials": [
+          {
+            "term": ["term-39593"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39593"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39593"],
+            "summary_title": ["gold"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-116166"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-116166"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-116166"],
+        "summary_title": ["desk seal"]
+      },
+      {
+        "value": ["heraldic seal"]
+      }
+    ],
+    "inscription": [
+      {
+        "method": ["engraved"],
+        "transcription": [
+          {
+            "value": ["TRIA JUNCTA IN UNO"]
+          }
+        ],
+        "location": ["in a garter round the coat-of-arms on the sealstone"],
+        "type": ["motto"]
+      },
+      {
+        "method": ["engraved"],
+        "transcription": [
+          {
+            "value": ["ICH DIEN"]
+          }
+        ],
+        "location": ["at the base of the garter round the coat-of-arms on the seal"],
+        "type": ["motto"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-103655"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-103655"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-103655"],
+        "summary_title": ["seals"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Height"],
+          "value": ["1.6"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Length"],
+          "value": ["9.3"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Width"],
+          "value": ["1.9"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-151622"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/151622"],
+    "object": ["object-151622"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
