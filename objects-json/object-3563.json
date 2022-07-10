@@ -1,0 +1,411 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-106226"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106226"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106226"],
+        "summary_title": ["painting"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["460*"],
+        "type": ["accession number"],
+        "value": ["460*"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["3563"],
+        "type": ["priref"],
+        "value": ["3563"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/3563"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/3563"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1596468733000"],
+      "id": ["object-3563"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["The Temple of Apollo at Bassae"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1860"],
+            "value": ["1860"],
+            "latest": ["1860"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["The Subscribers"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-151491"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-151491"],
+            "agent": ["agent-151491"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["1854"],
+              "value": ["1854"],
+              "latest": ["1854"]
+            },
+            "to": {
+              "earliest": ["1855"],
+              "value": ["1855"],
+              "latest": ["1855"]
+            },
+            "earliest": ["1854"],
+            "latest": ["1855"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Lear, Edward"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-77454"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-77454"],
+            "term": ["agent-77454"],
+            "role": [
+              {
+                "value": ["painter"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "school_or_style": [
+      {
+        "term": ["term-9168"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-9168"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-9168"],
+        "summary_title": ["British"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-39136"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39136"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39136"],
+            "summary_title": ["canvas"]
+          }
+        ]
+      },
+      {
+        "name": ["Frame"],
+        "materials": []
+      },
+      {
+        "name": ["Canvas"],
+        "materials": []
+      }
+    ],
+    "multimedia": [
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616266039152"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp3/preview_460astarisk.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["156"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616266039152"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp3/460astarisk.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["475"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["760"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616266039152"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp3/460astarisk.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["475"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["760"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616266039152"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp3/mid_460astarisk.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["313"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-30011"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-30011"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-30011"],
+        "summary_title": ["painting (image-making)"],
+        "descriptions": [
+          {
+            "description": ["oil on canvas"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-106226"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106226"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106226"],
+        "summary_title": ["painting"]
+      }
+    ],
+    "inscription": [
+      {
+        "transcription": [
+          {
+            "value": ["EL"]
+          }
+        ],
+        "location": ["lower right"],
+        "type": ["monogram"]
+      },
+      {
+        "transcription": [
+          {
+            "value": ["1854-55"]
+          }
+        ],
+        "location": ["lower right"],
+        "type": ["date"]
+      },
+      {
+        "method": ["paint"],
+        "transcription": [
+          {
+            "value": ["Box 9"]
+          }
+        ],
+        "location": ["stretcher, verso"]
+      },
+      {
+        "method": ["graphite"],
+        "transcription": [
+          {
+            "value": ["30"]
+          }
+        ],
+        "location": ["stretcher, verso"]
+      },
+      {
+        "method": ["printed"],
+        "transcription": [
+          {
+            "value": ["MAN"]
+          }
+        ],
+        "location": ["stretcher, verso"],
+        "type": ["label"]
+      },
+      {
+        "method": ["with graphite"],
+        "transcription": [
+          {
+            "value": ["Charles Roberson, Long Acre, London"]
+          }
+        ],
+        "location": ["canvas, verso"],
+        "type": ["stamp"]
+      },
+      {
+        "method": ["chalk"],
+        "transcription": [
+          {
+            "value": ["*R"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["* = Greek letter"]
+          }
+        ],
+        "location": ["canvas, verso"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-106226"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106226"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106226"],
+        "summary_title": ["painting"]
+      }
+    ],
+    "department": {
+      "value": ["Paintings, Drawings and Prints"]
+    },
+    "publications": [
+      {
+        "term": ["publication-813"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-813"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-813"],
+        "summary_title": ["A Catalogue of Lear's Pictures in Oil"]
+      },
+      {
+        "term": ["publication-4"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-4"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-4"],
+        "summary_title": ["A Descriptive Catalogue of the Pictures in the Fitzwilliam Museum"],
+        "page": ["110, 111"],
+        "notes": ["reproduced 110"]
+      },
+      {
+        "term": ["publication-808"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-808"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-808"],
+        "summary_title": ["Later Letters of Edward Lear"],
+        "page": ["306"],
+        "notes": ["reproduced"]
+      },
+      {
+        "term": ["publication-7"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-7"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-7"],
+        "summary_title": ["The Principal Pictures in the Fitzwilliam Museum, Cambridge"],
+        "page": ["93"],
+        "notes": ["reproduced"]
+      },
+      {
+        "term": ["publication-6"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-6"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-6"],
+        "summary_title": ["The Principal Pictures in the Fitzwilliam Museum, Cambridge (1929)"],
+        "page": ["118"],
+        "notes": ["reproduced"]
+      },
+      {
+        "term": ["publication-809"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-809"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-809"],
+        "summary_title": ["Edward Lear"],
+        "page": ["80"],
+        "notes": ["reproduced, same page in 1968 edition"]
+      },
+      {
+        "term": ["publication-144"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-144"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-144"],
+        "summary_title": ["Catalogue of Paintings in the Fitzwilliam Museum, Cambridge, Vol. III, British School"],
+        "page": ["150-151"],
+        "notes": ["pl. 42"]
+      },
+      {
+        "term": ["publication-812"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-812"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-812"],
+        "summary_title": ["Edward Lear 1812-1888"],
+        "page": ["144-146"],
+        "notes": ["cat. no. 51, reproduced; cat. entry by Mary Anne Stevens"]
+      },
+      {
+        "term": ["publication-811"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-811"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-811"],
+        "summary_title": ["Edward Lear. Selected Letters"],
+        "page": ["121 ff"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-3563"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/3563"],
+    "object": ["object-3563"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
