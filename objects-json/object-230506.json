@@ -1,0 +1,207 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-122379"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-122379"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-122379"],
+        "summary_title": ["half stater"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1906"],
+            "value": ["1906-11-22"],
+            "latest": ["1906"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["McClean, J. R."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159486"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159486"],
+            "agent": ["agent-159486"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["401"],
+              "value": ["-400"],
+              "latest": ["401"]
+            },
+            "to": {
+              "precision": ["circa"],
+              "earliest": ["391"],
+              "value": ["-390"],
+              "latest": ["391"]
+            },
+            "earliest": ["401"],
+            "latest": ["391"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Amphipolis"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-170187"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-170187"],
+            "term": ["agent-170187"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.MC.3203-R"],
+        "type": ["accession number"],
+        "value": ["CM.MC.3203-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["230506"],
+        "type": ["priref"],
+        "value": ["230506"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/230506"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/230506"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-39593"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39593"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39593"],
+            "summary_title": ["gold"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-122379"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-122379"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-122379"],
+        "summary_title": ["half stater"]
+      },
+      {
+        "term": ["term-12401"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12401"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-12401"],
+        "summary_title": ["Greek"]
+      },
+      {
+        "term": ["term-136007"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-136007"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-136007"],
+        "summary_title": ["Macedon"]
+      },
+      {
+        "term": ["term-136031"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-136031"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-136031"],
+        "summary_title": ["Strymonian and Bottiaean"]
+      },
+      {
+        "term": ["term-119376"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119376"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119376"],
+        "summary_title": ["Amphipolis"]
+      },
+      {
+        "term": ["term-136032"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-136032"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-136032"],
+        "summary_title": ["Attic-Euboic"]
+      }
+    ],
+    "admin": {
+      "created": ["1568043936000"],
+      "modified": ["1568043967000"],
+      "id": ["object-230506"]
+    },
+    "inscription": [
+      {
+        "description": [
+          {
+            "value": ["Youthful male head (Apollo?) wearing plain fillet, hair thick, small flaws in die to left, below."]
+          }
+        ],
+        "location": ["obverse"],
+        "type": ["design"]
+      },
+      {
+        "transcription": [
+          {
+            "value": ["AM??????TE?N on raised band"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Inscription on raised framework with slight inward slope. In centre, a flaming race-torch with a bunch of grapes.  Slightly concave field."]
+          }
+        ],
+        "location": ["reverse"],
+        "type": ["design"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "publications": [
+      {
+        "term": ["publication-7497"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-7497"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-7497"],
+        "summary_title": ["Catalogue of the McClean Collection of Greek Coins Volume II The Greek mainland, the Aegaean islands, Crete"],
+        "page": ["26"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-230506"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/230506"],
+    "object": ["object-230506"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
