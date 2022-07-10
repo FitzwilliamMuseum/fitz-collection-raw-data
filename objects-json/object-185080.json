@@ -1,0 +1,392 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-130736"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-130736"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-130736"],
+        "summary_title": ["solidius"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["CM.1.914-1930"],
+        "type": ["accession number"],
+        "value": ["CM.1.914-1930"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["185080"],
+        "type": ["priref"],
+        "value": ["185080"]
+      },
+      {
+        "type": ["RIC"],
+        "value": ["462.157"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/185080"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/185080"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Frank Smart Collection"]
+      }
+    ],
+    "admin": {
+      "created": ["1312633661000"],
+      "modified": ["1312682259000"],
+      "id": ["object-185080"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1930"],
+            "value": ["1930-02-14"],
+            "latest": ["1930"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Duncanson, T. J. G."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-154693"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-154693"],
+            "agent": ["agent-154693"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["361"],
+              "value": ["361"],
+              "latest": ["361"]
+            },
+            "to": {
+              "earliest": ["363"],
+              "value": ["363"],
+              "latest": ["363"]
+            },
+            "earliest": ["361"],
+            "latest": ["363"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Constantinople"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-167800"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-167800"],
+            "term": ["agent-167800"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-39593"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39593"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39593"],
+            "summary_title": ["gold"]
+          }
+        ]
+      }
+    ],
+    "multimedia": [
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616263573437"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm35/preview_CM_1_914_1930_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["249"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616263573437"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm35/CM_1_914_1930_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["756"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["760"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616263573437"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm35/CM_1_914_1930_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["756"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["760"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616263573437"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm35/mid_CM_1_914_1930_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["497"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616278489160"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm35/preview_CM_1_914_1930_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["248"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616278489160"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm35/CM_1_914_1930_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["753"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["760"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616278489160"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm35/CM_1_914_1930_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["753"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["760"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616278489160"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm35/mid_CM_1_914_1930_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["495"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-130736"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-130736"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-130736"],
+        "summary_title": ["solidius"]
+      },
+      {
+        "term": ["term-113870"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-113870"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-113870"],
+        "summary_title": ["Roman Imperial"]
+      }
+    ],
+    "inscription": [
+      {
+        "transcription": [
+          {
+            "value": ["FL CL IVLIA-NVS PP AVG"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Bust right, pearl-diademed, draped and cuirassed."]
+          }
+        ],
+        "location": ["obverse"],
+        "type": ["design"]
+      },
+      {
+        "transcription": [
+          {
+            "value": ["VIRTVS EXERCI-TVS ROMANORVM"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Soldier, helmeted, standing right, head to left, holding a trophy over his left shoulder; he places right hand on head of captive who is crouching to right. The trophy of war is held trandversely."]
+          }
+        ],
+        "location": ["reverse"],
+        "type": ["design"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["mm"],
+          "dimension": ["Image(height)"],
+          "value": ["21.21"]
+        },
+        {
+          "units": ["mm"],
+          "dimension": ["Image(width)"],
+          "value": ["21.50"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-7241"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-7241"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-7241"],
+        "summary_title": ["Roman Imperial Catalogue"],
+        "page": ["462"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-185080"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/185080"],
+    "object": ["object-185080"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
