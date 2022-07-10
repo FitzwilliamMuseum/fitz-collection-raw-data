@@ -1,0 +1,340 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-91394"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-91394"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-91394"],
+        "summary_title": ["teapot"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["C.47 & A-2007"],
+        "type": ["accession number"],
+        "value": ["C.47 & A-2007"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["157654"],
+        "type": ["priref"],
+        "value": ["157654"]
+      },
+      {
+        "date": [
+          {
+            "earliest": ["2007"],
+            "value": ["2007-11-12"],
+            "latest": ["2007"]
+          }
+        ],
+        "source": ["The Fitzwilliam Museum"],
+        "type": ["entry form number"],
+        "value": ["976"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/157654"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/157654"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["unknown before donor"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1582636379000"],
+      "id": ["object-157654"]
+    },
+    "description": [
+      {
+        "value": ["Porcelain with incised decoration under greenish-grey celadon glaze and bamboo handle"]
+      },
+      {
+        "value": ["Porcelain, thrown, with applied spout, and and two loops to take the bamboo handle, and incised decoration under translucent greenish-grey celadon glaze. Globular body standing on a footring, with a tapering tubular spout, two vertical loops on the shoulders, and flat circular cover with a slightly waisted cylindrical knob.  The sides are decorated with five incised leaf shapes and there is an incised band running round the top just below the loops."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["2007"],
+            "value": ["2007-11-19"],
+            "latest": ["2007"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Wikramaratna, P. H. D. S."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-179907"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-179907"],
+            "agent": ["agent-179907"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["1950"],
+              "value": ["1950"],
+              "latest": ["1950"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["1960"],
+              "value": ["1960"],
+              "latest": ["1960"]
+            },
+            "earliest": ["1950"],
+            "latest": ["1960"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Leach, Bernard"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-77403"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-77403"],
+            "term": ["agent-77403"],
+            "role": [
+              {
+                "value": ["potter"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["St Ives"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-125256"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-125256"],
+            "place": ["term-125256"],
+            "coordinates": {
+              "lat": ["50.2149064"],
+              "lng": ["-5.4795083"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["England"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Cornwall"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "component": [
+      {
+        "name": ["Pot"],
+        "materials": [
+          {
+            "term": ["term-32652"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-32652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-32652"],
+            "summary_title": ["glaze"]
+          },
+          {
+            "term": ["term-37642"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-37642"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-37642"],
+            "summary_title": ["porcelain"]
+          }
+        ]
+      },
+      {
+        "name": ["Handle"],
+        "materials": [
+          {
+            "term": ["term-31765"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-31765"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-31765"],
+            "summary_title": ["bamboo"]
+          }
+        ]
+      },
+      {
+        "name": ["Over Handle"],
+        "materials": []
+      },
+      {
+        "name": ["Body And Spout"],
+        "materials": []
+      },
+      {
+        "name": ["Over Knob"],
+        "materials": []
+      },
+      {
+        "name": ["Body"],
+        "materials": []
+      },
+      {
+        "name": ["Decoration"],
+        "materials": []
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-122641"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-122641"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-122641"],
+        "summary_title": ["glazing"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-91394"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-91394"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-91394"],
+        "summary_title": ["teapot"]
+      },
+      {
+        "term": ["term-107478"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107478"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107478"],
+        "summary_title": ["cover"]
+      },
+      {
+        "term": ["term-113690"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-113690"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-113690"],
+        "summary_title": ["teaware"]
+      },
+      {
+        "term": ["term-42692"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-42692"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-42692"],
+        "summary_title": ["Studio Ceramics"]
+      }
+    ],
+    "inscription": [
+      {
+        "method": ["impressed seal"],
+        "transcription": [
+          {
+            "value": ["BL:"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["the : is inside the outline of the L in square seal"]
+          }
+        ],
+        "location": ["on side of pot near base"],
+        "type": ["maker's mark"]
+      },
+      {
+        "method": ["impressed seal"],
+        "transcription": [
+          {
+            "value": ["S crossed with a dot above and below"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["in rounded rectangular seal"]
+          }
+        ],
+        "location": ["on side of pot base to right of potter's mark"],
+        "type": ["pottery mark"]
+      },
+      {
+        "method": ["hand-written in blue biro"],
+        "transcription": [
+          {
+            "value": ["POT 598"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["rectangular white paper sticky label"]
+          }
+        ],
+        "location": ["on base"],
+        "type": ["label"]
+      },
+      {
+        "method": ["hand-written in blue biro"],
+        "transcription": [
+          {
+            "value": ["EX. CAT?"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["rectangular white paper sticky label"]
+          }
+        ],
+        "location": ["on base"],
+        "type": ["label"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-42825"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-42825"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-42825"],
+        "summary_title": ["stoneware"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "publications": [
+      {
+        "term": ["publication-5704"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-5704"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-5704"],
+        "summary_title": ["Bernard Leach, Hamada and their Circle from the Wingfield Digby Collection"],
+        "page": ["31"],
+        "notes": ["Cf. p. 31, no. 18, a teapot with cane handle but different glaze and not on footring, made in 1951."]
+      },
+      {
+        "term": ["publication-1884"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-1884"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-1884"],
+        "summary_title": ["British Studio Pottery, the Victoria and Albert Museum Collection"],
+        "page": ["p. 208"],
+        "notes": ["Cf. p. 208, no. 368, a teapot of 1949, with incised decoration under celadon glaze, but normal handle."]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-157654"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/157654"],
+    "object": ["object-157654"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

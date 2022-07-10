@@ -1,0 +1,407 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-125643"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-125643"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-125643"],
+        "summary_title": ["Medal for Highest Attainment"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["CM.41-2005"],
+        "type": ["accession number"],
+        "value": ["CM.41-2005"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["156560"],
+        "type": ["priref"],
+        "value": ["156560"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/156560"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/156560"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["From the estate of the late Mrs Venetia M. Watson, daughter of the artist"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1359367662000"],
+      "id": ["object-156560"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["2005"],
+            "value": ["2005-01-31"],
+            "latest": ["2005"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Watson, Philip Charles"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-179128"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-179128"],
+            "agent": ["agent-179128"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "note": [
+              {
+                "value": ["undated"]
+              }
+            ],
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["uncertain"],
+              "earliest": ["1925"],
+              "value": ["1925"],
+              "latest": ["1925"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["1962"],
+              "value": ["1962"],
+              "latest": ["1962"]
+            },
+            "earliest": ["1925"],
+            "latest": ["1962"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Protestant Board of School Commissioners"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-179112"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-179112"],
+            "term": ["agent-179112"],
+            "role": [
+              {
+                "value": ["issuer"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Montreal"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-122446"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-122446"],
+            "place": ["term-122446"],
+            "coordinates": {
+              "lat": ["45.5031824"],
+              "lng": ["-73.5698065"]
+            }
+          }
+        ]
+      }
+    },
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-39763"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39763"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39763"],
+            "summary_title": ["white metal"]
+          }
+        ]
+      }
+    ],
+    "multimedia": [
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616281324071"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm18/preview_CM_41_2005_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["253"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616281324071"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm18/CM_41_2005_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["365"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["360"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616281324071"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm18/CM_41_2005_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["365"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["360"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616281324071"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm18/CM_41_2005_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["365"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["360"]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616238871348"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm18/preview_CM_41_2005_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["253"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616238871348"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm18/CM_41_2005_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["364"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["360"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616238871348"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm18/CM_41_2005_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["364"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["360"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616238871348"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm18/CM_41_2005_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["364"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["360"]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-125643"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-125643"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-125643"],
+        "summary_title": ["Medal for Highest Attainment"]
+      },
+      {
+        "term": ["term-98222"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98222"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98222"],
+        "summary_title": ["medals"]
+      },
+      {
+        "term": ["term-107982"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107982"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107982"],
+        "summary_title": ["school"]
+      },
+      {
+        "term": ["term-108850"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-108850"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-108850"],
+        "summary_title": ["Canada"]
+      },
+      {
+        "term": ["term-125621"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-125621"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-125621"],
+        "summary_title": ["A.G.Wyon"]
+      }
+    ],
+    "inscription": [
+      {
+        "transcription": [
+          {
+            "value": ["QUEBEC"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Female figure seated three-quarters right, head facing, on rock left holding cornucopiae rested on shield bearing arms of Quebec in right arm, pointing with left arm out to sea where schooner sails right away from cliff topped with fortress at left; legend in exergue"]
+          }
+        ],
+        "location": ["obverse"],
+        "type": ["design"]
+      },
+      {
+        "transcription": [
+          {
+            "value": ["PRESENTED / AT THE / GIRLS' HIGH SCHOOL / BY F.W. ROSS / TO and FOR HIGHEST / ATTAINMENT"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Legend in circle of points outside which the inscription \"PROTESTANT BOARD OF SCHOOL COMMISSIONERS\""]
+          }
+        ],
+        "location": ["reverse"],
+        "type": ["design"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-42993"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-42993"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-42993"],
+        "summary_title": ["medal"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-156560"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/156560"],
+    "object": ["object-156560"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
