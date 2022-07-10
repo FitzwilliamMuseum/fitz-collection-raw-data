@@ -1,0 +1,187 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-12401"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12401"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-12401"],
+        "summary_title": ["Greek"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["1991"],
+            "value": ["1991"],
+            "latest": ["1991"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Lewis, S. S."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-162613"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-162613"],
+            "agent": ["agent-162613"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "precision": ["circa"],
+            "earliest": ["301"],
+            "value": ["-300"],
+            "latest": ["301"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Uranopolis"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-170219"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-170219"],
+            "term": ["agent-170219"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Uranopolis"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-119406"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119406"],
+            "place": ["term-119406"],
+            "coordinates": {
+              "lat": ["40.3261645"],
+              "lng": ["23.9811134"]
+            }
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.LS.569-R"],
+        "type": ["accession number"],
+        "value": ["CM.LS.569-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["113368"],
+        "type": ["priref"],
+        "value": ["113368"]
+      },
+      {
+        "type": ["SNG Lewis"],
+        "value": ["569"]
+      },
+      {
+        "type": ["ordering"],
+        "value": ["LW-0568"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/113368"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/113368"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Whittall 1881"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-12401"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12401"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-12401"],
+        "summary_title": ["Greek"]
+      },
+      {
+        "term": ["term-119370"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119370"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119370"],
+        "summary_title": ["Macedonia"]
+      },
+      {
+        "term": ["term-119394"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119394"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119394"],
+        "summary_title": ["Cities of Macedonia"]
+      },
+      {
+        "term": ["term-119406"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119406"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119406"],
+        "summary_title": ["Uranopolis"]
+      }
+    ],
+    "admin": {
+      "created": ["1397472617000"],
+      "modified": ["1397474661000"],
+      "id": ["object-113368"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-167778"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-167778"],
+        "owner": ["agent-167778"],
+        "summary_title": ["Corpus Christi College"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["degrees"],
+          "dimension": ["Die Axis"],
+          "value": ["180"]
+        },
+        {
+          "units": ["mm"],
+          "dimension": ["Image(height)"],
+          "value": ["15"]
+        },
+        {
+          "units": ["mm"],
+          "dimension": ["Image(width)"],
+          "value": ["17"]
+        },
+        {
+          "units": ["g"],
+          "dimension": ["Weight"],
+          "value": ["3.73"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-113368"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/113368"],
+    "object": ["object-113368"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

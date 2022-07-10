@@ -1,0 +1,181 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-101244"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101244"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101244"],
+        "summary_title": ["pfennig"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["2003"],
+            "value": ["2003-11-25"],
+            "latest": ["2003"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Gans, Udo, Mr"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-186047"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-186047"],
+            "agent": ["agent-186047"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "precision": ["after"],
+            "earliest": ["1014"],
+            "value": ["1014"],
+            "latest": ["1014"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Goslar"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-169957"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-169957"],
+            "term": ["agent-169957"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Goslar"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-129738"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-129738"],
+            "place": ["term-129738"],
+            "coordinates": {
+              "lat": ["51.9059936"],
+              "lng": ["10.4266284"]
+            }
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.2331-2003"],
+        "type": ["accession number"],
+        "value": ["CM.2331-2003"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["112727"],
+        "type": ["priref"],
+        "value": ["112727"]
+      },
+      {
+        "type": ["Catalogue Number"],
+        "value": ["OA33a"]
+      },
+      {
+        "type": ["ordering"],
+        "value": ["919"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/112727"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/112727"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-101244"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101244"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101244"],
+        "summary_title": ["pfennig"]
+      },
+      {
+        "term": ["term-10603"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-10603"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-10603"],
+        "summary_title": ["Medieval"]
+      },
+      {
+        "term": ["term-107815"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107815"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107815"],
+        "summary_title": ["Germany"]
+      },
+      {
+        "term": ["term-119149"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119149"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119149"],
+        "summary_title": ["Otto-Adelheid Pfennige"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1483454801000"],
+      "id": ["object-112727"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["degrees"],
+          "dimension": ["Die Axis"],
+          "value": ["190"]
+        },
+        {
+          "units": ["mm"],
+          "dimension": ["Image(height)"],
+          "value": ["20"]
+        },
+        {
+          "units": ["mm"],
+          "dimension": ["Image(width)"],
+          "value": ["20"]
+        },
+        {
+          "units": ["g"],
+          "dimension": ["Weight"],
+          "value": ["1.40"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-112727"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/112727"],
+    "object": ["object-112727"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

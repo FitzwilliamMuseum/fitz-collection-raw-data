@@ -1,0 +1,204 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-12401"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12401"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-12401"],
+        "summary_title": ["Greek"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["1991"],
+            "value": ["1991"],
+            "latest": ["1991"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Lewis, S. S."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-162613"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-162613"],
+            "agent": ["agent-162613"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["BCE"]
+              ],
+              "precision": ["inferred"],
+              "earliest": ["149"],
+              "value": ["-148"],
+              "latest": ["149"]
+            },
+            "to": {
+              "era": [
+                ["BCE"]
+              ],
+              "precision": ["inferred"],
+              "earliest": ["147"],
+              "value": ["-146"],
+              "latest": ["147"]
+            },
+            "earliest": ["149"],
+            "latest": ["147"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Amfipoli"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-189701"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-189701"],
+            "term": ["agent-189701"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Amfipoli"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-122584"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-122584"],
+            "place": ["term-122584"],
+            "coordinates": {
+              "lat": ["40.8111583"],
+              "lng": ["23.8512742"]
+            }
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.LS.545-R"],
+        "type": ["accession number"],
+        "value": ["CM.LS.545-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["113394"],
+        "type": ["priref"],
+        "value": ["113394"]
+      },
+      {
+        "type": ["SNG Lewis"],
+        "value": ["545"]
+      },
+      {
+        "type": ["ordering"],
+        "value": ["LW-0544"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/113394"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/113394"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Bompois 686"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-12401"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12401"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-12401"],
+        "summary_title": ["Greek"]
+      },
+      {
+        "term": ["term-119370"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119370"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119370"],
+        "summary_title": ["Macedonia"]
+      },
+      {
+        "term": ["term-119371"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119371"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119371"],
+        "summary_title": ["Kings of Macedonia"]
+      },
+      {
+        "term": ["term-119391"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119391"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119391"],
+        "summary_title": ["Under Roman rule"]
+      }
+    ],
+    "admin": {
+      "created": ["1397472617000"],
+      "modified": ["1397474656000"],
+      "id": ["object-113394"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-167778"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-167778"],
+        "owner": ["agent-167778"],
+        "summary_title": ["Corpus Christi College"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["degrees"],
+          "dimension": ["Die Axis"],
+          "value": ["180"]
+        },
+        {
+          "units": ["mm"],
+          "dimension": ["Image(height)"],
+          "value": ["23"]
+        },
+        {
+          "units": ["mm"],
+          "dimension": ["Image(width)"],
+          "value": ["25"]
+        },
+        {
+          "units": ["g"],
+          "dimension": ["Weight"],
+          "value": ["9.32"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-113394"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/113394"],
+    "object": ["object-113394"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

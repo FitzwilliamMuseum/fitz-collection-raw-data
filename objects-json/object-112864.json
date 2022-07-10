@@ -1,0 +1,162 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-107683"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107683"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107683"],
+        "summary_title": ["head"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["1997"],
+            "value": ["1997-10"],
+            "latest": ["1910"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Museum of Archaeology and Anthropology, Cambridge"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-161764"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-161764"],
+            "agent": ["agent-161764"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "note": [
+              {
+                "value": ["5th-4th centuries BC"]
+              }
+            ],
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["BCE"]
+              ],
+              "earliest": ["500"],
+              "value": ["-0500"],
+              "latest": ["500"]
+            },
+            "to": {
+              "era": [
+                ["BCE"]
+              ],
+              "earliest": ["401"],
+              "value": ["-0401"],
+              "latest": ["401"]
+            },
+            "earliest": ["500"],
+            "latest": ["401"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Classical"],
+            "period": ["term-14088"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-14088"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-14088"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["Loan Ant.112.7"],
+        "type": ["accession number"],
+        "value": ["Loan Ant.112.7"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["112864"],
+        "type": ["priref"],
+        "value": ["112864"]
+      },
+      {
+        "type": ["othernumber"],
+        "value": ["Z20814"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/112864"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/112864"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-107683"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107683"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107683"],
+        "summary_title": ["head"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1607350497000"],
+      "id": ["object-112864"]
+    },
+    "description": [
+      {
+        "value": ["male head, wearing garland"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-161764"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-161764"],
+        "owner": ["agent-161764"],
+        "summary_title": ["Museum of Archaeology and Anthropology, Cambridge"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-107454"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107454"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107454"],
+        "summary_title": ["figure"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Depth"],
+          "value": ["0.103"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.122"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.095"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-112864"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/112864"],
+    "object": ["object-112864"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
