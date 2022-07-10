@@ -1,0 +1,132 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-120306"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-120306"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-120306"],
+        "summary_title": ["France"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["unknown"],
+        "agents": {
+          "agent": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "agent": ["agent-149652"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["1180"],
+              "value": ["1180"],
+              "latest": ["1180"]
+            },
+            "to": {
+              "earliest": ["1223"],
+              "value": ["1223"],
+              "latest": ["1223"]
+            },
+            "earliest": ["1180"],
+            "latest": ["1223"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Philip Augustus (1180-1223)"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-204765"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-204765"],
+            "term": ["agent-204765"],
+            "role": [
+              {
+                "value": ["ruler"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.ME.191-R"],
+        "type": ["accession number"],
+        "value": ["CM.ME.191-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["306648"],
+        "type": ["priref"],
+        "value": ["306648"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/306648"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/306648"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-120306"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-120306"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-120306"],
+        "summary_title": ["France"]
+      }
+    ],
+    "admin": {
+      "created": ["1631793584000"],
+      "modified": ["1631793584000"],
+      "id": ["object-306648"]
+    },
+    "description": [
+      {
+        "value": ["France, Philip Augustus (1180-1223), coin, Paris"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-306648"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/306648"],
+    "object": ["object-306648"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

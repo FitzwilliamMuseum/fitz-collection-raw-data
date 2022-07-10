@@ -1,0 +1,170 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-101154"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101154"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101154"],
+        "summary_title": ["stater"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bought"],
+        "date": [
+          {
+            "earliest": ["1864"],
+            "value": ["1864"],
+            "latest": ["1864"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Leake, William Martin"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-77439"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-77439"],
+            "agent": ["agent-77439"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["618"],
+              "value": ["-0618"],
+              "latest": ["618"]
+            },
+            "to": {
+              "precision": ["circa"],
+              "earliest": ["561"],
+              "value": ["-0561"],
+              "latest": ["561"]
+            },
+            "earliest": ["618"],
+            "latest": ["561"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Alyattes (c. 618-561 BC)"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-204262"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-204262"],
+            "term": ["agent-204262"],
+            "role": [
+              {
+                "value": ["ruler"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.LK.1580-R"],
+        "type": ["accession number"],
+        "value": ["CM.LK.1580-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["300822"],
+        "type": ["priref"],
+        "value": ["300822"]
+      },
+      {
+        "type": ["Misnumbered on import"],
+        "value": ["CM.G.1238-R"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/300822"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/300822"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Leake collection; ex Sotheby 20.4.1846, lot 126; ex Till"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-39593"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39593"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39593"],
+            "summary_title": ["gold"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-101154"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101154"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101154"],
+        "summary_title": ["stater"]
+      },
+      {
+        "term": ["term-12401"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12401"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-12401"],
+        "summary_title": ["Greek"]
+      },
+      {
+        "term": ["term-89425"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89425"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89425"],
+        "summary_title": ["Lydia"]
+      }
+    ],
+    "admin": {
+      "created": ["1628070556000"],
+      "modified": ["1631715128000"],
+      "id": ["object-300822"]
+    },
+    "description": [
+      {
+        "value": ["Lydia, Alyattes (c. 618-561 BC), electrum stater, obv. lion's head with two countermarks, six countermarks on edge, SNG IV, no. 4838, 4.70g"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-300822"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/300822"],
+    "object": ["object-300822"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

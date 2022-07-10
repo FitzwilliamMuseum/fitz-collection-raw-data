@@ -1,0 +1,158 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-101389"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101389"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101389"],
+        "summary_title": ["tetradrachm"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1939"],
+            "value": ["1939-03-11"],
+            "latest": ["1939"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Gutteridge, H. C., Professor"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-172425"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-172425"],
+            "agent": ["agent-172425"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["64"],
+              "value": ["0064"],
+              "latest": ["64"]
+            },
+            "to": {
+              "earliest": ["68"],
+              "value": ["0068"],
+              "latest": ["68"]
+            },
+            "earliest": ["64"],
+            "latest": ["68"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Nero (AD 54-68)"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-161642"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-161642"],
+            "term": ["agent-161642"],
+            "role": [
+              {
+                "value": ["ruler"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.50.807-1939"],
+        "type": ["accession number"],
+        "value": ["CM.50.807-1939"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["306086"],
+        "type": ["priref"],
+        "value": ["306086"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/306086"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/306086"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-39745"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39745"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39745"],
+            "summary_title": ["billon"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-101389"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101389"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101389"],
+        "summary_title": ["tetradrachm"]
+      },
+      {
+        "term": ["term-119511"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119511"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119511"],
+        "summary_title": ["Roman Provincial"]
+      },
+      {
+        "term": ["term-107870"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107870"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107870"],
+        "summary_title": ["Egypt"]
+      }
+    ],
+    "admin": {
+      "created": ["1631545354000"],
+      "modified": ["1631545354000"],
+      "id": ["object-306086"]
+    },
+    "description": [
+      {
+        "value": ["Roman Provincial, Egypt, Nero (54-68), billon tetradrachm, Alexandria"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-306086"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/306086"],
+    "object": ["object-306086"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

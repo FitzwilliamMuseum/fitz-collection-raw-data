@@ -1,0 +1,191 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-123920"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-123920"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-123920"],
+        "summary_title": ["radiate"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["CM.865-2019"],
+        "type": ["accession number"],
+        "value": ["CM.865-2019"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["302287"],
+        "type": ["priref"],
+        "value": ["302287"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/302287"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/302287"]
+      }
+    ],
+    "admin": {
+      "created": ["1628159026000"],
+      "modified": ["1628159026000"],
+      "id": ["object-302287"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["Roman billon radiate of Gallienus (joint reign), Eastern Mint, AD 256-57."]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-200860"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-200860"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-200860"],
+        "summary_title": ["CAMFZ"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["2019"],
+            "value": ["2019-07-15"],
+            "latest": ["2019"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Popescu, A., Dr"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-174452"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-174452"],
+            "agent": ["agent-174452"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["256"],
+              "value": ["0256"],
+              "latest": ["256"]
+            },
+            "to": {
+              "earliest": ["257"],
+              "value": ["0257"],
+              "latest": ["257"]
+            },
+            "earliest": ["256"],
+            "latest": ["257"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Eastern Mint"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-204407"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-204407"],
+            "term": ["agent-204407"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-39745"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39745"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39745"],
+            "summary_title": ["billon"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-123920"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-123920"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-123920"],
+        "summary_title": ["radiate"]
+      },
+      {
+        "term": ["term-111400"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111400"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-111400"],
+        "summary_title": ["Imperial Roman"]
+      }
+    ],
+    "inscription": [
+      {
+        "transcription": [
+          {
+            "value": ["IMP GALLIENVS AVG"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Radiate, draped bust, right."]
+          }
+        ],
+        "location": ["obverse"],
+        "type": ["design"]
+      },
+      {
+        "transcription": [
+          {
+            "value": ["VICTORIA GERMAN"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Gallienus, standing left, holding globe in right hand and sceptre in left hand; receiving wreath from Victory, standing right."]
+          }
+        ],
+        "location": ["reverse"],
+        "type": ["design"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "publications": [
+      {
+        "term": ["publication-7515"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-7515"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-7515"],
+        "summary_title": ["Roman Imperial Coinage V Part I"],
+        "page": ["104"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-302287"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/302287"],
+    "object": ["object-302287"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

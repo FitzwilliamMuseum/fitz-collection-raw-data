@@ -1,0 +1,146 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-10939"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-10939"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-10939"],
+        "summary_title": ["Roman Empire"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1939"],
+            "value": ["1939-03-11"],
+            "latest": ["1939"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Gutteridge, H. C., Professor"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-172425"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-172425"],
+            "agent": ["agent-172425"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["364"],
+              "value": ["0364"],
+              "latest": ["364"]
+            },
+            "to": {
+              "earliest": ["375"],
+              "value": ["0375"],
+              "latest": ["375"]
+            },
+            "earliest": ["364"],
+            "latest": ["375"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Valentinian I (364-75)"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-167043"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-167043"],
+            "term": ["agent-167043"],
+            "role": [
+              {
+                "value": ["ruler"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.50.746-1939"],
+        "type": ["accession number"],
+        "value": ["CM.50.746-1939"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["306080"],
+        "type": ["priref"],
+        "value": ["306080"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/306080"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/306080"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-39778"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39778"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39778"],
+            "summary_title": ["silver"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-10939"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-10939"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-10939"],
+        "summary_title": ["Roman Empire"]
+      }
+    ],
+    "admin": {
+      "created": ["1631545354000"],
+      "modified": ["1631545354000"],
+      "id": ["object-306080"]
+    },
+    "description": [
+      {
+        "value": ["Roman Empire, Valentinian I (364-375), silver silqua, Rome, RIC 119.11a(1)"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-306080"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/306080"],
+    "object": ["object-306080"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

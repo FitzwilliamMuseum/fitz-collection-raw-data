@@ -1,0 +1,145 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-117777"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117777"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-117777"],
+        "summary_title": ["drachm"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["unknown"],
+        "agents": {
+          "agent": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "agent": ["agent-149652"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["271"],
+              "value": ["0271"],
+              "latest": ["271"]
+            },
+            "to": {
+              "earliest": ["274"],
+              "value": ["0274"],
+              "latest": ["274"]
+            },
+            "earliest": ["271"],
+            "latest": ["274"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Bahram I (271-274)"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-204199"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-204199"],
+            "term": ["agent-204199"],
+            "role": [
+              {
+                "value": ["ruler"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.PI.4-R"],
+        "type": ["accession number"],
+        "value": ["CM.PI.4-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["300556"],
+        "type": ["priref"],
+        "value": ["300556"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/300556"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/300556"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-39778"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39778"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39778"],
+            "summary_title": ["silver"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-117777"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117777"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-117777"],
+        "summary_title": ["drachm"]
+      },
+      {
+        "term": ["term-10549"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-10549"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-10549"],
+        "summary_title": ["Sassanian"]
+      }
+    ],
+    "admin": {
+      "created": ["1626343501000"],
+      "modified": ["1626432302000"],
+      "id": ["object-300556"]
+    },
+    "description": [
+      {
+        "value": ["Sassanian, silver drachm of Bahram I (271-274)"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-300556"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/300556"],
+    "object": ["object-300556"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

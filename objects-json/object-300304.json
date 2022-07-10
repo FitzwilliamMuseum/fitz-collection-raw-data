@@ -1,0 +1,139 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-10591"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-10591"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-10591"],
+        "summary_title": ["Byzantine"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["unknown"],
+        "agents": {
+          "agent": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "agent": ["agent-149652"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["610"],
+              "value": ["0610"],
+              "latest": ["610"]
+            },
+            "to": {
+              "earliest": ["641"],
+              "value": ["0641"],
+              "latest": ["641"]
+            },
+            "earliest": ["610"],
+            "latest": ["641"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Heraclius (610-641)"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-193000"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-193000"],
+            "term": ["agent-193000"],
+            "role": [
+              {
+                "value": ["ruler"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.BZ.1-R"],
+        "type": ["accession number"],
+        "value": ["CM.BZ.1-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["300304"],
+        "type": ["priref"],
+        "value": ["300304"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/300304"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/300304"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-40365"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-40365"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-40365"],
+            "summary_title": ["bronze"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-10591"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-10591"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-10591"],
+        "summary_title": ["Byzantine"]
+      }
+    ],
+    "admin": {
+      "created": ["1625825057000"],
+      "modified": ["1626432302000"],
+      "id": ["object-300304"]
+    },
+    "description": [
+      {
+        "value": ["Byzantine Empire, Heraclius (610-641), AE1, Cyzicus"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-300304"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/300304"],
+    "object": ["object-300304"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

@@ -1,0 +1,145 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-133030"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-133030"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-133030"],
+        "summary_title": ["half drachm"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["unknown"],
+        "agents": {
+          "agent": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "agent": ["agent-149652"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["240"],
+              "value": ["0240"],
+              "latest": ["240"]
+            },
+            "to": {
+              "earliest": ["270"],
+              "value": ["0270"],
+              "latest": ["270"]
+            },
+            "earliest": ["240"],
+            "latest": ["270"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Shapur I (240-270)"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-204198"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-204198"],
+            "term": ["agent-204198"],
+            "role": [
+              {
+                "value": ["ruler"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.PI.3-R"],
+        "type": ["accession number"],
+        "value": ["CM.PI.3-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["300555"],
+        "type": ["priref"],
+        "value": ["300555"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/300555"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/300555"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-39778"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39778"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39778"],
+            "summary_title": ["silver"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-133030"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-133030"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-133030"],
+        "summary_title": ["half drachm"]
+      },
+      {
+        "term": ["term-10549"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-10549"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-10549"],
+        "summary_title": ["Sassanian"]
+      }
+    ],
+    "admin": {
+      "created": ["1626343501000"],
+      "modified": ["1626432302000"],
+      "id": ["object-300555"]
+    },
+    "description": [
+      {
+        "value": ["Sassanian, silver half drachm of Shapur I (240-270)"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-300555"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/300555"],
+    "object": ["object-300555"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

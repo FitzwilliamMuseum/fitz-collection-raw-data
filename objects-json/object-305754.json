@@ -1,0 +1,145 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-119511"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119511"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119511"],
+        "summary_title": ["Roman Provincial"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "agents": {
+          "agent": {
+            "summary_title": ["Mossop, John Coubro'"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-180960"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-180960"],
+            "agent": ["agent-180960"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["27"],
+              "value": ["-0027"],
+              "latest": ["27"]
+            },
+            "to": {
+              "earliest": ["14"],
+              "value": ["0014"],
+              "latest": ["14"]
+            },
+            "earliest": ["27"],
+            "latest": ["14"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Augustus (27BC-14AD)"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-173598"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-173598"],
+            "term": ["agent-173598"],
+            "role": [
+              {
+                "value": ["ruler"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.MO.32-R"],
+        "type": ["accession number"],
+        "value": ["CM.MO.32-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["305754"],
+        "type": ["priref"],
+        "value": ["305754"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/305754"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/305754"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-40365"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-40365"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-40365"],
+            "summary_title": ["bronze"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-119511"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119511"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119511"],
+        "summary_title": ["Roman Provincial"]
+      },
+      {
+        "term": ["term-106658"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106658"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106658"],
+        "summary_title": ["Spain"]
+      }
+    ],
+    "admin": {
+      "created": ["1629298290000"],
+      "modified": ["1629298290000"],
+      "id": ["object-305754"]
+    },
+    "description": [
+      {
+        "value": ["Roman Provincial, Spain, Augustus (27 BC-14 AD), bronze coin, Calagurris, RPC I.433a"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-305754"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/305754"],
+    "object": ["object-305754"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

@@ -1,0 +1,183 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-101154"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101154"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101154"],
+        "summary_title": ["stater"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-200860"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-200860"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-200860"],
+        "summary_title": ["CAMFZ"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bought"],
+        "date": [
+          {
+            "earliest": ["2019"],
+            "value": ["2019-01-28"],
+            "latest": ["2019"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Bankle, T."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-199579"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-199579"],
+            "agent": ["agent-199579"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["399"],
+              "value": ["-0399"],
+              "latest": ["399"]
+            },
+            "to": {
+              "earliest": ["300"],
+              "value": ["-0300"],
+              "latest": ["300"]
+            },
+            "earliest": ["399"],
+            "latest": ["300"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Istrus"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-190837"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-190837"],
+            "term": ["agent-190837"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.127-2019"],
+        "type": ["accession number"],
+        "value": ["CM.127-2019"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["301713"],
+        "type": ["priref"],
+        "value": ["301713"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/301713"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/301713"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-39778"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39778"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39778"],
+            "summary_title": ["silver"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-101154"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101154"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101154"],
+        "summary_title": ["stater"]
+      },
+      {
+        "term": ["term-12401"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12401"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-12401"],
+        "summary_title": ["Greek"]
+      },
+      {
+        "term": ["term-133814"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-133814"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-133814"],
+        "summary_title": ["Istrus"]
+      }
+    ],
+    "admin": {
+      "created": ["1628158966000"],
+      "modified": ["1628158966000"],
+      "id": ["object-301713"]
+    },
+    "inscription": [
+      {
+        "description": [
+          {
+            "value": ["Two faces."]
+          }
+        ],
+        "location": ["obverse"],
+        "type": ["design"]
+      },
+      {
+        "transcription": [
+          {
+            "value": ["I?TPIH"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Eagle on dolphin, ? below."]
+          }
+        ],
+        "location": ["reverse"],
+        "type": ["design"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["Silver stater of Istrus, 4th century BC."]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-301713"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/301713"],
+    "object": ["object-301713"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

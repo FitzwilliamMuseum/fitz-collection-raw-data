@@ -1,0 +1,122 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-115357"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-115357"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-115357"],
+        "summary_title": ["United Kingdom"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["1938"],
+            "value": ["1938-01-11"],
+            "latest": ["1938"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Gonville and Caius College"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-165247"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-165247"],
+            "agent": ["agent-165247"]
+          }
+        }
+      },
+      "creation": {
+        "maker": {
+          "maker": {
+            "summary_title": ["George III (1760-1820)"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-51006"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-51006"],
+            "term": ["agent-51006"],
+            "role": [
+              {
+                "value": ["ruler"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.CA.640-R"],
+        "type": ["accession number"],
+        "value": ["CM.CA.640-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["305818"],
+        "type": ["priref"],
+        "value": ["305818"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/305818"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/305818"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-115357"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-115357"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-115357"],
+        "summary_title": ["United Kingdom"]
+      }
+    ],
+    "admin": {
+      "created": ["1631286271000"],
+      "modified": ["1631286271000"],
+      "id": ["object-305818"]
+    },
+    "description": [
+      {
+        "value": ["George III (1760-1820), gold guinea, 1769"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-165247"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-165247"],
+        "owner": ["agent-165247"],
+        "summary_title": ["Gonville and Caius College"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-305818"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/305818"],
+    "object": ["object-305818"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

@@ -1,0 +1,186 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-107815"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107815"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107815"],
+        "summary_title": ["Germany"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["CM.863-2019"],
+        "type": ["accession number"],
+        "value": ["CM.863-2019"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["302285"],
+        "type": ["priref"],
+        "value": ["302285"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/302285"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/302285"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Leipziger Munzhandlung e-Live Auction 12, lot 140."]
+      }
+    ],
+    "admin": {
+      "created": ["1628159026000"],
+      "modified": ["1628159026000"],
+      "id": ["object-302285"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["German Nazi silver medal commemorating the Anschluss with Austria, 1938. By Hanisch-Concée."]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-200860"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-200860"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-200860"],
+        "summary_title": ["CAMFZ"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bought"],
+        "date": [
+          {
+            "earliest": ["2019"],
+            "value": ["2019-04-29"],
+            "latest": ["2019"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Leipziger Munzhandlung und Auktion Heidrun Hohn Hohn"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-190654"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-190654"],
+            "agent": ["agent-190654"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "earliest": ["1938"],
+            "value": ["1938"],
+            "latest": ["1938"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Hanisch-Concée"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-199712"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-199712"],
+            "term": ["agent-199712"],
+            "role": [
+              {
+                "value": ["medallist"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-39778"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39778"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39778"],
+            "summary_title": ["silver"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-107815"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107815"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107815"],
+        "summary_title": ["Germany"]
+      },
+      {
+        "term": ["term-133788"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-133788"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-133788"],
+        "summary_title": ["Third Reich"]
+      }
+    ],
+    "inscription": [
+      {
+        "transcription": [
+          {
+            "value": ["DER . EINER . VND . FVHRER . ALLER . DEUTSCHEN"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Head, right; olive branch behind."]
+          }
+        ],
+        "location": ["obverse"],
+        "type": ["design"]
+      },
+      {
+        "transcription": [
+          {
+            "value": [". DAS . GROSSDEUTSCHE . REICH . IST . ERSTANDEN ."]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Jewelled cross on orb between dates."]
+          }
+        ],
+        "location": ["reverse"],
+        "type": ["design"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-42993"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-42993"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-42993"],
+        "summary_title": ["medal"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "publications": [
+      {
+        "term": ["publication-8657"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-8657"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-8657"],
+        "summary_title": ["Medallic Portraits of Adolf Hitler"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-302285"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/302285"],
+    "object": ["object-302285"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

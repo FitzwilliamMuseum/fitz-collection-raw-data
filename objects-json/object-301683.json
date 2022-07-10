@@ -1,0 +1,172 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-135896"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-135896"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-135896"],
+        "summary_title": ["2 kronor"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-200860"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-200860"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-200860"],
+        "summary_title": ["CAMFZ"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["2019"],
+            "value": ["2019-01-28"],
+            "latest": ["2019"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Museum collection boxes"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-174366"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-174366"],
+            "agent": ["agent-174366"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "earliest": ["2016"],
+            "value": ["2016"],
+            "latest": ["2016"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Mint of Finland"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-199515"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-199515"],
+            "term": ["agent-199515"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.82-2019"],
+        "type": ["accession number"],
+        "value": ["CM.82-2019"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["301683"],
+        "type": ["priref"],
+        "value": ["301683"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/301683"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/301683"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-135526"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-135526"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-135526"],
+            "summary_title": ["copper-plated steel"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-135896"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-135896"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-135896"],
+        "summary_title": ["2 kronor"]
+      },
+      {
+        "term": ["term-107866"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107866"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107866"],
+        "summary_title": ["Sweden"]
+      }
+    ],
+    "admin": {
+      "created": ["1628158963000"],
+      "modified": ["1628158963000"],
+      "id": ["object-301683"]
+    },
+    "inscription": [
+      {
+        "transcription": [
+          {
+            "value": ["CARL XVI GUSTAF SVERIGES KONUNG 2016"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Head, left."]
+          }
+        ],
+        "location": ["obverse"],
+        "type": ["design"]
+      },
+      {
+        "transcription": [
+          {
+            "value": ["SVERIGE 2 KRONOR"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Royal arms and value."]
+          }
+        ],
+        "location": ["reverse"],
+        "type": ["design"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["Swedish 2 kronor, 2016"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-301683"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/301683"],
+    "object": ["object-301683"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

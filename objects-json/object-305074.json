@@ -1,0 +1,138 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-119511"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119511"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119511"],
+        "summary_title": ["Roman Provincial"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["unknown"],
+        "agents": {
+          "agent": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "agent": ["agent-149652"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["66"],
+              "value": ["0066"],
+              "latest": ["66"]
+            },
+            "to": {
+              "earliest": ["70"],
+              "value": ["0070"],
+              "latest": ["70"]
+            },
+            "earliest": ["66"],
+            "latest": ["70"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Jerusalem"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-168320"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-168320"],
+            "term": ["agent-168320"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.G.696-R"],
+        "type": ["accession number"],
+        "value": ["CM.G.696-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["305074"],
+        "type": ["priref"],
+        "value": ["305074"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/305074"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/305074"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-119511"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119511"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119511"],
+        "summary_title": ["Roman Provincial"]
+      },
+      {
+        "term": ["term-137127"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-137127"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-137127"],
+        "summary_title": ["Judea"]
+      }
+    ],
+    "admin": {
+      "created": ["1628597271000"],
+      "modified": ["1628597271000"],
+      "id": ["object-305074"]
+    },
+    "description": [
+      {
+        "value": ["Roman Provincial, Judea, First Jewish revolt (66-70), coin, BMC 274.44"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-305074"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/305074"],
+    "object": ["object-305074"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

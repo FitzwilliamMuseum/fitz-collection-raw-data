@@ -1,0 +1,177 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-101159"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101159"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101159"],
+        "summary_title": ["triens"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["CM.271-2019"],
+        "type": ["accession number"],
+        "value": ["CM.271-2019"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["301824"],
+        "type": ["priref"],
+        "value": ["301824"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/301824"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/301824"]
+      }
+    ],
+    "admin": {
+      "created": ["1628158978000"],
+      "modified": ["1628158978000"],
+      "id": ["object-301824"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["Roman Republican AE triens, Rome, post-211 BC."]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-200860"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-200860"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-200860"],
+        "summary_title": ["CAMFZ"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["2019"],
+            "value": ["2019-04-29"],
+            "latest": ["2019"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Buttrey, T. V., Prof."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159617"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159617"],
+            "agent": ["agent-159617"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "precision": ["post"],
+            "earliest": ["211"],
+            "value": ["-0211"],
+            "latest": ["211"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Rome"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149886"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149886"],
+            "term": ["agent-149886"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-40365"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-40365"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-40365"],
+            "summary_title": ["bronze"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-101159"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101159"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101159"],
+        "summary_title": ["triens"]
+      },
+      {
+        "term": ["term-120744"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-120744"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-120744"],
+        "summary_title": ["Roman Republican"]
+      }
+    ],
+    "inscription": [
+      {
+        "description": [
+          {
+            "value": ["Head of Minerva, right, wearing Corinthian helmet."]
+          }
+        ],
+        "location": ["obverse"],
+        "type": ["design"]
+      },
+      {
+        "transcription": [
+          {
+            "value": ["ROMA"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Prow, right; denominational mark below."]
+          }
+        ],
+        "location": ["reverse"],
+        "type": ["design"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "publications": [
+      {
+        "term": ["publication-4990"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-4990"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-4990"],
+        "summary_title": ["Roman Republican Coinage I"],
+        "page": ["159"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-301824"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/301824"],
+    "object": ["object-301824"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

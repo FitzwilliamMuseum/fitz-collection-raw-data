@@ -1,0 +1,151 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-101148"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101148"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101148"],
+        "summary_title": ["shekel"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["unknown"],
+        "agents": {
+          "agent": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "agent": ["agent-149652"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["66"],
+              "value": ["0066"],
+              "latest": ["66"]
+            },
+            "to": {
+              "earliest": ["70"],
+              "value": ["0070"],
+              "latest": ["70"]
+            },
+            "earliest": ["66"],
+            "latest": ["70"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Jerusalem"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-168320"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-168320"],
+            "term": ["agent-168320"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.G.693-R"],
+        "type": ["accession number"],
+        "value": ["CM.G.693-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["305071"],
+        "type": ["priref"],
+        "value": ["305071"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/305071"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/305071"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-39778"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39778"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39778"],
+            "summary_title": ["silver"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-101148"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101148"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101148"],
+        "summary_title": ["shekel"]
+      },
+      {
+        "term": ["term-119511"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119511"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119511"],
+        "summary_title": ["Roman Provincial"]
+      },
+      {
+        "term": ["term-137127"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-137127"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-137127"],
+        "summary_title": ["Judea"]
+      }
+    ],
+    "admin": {
+      "created": ["1628597271000"],
+      "modified": ["1628597271000"],
+      "id": ["object-305071"]
+    },
+    "description": [
+      {
+        "value": ["Roman Provincial, Judea, First Jewish revolt (66-70), shekel, SNG Fitz 6118"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-305071"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/305071"],
+    "object": ["object-305071"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

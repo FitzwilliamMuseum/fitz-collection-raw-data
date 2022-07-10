@@ -1,0 +1,158 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-101187"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101187"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101187"],
+        "summary_title": ["ducat"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["2006"],
+            "value": ["2006-11-20"],
+            "latest": ["2006"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Grierson, Philip, Prof."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159574"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159574"],
+            "agent": ["agent-159574"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["1446"],
+              "value": ["1446"],
+              "latest": ["1446"]
+            },
+            "to": {
+              "earliest": ["1453"],
+              "value": ["1453"],
+              "latest": ["1453"]
+            },
+            "earliest": ["1446"],
+            "latest": ["1453"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["John Hunyadi (1406-56)"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-199938"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-199938"],
+            "term": ["agent-199938"],
+            "role": [
+              {
+                "value": ["ruler"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.PG.8029-2006"],
+        "type": ["accession number"],
+        "value": ["CM.PG.8029-2006"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["300836"],
+        "type": ["priref"],
+        "value": ["300836"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/300836"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/300836"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Philip Grierson bequest 2006"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-39593"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39593"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39593"],
+            "summary_title": ["gold"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-101187"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101187"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101187"],
+        "summary_title": ["ducat"]
+      },
+      {
+        "term": ["term-109244"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-109244"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-109244"],
+        "summary_title": ["Hungary"]
+      }
+    ],
+    "admin": {
+      "created": ["1628070557000"],
+      "modified": ["1628070557000"],
+      "id": ["object-300836"]
+    },
+    "description": [
+      {
+        "value": ["Hungary, John Hunyadi (1446-1453), gold ducat, Nagybana, H. 616, 3.57g"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-300836"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/300836"],
+    "object": ["object-300836"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
