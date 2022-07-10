@@ -1,0 +1,229 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-98032"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98032"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98032"],
+        "summary_title": ["print"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["P.1673-1991"],
+        "type": ["accession number"],
+        "value": ["P.1673-1991"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["83148"],
+        "type": ["priref"],
+        "value": ["83148"]
+      },
+      {
+        "type": ["Bartsch"],
+        "value": ["1"]
+      },
+      {
+        "type": ["Illustrated Bartsch"],
+        "value": ["1"]
+      },
+      {
+        "type": ["Hollstein (Dutch/Flemish)"],
+        "value": ["105"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/83148"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/83148"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1596471963000"],
+      "id": ["object-83148"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["The Holy Family with Two Angels"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1991"],
+            "value": ["1991"],
+            "latest": ["1991"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Reitlinger, Henry Scipio"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-150552"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-150552"],
+            "agent": ["agent-150552"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["1590"],
+              "value": ["1590"],
+              "latest": ["1590"]
+            },
+            "to": {
+              "earliest": ["1630"],
+              "value": ["1630"],
+              "latest": ["1630"]
+            },
+            "earliest": ["1590"],
+            "latest": ["1630"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Matham, Jacob"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-88669"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-88669"],
+            "term": ["agent-88669"],
+            "role": [
+              {
+                "value": ["printmaker"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "school_or_style": [
+      {
+        "term": ["term-8219"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-8219"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-8219"],
+        "summary_title": ["Dutch"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-37166"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-37166"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-37166"],
+            "summary_title": ["laid paper"]
+          }
+        ]
+      },
+      {
+        "name": ["Plate"],
+        "materials": []
+      },
+      {
+        "name": ["Sheet"],
+        "materials": []
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-29409"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-29409"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-29409"],
+        "summary_title": ["engraving"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-98032"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98032"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98032"],
+        "summary_title": ["print"]
+      }
+    ],
+    "inscription": [
+      {
+        "method": ["printed"],
+        "transcription": [
+          {
+            "value": ["JMaetham / fecit et excudt."]
+          }
+        ],
+        "location": ["image upper right"],
+        "type": ["signature"]
+      },
+      {
+        "method": ["printed"],
+        "transcription": [
+          {
+            "value": ["Quam dulces semper lusus, quam propria semper, / Et sijncera animis confers solatia IESV: / Talia non hic mundus habet, qui tristia miscet / Laetis, et solidi quicquam promittere nescit"]
+          }
+        ],
+        "location": ["plate lower centre"],
+        "type": ["inscription"]
+      },
+      {
+        "method": ["printed"],
+        "transcription": [
+          {
+            "value": ["SHS"]
+          }
+        ],
+        "location": ["plate lower right"],
+        "type": ["monogram"]
+      },
+      {
+        "transcription": [
+          {
+            "value": ["Set of scales"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Unidentified variant"]
+          }
+        ],
+        "type": ["watermark"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-98032"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98032"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98032"],
+        "summary_title": ["print"]
+      }
+    ],
+    "department": {
+      "value": ["Paintings, Drawings and Prints"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-83148"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/83148"],
+    "object": ["object-83148"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
