@@ -1,0 +1,175 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-101164"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101164"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101164"],
+        "summary_title": ["uncia"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["1976"],
+            "value": ["1976"],
+            "latest": ["1976"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Burkitt, M.I., Mrs"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159592"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159592"],
+            "agent": ["agent-159592"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["212"],
+              "value": ["-211"],
+              "latest": ["212"]
+            },
+            "to": {
+              "earliest": ["211"],
+              "value": ["-210"],
+              "latest": ["211"]
+            },
+            "earliest": ["212"],
+            "latest": ["211"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Sicily"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-170438"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-170438"],
+            "term": ["agent-170438"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.BU.4-R"],
+        "type": ["accession number"],
+        "value": ["CM.BU.4-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["116619"],
+        "type": ["priref"],
+        "value": ["116619"]
+      },
+      {
+        "type": ["RRC"],
+        "value": ["72/9"]
+      },
+      {
+        "type": ["ordering"],
+        "value": ["RR-0402"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/116619"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/116619"]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-119622"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119622"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119622"],
+        "summary_title": ["struck"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-101164"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101164"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101164"],
+        "summary_title": ["uncia"]
+      },
+      {
+        "term": ["term-119616"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119616"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119616"],
+        "summary_title": ["Roman Republic"]
+      }
+    ],
+    "admin": {
+      "created": ["1397472617000"],
+      "modified": ["1397473750000"],
+      "id": ["object-116619"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159592"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159592"],
+        "owner": ["agent-159592"],
+        "summary_title": ["Burkitt, M.I., Mrs"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["degrees"],
+          "dimension": ["Die Axis"],
+          "value": ["90"]
+        },
+        {
+          "units": ["mm"],
+          "dimension": ["Image(height)"],
+          "value": ["21"]
+        },
+        {
+          "units": ["mm"],
+          "dimension": ["Image(width)"],
+          "value": ["19"]
+        },
+        {
+          "units": ["g"],
+          "dimension": ["Weight"],
+          "value": ["6.20"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-116619"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/116619"],
+    "object": ["object-116619"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
