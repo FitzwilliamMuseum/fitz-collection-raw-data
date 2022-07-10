@@ -1,0 +1,138 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-101415"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101415"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101415"],
+        "summary_title": ["penny"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["unknown"],
+        "agents": {
+          "agent": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "agent": ["agent-149652"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["1251"],
+              "value": ["1251"],
+              "latest": ["1251"]
+            },
+            "to": {
+              "earliest": ["1254"],
+              "value": ["1254"],
+              "latest": ["1254"]
+            },
+            "earliest": ["1251"],
+            "latest": ["1254"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Henry III (1216-72)"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-173932"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-173932"],
+            "term": ["agent-173932"],
+            "role": [
+              {
+                "value": ["ruler"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.BI.2908-R"],
+        "type": ["accession number"],
+        "value": ["CM.BI.2908-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["292000"],
+        "type": ["priref"],
+        "value": ["292000"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/292000"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/292000"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-101415"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101415"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101415"],
+        "summary_title": ["penny"]
+      },
+      {
+        "term": ["term-107202"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107202"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107202"],
+        "summary_title": ["Ireland"]
+      }
+    ],
+    "admin": {
+      "created": ["1624287701000"],
+      "modified": ["1626432170000"],
+      "id": ["object-292000"]
+    },
+    "description": [
+      {
+        "value": ["Ireland, Henry III, silver penny, Long Cross class Ib, Dublin, Ricard"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-292000"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/292000"],
+    "object": ["object-292000"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

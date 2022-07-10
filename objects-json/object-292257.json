@@ -1,0 +1,138 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-101235"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101235"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101235"],
+        "summary_title": ["farthing"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["unknown"],
+        "agents": {
+          "agent": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "agent": ["agent-149652"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["1279"],
+              "value": ["1279"],
+              "latest": ["1279"]
+            },
+            "to": {
+              "earliest": ["1302"],
+              "value": ["1302"],
+              "latest": ["1302"]
+            },
+            "earliest": ["1279"],
+            "latest": ["1302"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Edward I (1272-1307)"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-178247"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-178247"],
+            "term": ["agent-178247"],
+            "role": [
+              {
+                "value": ["ruler"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.BI.3167-R"],
+        "type": ["accession number"],
+        "value": ["CM.BI.3167-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["292257"],
+        "type": ["priref"],
+        "value": ["292257"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/292257"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/292257"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-101235"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101235"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101235"],
+        "summary_title": ["farthing"]
+      },
+      {
+        "term": ["term-107202"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107202"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107202"],
+        "summary_title": ["Ireland"]
+      }
+    ],
+    "admin": {
+      "created": ["1624287717000"],
+      "modified": ["1626432178000"],
+      "id": ["object-292257"]
+    },
+    "description": [
+      {
+        "value": ["Ireland, Edward I, AR farthing, Dublin, early issue"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-292257"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/292257"],
+    "object": ["object-292257"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
