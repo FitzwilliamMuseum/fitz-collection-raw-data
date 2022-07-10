@@ -1,0 +1,117 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-91177"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-91177"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-91177"],
+        "summary_title": ["kylix"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["1991"],
+            "value": ["1991"],
+            "latest": ["1991"]
+          }
+        ]
+      },
+      "creation": {
+        "periods": [
+          {
+            "summary_title": ["archaic"],
+            "period": ["term-111220"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-111220"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111220"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Laconia"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-129242"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-129242"],
+            "place": ["term-129242"],
+            "coordinates": {
+              "lat": ["43.5278546"],
+              "lng": ["-71.470351"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Greece"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Peloponnese"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["Loan Ant.103.376"],
+        "type": ["accession number"],
+        "value": ["Loan Ant.103.376"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["89758"],
+        "type": ["priref"],
+        "value": ["89758"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/89758"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/89758"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-91177"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-91177"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-91177"],
+        "summary_title": ["kylix"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1625830056000"],
+      "id": ["object-89758"]
+    },
+    "description": [
+      {
+        "value": ["miniature kylix"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-89198"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89198"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89198"],
+        "summary_title": ["vessel"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-89758"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/89758"],
+    "object": ["object-89758"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

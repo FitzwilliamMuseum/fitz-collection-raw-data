@@ -1,0 +1,153 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-106616"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106616"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106616"],
+        "summary_title": ["lamp"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["1991"],
+            "value": ["1991"],
+            "latest": ["1991"]
+          }
+        ]
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Cyprus"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-109616"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-109616"],
+            "coordinates": {
+              "lat": ["34.9823018"],
+              "lng": ["33.1451285"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["AD"]
+              ],
+              "earliest": ["150"],
+              "value": ["0150"],
+              "latest": ["150"]
+            },
+            "to": {
+              "era": [
+                ["AD"]
+              ],
+              "earliest": ["200"],
+              "value": ["0200"],
+              "latest": ["200"]
+            },
+            "earliest": ["150"],
+            "latest": ["200"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Middle Roman"],
+            "period": ["term-111183"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-111183"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111183"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Corinth"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-112497"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-112497"],
+            "place": ["term-112497"],
+            "coordinates": {
+              "lat": ["37.9386936"],
+              "lng": ["22.9280447"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Greece"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Peloponnese"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["Loan Ant.103.222"],
+        "type": ["accession number"],
+        "value": ["Loan Ant.103.222"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["89536"],
+        "type": ["priref"],
+        "value": ["89536"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/89536"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/89536"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-106616"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106616"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106616"],
+        "summary_title": ["lamp"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1625760690000"],
+      "id": ["object-89536"]
+    },
+    "description": [
+      {
+        "value": ["lamp, Artemis with stag and hound"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-110836"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110836"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110836"],
+        "summary_title": ["lighting equipment"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-89536"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/89536"],
+    "object": ["object-89536"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

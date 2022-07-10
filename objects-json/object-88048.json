@@ -1,0 +1,162 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-108369"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-108369"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-108369"],
+        "summary_title": ["animal"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1923"],
+            "value": ["1923"],
+            "latest": ["1923"]
+          }
+        ]
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["temple of Artemis Orthia Sparta Greece"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-111631"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111631"],
+            "coordinates": {
+              "lat": ["37.0828678"],
+              "lng": ["22.43511445"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["BC"]
+              ],
+              "earliest": ["760"],
+              "value": ["-0760"],
+              "latest": ["760"]
+            },
+            "to": {
+              "era": [
+                ["BC"]
+              ],
+              "earliest": ["701"],
+              "value": ["-0701"],
+              "latest": ["701"]
+            },
+            "earliest": ["760"],
+            "latest": ["701"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Geometric"],
+            "period": ["term-14071"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-14071"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-14071"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.16.1923-probdup"],
+        "type": ["accession number"],
+        "value": ["GR.16.1923-probdup"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["88048"],
+        "type": ["priref"],
+        "value": ["88048"]
+      },
+      {
+        "type": ["oldadmincategory"],
+        "value": ["B"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/88048"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/88048"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-108369"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-108369"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-108369"],
+        "summary_title": ["animal"]
+      }
+    ],
+    "admin": {
+      "created": ["1312633661000"],
+      "modified": ["1621012114000"],
+      "id": ["object-88048"]
+    },
+    "description": [
+      {
+        "value": ["horse, with maze design on underside of base"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-107454"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107454"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107454"],
+        "summary_title": ["figure"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Depth"],
+          "value": ["0.026"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.089"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.085"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-4551"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-4551"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-4551"],
+        "summary_title": ["The Sanctuary of Artemis Orthia at Sparta : excavated and described by members of the British school at Athens, 1906-1910"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-88048"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/88048"],
+    "object": ["object-88048"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

@@ -1,0 +1,168 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-89389"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89389"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89389"],
+        "summary_title": ["jar"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1987"],
+            "value": ["1987"],
+            "latest": ["1987"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Middleton, Colin"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-91825"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-91825"],
+            "agent": ["agent-91825"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Sialk Iran"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-114244"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-114244"],
+            "coordinates": {
+              "lat": ["33.96875575"],
+              "lng": ["51.404217920119"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "note": [
+              {
+                "value": ["import: ca 1200-1000 BC"]
+              }
+            ],
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["1200"],
+              "value": ["-1200"],
+              "latest": ["1200"]
+            },
+            "to": {
+              "earliest": ["1000"],
+              "value": ["-1000"],
+              "latest": ["1000"]
+            },
+            "earliest": ["1200"],
+            "latest": ["1000"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["ANE.19.1987"],
+        "type": ["accession number"],
+        "value": ["ANE.19.1987"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["87985"],
+        "type": ["priref"],
+        "value": ["87985"]
+      },
+      {
+        "type": ["oldadmincategory"],
+        "value": ["O"]
+      },
+      {
+        "type": ["oldobjectnumber"],
+        "value": ["WAE.19.1987"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/87985"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/87985"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["see ANE.1.1987"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-89389"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89389"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89389"],
+        "summary_title": ["jar"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1482319534000"],
+      "id": ["object-87985"]
+    },
+    "description": [
+      {
+        "value": ["burnished grey ware jar with loop handle on a high pedestal base"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-89198"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89198"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89198"],
+        "summary_title": ["vessel"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.223"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-6344"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-6344"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-6344"],
+        "summary_title": ["Sialk"]
+      },
+      {
+        "term": ["publication-6348"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-6348"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-6348"],
+        "summary_title": ["Fouilles du Tépé-Giyan"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-87985"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/87985"],
+    "object": ["object-87985"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

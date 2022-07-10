@@ -1,0 +1,161 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-107667"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107667"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107667"],
+        "summary_title": ["bowl"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bought"],
+        "date": [
+          {
+            "earliest": ["1992"],
+            "value": ["1992"],
+            "latest": ["1992"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Serres, J. Ph. de"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-161884"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-161884"],
+            "agent": ["agent-161884"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Baghdad"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-123200"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-123200"],
+            "coordinates": {
+              "lat": ["33.3024309"],
+              "lng": ["44.3787992"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["301"],
+              "value": ["-300"],
+              "latest": ["301"]
+            },
+            "to": {
+              "earliest": ["202"],
+              "value": ["-201"],
+              "latest": ["202"]
+            },
+            "earliest": ["301"],
+            "latest": ["202"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Seleucid"],
+            "period": ["term-10542"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-10542"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-10542"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["ANE.2.1992"],
+        "type": ["accession number"],
+        "value": ["ANE.2.1992"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["87999"],
+        "type": ["priref"],
+        "value": ["87999"]
+      },
+      {
+        "type": ["oldadmincategory"],
+        "value": ["O"]
+      },
+      {
+        "type": ["oldobjectnumber"],
+        "value": ["WAE.2.1992"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/87999"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/87999"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Base"],
+        "materials": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-107667"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107667"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107667"],
+        "summary_title": ["bowl"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1481035690000"],
+      "id": ["object-87999"]
+    },
+    "description": [
+      {
+        "value": ["copper alloy vessel decorated with vertical fluting on its exterior and with three horizontal bands along circumference of rim."]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-89198"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89198"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89198"],
+        "summary_title": ["vessel"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Length"],
+          "value": ["0.16"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.17"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-87999"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/87999"],
+    "object": ["object-87999"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

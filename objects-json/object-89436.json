@@ -1,0 +1,146 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-107484"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107484"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107484"],
+        "summary_title": ["plaque"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["1991"],
+            "value": ["1991"],
+            "latest": ["1991"]
+          }
+        ]
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Melos Greek Islands"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-111246"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111246"]
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["BC"]
+              ],
+              "earliest": ["500"],
+              "value": ["-0500"],
+              "latest": ["500"]
+            },
+            "to": {
+              "era": [
+                ["BC"]
+              ],
+              "earliest": ["401"],
+              "value": ["-0401"],
+              "latest": ["401"]
+            },
+            "earliest": ["500"],
+            "latest": ["401"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Classical"],
+            "period": ["term-14088"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-14088"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-14088"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Melos"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-118799"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-118799"],
+            "place": ["term-118799"],
+            "coordinates": {
+              "lat": ["36.70934405"],
+              "lng": ["24.506833813254"]
+            },
+            "note": ["possibly Melos"],
+            "hierarchies": [
+              {
+                "summary_title": ["Greek Islands"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["Loan Ant.103.123"],
+        "type": ["accession number"],
+        "value": ["Loan Ant.103.123"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["89436"],
+        "type": ["priref"],
+        "value": ["89436"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/89436"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/89436"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-107484"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107484"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107484"],
+        "summary_title": ["plaque"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1625830440000"],
+      "id": ["object-89436"]
+    },
+    "description": [
+      {
+        "value": ["relief with sphinx grabbing child"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-107454"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107454"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107454"],
+        "summary_title": ["figure"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-89436"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/89436"],
+    "object": ["object-89436"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

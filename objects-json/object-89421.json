@@ -1,0 +1,153 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-89402"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89402"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89402"],
+        "summary_title": ["lekythos"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["1991"],
+            "value": ["1991"],
+            "latest": ["1991"]
+          }
+        ]
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Delphi Greece"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-114376"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-114376"],
+            "coordinates": {
+              "lat": ["38.4811538"],
+              "lng": ["22.500548577223"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["BC"]
+              ],
+              "earliest": ["480"],
+              "value": ["-0480"],
+              "latest": ["480"]
+            },
+            "to": {
+              "era": [
+                ["BC"]
+              ],
+              "earliest": ["470"],
+              "value": ["-0470"],
+              "latest": ["470"]
+            },
+            "earliest": ["480"],
+            "latest": ["470"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["archaic"],
+            "period": ["term-111220"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-111220"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111220"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Athens"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-107608"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107608"],
+            "place": ["term-107608"],
+            "coordinates": {
+              "lat": ["37.9839412"],
+              "lng": ["23.7283052"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Greece"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Attica"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["Loan Ant.103.108"],
+        "type": ["accession number"],
+        "value": ["Loan Ant.103.108"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["89421"],
+        "type": ["priref"],
+        "value": ["89421"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/89421"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/89421"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-89402"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89402"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89402"],
+        "summary_title": ["lekythos"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1625830440000"],
+      "id": ["object-89421"]
+    },
+    "description": [
+      {
+        "value": ["lekythos, palmette"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-89198"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89198"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89198"],
+        "summary_title": ["vessel"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-89421"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/89421"],
+    "object": ["object-89421"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

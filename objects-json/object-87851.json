@@ -1,0 +1,179 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-114254"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-114254"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-114254"],
+        "summary_title": ["tessera"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1982"],
+            "value": ["1982"],
+            "latest": ["1982"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Wellcome Institute, the trustees of the"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-166444"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-166444"],
+            "agent": ["agent-166444"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Palmyra Syria"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-111318"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111318"],
+            "coordinates": {
+              "lat": ["34.5526608"],
+              "lng": ["38.259261004689"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["1"],
+              "value": ["0001"],
+              "latest": ["1"]
+            },
+            "to": {
+              "earliest": ["300"],
+              "value": ["0300"],
+              "latest": ["300"]
+            },
+            "earliest": ["1"],
+            "latest": ["300"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Roman"],
+            "period": ["term-111193"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-111193"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111193"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["ANE.14.1982"],
+        "type": ["accession number"],
+        "value": ["ANE.14.1982"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["87851"],
+        "type": ["priref"],
+        "value": ["87851"]
+      },
+      {
+        "type": ["oldadmincategory"],
+        "value": ["O"]
+      },
+      {
+        "type": ["oldobjectnumber"],
+        "value": ["WAE.14.1982"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/87851"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/87851"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-114254"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-114254"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-114254"],
+        "summary_title": ["tessera"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1629829503000"],
+      "id": ["object-87851"]
+    },
+    "description": [
+      {
+        "value": ["tessera, admission token for banquets, hexagonal with priest on couch, star and eagle, inscribed on one side and bust of priest flanked by stars within garland on other side"]
+      }
+    ],
+    "inscription": [
+      {
+        "transcription": [
+          {
+            "value": ["Ns(with v)wm Mlkw"]
+          }
+        ],
+        "type": ["inscription"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100819"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100819"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100819"],
+        "summary_title": ["token"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Length"],
+          "value": ["0.026"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.03"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-4556"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-4556"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-4556"],
+        "summary_title": ["The Wellcome gems : a Fitzwilliam Museum catalogue"]
+      },
+      {
+        "term": ["publication-6366"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-6366"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-6366"],
+        "summary_title": ["Recueil des Tessères de Palmyre"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-87851"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/87851"],
+    "object": ["object-87851"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
