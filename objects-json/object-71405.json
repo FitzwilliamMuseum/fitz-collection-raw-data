@@ -1,0 +1,403 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-116832"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-116832"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-116832"],
+        "summary_title": ["fragment of a tyg"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["C.114-1928"],
+        "type": ["accession number"],
+        "value": ["C.114-1928"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["71405"],
+        "type": ["priref"],
+        "value": ["71405"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/71405"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/71405"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Found during a dig at the Wrotham Brickyard site in June 1908; Dr J.W.L. Glaisher, FRS, Trinity College, Cambridge"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1582634557000"],
+      "id": ["object-71405"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1928"],
+            "value": ["1928-12-07"],
+            "latest": ["1928"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Glaisher, J. W. L., Dr"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-152564"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-152564"],
+            "agent": ["agent-152564"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["1650"],
+              "value": ["1650"],
+              "latest": ["1650"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["1700"],
+              "value": ["1700"],
+              "latest": ["1700"]
+            },
+            "earliest": ["1650"],
+            "latest": ["1700"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["second half of 17th century"],
+            "period": ["term-118735"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-118735"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-118735"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Wrotham Old Pottery"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-198322"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-198322"],
+            "term": ["agent-198322"],
+            "role": [
+              {
+                "value": ["production"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Wrotham"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-115311"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-115311"],
+            "place": ["term-115311"],
+            "coordinates": {
+              "lat": ["51.3104474"],
+              "lng": ["0.30297797505865"]
+            },
+            "note": ["Borough Green"],
+            "hierarchies": [
+              {
+                "summary_title": ["England"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Kent"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "component": [
+      {
+        "name": ["Decoration"],
+        "materials": [
+          {
+            "term": ["term-34794"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-34794"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-34794"],
+            "summary_title": ["slip"]
+          }
+        ]
+      }
+    ],
+    "multimedia": [
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616249795489"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa4/preview_C_114_1928_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["181"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616249795489"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa4/C_114_1928_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["550"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["760"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616249795489"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa4/C_114_1928_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["550"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["760"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616249795489"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa4/mid_C_114_1928_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["362"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616274695558"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa4/preview_C_114_1928_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["181"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616274695558"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa4/C_114_1928_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["550"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["760"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616274695558"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa4/C_114_1928_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["550"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["760"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616274695558"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa4/mid_C_114_1928_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["362"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-120082"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-120082"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-120082"],
+        "summary_title": ["throwing"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-116832"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-116832"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-116832"],
+        "summary_title": ["fragment of a tyg"]
+      },
+      {
+        "value": ["sherd"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-108657"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-108657"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-108657"],
+        "summary_title": ["lead-glazed earthenware"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "publications": [
+      {
+        "term": ["publication-1031"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-1031"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-1031"],
+        "summary_title": ["Catalogue of the Glaisher Collection of Pottery and Porcelain in the Fitzwilliam Museum Cambridge"],
+        "page": ["20"],
+        "notes": ["Publ. Vol. I, p. 20, no. 114"]
+      },
+      {
+        "term": ["publication-200002016"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-200002016"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-200002016"],
+        "summary_title": ["Wrotham Slipware and the Wrotham Brickyard"]
+      },
+      {
+        "term": ["publication-200003169"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-200003169"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-200003169"],
+        "summary_title": ["Seventeenth-Century Pottery from Wrotham Kent"],
+        "page": ["133-7"],
+        "notes": ["Ref. Mentions the excavation instigated by Dr Glaisher at the Wrotham Old Pottery"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-71405"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/71405"],
+    "object": ["object-71405"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

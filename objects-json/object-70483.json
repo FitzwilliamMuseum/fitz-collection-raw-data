@@ -1,0 +1,167 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-110980"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110980"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110980"],
+        "summary_title": ["mortal"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1988"],
+            "value": ["1988"],
+            "latest": ["1988"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Walston, Lord, CVO, DCL"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159588"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159588"],
+            "agent": ["agent-159588"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["501"],
+              "value": ["-500"],
+              "latest": ["501"]
+            },
+            "to": {
+              "earliest": ["476"],
+              "value": ["-475"],
+              "latest": ["476"]
+            },
+            "earliest": ["501"],
+            "latest": ["476"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["archaic"],
+            "period": ["term-111220"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-111220"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111220"]
+          },
+          {
+            "summary_title": ["Classical"],
+            "period": ["term-14088"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-14088"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-14088"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Corinth"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-112497"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-112497"],
+            "place": ["term-112497"],
+            "coordinates": {
+              "lat": ["37.9386936"],
+              "lng": ["22.9280447"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Greece"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Corinthia"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.10.1988"],
+        "type": ["accession number"],
+        "value": ["GR.10.1988"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["70483"],
+        "type": ["priref"],
+        "value": ["70483"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/70483"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/70483"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-110980"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110980"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110980"],
+        "summary_title": ["mortal"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1336742333000"],
+      "id": ["object-70483"]
+    },
+    "description": [
+      {
+        "value": ["woman, standing, draped, holding offering"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-107454"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107454"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107454"],
+        "summary_title": ["figure"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Depth"],
+          "value": ["0.018"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.111"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.036"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-70483"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/70483"],
+    "object": ["object-70483"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

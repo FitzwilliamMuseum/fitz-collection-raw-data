@@ -1,0 +1,122 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-111032"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111032"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-111032"],
+        "summary_title": ["unguentarium"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["AD"]
+              ],
+              "earliest": ["1"],
+              "value": ["0001"],
+              "latest": ["1"]
+            },
+            "to": {
+              "era": [
+                ["AD"]
+              ],
+              "earliest": ["200"],
+              "value": ["0200"],
+              "latest": ["200"]
+            },
+            "earliest": ["1"],
+            "latest": ["200"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Early Roman"],
+            "period": ["term-111186"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-111186"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111186"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.GL.9"],
+        "type": ["accession number"],
+        "value": ["GR.GL.9"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["70650"],
+        "type": ["priref"],
+        "value": ["70650"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/70650"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/70650"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-111032"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111032"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-111032"],
+        "summary_title": ["unguentarium"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1621012099000"],
+      "id": ["object-70650"]
+    },
+    "description": [
+      {
+        "value": ["unguentarium"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-89198"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89198"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89198"],
+        "summary_title": ["vessel"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Depth"],
+          "value": ["0.048"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.134"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-70650"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/70650"],
+    "object": ["object-70650"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

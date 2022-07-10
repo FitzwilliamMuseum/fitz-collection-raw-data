@@ -1,0 +1,134 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-91165"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-91165"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-91165"],
+        "summary_title": ["cup"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1991"],
+            "value": ["1991"],
+            "latest": ["1991"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Reitlinger, Henry Scipio"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-150552"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-150552"],
+            "agent": ["agent-150552"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["501"],
+              "value": ["-500"],
+              "latest": ["501"]
+            },
+            "to": {
+              "earliest": ["402"],
+              "value": ["-401"],
+              "latest": ["402"]
+            },
+            "earliest": ["501"],
+            "latest": ["402"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Classical"],
+            "period": ["term-14088"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-14088"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-14088"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.29.1991"],
+        "type": ["accession number"],
+        "value": ["GR.29.1991"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["70562"],
+        "type": ["priref"],
+        "value": ["70562"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/70562"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/70562"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-91165"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-91165"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-91165"],
+        "summary_title": ["cup"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1480601841000"],
+      "id": ["object-70562"]
+    },
+    "description": [
+      {
+        "value": ["cup, palmettes"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-89198"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89198"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89198"],
+        "summary_title": ["vessel"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.075"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.255"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-70562"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/70562"],
+    "object": ["object-70562"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

@@ -1,0 +1,520 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-106226"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106226"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106226"],
+        "summary_title": ["painting"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["1012"],
+        "type": ["accession number"],
+        "value": ["1012"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["719"],
+        "type": ["priref"],
+        "value": ["719"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/719"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/719"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1596468344000"],
+      "id": ["object-719"]
+    },
+    "description": [
+      {
+        "value": ["A sketch painted directly onto the wood, in the form of a vignette."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["Sir Henry Thompson, Bart (1878)"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1920"],
+            "value": ["1920"],
+            "latest": ["1920"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Thompson, Henry Francis Herbert, Sir, Bart"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-192498"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-192498"],
+            "agent": ["agent-192498"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "earliest": ["1878"],
+            "value": ["1878"],
+            "latest": ["1878"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Alma-Tadema, Lawrence"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-1961"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-1961"],
+            "term": ["agent-1961"],
+            "role": [
+              {
+                "value": ["painter"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "school_or_style": [
+      {
+        "term": ["term-9168"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-9168"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-9168"],
+        "summary_title": ["British"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-33639"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-33639"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-33639"],
+            "summary_title": ["panel (wood)"]
+          }
+        ]
+      }
+    ],
+    "multimedia": [
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616285985310"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp2/preview_1012.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["333"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616285985310"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp2/1012.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["760"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["571"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616285985310"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp2/1012.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["760"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["571"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616285985310"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp2/mid_1012.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["665"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1537152211000"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/586/863/preview_1012_mas.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["317"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "processed": ["1"],
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1537152211000"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/586/863/1012_mas.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["5962"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["4705"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1537152211000"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/586/863/large_1012_mas.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["1298"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["1024"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1537152211000"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/586/863/mid_1012_mas.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["634"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        },
+        "zoom": {
+          "resizable": ["1"],
+          "format": ["pyramid tiff"],
+          "modified": ["1537152211000"],
+          "location": ["https://api.fitz.ms/iipsrv/iipsrv.fcgi?FIF=/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/586/863/1012_mas.ptif&cvt=jpeg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["5962"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["4705"]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1550104143000"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/629/330/preview_1012_dc1.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["320"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1550104143000"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/629/330/1012_dc1.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["4554"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["3558"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1550104143000"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/629/330/large_1012_dc1.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["1311"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["1024"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1550104143000"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/629/330/mid_1012_dc1.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["640"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-30011"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-30011"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-30011"],
+        "summary_title": ["painting (image-making)"],
+        "descriptions": [
+          {
+            "description": ["oil on panel"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-106226"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106226"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106226"],
+        "summary_title": ["painting"]
+      }
+    ],
+    "inscription": [
+      {
+        "transcription": [
+          {
+            "value": ["LAT"]
+          }
+        ],
+        "location": ["lower left"],
+        "type": ["signature"]
+      },
+      {
+        "method": ["MS label"],
+        "transcription": [
+          {
+            "value": ["A sketch of the Owner, made on board the \"Gipsy\", Thames House Boat, by Alma Tadema, when he Stayed with me & Herbert on the boat for a little sketching visit in the year 1878: made on the panel of hte cabin sleeping room door. Henry Thompson \"Owner\" (a further note in the same hand is added along the bottom of the label) It was exhibited at the Grosvenor in 1882-3 with Tadema's work. Signed Tadema"]
+          }
+        ],
+        "location": ["verso"],
+        "type": ["label"]
+      },
+      {
+        "method": ["MS label"],
+        "transcription": [
+          {
+            "value": ["29"]
+          }
+        ],
+        "location": ["verso"],
+        "type": ["label"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-106226"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106226"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106226"],
+        "summary_title": ["painting"]
+      }
+    ],
+    "department": {
+      "value": ["Paintings, Drawings and Prints"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Height"],
+          "value": ["28.1"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Width"],
+          "value": ["20.9"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-144"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-144"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-144"],
+        "summary_title": ["Catalogue of Paintings in the Fitzwilliam Museum, Cambridge, Vol. III, British School"],
+        "page": ["3"],
+        "notes": ["reproduced"]
+      },
+      {
+        "term": ["publication-672"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-672"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-672"],
+        "summary_title": ["Sir Lawrence Alma-Tadema. The Painter of the Victorian Vision of the Ancient World"],
+        "page": ["17"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-719"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/719"],
+    "object": ["object-719"],
+    "manifestURI": ["https://api.fitz.ms/data-distributor/iiif/object-719/manifest"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

@@ -1,0 +1,170 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-89402"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89402"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89402"],
+        "summary_title": ["lekythos"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bought"],
+        "date": [
+          {
+            "earliest": ["1970"],
+            "value": ["1970"],
+            "latest": ["1970"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Walston, Lord, CVO, DCL"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159588"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159588"],
+            "agent": ["agent-159588"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "note": [
+              {
+                "value": ["import: circa 460-450 BC"]
+              }
+            ],
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["461"],
+              "value": ["-460"],
+              "latest": ["461"]
+            },
+            "to": {
+              "earliest": ["451"],
+              "value": ["-450"],
+              "latest": ["451"]
+            },
+            "earliest": ["461"],
+            "latest": ["451"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Classical"],
+            "period": ["term-14088"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-14088"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-14088"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Athens"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-107608"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107608"],
+            "place": ["term-107608"],
+            "coordinates": {
+              "lat": ["37.9839412"],
+              "lng": ["23.7283052"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Greece"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Attica"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.55.1970"],
+        "type": ["accession number"],
+        "value": ["GR.55.1970"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["69863"],
+        "type": ["priref"],
+        "value": ["69863"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/69863"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/69863"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-89402"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89402"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89402"],
+        "summary_title": ["lekythos"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1336738657000"],
+      "id": ["object-69863"]
+    },
+    "description": [
+      {
+        "value": ["lekythos"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-89198"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89198"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89198"],
+        "summary_title": ["vessel"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Diameter"],
+          "value": ["0.066"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.192"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-200001431"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-200001431"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-200001431"],
+        "summary_title": ["Recent Acquisitions by the Fitzwilliam Museum, Cambridge"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-69863"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/69863"],
+    "object": ["object-69863"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

@@ -1,0 +1,154 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-89308"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89308"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89308"],
+        "summary_title": ["beaker (vessel)"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1955"],
+            "value": ["1955"],
+            "latest": ["1955"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Elderton, William, Sir"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159569"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159569"],
+            "agent": ["agent-159569"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Cyprus"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-109616"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-109616"],
+            "coordinates": {
+              "lat": ["34.9823018"],
+              "lng": ["33.1451285"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["BCE"]
+              ],
+              "earliest": ["101"],
+              "value": ["-100"],
+              "latest": ["101"]
+            },
+            "to": {
+              "era": [
+                ["BCE"]
+              ],
+              "earliest": ["401"],
+              "value": ["-400"],
+              "latest": ["401"]
+            },
+            "earliest": ["101"],
+            "latest": ["401"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Early Roman"],
+            "period": ["term-111186"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-111186"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111186"]
+          },
+          {
+            "summary_title": ["Middle Roman"],
+            "period": ["term-111183"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-111183"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111183"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.31.1955"],
+        "type": ["accession number"],
+        "value": ["GR.31.1955"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["69636"],
+        "type": ["priref"],
+        "value": ["69636"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/69636"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/69636"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-89308"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89308"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89308"],
+        "summary_title": ["beaker (vessel)"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1419349696000"],
+      "id": ["object-69636"]
+    },
+    "description": [
+      {
+        "value": ["beaker"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-89198"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89198"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89198"],
+        "summary_title": ["vessel"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.105"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-69636"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/69636"],
+    "object": ["object-69636"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

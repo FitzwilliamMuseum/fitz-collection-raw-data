@@ -1,0 +1,191 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-110884"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110884"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110884"],
+        "summary_title": ["statuette fragment"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bought"],
+        "date": [
+          {
+            "earliest": ["1970"],
+            "value": ["1970"],
+            "latest": ["1970"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Walston, Lord, CVO, DCL"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159588"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159588"],
+            "agent": ["agent-159588"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Argive Heraion Argolid Greece"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-111659"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111659"]
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "note": [
+              {
+                "value": ["import: circa 420-400 BC"]
+              }
+            ],
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["BCE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["421"],
+              "value": ["-420"],
+              "latest": ["421"]
+            },
+            "to": {
+              "era": [
+                ["BCE"]
+              ],
+              "earliest": ["401"],
+              "value": ["-400"],
+              "latest": ["401"]
+            },
+            "earliest": ["421"],
+            "latest": ["401"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Classical"],
+            "period": ["term-14088"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-14088"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-14088"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Heraion"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-132793"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-132793"],
+            "place": ["term-132793"],
+            "coordinates": {
+              "lat": ["37.6720003"],
+              "lng": ["26.886029944193"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Greece"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Argolid"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.4.1970"],
+        "type": ["accession number"],
+        "value": ["GR.4.1970"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["69811"],
+        "type": ["priref"],
+        "value": ["69811"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/69811"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/69811"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-110884"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110884"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110884"],
+        "summary_title": ["statuette fragment"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1336754452000"],
+      "id": ["object-69811"]
+    },
+    "description": [
+      {
+        "value": ["Amazon, from metope sculpture"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-107454"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107454"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107454"],
+        "summary_title": ["figure"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.12"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.105"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-200001431"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-200001431"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-200001431"],
+        "summary_title": ["Recent Acquisitions by the Fitzwilliam Museum, Cambridge"]
+      },
+      {
+        "term": ["publication-4517"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-4517"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-4517"],
+        "summary_title": ["The Argive Heraion"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-69811"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/69811"],
+    "object": ["object-69811"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

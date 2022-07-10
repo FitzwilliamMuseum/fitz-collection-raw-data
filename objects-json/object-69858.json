@@ -1,0 +1,277 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-110839"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110839"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110839"],
+        "summary_title": ["spindle whorl"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bought"],
+        "date": [
+          {
+            "earliest": ["1970"],
+            "value": ["1970"],
+            "latest": ["1970"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Walston, Lord, CVO, DCL"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159588"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159588"],
+            "agent": ["agent-159588"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Argive Heraion Argolid Greece"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-111659"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111659"]
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["BCE"]
+              ],
+              "earliest": ["500"],
+              "value": ["-0500"],
+              "latest": ["500"]
+            },
+            "to": {
+              "era": [
+                ["BCE"]
+              ],
+              "earliest": ["301"],
+              "value": ["-0301"],
+              "latest": ["301"]
+            },
+            "earliest": ["500"],
+            "latest": ["301"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Classical"],
+            "period": ["term-14088"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-14088"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-14088"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Argos"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-132794"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-132794"],
+            "place": ["term-132794"],
+            "coordinates": {
+              "lat": ["37.6349825"],
+              "lng": ["22.7285119"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Greece"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Argolid"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.50.1970"],
+        "type": ["accession number"],
+        "value": ["GR.50.1970"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["69858"],
+        "type": ["priref"],
+        "value": ["69858"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/69858"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/69858"]
+      }
+    ],
+    "multimedia": [
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616276028505"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant15/preview_GR_50_1970.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["188"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616276028505"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant15/GR_50_1970.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["570"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["760"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616276028505"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant15/GR_50_1970.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["570"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["760"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616276028505"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant15/mid_GR_50_1970.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["375"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-110839"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110839"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110839"],
+        "summary_title": ["spindle whorl"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1603285515000"],
+      "id": ["object-69858"]
+    },
+    "description": [
+      {
+        "value": ["spindle whorl, conical"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-137166"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-137166"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-137166"],
+        "summary_title": ["spinning equipment"]
+      },
+      {
+        "term": ["term-137156"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-137156"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-137156"],
+        "summary_title": ["weaving equipment"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Diameter"],
+          "value": ["0.025"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.018"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-4517"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-4517"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-4517"],
+        "summary_title": ["The Argive Heraion"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-69858"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/69858"],
+    "object": ["object-69858"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

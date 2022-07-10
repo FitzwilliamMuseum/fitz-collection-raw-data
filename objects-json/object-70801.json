@@ -1,0 +1,151 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-90415"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-90415"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-90415"],
+        "summary_title": ["amphora"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["BC"]
+              ],
+              "earliest": ["500"],
+              "value": ["-0500"],
+              "latest": ["500"]
+            },
+            "to": {
+              "era": [
+                ["BC"]
+              ],
+              "earliest": ["401"],
+              "value": ["-0401"],
+              "latest": ["401"]
+            },
+            "earliest": ["500"],
+            "latest": ["401"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Classical"],
+            "period": ["term-14088"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-14088"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-14088"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Athens"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-107608"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107608"],
+            "place": ["term-107608"],
+            "coordinates": {
+              "lat": ["37.9839412"],
+              "lng": ["23.7283052"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Greece"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Attica"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.P.60"],
+        "type": ["accession number"],
+        "value": ["GR.P.60"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["70801"],
+        "type": ["priref"],
+        "value": ["70801"]
+      },
+      {
+        "type": ["oldmuseumnumber"],
+        "value": ["G46"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/70801"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/70801"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-90415"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-90415"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-90415"],
+        "summary_title": ["amphora"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1621012104000"],
+      "id": ["object-70801"]
+    },
+    "description": [
+      {
+        "value": ["amphora, Dionysos on both sides"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-89198"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89198"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89198"],
+        "summary_title": ["vessel"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.255"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-4059"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-4059"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-4059"],
+        "summary_title": ["Catalogue of the Greek vases in the Fitzwilliam Museum, Cambridge"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-70801"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/70801"],
+    "object": ["object-70801"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

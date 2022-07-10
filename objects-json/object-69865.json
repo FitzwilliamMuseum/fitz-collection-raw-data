@@ -1,0 +1,135 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-43000"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-43000"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-43000"],
+        "summary_title": ["statuette"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bought"],
+        "date": [
+          {
+            "earliest": ["1970"],
+            "value": ["1970"],
+            "latest": ["1970"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Walston, Lord, CVO, DCL"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159588"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159588"],
+            "agent": ["agent-159588"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["351"],
+              "value": ["-350"],
+              "latest": ["351"]
+            },
+            "to": {
+              "earliest": ["301"],
+              "value": ["-300"],
+              "latest": ["301"]
+            },
+            "earliest": ["351"],
+            "latest": ["301"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Classical"],
+            "period": ["term-14088"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-14088"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-14088"]
+          },
+          {
+            "summary_title": ["Hellenistic"],
+            "period": ["term-14090"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-14090"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-14090"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.57.1970"],
+        "type": ["accession number"],
+        "value": ["GR.57.1970"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["69865"],
+        "type": ["priref"],
+        "value": ["69865"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/69865"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/69865"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-43000"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-43000"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-43000"],
+        "summary_title": ["statuette"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1336755176000"],
+      "id": ["object-69865"]
+    },
+    "description": [
+      {
+        "value": ["girl, standing, holding bird"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-107454"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107454"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107454"],
+        "summary_title": ["figure"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.154"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-69865"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/69865"],
+    "object": ["object-69865"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

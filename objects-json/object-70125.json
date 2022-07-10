@@ -1,0 +1,143 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-89198"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89198"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89198"],
+        "summary_title": ["vessel"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1981"],
+            "value": ["1981"],
+            "latest": ["1981"]
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["BC"]
+              ],
+              "earliest": ["300"],
+              "value": ["-0300"],
+              "latest": ["300"]
+            },
+            "to": {
+              "era": [
+                ["BC"]
+              ],
+              "earliest": ["201"],
+              "value": ["-0201"],
+              "latest": ["201"]
+            },
+            "earliest": ["300"],
+            "latest": ["201"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Republic Roman"],
+            "period": ["term-111738"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-111738"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111738"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.142.1981"],
+        "type": ["accession number"],
+        "value": ["GR.142.1981"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["70125"],
+        "type": ["priref"],
+        "value": ["70125"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/70125"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/70125"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-89198"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89198"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89198"],
+        "summary_title": ["vessel"]
+      }
+    ],
+    "admin": {
+      "created": ["1312633661000"],
+      "modified": ["1621012089000"],
+      "id": ["object-70125"]
+    },
+    "description": [
+      {
+        "value": ["strainer"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-78429"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-78429"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-78429"],
+        "summary_title": ["tool"]
+      },
+      {
+        "term": ["term-137150"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-137150"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-137150"],
+        "summary_title": ["implement"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Depth"],
+          "value": ["0.06"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Length"],
+          "value": ["0.257"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.126"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-70125"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/70125"],
+    "object": ["object-70125"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

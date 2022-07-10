@@ -1,0 +1,167 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-89400"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89400"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89400"],
+        "summary_title": ["jug"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1955"],
+            "value": ["1955"],
+            "latest": ["1955"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Elderton, William, Sir"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159569"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159569"],
+            "agent": ["agent-159569"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Tyre Lebanon"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-111731"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111731"],
+            "coordinates": {
+              "lat": ["33.2721211"],
+              "lng": ["35.1964023"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["301"],
+              "value": ["301"],
+              "latest": ["301"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["500"],
+              "value": ["500"],
+              "latest": ["500"]
+            },
+            "earliest": ["301"],
+            "latest": ["500"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Late Antique"],
+            "period": ["term-14189"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-14189"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-14189"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.24.1955"],
+        "type": ["accession number"],
+        "value": ["GR.24.1955"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["69629"],
+        "type": ["priref"],
+        "value": ["69629"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/69629"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/69629"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-89400"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89400"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89400"],
+        "summary_title": ["jug"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1419346123000"],
+      "id": ["object-69629"]
+    },
+    "description": [
+      {
+        "value": ["jug"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-89198"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89198"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89198"],
+        "summary_title": ["vessel"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Depth"],
+          "value": ["0.076"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.124"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-1924"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-1924"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-1924"],
+        "summary_title": ["Glass at the Fitzwilliam Museum"]
+      },
+      {
+        "term": ["publication-4596"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-4596"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-4596"],
+        "summary_title": ["Treasures of Cambridge. Catalogue of the Exhibits."]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-69629"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/69629"],
+    "object": ["object-69629"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

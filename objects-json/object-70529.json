@@ -1,0 +1,145 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-111032"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111032"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-111032"],
+        "summary_title": ["unguentarium"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1988"],
+            "value": ["1988"],
+            "latest": ["1988"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Walston, Lord, CVO, DCL"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159588"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159588"],
+            "agent": ["agent-159588"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["301"],
+              "value": ["301"],
+              "latest": ["301"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["500"],
+              "value": ["500"],
+              "latest": ["500"]
+            },
+            "earliest": ["301"],
+            "latest": ["500"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Late Antique"],
+            "period": ["term-14189"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-14189"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-14189"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.56.1988"],
+        "type": ["accession number"],
+        "value": ["GR.56.1988"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["70529"],
+        "type": ["priref"],
+        "value": ["70529"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/70529"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/70529"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-111032"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111032"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-111032"],
+        "summary_title": ["unguentarium"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1420475201000"],
+      "id": ["object-70529"]
+    },
+    "description": [
+      {
+        "value": ["unguentarium, multiple flask"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-89198"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89198"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89198"],
+        "summary_title": ["vessel"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Depth"],
+          "value": ["0.024"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.116"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.058"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-70529"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/70529"],
+    "object": ["object-70529"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

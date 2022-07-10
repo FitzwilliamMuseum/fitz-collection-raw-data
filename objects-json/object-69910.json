@@ -1,0 +1,153 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-107609"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107609"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107609"],
+        "summary_title": ["flask"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1975"],
+            "value": ["1975"],
+            "latest": ["1975"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Walmsley, A. R."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159595"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159595"],
+            "agent": ["agent-159595"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Palestine"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-109977"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-109977"],
+            "coordinates": {
+              "lat": ["31.46242095"],
+              "lng": ["34.262716572131"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["301"],
+              "value": ["301"],
+              "latest": ["301"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["400"],
+              "value": ["400"],
+              "latest": ["400"]
+            },
+            "earliest": ["301"],
+            "latest": ["400"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Middle Roman"],
+            "period": ["term-111183"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-111183"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111183"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.3.1975"],
+        "type": ["accession number"],
+        "value": ["GR.3.1975"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["69910"],
+        "type": ["priref"],
+        "value": ["69910"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/69910"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/69910"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-107609"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107609"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107609"],
+        "summary_title": ["flask"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1419349213000"],
+      "id": ["object-69910"]
+    },
+    "description": [
+      {
+        "value": ["flask"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-89198"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89198"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89198"],
+        "summary_title": ["vessel"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Diameter"],
+          "value": ["0.106"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.175"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-69910"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/69910"],
+    "object": ["object-69910"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

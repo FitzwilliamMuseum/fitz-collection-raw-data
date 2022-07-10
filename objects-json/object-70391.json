@@ -1,0 +1,165 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-43000"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-43000"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-43000"],
+        "summary_title": ["statuette"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bought"],
+        "date": [
+          {
+            "earliest": ["1984"],
+            "value": ["1984"],
+            "latest": ["1984"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Chesterman, M. James D."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159615"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159615"],
+            "agent": ["agent-159615"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["476"],
+              "value": ["-475"],
+              "latest": ["476"]
+            },
+            "to": {
+              "earliest": ["451"],
+              "value": ["-450"],
+              "latest": ["451"]
+            },
+            "earliest": ["476"],
+            "latest": ["451"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Classical"],
+            "period": ["term-14088"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-14088"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-14088"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Corinth"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-112497"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-112497"],
+            "place": ["term-112497"],
+            "coordinates": {
+              "lat": ["37.9386936"],
+              "lng": ["22.9280447"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Greece"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Corinthia"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.42.1984"],
+        "type": ["accession number"],
+        "value": ["GR.42.1984"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["70391"],
+        "type": ["priref"],
+        "value": ["70391"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/70391"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/70391"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-43000"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-43000"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-43000"],
+        "summary_title": ["statuette"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1480006655000"],
+      "id": ["object-70391"]
+    },
+    "description": [
+      {
+        "value": ["Demeter, seated"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-107454"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107454"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107454"],
+        "summary_title": ["figure"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.175"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-4083"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-4083"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-4083"],
+        "summary_title": ["Classical Terracotta Figures"]
+      },
+      {
+        "term": ["publication-4245"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-4245"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-4245"],
+        "summary_title": ["Greek gods and goddesses in miniature: handlist of an exhibition of the Chesterman terracotta collection"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-70391"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/70391"],
+    "object": ["object-70391"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-43733"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-43733"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-43733"],
+        "summary_title": ["mirror"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bought"],
+        "agents": {
+          "agent": {
+            "summary_title": ["McKinley, Gawain"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159606"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159606"],
+            "agent": ["agent-159606"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["99"],
+              "value": ["1"],
+              "latest": ["1"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["100"],
+              "value": ["100"],
+              "latest": ["100"]
+            },
+            "earliest": ["99"],
+            "latest": ["100"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Early Roman"],
+            "period": ["term-111186"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-111186"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111186"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.14.1980"],
+        "type": ["accession number"],
+        "value": ["GR.14.1980"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["69964"],
+        "type": ["priref"],
+        "value": ["69964"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/69964"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/69964"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-43733"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-43733"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-43733"],
+        "summary_title": ["mirror"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1417174608000"],
+      "id": ["object-69964"]
+    },
+    "description": [
+      {
+        "value": ["model of a mirror"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-886"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-886"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-886"],
+        "summary_title": ["model"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Length"],
+          "value": ["0.254"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.137"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-69964"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/69964"],
+    "object": ["object-69964"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

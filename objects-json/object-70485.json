@@ -1,0 +1,166 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-110980"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110980"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110980"],
+        "summary_title": ["mortal"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1988"],
+            "value": ["1988"],
+            "latest": ["1988"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Walston, Lord, CVO, DCL"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159588"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159588"],
+            "agent": ["agent-159588"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Argive Heraion Argolid Greece"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-111659"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111659"]
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["BCE"]
+              ],
+              "earliest": ["426"],
+              "value": ["-425"],
+              "latest": ["426"]
+            },
+            "to": {
+              "era": [
+                ["BCE"]
+              ],
+              "earliest": ["401"],
+              "value": ["-400"],
+              "latest": ["401"]
+            },
+            "earliest": ["426"],
+            "latest": ["401"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Classical"],
+            "period": ["term-14088"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-14088"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-14088"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Argos"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-132794"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-132794"],
+            "place": ["term-132794"],
+            "coordinates": {
+              "lat": ["37.6349825"],
+              "lng": ["22.7285119"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Greece"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Argolid"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.12.1988"],
+        "type": ["accession number"],
+        "value": ["GR.12.1988"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["70485"],
+        "type": ["priref"],
+        "value": ["70485"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/70485"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/70485"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-110980"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110980"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110980"],
+        "summary_title": ["mortal"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1336753820000"],
+      "id": ["object-70485"]
+    },
+    "description": [
+      {
+        "value": ["female head"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-107454"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107454"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107454"],
+        "summary_title": ["figure"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.051"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-70485"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/70485"],
+    "object": ["object-70485"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

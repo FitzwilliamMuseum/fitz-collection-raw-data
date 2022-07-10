@@ -1,0 +1,134 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-111090"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111090"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-111090"],
+        "summary_title": ["balsamarium"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1988"],
+            "value": ["1988"],
+            "latest": ["1988"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Walston, Lord, CVO, DCL"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159588"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159588"],
+            "agent": ["agent-159588"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["201"],
+              "value": ["-200"],
+              "latest": ["201"]
+            },
+            "to": {
+              "earliest": ["102"],
+              "value": ["-101"],
+              "latest": ["102"]
+            },
+            "earliest": ["201"],
+            "latest": ["102"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Hellenistic"],
+            "period": ["term-14090"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-14090"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-14090"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.41.1988"],
+        "type": ["accession number"],
+        "value": ["GR.41.1988"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["70514"],
+        "type": ["priref"],
+        "value": ["70514"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/70514"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/70514"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-111090"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111090"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-111090"],
+        "summary_title": ["balsamarium"]
+      }
+    ],
+    "admin": {
+      "created": ["1312633661000"],
+      "modified": ["1329220014000"],
+      "id": ["object-70514"]
+    },
+    "description": [
+      {
+        "value": ["balsamarium"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-89198"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89198"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89198"],
+        "summary_title": ["vessel"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.16"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.059"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-70514"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/70514"],
+    "object": ["object-70514"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

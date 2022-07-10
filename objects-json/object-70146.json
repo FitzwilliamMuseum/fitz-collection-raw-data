@@ -1,0 +1,167 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-111048"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111048"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-111048"],
+        "summary_title": ["dipper"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1981"],
+            "value": ["1981"],
+            "latest": ["1981"]
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["AD"]
+              ],
+              "earliest": ["1"],
+              "value": ["0001"],
+              "latest": ["1"]
+            },
+            "to": {
+              "era": [
+                ["AD"]
+              ],
+              "earliest": ["100"],
+              "value": ["0100"],
+              "latest": ["100"]
+            },
+            "earliest": ["1"],
+            "latest": ["100"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Early Roman"],
+            "period": ["term-111186"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-111186"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111186"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Capua"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-119259"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119259"],
+            "place": ["term-119259"],
+            "coordinates": {
+              "lat": ["41.1079984"],
+              "lng": ["14.2097176"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Italy"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Campania"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.163.1981"],
+        "type": ["accession number"],
+        "value": ["GR.163.1981"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["70146"],
+        "type": ["priref"],
+        "value": ["70146"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/70146"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/70146"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-111048"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111048"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-111048"],
+        "summary_title": ["dipper"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1621012090000"],
+      "id": ["object-70146"]
+    },
+    "description": [
+      {
+        "value": ["dipper"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-89198"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89198"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89198"],
+        "summary_title": ["vessel"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Diameter"],
+          "value": ["0.103"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.048"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Length"],
+          "value": ["0.2"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-4415"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-4415"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-4415"],
+        "summary_title": ["Principal acquisitions 1979-83"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-70146"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/70146"],
+    "object": ["object-70146"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

@@ -1,0 +1,138 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-89294"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89294"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89294"],
+        "summary_title": ["askos"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1981"],
+            "value": ["1981"],
+            "latest": ["1981"]
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["AD"]
+              ],
+              "earliest": ["1"],
+              "value": ["0001"],
+              "latest": ["1"]
+            },
+            "to": {
+              "era": [
+                ["AD"]
+              ],
+              "earliest": ["100"],
+              "value": ["0100"],
+              "latest": ["100"]
+            },
+            "earliest": ["1"],
+            "latest": ["100"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Roman (replica)"],
+            "period": ["term-111820"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-111820"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111820"]
+          },
+          {
+            "summary_title": ["modern"],
+            "period": ["term-111187"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-111187"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111187"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.158.1981"],
+        "type": ["accession number"],
+        "value": ["GR.158.1981"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["70141"],
+        "type": ["priref"],
+        "value": ["70141"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/70141"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/70141"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-89294"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89294"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89294"],
+        "summary_title": ["askos"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1621012090000"],
+      "id": ["object-70141"]
+    },
+    "description": [
+      {
+        "value": ["askos"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-89198"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89198"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89198"],
+        "summary_title": ["vessel"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.2"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Length"],
+          "value": ["0.22"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-70141"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/70141"],
+    "object": ["object-70141"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

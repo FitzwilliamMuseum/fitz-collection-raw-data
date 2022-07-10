@@ -1,0 +1,128 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-111055"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111055"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-111055"],
+        "summary_title": ["strigil"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["BC"]
+              ],
+              "earliest": ["500"],
+              "value": ["-0500"],
+              "latest": ["500"]
+            },
+            "to": {
+              "era": [
+                ["BC"]
+              ],
+              "earliest": ["401"],
+              "value": ["-0401"],
+              "latest": ["401"]
+            },
+            "earliest": ["500"],
+            "latest": ["401"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Classical"],
+            "period": ["term-14088"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-14088"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-14088"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.B.10"],
+        "type": ["accession number"],
+        "value": ["GR.B.10"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["70591"],
+        "type": ["priref"],
+        "value": ["70591"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/70591"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/70591"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-111055"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111055"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-111055"],
+        "summary_title": ["strigil"]
+      }
+    ],
+    "admin": {
+      "created": ["1312633661000"],
+      "modified": ["1621012098000"],
+      "id": ["object-70591"]
+    },
+    "description": [
+      {
+        "value": ["strigil"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-78429"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-78429"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-78429"],
+        "summary_title": ["tool"]
+      },
+      {
+        "term": ["term-137150"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-137150"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-137150"],
+        "summary_title": ["implement"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.026"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.022"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-70591"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/70591"],
+    "object": ["object-70591"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
