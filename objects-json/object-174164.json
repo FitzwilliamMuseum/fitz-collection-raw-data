@@ -1,0 +1,401 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-101284"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101284"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101284"],
+        "summary_title": ["cash (Chinese money)"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["CM.1164-2008"],
+        "type": ["accession number"],
+        "value": ["CM.1164-2008"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["174164"],
+        "type": ["priref"],
+        "value": ["174164"]
+      },
+      {
+        "type": ["Hartill"],
+        "value": ["22.601"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/174164"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/174164"]
+      }
+    ],
+    "admin": {
+      "created": ["1397472617000"],
+      "modified": ["1397472742000"],
+      "id": ["object-174164"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["2008"],
+            "value": ["2008-11-24"],
+            "latest": ["2008"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["White, Iain, Mr"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-185466"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-185466"],
+            "agent": ["agent-185466"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["1821"],
+              "value": ["1821"],
+              "latest": ["1821"]
+            },
+            "to": {
+              "precision": ["circa"],
+              "earliest": ["1850"],
+              "value": ["1850"],
+              "latest": ["1850"]
+            },
+            "earliest": ["1821"],
+            "latest": ["1850"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Guangzhou"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-183598"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-183598"],
+            "term": ["agent-183598"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Guangzhou"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-128516"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-128516"],
+            "place": ["term-128516"],
+            "coordinates": {
+              "lat": ["23.1301964"],
+              "lng": ["113.2592945"]
+            }
+          }
+        ]
+      }
+    },
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-39588"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39588"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39588"],
+            "summary_title": ["copper"]
+          }
+        ]
+      }
+    ],
+    "multimedia": [
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616259944412"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm27/preview_CM_1164_2008_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["253"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616259944412"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm27/CM_1164_2008_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["365"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["360"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616259944412"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm27/CM_1164_2008_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["365"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["360"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616259944412"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm27/CM_1164_2008_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["365"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["360"]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616250684470"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm27/preview_CM_1164_2008_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["253"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616250684470"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm27/CM_1164_2008_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["364"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["360"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616250684470"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm27/CM_1164_2008_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["364"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["360"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616250684470"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm27/CM_1164_2008_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["364"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["360"]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-101284"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101284"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101284"],
+        "summary_title": ["cash (Chinese money)"]
+      },
+      {
+        "term": ["term-117436"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117436"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-117436"],
+        "summary_title": ["Far Eastern"]
+      },
+      {
+        "term": ["term-108120"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-108120"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-108120"],
+        "summary_title": ["China"]
+      },
+      {
+        "term": ["term-125126"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-125126"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-125126"],
+        "summary_title": ["Qing"]
+      },
+      {
+        "term": ["term-128505"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-128505"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-128505"],
+        "summary_title": ["Guangdong"]
+      },
+      {
+        "term": ["term-129517"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-129517"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-129517"],
+        "summary_title": ["unofficial"]
+      }
+    ],
+    "inscription": [
+      {
+        "transcription": [
+          {
+            "value": ["Boo guwang"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Manchu"]
+          }
+        ],
+        "location": ["reverse"],
+        "type": ["design"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["mm"],
+          "dimension": ["Image(height)"],
+          "value": ["21.63"]
+        },
+        {
+          "units": ["mm"],
+          "dimension": ["Image(width)"],
+          "value": ["21.63"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-174164"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/174164"],
+    "object": ["object-174164"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
