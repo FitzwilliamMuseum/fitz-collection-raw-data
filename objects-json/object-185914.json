@@ -1,0 +1,183 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-67775"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-67775"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-67775"],
+        "summary_title": ["rug"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1951"],
+            "value": ["1951"],
+            "latest": ["1951"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Edwards, A.C."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-154288"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-154288"],
+            "agent": ["agent-154288"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["1800"],
+              "value": ["1800"],
+              "latest": ["1800"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["1899"],
+              "value": ["1899"],
+              "latest": ["1899"]
+            },
+            "earliest": ["1800"],
+            "latest": ["1899"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["19th century"],
+            "period": ["term-106853"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106853"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106853"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Senna"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-14698"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-14698"],
+            "place": ["term-14698"],
+            "coordinates": {
+              "lat": ["48.7308806"],
+              "lng": ["2.444754"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Persia"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Kurdistan"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["T.10-1951"],
+        "type": ["accession number"],
+        "value": ["T.10-1951"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["185914"],
+        "type": ["priref"],
+        "value": ["185914"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/185914"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/185914"]
+      }
+    ],
+    "school_or_style": [
+      {
+        "term": ["term-8990"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-8990"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-8990"],
+        "summary_title": ["Persian"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-67775"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-67775"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-67775"],
+        "summary_title": ["rug"]
+      }
+    ],
+    "admin": {
+      "created": ["1322738487000"],
+      "modified": ["1389262995000"],
+      "id": ["object-185914"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-42576"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-42576"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-42576"],
+        "summary_title": ["textiles"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["in"],
+          "dimension": ["Length"],
+          "value": ["75.5"]
+        },
+        {
+          "units": ["in"],
+          "dimension": ["Width"],
+          "value": ["55.5"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-185914"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/185914"],
+    "object": ["object-185914"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
