@@ -1,0 +1,151 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-134703"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-134703"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-134703"],
+        "summary_title": ["2 thalers"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["unknown"],
+        "agents": {
+          "agent": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "agent": ["agent-149652"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["1650"],
+              "value": ["1650"],
+              "latest": ["1650"]
+            },
+            "to": {
+              "earliest": ["1678"],
+              "value": ["1678"],
+              "latest": ["1678"]
+            },
+            "earliest": ["1650"],
+            "latest": ["1678"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Christoph Bernhard von Galen (1650-78)"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-204064"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-204064"],
+            "term": ["agent-204064"],
+            "role": [
+              {
+                "value": ["ruler"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.EU.38-R"],
+        "type": ["accession number"],
+        "value": ["CM.EU.38-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["293654"],
+        "type": ["priref"],
+        "value": ["293654"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/293654"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/293654"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-39778"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39778"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39778"],
+            "summary_title": ["silver"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-134703"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-134703"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-134703"],
+        "summary_title": ["2 thalers"]
+      },
+      {
+        "term": ["term-107815"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107815"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107815"],
+        "summary_title": ["Germany"]
+      },
+      {
+        "term": ["term-137180"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-137180"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-137180"],
+        "summary_title": ["Münster"]
+      }
+    ],
+    "admin": {
+      "created": ["1624956811000"],
+      "modified": ["1626432211000"],
+      "id": ["object-293654"]
+    },
+    "description": [
+      {
+        "value": ["Germany, Munster, Bishop Christoph Bernhard von Galen (1650-78), AR 2 thalers (Davenport 204)"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-293654"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/293654"],
+    "object": ["object-293654"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
