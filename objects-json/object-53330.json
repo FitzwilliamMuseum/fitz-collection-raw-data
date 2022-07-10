@@ -1,0 +1,359 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-130031"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-130031"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-130031"],
+        "summary_title": ["winged scarab"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1934"],
+            "value": ["1934"],
+            "latest": ["1934"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["G.F. Rogers"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159777"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159777"],
+            "agent": ["agent-159777"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Egypt"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-107870"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107870"],
+            "coordinates": {
+              "lat": ["26.2540493"],
+              "lng": ["29.2675469"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "periods": [
+          {
+            "summary_title": ["Third Intermediate period"],
+            "period": ["term-12523"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-12523"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12523"]
+          },
+          {
+            "summary_title": ["Late Period"],
+            "period": ["term-111888"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-111888"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111888"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["E.49.1934"],
+        "type": ["accession number"],
+        "value": ["E.49.1934"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["53330"],
+        "type": ["priref"],
+        "value": ["53330"]
+      },
+      {
+        "type": ["oldadmincategory"],
+        "value": ["SC"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/53330"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/53330"]
+      }
+    ],
+    "multimedia": [
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1574253691000"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/680/651/preview_E_49_1934_1_201006_mfj2_mas.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["167"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "modified": ["1574253691000"],
+          "location": ["E.49.1934_1_201006_mfj2_mas.JPG"],
+          "type": ["image"]
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1574253691000"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/680/651/large_E_49_1934_1_201006_mfj2_mas.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["683"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["1024"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1574253691000"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/680/651/mid_E_49_1934_1_201006_mfj2_mas.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["333"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        },
+        "zoom": {
+          "resizable": ["1"],
+          "format": ["pyramid tiff"],
+          "modified": ["1574253691000"],
+          "location": ["https://api.fitz.ms/iipsrv/iipsrv.fcgi?FIF=/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/680/651/E_49_1934_1_201006_mfj2_mas.ptif&cvt=jpeg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["2912"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["4368"]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1574253700000"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/680/652/preview_E_49_1934_2_201006_mfj2_mas.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["167"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "modified": ["1574253700000"],
+          "location": ["E.49.1934_2_201006_mfj2_mas.JPG"],
+          "type": ["image"]
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1574253700000"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/680/652/large_E_49_1934_2_201006_mfj2_mas.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["683"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["1024"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1574253700000"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/680/652/mid_E_49_1934_2_201006_mfj2_mas.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["333"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        },
+        "zoom": {
+          "resizable": ["1"],
+          "format": ["pyramid tiff"],
+          "modified": ["1574253700000"],
+          "location": ["https://api.fitz.ms/iipsrv/iipsrv.fcgi?FIF=/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/680/652/E_49_1934_2_201006_mfj2_mas.ptif&cvt=jpeg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["2912"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["4368"]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-26414"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-26414"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-26414"],
+        "summary_title": ["coated"],
+        "descriptions": []
+      },
+      {
+        "term": ["term-120115"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-120115"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-120115"],
+        "summary_title": ["mouldmade"],
+        "descriptions": []
+      },
+      {
+        "term": ["term-27609"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27609"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27609"],
+        "summary_title": ["glazed"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-130031"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-130031"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-130031"],
+        "summary_title": ["winged scarab"]
+      },
+      {
+        "term": ["term-130036"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-130036"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-130036"],
+        "summary_title": ["funerary"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1582634112000"],
+      "id": ["object-53330"]
+    },
+    "description": [
+      {
+        "value": ["A faience scarab, mouldmade and uninscribed. The scarab us pierced 5 times, to allow it to be fixed to another object. In addition to the blue glaze there is an additional coating, possibly of wax, which gives the object a patchy brown appearance. This size and number of piercings suggest that this scarab had wings attached and was therefore a heart scarab, or decorative element on a mummy shroud. Its function would have been funerary."]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-98937"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98937"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98937"],
+        "summary_title": ["scarab"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Length"],
+          "value": ["0.04"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-53330"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/53330"],
+    "object": ["object-53330"],
+    "manifestURI": ["https://api.fitz.ms/data-distributor/iiif/object-53330/manifest"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
