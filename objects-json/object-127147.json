@@ -1,0 +1,259 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-42634"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-42634"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-42634"],
+        "summary_title": ["sherd"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["C.664-1927"],
+        "type": ["accession number"],
+        "value": ["C.664-1927"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["127147"],
+        "type": ["priref"],
+        "value": ["127147"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/127147"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/127147"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Purportedly purchased in Siena by F. Leverton Harris"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1398858170000"],
+      "id": ["object-127147"]
+    },
+    "description": [
+      {
+        "value": ["Buff earthenware, tin-glazed on the interior and painted in manganese-brown and copper-green; reverse, unglazed. Circular with disk base, andnpart of the lower area of the side. Decorated with four brown doube V-shapes with green in the centre, and with green splodges in the spaces"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["Fragment of a bowl"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1927"],
+            "value": ["1927"],
+            "latest": ["1927"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Harris, Frederick Leverton"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-151483"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-151483"],
+            "agent": ["agent-151483"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["1275"],
+              "value": ["1275"],
+              "latest": ["1275"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["1425"],
+              "value": ["1425"],
+              "latest": ["1425"]
+            },
+            "earliest": ["1275"],
+            "latest": ["1425"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Medieval"],
+            "period": ["term-10603"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-10603"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-10603"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["production"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Siena"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-11364"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-11364"],
+            "place": ["term-11364"],
+            "coordinates": {
+              "lat": ["43.1672254"],
+              "lng": ["11.467181161339"]
+            },
+            "note": ["probably"],
+            "hierarchies": [
+              {
+                "summary_title": ["Italy"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Tuscany"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "component": [
+      {
+        "name": ["Decoration"],
+        "materials": [
+          {
+            "term": ["term-108899"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-108899"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-108899"],
+            "summary_title": ["copper-green"]
+          },
+          {
+            "term": ["term-109613"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-109613"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-109613"],
+            "summary_title": ["manganese-brown"]
+          }
+        ]
+      },
+      {
+        "name": ["Inside"],
+        "materials": [
+          {
+            "term": ["term-39575"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39575"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39575"],
+            "summary_title": ["tin-glaze"]
+          }
+        ]
+      },
+      {
+        "name": ["Base"],
+        "materials": []
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-120082"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-120082"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-120082"],
+        "summary_title": ["throwing"],
+        "descriptions": [
+          {
+            "description": ["buff eathenware, the inside tin-glazed and painted in manganese-brown and copper-green; reverse unglazed"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-42634"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-42634"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-42634"],
+        "summary_title": ["sherd"]
+      },
+      {
+        "term": ["term-42865"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-42865"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-42865"],
+        "summary_title": ["maiolica"]
+      },
+      {
+        "value": ["fragment"]
+      }
+    ],
+    "inscription": [
+      {
+        "method": ["incised"],
+        "transcription": [
+          {
+            "value": ["1001"]
+          }
+        ],
+        "location": ["near centre of interior"],
+        "type": ["inscription"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-108348"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-108348"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-108348"],
+        "summary_title": ["tin-glazed earthenware"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Height"],
+          "value": ["5.4"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-127147"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/127147"],
+    "object": ["object-127147"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
