@@ -1,0 +1,364 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-101415"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101415"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101415"],
+        "summary_title": ["penny"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["2002"],
+            "value": ["2002-07"],
+            "latest": ["2007"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Queens' College Cambridge"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-167138"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-167138"],
+            "agent": ["agent-167138"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "note": [
+              {
+                "value": ["undated"]
+              }
+            ],
+            "range": ["1"],
+            "from": {
+              "precision": ["uncertain"],
+              "earliest": ["1849"],
+              "value": ["1849"],
+              "latest": ["1849"]
+            },
+            "to": {
+              "precision": ["uncertain"],
+              "earliest": ["1878"],
+              "value": ["1878"],
+              "latest": ["1878"]
+            },
+            "earliest": ["1849"],
+            "latest": ["1878"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Auckland"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-191753"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-191753"],
+            "term": ["agent-191753"],
+            "role": [
+              {
+                "value": ["place of use"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Auckland"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-122635"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-122635"],
+            "place": ["term-122635"],
+            "coordinates": {
+              "lat": ["-36.852095"],
+              "lng": ["174.7631803"]
+            }
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.QC.4949-R"],
+        "type": ["accession number"],
+        "value": ["CM.QC.4949-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["155541"],
+        "type": ["priref"],
+        "value": ["155541"]
+      },
+      {
+        "type": ["othernumber"],
+        "value": ["Q-4947"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/155541"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/155541"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Given by Mr Barnes Williams 1901 or unknown"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-39588"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39588"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39588"],
+            "summary_title": ["copper"]
+          }
+        ]
+      }
+    ],
+    "multimedia": [
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616263448606"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm17/preview_CM_QC_4949_R_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["251"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616263448606"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm17/CM_QC_4949_R_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["361"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["360"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616263448606"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm17/CM_QC_4949_R_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["361"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["360"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616263448606"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm17/CM_QC_4949_R_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["361"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["360"]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616286378920"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm17/preview_CM_QC_4949_R_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["251"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616286378920"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm17/CM_QC_4949_R_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["362"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["360"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616286378920"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm17/CM_QC_4949_R_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["362"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["360"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616286378920"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm17/CM_QC_4949_R_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["362"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["360"]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-101415"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101415"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101415"],
+        "summary_title": ["penny"]
+      },
+      {
+        "term": ["term-124930"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-124930"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-124930"],
+        "summary_title": ["World"]
+      },
+      {
+        "term": ["term-9097"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-9097"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-9097"],
+        "summary_title": ["New Zealand"]
+      }
+    ],
+    "admin": {
+      "created": ["1397476937000"],
+      "modified": ["1397477600000"],
+      "id": ["object-155541"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-167138"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-167138"],
+        "owner": ["agent-167138"],
+        "summary_title": ["Queens' College Cambridge"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100819"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100819"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100819"],
+        "summary_title": ["token"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-155541"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/155541"],
+    "object": ["object-155541"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
