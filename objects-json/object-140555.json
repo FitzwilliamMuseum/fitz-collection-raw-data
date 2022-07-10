@@ -1,0 +1,101 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["after"],
+              "earliest": ["1600"],
+              "value": ["1600"],
+              "latest": ["1600"]
+            },
+            "to": {
+              "precision": ["before"],
+              "earliest": ["1699"],
+              "value": ["1699"],
+              "latest": ["1699"]
+            },
+            "earliest": ["1600"],
+            "latest": ["1699"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Edo Period (1615-1868)"],
+            "period": ["term-109673"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-109673"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-109673"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["JL.83-1986"],
+        "type": ["accession number"],
+        "value": ["JL.83-1986"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["140555"],
+        "type": ["priref"],
+        "value": ["140555"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/140555"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/140555"]
+      }
+    ],
+    "school_or_style": [
+      {
+        "term": ["term-15024"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-15024"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-15024"],
+        "summary_title": ["Kakiemon"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1606413019000"],
+      "id": ["object-140555"]
+    },
+    "description": [
+      {
+        "value": ["Bottle vase, porcelain, decorated with pine, plum and bamboo. Japanese, Kakiemon, 18th century"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "title": [
+      {
+        "value": ["Bottle vase"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-140555"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/140555"],
+    "object": ["object-140555"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

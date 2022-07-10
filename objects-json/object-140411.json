@@ -1,0 +1,193 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-34935"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-34935"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-34935"],
+        "summary_title": ["plate"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["EC.24-1945"],
+        "type": ["accession number"],
+        "value": ["EC.24-1945"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["140411"],
+        "type": ["priref"],
+        "value": ["140411"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/140411"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/140411"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1476895540000"],
+      "id": ["object-140411"]
+    },
+    "description": [
+      {
+        "value": ["Porcelain plate painted in colours, with a girl dancing."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1945"],
+            "value": ["1945-07-20"],
+            "latest": ["1945"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Clarke, Louis Colville Gray"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149875"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149875"],
+            "agent": ["agent-149875"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["1750"],
+              "value": ["1750"],
+              "latest": ["1750"]
+            },
+            "to": {
+              "earliest": ["1799"],
+              "value": ["1799"],
+              "latest": ["1799"]
+            },
+            "earliest": ["1750"],
+            "latest": ["1799"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["late 18th century"],
+            "period": ["term-106779"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106779"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106779"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Buen Retiro"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-166352"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-166352"],
+            "term": ["agent-166352"],
+            "role": [
+              {
+                "value": ["factory"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Madrid"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-107009"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107009"],
+            "place": ["term-107009"],
+            "coordinates": {
+              "lat": ["40.4167047"],
+              "lng": ["-3.7035825"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Spain"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "techniques": [
+      {
+        "term": ["term-106226"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106226"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106226"],
+        "summary_title": ["painting"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-34935"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-34935"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-34935"],
+        "summary_title": ["plate"]
+      }
+    ],
+    "inscription": [
+      {
+        "method": ["in blue"],
+        "transcription": [
+          {
+            "value": ["Fleur de lys"]
+          }
+        ],
+        "type": ["mark"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-37642"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-37642"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-37642"],
+        "summary_title": ["porcelain"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Diameter"],
+          "value": ["25.4"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Height"],
+          "value": ["3.5"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-140411"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/140411"],
+    "object": ["object-140411"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

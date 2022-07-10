@@ -1,0 +1,167 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-42634"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-42634"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-42634"],
+        "summary_title": ["sherd"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1992"],
+            "value": ["1992"],
+            "latest": ["1992"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Gompertz, Richard and Christopher"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-154224"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-154224"],
+            "agent": ["agent-154224"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["1100"],
+              "value": ["1100"],
+              "latest": ["1100"]
+            },
+            "to": {
+              "earliest": ["1199"],
+              "value": ["1199"],
+              "latest": ["1199"]
+            },
+            "earliest": ["1100"],
+            "latest": ["1199"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Song Dynasty"],
+            "period": ["term-130083"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-130083"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-130083"]
+          },
+          {
+            "summary_title": ["12th Century"],
+            "period": ["term-107804"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-107804"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107804"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["maker"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["C.105-1992"],
+        "type": ["accession number"],
+        "value": ["C.105-1992"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["137735"],
+        "type": ["priref"],
+        "value": ["137735"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/137735"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/137735"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Collected by Yonaiyama Tsuneo"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-42634"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-42634"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-42634"],
+        "summary_title": ["sherd"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1441882803000"],
+      "id": ["object-137735"]
+    },
+    "description": [
+      {
+        "value": ["Pottery sherd, Guan ware."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-113346"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-113346"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-113346"],
+        "summary_title": ["pottery"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Length"],
+          "value": ["6"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Width"],
+          "value": ["2.2"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-137735"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/137735"],
+    "object": ["object-137735"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

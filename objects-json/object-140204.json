@@ -1,0 +1,173 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-127095"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-127095"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-127095"],
+        "summary_title": ["cane handle"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1972"],
+            "value": ["1972-10-09"],
+            "latest": ["1972"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["The Friends of the Fitzwilliam Museum"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149645"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149645"],
+            "agent": ["agent-149645"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "precision": ["circa"],
+            "earliest": ["1760"],
+            "value": ["1760"],
+            "latest": ["1760"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["18th century"],
+            "period": ["term-106400"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106400"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106400"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["maker"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Frankenthal"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-110405"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110405"],
+            "place": ["term-110405"],
+            "coordinates": {
+              "lat": ["49.5445804"],
+              "lng": ["8.3540061"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Germany"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["C.30-1972"],
+        "type": ["accession number"],
+        "value": ["C.30-1972"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["140204"],
+        "type": ["priref"],
+        "value": ["140204"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/140204"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/140204"]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-106226"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106226"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106226"],
+        "summary_title": ["painting"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-127095"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-127095"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-127095"],
+        "summary_title": ["cane handle"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1476190444000"],
+      "id": ["object-140204"]
+    },
+    "description": [
+      {
+        "value": ["Porcelain cane handle. Painted with panels of a landscape and figures, each in single colour. Puce on the two sides, grey on top, and a different grey at the base on thr side of the scroll."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-37642"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-37642"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-37642"],
+        "summary_title": ["porcelain"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Height"],
+          "value": ["8.3"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Width"],
+          "value": ["5"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-140204"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/140204"],
+    "object": ["object-140204"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

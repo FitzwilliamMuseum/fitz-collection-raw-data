@@ -1,0 +1,162 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-107316"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107316"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107316"],
+        "summary_title": ["ring"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1908"],
+            "value": ["1908-12"],
+            "latest": ["1912"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Bumpstead, T. Brookes"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-150435"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-150435"],
+            "agent": ["agent-150435"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["1500"],
+              "value": ["1500"],
+              "latest": ["1500"]
+            },
+            "to": {
+              "earliest": ["1599"],
+              "value": ["1599"],
+              "latest": ["1599"]
+            },
+            "earliest": ["1500"],
+            "latest": ["1599"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["16th century"],
+            "period": ["term-106602"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106602"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106602"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["maker"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["M.7-1908"],
+        "type": ["accession number"],
+        "value": ["M.7-1908"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["139847"],
+        "type": ["priref"],
+        "value": ["139847"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/139847"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/139847"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Found in Somerset"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-107316"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107316"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107316"],
+        "summary_title": ["ring"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1607607867000"],
+      "id": ["object-139847"]
+    },
+    "description": [
+      {
+        "value": ["gold with swivel bezel"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-109541"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-109541"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-109541"],
+        "summary_title": ["jewellery"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Height"],
+          "value": ["2.8"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Width"],
+          "value": ["2.7"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-139847"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/139847"],
+    "object": ["object-139847"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

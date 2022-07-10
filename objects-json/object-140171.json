@@ -1,0 +1,182 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-34935"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-34935"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-34935"],
+        "summary_title": ["plate"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["C.213-1918"],
+        "type": ["accession number"],
+        "value": ["C.213-1918"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["140171"],
+        "type": ["priref"],
+        "value": ["140171"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/140171"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/140171"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["unknown before Ralph Griffin, MA, FSA"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1495533154000"],
+      "id": ["object-140171"]
+    },
+    "description": [
+      {
+        "value": ["hard-paste porcelain painted in enamels"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1918"],
+            "value": ["1918"],
+            "latest": ["1918"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Griffin, Ralph"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-166982"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-166982"],
+            "agent": ["agent-166982"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "precision": ["circa"],
+            "earliest": ["1775"],
+            "value": ["1775"],
+            "latest": ["1775"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Fabbrica Reale Ferdinandea"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-196860"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-196860"],
+            "term": ["agent-196860"],
+            "role": [
+              {
+                "value": ["production"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Naples"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106545"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106545"],
+            "place": ["term-106545"],
+            "coordinates": {
+              "lat": ["40.8358846"],
+              "lng": ["14.2487679"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Italy"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "school_or_style": [
+      {
+        "term": ["term-9010"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-9010"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-9010"],
+        "summary_title": ["Rococo"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-34935"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-34935"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-34935"],
+        "summary_title": ["plate"]
+      }
+    ],
+    "inscription": [
+      {
+        "method": ["painted in red"],
+        "transcription": [
+          {
+            "value": ["Crown and 'RF' below"]
+          }
+        ],
+        "location": ["on base"],
+        "type": ["mark"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-37642"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-37642"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-37642"],
+        "summary_title": ["porcelain"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Diameter"],
+          "value": ["23.5"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Height"],
+          "value": ["2.9"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-140171"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/140171"],
+    "object": ["object-140171"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
