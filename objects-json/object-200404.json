@@ -1,0 +1,349 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-127291"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-127291"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-127291"],
+        "summary_title": ["aspron trachy nomisma"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["CM.587-2013"],
+        "type": ["accession number"],
+        "value": ["CM.587-2013"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["200404"],
+        "type": ["priref"],
+        "value": ["200404"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/200404"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/200404"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["From auction 62, lot no. 213"]
+      }
+    ],
+    "admin": {
+      "created": ["1423473477000"],
+      "modified": ["1582639072000"],
+      "id": ["object-200404"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bought"],
+        "date": [
+          {
+            "earliest": ["2013"],
+            "value": ["14/10/2013"],
+            "latest": ["2013"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Numismatica Varesi"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-190590"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-190590"],
+            "agent": ["agent-190590"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["1085"],
+              "value": ["1085"],
+              "latest": ["1085"]
+            },
+            "earliest": ["1085"],
+            "latest": ["1085"]
+          },
+          {
+            "range": ["1"],
+            "to": {
+              "earliest": ["1095"],
+              "value": ["1095"],
+              "latest": ["1095"]
+            },
+            "earliest": ["1095"],
+            "latest": ["1095"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Constantinople"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-167800"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-167800"],
+            "term": ["agent-167800"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-39594"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39594"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39594"],
+            "summary_title": ["electrum"]
+          }
+        ]
+      }
+    ],
+    "multimedia": [
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616273094267"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm54/preview_CM_587_2013_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["232"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616273094267"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm54/CM_587_2013_281_29.JPG"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["2478"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["2665"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616273094267"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm54/large_CM_587_2013_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["952"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["1024"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616273094267"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm54/mid_CM_587_2013_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["465"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616276963878"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm54/preview_CM_587_2013_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["224"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616276963878"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm54/CM_587_2013_282_29.JPG"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["2430"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["2713"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616276963878"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm54/large_CM_587_2013_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["917"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["1024"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616276963878"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm54/mid_CM_587_2013_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["448"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-127291"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-127291"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-127291"],
+        "summary_title": ["aspron trachy nomisma"]
+      },
+      {
+        "term": ["term-10591"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-10591"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-10591"],
+        "summary_title": ["Byzantine"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "publications": [
+      {
+        "term": ["publication-7095"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-7095"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-7095"],
+        "summary_title": ["Catalogue of the Byzantine coins in the Dumbarton Oaks collection and the Whittemore collection, vol 1: Anastasius I to Maurice, 491-602."],
+        "page": ["377"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-200404"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/200404"],
+    "object": ["object-200404"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

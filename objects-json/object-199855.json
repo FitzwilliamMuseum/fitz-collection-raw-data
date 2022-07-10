@@ -1,0 +1,152 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["2004"],
+            "value": ["2004"],
+            "latest": ["2004"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Pouncey, Jacqueline"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-172573"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-172573"],
+            "agent": ["agent-172573"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "era": [
+              ["CE"]
+            ],
+            "earliest": ["1648"],
+            "value": ["1648"],
+            "latest": ["1648"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Zecchini, Sebastiano"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-192304"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-192304"],
+            "term": ["agent-192304"],
+            "role": [
+              {
+                "value": ["publisher"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Perugia"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106324"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106324"],
+            "place": ["term-106324"],
+            "coordinates": {
+              "lat": ["43.1070321"],
+              "lng": ["12.402996209906"]
+            }
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["PB 228-2004"],
+        "type": ["accession number"],
+        "value": ["PB 228-2004"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["199855"],
+        "type": ["priref"],
+        "value": ["199855"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/199855"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/199855"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-106206"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106206"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106206"],
+            "summary_title": ["paper"]
+          }
+        ]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-27526"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27526"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27526"],
+        "summary_title": ["printing"],
+        "descriptions": []
+      }
+    ],
+    "admin": {
+      "created": ["1412774516000"],
+      "modified": ["1412864518000"],
+      "id": ["object-199855"]
+    },
+    "description": [
+      {
+        "value": ["Published: Perugia: Eredi di Pietro Tomassi & Sebastiano Zecchini, 1648\n384, [4] pages ; 22 cm."]
+      },
+      {
+        "value": ["On spine: Perugia del Crispolti."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-102154"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-102154"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-102154"],
+        "summary_title": ["book"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["Perugia Augusta  descritta da Cesare Crispolti"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-199855"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/199855"],
+    "object": ["object-199855"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

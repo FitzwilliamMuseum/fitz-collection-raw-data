@@ -1,0 +1,159 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1944"],
+            "value": ["1944-05"],
+            "latest": ["1905"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Thompson, Henry Francis Herbert, Sir, Bart"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-192498"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-192498"],
+            "agent": ["agent-192498"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "era": [
+              ["CE"]
+            ],
+            "earliest": ["1930"],
+            "value": ["1930"],
+            "latest": ["1930"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["R. and R. Clark Ltd."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-163927"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-163927"],
+            "term": ["agent-163927"],
+            "role": [
+              {
+                "value": ["printer"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["New York"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106544"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106544"],
+            "place": ["term-106544"],
+            "coordinates": {
+              "lat": ["40.7127281"],
+              "lng": ["-74.0060152"]
+            }
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["PB 1-1944"],
+        "type": ["accession number"],
+        "value": ["PB 1-1944"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["200058"],
+        "type": ["priref"],
+        "value": ["200058"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/200058"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/200058"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-106206"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106206"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106206"],
+            "summary_title": ["paper"]
+          }
+        ]
+      },
+      {
+        "name": ["Illustrations"],
+        "materials": []
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-27526"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27526"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27526"],
+        "summary_title": ["printing"],
+        "descriptions": []
+      }
+    ],
+    "admin": {
+      "created": ["1418643175000"],
+      "modified": ["1523550946000"],
+      "id": ["object-200058"]
+    },
+    "description": [
+      {
+        "value": ["Manuscript inscription on front free end page.: 'To Herbert Thompson from Arthur Symons. August 31. 1932'."]
+      },
+      {
+        "value": ["\"Off this book five hundred and forty-two copies, of which five hundred are for sale, have been printed by R. & R. Clark, Ltd., in Janurary 1930. Distributed in America by Random House and in Great Britain by Humphrey Toulmin at The Cayme Press Ltd. Each copy signed by the author.\n Museum copy \"out of series\"."]
+      },
+      {
+        "value": ["[6],87,[1]p ; 26cm (8vo)."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-102154"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-102154"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-102154"],
+        "summary_title": ["book"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["Confessions : a study in pathology"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-200058"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/200058"],
+    "object": ["object-200058"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
