@@ -1,0 +1,311 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-107484"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107484"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107484"],
+        "summary_title": ["plaque"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["M.63-1973"],
+        "type": ["accession number"],
+        "value": ["M.63-1973"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["2666"],
+        "type": ["priref"],
+        "value": ["2666"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/2666"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/2666"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1576252010000"],
+      "id": ["object-2666"]
+    },
+    "description": [
+      {
+        "value": ["oil paint on glass painting of a posy of flowers within a border of sequins"]
+      },
+      {
+        "value": ["Oil paint on glass within a border of sequins in an ormolu and mahogany frame.  Circular, the painting depicts a posy of flowers, including roses, morning glory and nasturtiums on a grey ground, surrounded by a swagged border of gold and bronze coloured sequins.  The circular ormolu frame is decorated with borders of beads, stiff leaf decoration and rope edging and has a hanging loop at the top.  The back is of mahogany."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1973"],
+            "value": ["1973-12"],
+            "latest": ["1912"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Broughton, Henry Rogers, Major the Hon."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-172548"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-172548"],
+            "agent": ["agent-172548"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["1800"],
+              "value": ["1800"],
+              "latest": ["1800"]
+            },
+            "to": {
+              "precision": ["circa"],
+              "earliest": ["1880"],
+              "value": ["1880"],
+              "latest": ["1880"]
+            },
+            "earliest": ["1800"],
+            "latest": ["1880"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["19th century"],
+            "period": ["term-106853"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106853"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106853"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["miniaturist"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "school_or_style": [
+      {
+        "term": ["term-8399"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-8399"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-8399"],
+        "summary_title": ["French"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Border"],
+        "materials": [
+          {
+            "term": ["term-101184"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101184"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101184"],
+            "summary_title": ["sequins"]
+          }
+        ]
+      },
+      {
+        "name": ["Frame"],
+        "materials": [
+          {
+            "term": ["term-34934"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-34934"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-34934"],
+            "summary_title": ["ormolu"]
+          },
+          {
+            "term": ["term-38291"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-38291"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-38291"],
+            "summary_title": ["mahogany"]
+          }
+        ]
+      },
+      {
+        "name": ["Painting"],
+        "materials": [
+          {
+            "term": ["term-37032"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-37032"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-37032"],
+            "summary_title": ["oil paint"]
+          },
+          {
+            "term": ["term-91170"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-91170"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-91170"],
+            "summary_title": ["glass"]
+          }
+        ]
+      }
+    ],
+    "multimedia": [
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616240411030"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa24/preview_M_63_1973_20_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["257"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616240411030"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa24/M_63_1973_20_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["760"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["739"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616240411030"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa24/M_63_1973_20_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["760"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["739"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616240411030"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa24/mid_M_63_1973_20_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["514"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-107484"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107484"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107484"],
+        "summary_title": ["plaque"]
+      }
+    ],
+    "inscription": [
+      {
+        "method": ["written in ink and stuck with glue"],
+        "transcription": [
+          {
+            "value": ["17"]
+          }
+        ],
+        "location": ["on the mahogany back"],
+        "type": ["paper label"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-98444"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98444"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98444"],
+        "summary_title": ["miniature (painting)"]
+      },
+      {
+        "term": ["term-42545"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-42545"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-42545"],
+        "summary_title": ["objets de vertu"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-2666"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/2666"],
+    "object": ["object-2666"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

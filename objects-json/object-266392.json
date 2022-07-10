@@ -1,0 +1,171 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-101415"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101415"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101415"],
+        "summary_title": ["penny"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["CM.762-2000"],
+        "type": ["accession number"],
+        "value": ["CM.762-2000"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["266392"],
+        "type": ["priref"],
+        "value": ["266392"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/266392"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/266392"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Under Review"]
+      }
+    ],
+    "admin": {
+      "created": ["1605261553000"],
+      "modified": ["1634209391000"],
+      "id": ["object-266392"]
+    },
+    "description": [
+      {
+        "value": ["Otto-Adelheid-penny, c.1020-50, Goslar (?) (Hatz type 5), 1.24g."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["One of 42 silver coins from two or more Scandinavian hoards of the 10th and 11th centuries.  These came from the collection of James Curle (d.1944) of Melrose, Roxburghshire, and were part of lot 158 at Glendinings, 19 July 2000.  The dirhems (nos. 2-41), which are heavily cut and tested, are likely to come from a 10th-century hoard, while the European coins, of which there were rather more in the lot, clearly came from a different hoard, deposited in the mid-11th century."]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["2000"],
+            "value": ["2000-10-09"],
+            "latest": ["2000"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Phillips, Dr Marcus and Mrs Susan."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-167131"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-167131"],
+            "agent": ["agent-167131"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["1020"],
+              "value": ["1020"],
+              "latest": ["1020"]
+            },
+            "to": {
+              "precision": ["circa"],
+              "earliest": ["1050"],
+              "value": ["1050"],
+              "latest": ["1050"]
+            },
+            "earliest": ["1020"],
+            "latest": ["1050"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Goslar"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-169957"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-169957"],
+            "term": ["agent-169957"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-39778"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39778"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39778"],
+            "summary_title": ["silver"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-101415"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101415"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101415"],
+        "summary_title": ["penny"]
+      },
+      {
+        "term": ["term-107815"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107815"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107815"],
+        "summary_title": ["Germany"]
+      },
+      {
+        "term": ["term-133456"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-133456"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-133456"],
+        "summary_title": ["Otto-Adelheid"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-266392"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/266392"],
+    "object": ["object-266392"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
