@@ -1,0 +1,153 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-101415"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101415"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101415"],
+        "summary_title": ["penny"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["2009"],
+            "value": ["2009"],
+            "latest": ["2009"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Davis, Roy"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-187066"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-187066"],
+            "agent": ["agent-187066"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["1207"],
+              "value": ["1207"],
+              "latest": ["1207"]
+            },
+            "to": {
+              "precision": ["c."],
+              "earliest": ["1211"],
+              "value": ["1211"],
+              "latest": ["1211"]
+            },
+            "earliest": ["1207"],
+            "latest": ["1211"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["John (1199-1216)"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-173930"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-173930"],
+            "term": ["agent-173930"],
+            "role": [
+              {
+                "value": ["ruler"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.742-2009"],
+        "type": ["accession number"],
+        "value": ["CM.742-2009"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["246849"],
+        "type": ["priref"],
+        "value": ["246849"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/246849"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/246849"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Under Review"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-101415"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101415"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101415"],
+        "summary_title": ["penny"]
+      },
+      {
+        "term": ["term-107202"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107202"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107202"],
+        "summary_title": ["Ireland"]
+      }
+    ],
+    "admin": {
+      "created": ["1599480304000"],
+      "modified": ["1617009729000"],
+      "id": ["object-246849"]
+    },
+    "description": [
+      {
+        "value": ["Ireland, John (1199-1216), third (Rex) coinage (c.1207-11), AR penny cut down to the size of a halfpenny (13 mm), Dublin, Roberd, 0.81g. Found by the donor at Holme-next-the-Sea, Norfolk, 2008."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-246849"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/246849"],
+    "object": ["object-246849"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
