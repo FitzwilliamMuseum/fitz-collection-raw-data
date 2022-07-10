@@ -1,0 +1,411 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-110143"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110143"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110143"],
+        "summary_title": ["panel"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["M.5-1931"],
+        "type": ["accession number"],
+        "value": ["M.5-1931"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["31404"],
+        "type": ["priref"],
+        "value": ["31404"]
+      },
+      {
+        "source": ["Art UK"],
+        "type": ["external ID"],
+        "value": ["CAM_CCF_M_5_1931"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/31404"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/31404"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Morton's House, Corfe Castle, Dorset"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1580212151000"],
+      "id": ["object-31404"]
+    },
+    "description": [
+      {
+        "value": ["St. Mark's lion holding a book inscribed: PAX TIBI MARCE EVANGELISTA MEVS."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["Small rectangular panel of Istrian marble"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1931"],
+            "value": ["1931"],
+            "latest": ["1931"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["National Art Collections Fund"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149857"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149857"],
+            "agent": ["agent-149857"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["1500"],
+              "value": ["1500"],
+              "latest": ["1500"]
+            },
+            "to": {
+              "precision": ["circa"],
+              "earliest": ["1600"],
+              "value": ["1600"],
+              "latest": ["1600"]
+            },
+            "earliest": ["1500"],
+            "latest": ["1600"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["16th century"],
+            "period": ["term-106602"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106602"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106602"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["production"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Venice"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106518"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106518"],
+            "place": ["term-106518"],
+            "coordinates": {
+              "lat": ["45.4371908"],
+              "lng": ["12.3345898"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Italy"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["The Veneto"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "multimedia": [
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616258872950"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa9/preview_M_5_1931_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["181"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616258872950"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa9/M_5_1931_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["550"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["760"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616258872950"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa9/M_5_1931_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["550"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["760"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616258872950"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa9/mid_M_5_1931_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["362"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616255993461"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa9/preview_M_5_1931_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["181"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616255993461"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa9/M_5_1931_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["550"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["760"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616255993461"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa9/M_5_1931_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["550"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["760"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616255993461"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa9/mid_M_5_1931_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["362"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-98865"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98865"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98865"],
+        "summary_title": ["carving"],
+        "descriptions": [
+          {
+            "description": ["carved marble"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-110143"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110143"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110143"],
+        "summary_title": ["panel"]
+      }
+    ],
+    "inscription": [
+      {
+        "method": ["inscribed"],
+        "transcription": [
+          {
+            "value": ["PAX TIBI MARCE EVANGELISTA MEVS"]
+          }
+        ],
+        "location": ["on book"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-98228"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98228"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98228"],
+        "summary_title": ["sculpture"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["in"],
+          "dimension": ["Height"],
+          "value": ["9.0"]
+        },
+        {
+          "units": ["in"],
+          "dimension": ["Width"],
+          "value": ["12.0"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-2427"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-2427"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-2427"],
+        "summary_title": ["National Art-Collections Fund Twenty-eighth Annual Report 1931"],
+        "page": ["p. 26"],
+        "notes": ["Publ. p. 26, no. 782, a collection of architectural sculpture from Morton's House, Corfe Castle, Dorset distributed to various museums by the N.A.-C.F."]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-31404"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/31404"],
+    "object": ["object-31404"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

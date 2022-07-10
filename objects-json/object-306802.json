@@ -1,0 +1,152 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-135219"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-135219"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-135219"],
+        "summary_title": ["denaro provisino"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["unknown"],
+        "agents": {
+          "agent": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "agent": ["agent-149652"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["1184"],
+              "value": ["1184"],
+              "latest": ["1184"]
+            },
+            "to": {
+              "precision": ["uncertain"],
+              "earliest": ["1252"],
+              "value": ["1252"],
+              "latest": ["1252"]
+            },
+            "earliest": ["1184"],
+            "latest": ["1252"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Rome"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149886"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149886"],
+            "term": ["agent-149886"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.ME.713-R"],
+        "type": ["accession number"],
+        "value": ["CM.ME.713-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["306802"],
+        "type": ["priref"],
+        "value": ["306802"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/306802"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/306802"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-39745"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39745"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39745"],
+            "summary_title": ["billon"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-135219"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-135219"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-135219"],
+        "summary_title": ["denaro provisino"]
+      },
+      {
+        "term": ["term-106629"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106629"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106629"],
+        "summary_title": ["Italy"]
+      },
+      {
+        "term": ["term-139309"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-139309"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-139309"],
+        "summary_title": ["Rome, Senate"]
+      }
+    ],
+    "admin": {
+      "created": ["1631793594000"],
+      "modified": ["1631793594000"],
+      "id": ["object-306802"]
+    },
+    "description": [
+      {
+        "value": ["Italy, Rome, Senate, Billon denaro provisino, 1184-1252?, CNI XV, 101.6"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-306802"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/306802"],
+    "object": ["object-306802"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

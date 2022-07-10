@@ -1,0 +1,145 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-119075"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119075"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119075"],
+        "summary_title": ["Bracteate"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["unknown"],
+        "agents": {
+          "agent": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "agent": ["agent-149652"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["1396"],
+              "value": ["1396"],
+              "latest": ["1396"]
+            },
+            "to": {
+              "earliest": ["1439"],
+              "value": ["1439"],
+              "latest": ["1439"]
+            },
+            "earliest": ["1396"],
+            "latest": ["1439"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Eric of Pomerania (1396-1439)"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-204768"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-204768"],
+            "term": ["agent-204768"],
+            "role": [
+              {
+                "value": ["ruler"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.ME.519-R"],
+        "type": ["accession number"],
+        "value": ["CM.ME.519-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["306710"],
+        "type": ["priref"],
+        "value": ["306710"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/306710"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/306710"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-39745"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39745"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39745"],
+            "summary_title": ["billon"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-119075"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119075"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119075"],
+        "summary_title": ["Bracteate"]
+      },
+      {
+        "term": ["term-108832"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-108832"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-108832"],
+        "summary_title": ["Denmark"]
+      }
+    ],
+    "admin": {
+      "created": ["1631793587000"],
+      "modified": ["1631793587000"],
+      "id": ["object-306710"]
+    },
+    "description": [
+      {
+        "value": ["Denmark, Eric of Pomerania (1396-1439), billon bracteate, Naestved"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-306710"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/306710"],
+    "object": ["object-306710"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

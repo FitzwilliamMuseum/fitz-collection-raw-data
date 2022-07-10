@@ -1,0 +1,132 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-120306"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-120306"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-120306"],
+        "summary_title": ["France"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["unknown"],
+        "agents": {
+          "agent": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "agent": ["agent-149652"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["1285"],
+              "value": ["1285"],
+              "latest": ["1285"]
+            },
+            "to": {
+              "earliest": ["1314"],
+              "value": ["1314"],
+              "latest": ["1314"]
+            },
+            "earliest": ["1285"],
+            "latest": ["1314"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Philip IV (1285-1314)"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-168986"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-168986"],
+            "term": ["agent-168986"],
+            "role": [
+              {
+                "value": ["ruler"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.ME.203-R"],
+        "type": ["accession number"],
+        "value": ["CM.ME.203-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["306656"],
+        "type": ["priref"],
+        "value": ["306656"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/306656"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/306656"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-120306"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-120306"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-120306"],
+        "summary_title": ["France"]
+      }
+    ],
+    "admin": {
+      "created": ["1631793584000"],
+      "modified": ["1631793584000"],
+      "id": ["object-306656"]
+    },
+    "description": [
+      {
+        "value": ["France, Philip IV (1285-1314), coin"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-306656"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/306656"],
+    "object": ["object-306656"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
