@@ -1,0 +1,187 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-101078"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101078"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101078"],
+        "summary_title": ["dirham"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["unknown"],
+        "date": [
+          {
+            "earliest": ["1908"],
+            "value": ["1908"],
+            "latest": ["1908"]
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "note": [
+              {
+                "value": ["AH 201"]
+              }
+            ],
+            "range": ["1"],
+            "from": {
+              "earliest": ["816"],
+              "value": ["816"],
+              "latest": ["816"]
+            },
+            "to": {
+              "earliest": ["817"],
+              "value": ["817"],
+              "latest": ["817"]
+            },
+            "earliest": ["816"],
+            "latest": ["817"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Isfahan"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-167918"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-167918"],
+            "term": ["agent-167918"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Isfahan"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-11097"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-11097"],
+            "place": ["term-11097"],
+            "coordinates": {
+              "lat": ["32.6707877"],
+              "lng": ["51.6650002"]
+            }
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.IS.199-R"],
+        "type": ["accession number"],
+        "value": ["CM.IS.199-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["105778"],
+        "type": ["priref"],
+        "value": ["105778"]
+      },
+      {
+        "type": ["catalogue"],
+        "value": ["530"]
+      },
+      {
+        "type": ["ordering"],
+        "value": ["IS-0491"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/105778"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/105778"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["No provenance."]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-101078"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101078"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101078"],
+        "summary_title": ["dirham"]
+      },
+      {
+        "term": ["term-451"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-451"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-451"],
+        "summary_title": ["Islamic"]
+      },
+      {
+        "term": ["term-117821"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117821"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-117821"],
+        "summary_title": ["‘Abbasids"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1551873973000"],
+      "id": ["object-105778"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["degrees"],
+          "dimension": ["Die Axis"],
+          "value": ["60"]
+        },
+        {
+          "units": ["mm"],
+          "dimension": ["Image(height)"],
+          "value": ["23"]
+        },
+        {
+          "units": ["mm"],
+          "dimension": ["Image(width)"],
+          "value": ["23"]
+        },
+        {
+          "units": ["g"],
+          "dimension": ["Weight"],
+          "value": ["2.87"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-105778"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/105778"],
+    "object": ["object-105778"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
