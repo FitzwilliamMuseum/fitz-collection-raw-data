@@ -1,0 +1,157 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["2010"],
+            "value": ["2010"],
+            "latest": ["2010"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Zangwill, Shirley"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-186344"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-186344"],
+            "agent": ["agent-186344"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Algeria"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-16201"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-16201"],
+            "coordinates": {
+              "lat": ["28.0000272"],
+              "lng": ["2.9999825"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "note": [
+              {
+                "value": ["Cf GR.3.2010"]
+              }
+            ],
+            "precision": ["about"],
+            "earliest": ["401"],
+            "value": ["-400"],
+            "latest": ["401"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Athens"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-107608"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107608"],
+            "place": ["term-107608"],
+            "coordinates": {
+              "lat": ["37.9839412"],
+              "lng": ["23.7283052"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Greece"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Attica"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "summary": [
+      {
+        "term": ["term-89428"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89428"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89428"],
+        "summary_title": ["oinochoe"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["GR.4.2010"],
+        "type": ["accession number"],
+        "value": ["GR.4.2010"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["176654"],
+        "type": ["priref"],
+        "value": ["176654"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/176654"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/176654"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-89428"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89428"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89428"],
+        "summary_title": ["oinochoe"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1480591747000"],
+      "id": ["object-176654"]
+    },
+    "description": [
+      {
+        "value": ["black-slipped oinoche (jug), round-necked and with a round-section handle"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-89198"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89198"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89198"],
+        "summary_title": ["vessel"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Diameter"],
+          "value": ["5.9"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Height"],
+          "value": ["11"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-176654"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/176654"],
+    "object": ["object-176654"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

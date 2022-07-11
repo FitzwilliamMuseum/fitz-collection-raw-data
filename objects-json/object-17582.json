@@ -1,0 +1,325 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-30982"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-30982"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-30982"],
+        "summary_title": ["tile"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["C.123-1933"],
+        "type": ["accession number"],
+        "value": ["C.123-1933"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["17582"],
+        "type": ["priref"],
+        "value": ["17582"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/17582"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/17582"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Purchased from Alfred Sperro, 12A Regent Street, London."]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1607080714000"],
+      "id": ["object-17582"]
+    },
+    "description": [
+      {
+        "value": ["fritware painted in polychrome under a colourless glaze"]
+      },
+      {
+        "value": ["fritware, mould made, painted red slip, blue, emerald green and black under a colourless glaze. Framed in dark wood.\nShape: rectangular tile with lower edge cut away to form a semi-ovular shape, enclosed by a rectangular frame.\nUpper surface: around the edge a polychrome split leaf palmette arabesque pattern, incorporating heart shaped medallions, is reserved in blue. On the main area of the tile a polychrome floral spray of carnation, tulip and rose are painted.\nLower surface: not visible."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1933"],
+            "value": ["1933-07-28"],
+            "latest": ["1933"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["The Friends of the Fitzwilliam Museum"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149645"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149645"],
+            "agent": ["agent-149645"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["1565"],
+              "value": ["1565"],
+              "latest": ["1565"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["1575"],
+              "value": ["1575"],
+              "latest": ["1575"]
+            },
+            "earliest": ["1565"],
+            "latest": ["1575"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["late 16th Century"],
+            "period": ["term-106402"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106402"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106402"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["potter"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Iznik"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-15225"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-15225"],
+            "place": ["term-15225"],
+            "coordinates": {
+              "lat": ["40.4303445"],
+              "lng": ["29.7223732"]
+            },
+            "note": ["."],
+            "hierarchies": [
+              {
+                "summary_title": ["Turkey"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Anatolia"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "school_or_style": [
+      {
+        "term": ["term-68536"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-68536"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-68536"],
+        "summary_title": ["Ottoman"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Upper Surface"],
+        "materials": [
+          {
+            "term": ["term-32652"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-32652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-32652"],
+            "summary_title": ["glaze"]
+          },
+          {
+            "term": ["term-31338"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-31338"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-31338"],
+            "summary_title": ["pigment"]
+          }
+        ]
+      },
+      {
+        "name": ["Frame"],
+        "materials": [
+          {
+            "term": ["term-106692"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106692"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106692"],
+            "summary_title": ["wood"]
+          }
+        ]
+      },
+      {
+        "name": ["Tile"],
+        "materials": []
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-111179"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111179"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-111179"],
+        "summary_title": ["moulding"],
+        "descriptions": [
+          {
+            "description": ["fritware, mould made, painted red slip, blue, emerald green and black under a colourless glaze. Framed in dark wood"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-30982"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-30982"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-30982"],
+        "summary_title": ["tile"]
+      },
+      {
+        "term": ["term-128244"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-128244"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-128244"],
+        "summary_title": ["Islamic pottery"]
+      },
+      {
+        "term": ["term-15225"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-15225"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-15225"],
+        "summary_title": ["Iznik"]
+      }
+    ],
+    "inscription": [
+      {
+        "method": ["painted in cream"],
+        "transcription": [
+          {
+            "value": ["GIVEN BY THE FRIENDS OF THE FITZWILLIAM, 1933 / PART OF A TURKISH TILE, 16TH CENTURY"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["painted on the upper and lower edges"]
+          }
+        ],
+        "location": ["frame"],
+        "type": ["inscription"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-117065"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117065"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-117065"],
+        "summary_title": ["fritware (stonepaste)"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Depth"],
+          "value": ["3.4"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Height"],
+          "value": ["20"]
+        },
+        {
+          "units": ["g"],
+          "dimension": ["Weight"],
+          "value": ["1788"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Width"],
+          "value": ["30"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-720"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-720"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-720"],
+        "summary_title": ["Friends of the Fitzwilliam Museum, Twenty-fifth Annual Report, 1933"]
+      },
+      {
+        "term": ["publication-4982"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-4982"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-4982"],
+        "summary_title": ["Iznik : the Pottery of Ottoman Turkey"]
+      },
+      {
+        "term": ["publication-6459"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-6459"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-6459"],
+        "summary_title": ["Islamic Tiles"]
+      },
+      {
+        "term": ["publication-200002685"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-200002685"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-200002685"],
+        "summary_title": ["The Production Technology of Iznik Pottery : A Reassessment"],
+        "page": ["421-437"],
+        "notes": ["Ref. on Iznik technology"]
+      },
+      {
+        "term": ["publication-200002696"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-200002696"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-200002696"],
+        "summary_title": ["Iznik, Ottoman ceramics and tiles"],
+        "page": ["200-329"],
+        "notes": ["Cf. similar floral sprays see catalogue number 106 (p. 298-299). Ref."]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-17582"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/17582"],
+    "object": ["object-17582"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

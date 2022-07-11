@@ -1,0 +1,185 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-122185"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-122185"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-122185"],
+        "summary_title": ["5 rupees"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["2009"],
+            "value": ["2009-12-01"],
+            "latest": ["2009"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Lewcock, Ronald, Prof."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-184900"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-184900"],
+            "agent": ["agent-184900"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "note": [
+              {
+                "value": ["undated"]
+              }
+            ],
+            "era": [
+              ["CE"]
+            ],
+            "precision": ["inferred"],
+            "earliest": ["1986"],
+            "value": ["1986"],
+            "latest": ["1986"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["State Bank of Pakistan"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-173825"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-173825"],
+            "term": ["agent-173825"],
+            "role": [
+              {
+                "value": ["issuer"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.1569-2009"],
+        "type": ["accession number"],
+        "value": ["CM.1569-2009"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["176472"],
+        "type": ["priref"],
+        "value": ["176472"]
+      },
+      {
+        "type": ["Bruce & Shafer"],
+        "value": ["38"]
+      },
+      {
+        "type": ["serial"],
+        "value": ["XA/8 896362"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/176472"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/176472"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-106206"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106206"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106206"],
+            "summary_title": ["paper"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-122185"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-122185"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-122185"],
+        "summary_title": ["5 rupees"]
+      },
+      {
+        "term": ["term-100907"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100907"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100907"],
+        "summary_title": ["paper money"]
+      },
+      {
+        "term": ["term-121527"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-121527"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-121527"],
+        "summary_title": ["Pakistan"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1594853038000"],
+      "id": ["object-176472"]
+    },
+    "inscription": [
+      {
+        "description": [
+          {
+            "value": ["Half-portrait of Muhammad Ali Jinnah half left, head right, at right, Urdu legends at centre, half-portrait of Muhammad Ali Jinnah haf-left, head right, in watermark panel at left"]
+          }
+        ],
+        "location": ["obverse"],
+        "type": ["design"]
+      },
+      {
+        "transcription": [
+          {
+            "value": ["STATE BANK OF PAKISTAN / FIVE RUPEES"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["View of entrance to Khajak railway tunnel, seal at upper left and half-portrait of Muhammad Ali Jinnah half-right, head left, in watermark panel at lower right"]
+          }
+        ],
+        "location": ["reverse"],
+        "type": ["design"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100907"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100907"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100907"],
+        "summary_title": ["paper money"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-176472"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/176472"],
+    "object": ["object-176472"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
