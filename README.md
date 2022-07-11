@@ -12,11 +12,20 @@ These data are mined from the Museum's Collections API, which is protected by a 
 
 Data in this repository comes as CSV and JSON.
 ```
-|-Root
+|- Root
+|- LICENSE.md
+|- README.md
+|- CITATION.cff
   |- objects-json
-    |- *.json
-  |- people-json  
-    |- *.json
+     |- *.json
+  |- agents-json  
+     |- *.json
+  |- exhibitions-json
+     |- *.json
+  |- periods-json
+     |- *.json
+  |- publications-json
+     |- *.json
   |- ids-csv
     |- object-ids.csv
     |- image-ids.csv
@@ -37,3 +46,7 @@ Data in this repository comes as CSV and JSON.
 ## License
 
 Creative Commons Zero 1.0
+
+## Citation
+
+[CITATION.cff](CITATION.cff)
