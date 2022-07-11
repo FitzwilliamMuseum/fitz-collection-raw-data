@@ -1,0 +1,208 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-101119"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101119"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101119"],
+        "summary_title": ["antoniniani"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["1937"],
+            "value": ["1937"],
+            "latest": ["1937"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Trinity College, Cambridge"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-169619"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-169619"],
+            "agent": ["agent-169619"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["293"],
+              "value": ["0293"],
+              "latest": ["293"]
+            },
+            "to": {
+              "earliest": ["295"],
+              "value": ["0295"],
+              "latest": ["295"]
+            },
+            "earliest": ["293"],
+            "latest": ["295"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Londinium"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-167796"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-167796"],
+            "term": ["agent-167796"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Londinium"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-117786"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117786"],
+            "place": ["term-117786"],
+            "coordinates": {
+              "lat": ["51.5073219"],
+              "lng": ["-0.1276474"]
+            }
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.TR.2-R"],
+        "type": ["accession number"],
+        "value": ["CM.TR.2-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["181085"],
+        "type": ["priref"],
+        "value": ["181085"]
+      },
+      {
+        "type": ["RIC"],
+        "value": ["561.36F"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/181085"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/181085"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-39588"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39588"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39588"],
+            "summary_title": ["copper"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-101119"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101119"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101119"],
+        "summary_title": ["antoniniani"]
+      },
+      {
+        "term": ["term-113870"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-113870"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-113870"],
+        "summary_title": ["Roman Imperial"]
+      }
+    ],
+    "admin": {
+      "created": ["1397472617000"],
+      "modified": ["1625847220000"],
+      "id": ["object-181085"]
+    },
+    "inscription": [
+      {
+        "transcription": [
+          {
+            "value": ["IMP C ALLECTVS P F AVG"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Radiate, cuirassed bust right."]
+          }
+        ],
+        "location": ["obverse"],
+        "type": ["design"]
+      },
+      {
+        "transcription": [
+          {
+            "value": ["PROVID, PROVIT or PROVIDENTIA AVG."]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Providentia standing left, holding globe and cornucopiae"]
+          }
+        ],
+        "location": ["reverse"],
+        "type": ["design"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-169619"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-169619"],
+        "owner": ["agent-169619"],
+        "summary_title": ["Trinity College, Cambridge"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "publications": [
+      {
+        "term": ["publication-3862"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-3862"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-3862"],
+        "summary_title": ["The Roman Imperial Coinage"],
+        "page": ["561"]
+      },
+      {
+        "term": ["publication-7485"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-7485"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-7485"],
+        "summary_title": ["Roman Imperial Coinage I - from 31 BC to AD 69"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-181085"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/181085"],
+    "object": ["object-181085"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

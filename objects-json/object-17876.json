@@ -1,0 +1,201 @@
+{
+  "data": {
+    "identifier": [
+      {
+        "accession_number": ["538"],
+        "type": ["accession number"],
+        "value": ["538"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["17876"],
+        "type": ["priref"],
+        "value": ["17876"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/17876"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/17876"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1596470713000"],
+      "id": ["object-17876"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["Unknown Man"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1834"],
+            "value": ["1834"],
+            "latest": ["1834"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Mesman, Daniel"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149735"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149735"],
+            "agent": ["agent-149735"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "earliest": ["1682"],
+            "value": ["1682"],
+            "latest": ["1682"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Dubois, Simon"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-38968"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-38968"],
+            "term": ["agent-38968"],
+            "role": [
+              {
+                "value": ["miniaturist"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "school_or_style": [
+      {
+        "term": ["term-8407"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-8407"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-8407"],
+        "summary_title": ["Flemish"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-39588"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39588"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39588"],
+            "summary_title": ["copper"]
+          }
+        ]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-30011"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-30011"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-30011"],
+        "summary_title": ["painting (image-making)"],
+        "descriptions": [
+          {
+            "description": ["oil on copper"]
+          }
+        ]
+      }
+    ],
+    "inscription": [
+      {
+        "method": ["ink"],
+        "transcription": [
+          {
+            "value": ["S. du. Bois. fecit."]
+          }
+        ],
+        "location": ["verso"],
+        "type": ["signature"]
+      },
+      {
+        "method": ["ink"],
+        "transcription": [
+          {
+            "value": ["1682"]
+          }
+        ],
+        "location": ["verso, following the above"],
+        "type": ["date"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-98444"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98444"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98444"],
+        "summary_title": ["miniature (painting)"]
+      }
+    ],
+    "department": {
+      "value": ["Paintings, Drawings and Prints"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["mm"],
+          "dimension": ["Height"],
+          "value": ["92"]
+        },
+        {
+          "units": ["mm"],
+          "dimension": ["Width"],
+          "value": ["73"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-1747"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-1747"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-1747"],
+        "summary_title": ["British Miniaturists"],
+        "page": ["133"]
+      },
+      {
+        "term": ["publication-53"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-53"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-53"],
+        "summary_title": ["A Dictionary of British Miniature Painters"],
+        "page": ["253"]
+      },
+      {
+        "term": ["publication-52"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-52"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-52"],
+        "summary_title": ["Catalogue of Portrait Miniatures in the Fitzwilliam Museum, Cambridge"],
+        "page": ["64"],
+        "notes": ["Reproduced."]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-17876"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/17876"],
+    "object": ["object-17876"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
