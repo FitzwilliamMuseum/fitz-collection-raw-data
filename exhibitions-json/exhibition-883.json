@@ -1,0 +1,64 @@
+{
+  "data": {
+    "summary_title": ["John Singer Sargent"],
+    "admin": {
+      "created": [955324800000],
+      "modified": [955366001000],
+      "id": ["exhibition-883"]
+    },
+    "venues": [
+      {
+        "@link": {
+          "date": [
+            {
+              "range": [true],
+              "from": {
+                "earliest": [1986],
+                "value": ["1986-10"],
+                "latest": [1910]
+              },
+              "to": {
+                "earliest": [1987],
+                "value": ["1987-04"],
+                "latest": [1904]
+              },
+              "earliest": [1986],
+              "latest": [1904]
+            }
+          ],
+          "type": ["reference"]
+        },
+        "summary_title": ["New York"],
+        "admin": {
+          "id": ["term-106544"]
+        },
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106544"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106544"],
+        "venue": ["term-106544"]
+      },
+      {
+        "@link": {
+          "type": ["reference"]
+        },
+        "summary_title": ["Chicago"],
+        "admin": {
+          "id": ["term-106548"]
+        },
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106548"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106548"],
+        "venue": ["term-106548"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["John Singer Sargent"]
+      }
+    ],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/exhibition-883"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/exhibitions/exhibition-883"],
+    "exhibition": ["exhibition-883"],
+    "type": ["exhibitions"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
