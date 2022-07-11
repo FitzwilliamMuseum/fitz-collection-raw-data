@@ -1,0 +1,155 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1920"],
+            "value": ["1920-12"],
+            "latest": ["1912"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Perrins, Charles William Dyson"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-167242"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-167242"],
+            "agent": ["agent-167242"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "era": [
+              ["CE"]
+            ],
+            "earliest": ["1920"],
+            "value": ["1920"],
+            "latest": ["1920"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Oxford University Press"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-150705"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-150705"],
+            "term": ["agent-150705"],
+            "role": [
+              {
+                "value": ["printer"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Oxford"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-78071"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-78071"],
+            "place": ["term-78071"],
+            "coordinates": {
+              "lat": ["51.7520131"],
+              "lng": ["-1.2578499"]
+            }
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["PB 1-1920"],
+        "type": ["accession number"],
+        "value": ["PB 1-1920"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["145801"],
+        "type": ["priref"],
+        "value": ["145801"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/145801"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/145801"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-106206"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106206"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106206"],
+            "summary_title": ["paper"]
+          }
+        ]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-27526"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27526"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27526"],
+        "summary_title": ["printing"],
+        "descriptions": []
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1582636353000"],
+      "id": ["object-145801"]
+    },
+    "description": [
+      {
+        "value": ["By Sir George Warner ... with one hundred and twenty-eight plates by Emery Walker ..."]
+      },
+      {
+        "value": ["I. Text.--II. Plates"]
+      },
+      {
+        "value": ["2 v. ; 41 cm"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-102154"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-102154"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-102154"],
+        "summary_title": ["book"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["Descriptive catalogue of illuminated manuscripts in the library of C. W. Dyson Perrins"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-145801"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/145801"],
+    "object": ["object-145801"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

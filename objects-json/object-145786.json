@@ -1,0 +1,155 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1990"],
+            "value": ["1990"],
+            "latest": ["1990"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Holder, Leonard A."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-150427"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-150427"],
+            "agent": ["agent-150427"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "era": [
+              ["CE"]
+            ],
+            "earliest": ["1950"],
+            "value": ["1950"],
+            "latest": ["1950"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Crutchley, Brooke"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-152356"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-152356"],
+            "term": ["agent-152356"],
+            "role": [
+              {
+                "value": ["printer"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Cambridge (Cambs.)"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106176"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106176"],
+            "place": ["term-106176"],
+            "coordinates": {
+              "lat": ["52.19758465"],
+              "lng": ["0.13915373736874"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["USA"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["PB 1-1990"],
+        "type": ["accession number"],
+        "value": ["PB 1-1990"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["145786"],
+        "type": ["priref"],
+        "value": ["145786"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/145786"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/145786"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-106206"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106206"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106206"],
+            "summary_title": ["paper"]
+          }
+        ]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-27526"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27526"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27526"],
+        "summary_title": ["printing"],
+        "descriptions": []
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1582636350000"],
+      "id": ["object-145786"]
+    },
+    "description": [
+      {
+        "value": ["viii,[4],32,[3]p ; 30cm."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-102154"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-102154"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-102154"],
+        "summary_title": ["book"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["Report on the typography of the Cambridge University Press : prepared in 1917 at the request of the Syndics by Bruce Rogers  and now printed in honour of his eightieth birthday."]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-145786"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/145786"],
+    "object": ["object-145786"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
