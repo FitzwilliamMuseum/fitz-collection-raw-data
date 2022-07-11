@@ -10,16 +10,17 @@ These data are mined from the Museum's Collections API, which is protected by a 
 
 ## Data Structure
 
-Data in this repository comes as CSV and JSON.
+Data in this repository comes as CSV and JSON, with license and readme in markdown format. Folder structure is as below:
+
 ```
 |- Root
 |- LICENSE.md
 |- README.md
 |- CITATION.cff
   |- objects-json
-     |- *.json
+     |- *.json - 261,725 files
   |- agents-json  
-     |- *.json
+     |- *.json - 42,308 files
   |- exhibitions-json
      |- *.json
   |- periods-json
