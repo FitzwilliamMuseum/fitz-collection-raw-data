@@ -1,0 +1,182 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-123620"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-123620"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-123620"],
+        "summary_title": ["damma"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bought"],
+        "agents": {
+          "agent": {
+            "summary_title": ["Coins and Medals Fund"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-167878"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-167878"],
+            "agent": ["agent-167878"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "note": [
+              {
+                "value": ["No date"]
+              }
+            ],
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["uncertain"],
+              "earliest": ["800"],
+              "value": ["800"],
+              "latest": ["800"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["uncertain"],
+              "earliest": ["1100"],
+              "value": ["1100"],
+              "latest": ["1100"]
+            },
+            "earliest": ["800"],
+            "latest": ["1100"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Sindh"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-190089"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-190089"],
+            "term": ["agent-190089"],
+            "role": [
+              {
+                "value": ["origin"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.144-1996"],
+        "type": ["accession number"],
+        "value": ["CM.144-1996"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["107610"],
+        "type": ["priref"],
+        "value": ["107610"]
+      },
+      {
+        "type": ["catalogue"],
+        "value": ["1463"]
+      },
+      {
+        "type": ["ordering"],
+        "value": ["IS-1426"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/107610"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/107610"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["bt Tye 1996"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-123620"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-123620"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-123620"],
+        "summary_title": ["damma"]
+      },
+      {
+        "term": ["term-451"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-451"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-451"],
+        "summary_title": ["Islamic"]
+      },
+      {
+        "term": ["term-117822"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117822"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-117822"],
+        "summary_title": ["Iran - The Early Period"]
+      },
+      {
+        "term": ["term-117826"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117826"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-117826"],
+        "summary_title": ["Habbaridids (Amirs of Sind)"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1368810270000"],
+      "id": ["object-107610"]
+    },
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["degrees"],
+          "dimension": ["Die Axis"],
+          "value": ["185"]
+        },
+        {
+          "units": ["mm"],
+          "dimension": ["Image(height)"],
+          "value": ["10"]
+        },
+        {
+          "units": ["mm"],
+          "dimension": ["Image(width)"],
+          "value": ["10"]
+        },
+        {
+          "units": ["g"],
+          "dimension": ["Weight"],
+          "value": ["0.55"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-107610"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/107610"],
+    "object": ["object-107610"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

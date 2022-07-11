@@ -1,0 +1,162 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1990"],
+            "value": ["1990"],
+            "latest": ["1990"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Forrester, Helen"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-166001"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-166001"],
+            "agent": ["agent-166001"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "era": [
+              ["CE"]
+            ],
+            "earliest": ["1886"],
+            "value": ["1886"],
+            "latest": ["1886"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Pickering & Co."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-167983"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-167983"],
+            "term": ["agent-167983"],
+            "role": [
+              {
+                "value": ["bookseller"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Edmonton"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-117801"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117801"],
+            "place": ["term-117801"],
+            "coordinates": {
+              "lat": ["53.535411"],
+              "lng": ["-113.507996"]
+            }
+          },
+          {
+            "summary_title": ["London"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106216"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106216"],
+            "place": ["term-106216"],
+            "coordinates": {
+              "lat": ["51.5073219"],
+              "lng": ["-0.1276474"]
+            }
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["PB 48-1990"],
+        "type": ["accession number"],
+        "value": ["PB 48-1990"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["107770"],
+        "type": ["priref"],
+        "value": ["107770"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/107770"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/107770"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-106206"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106206"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106206"],
+            "summary_title": ["paper"]
+          }
+        ]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-27526"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27526"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27526"],
+        "summary_title": ["printing"],
+        "descriptions": []
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1467303521000"],
+      "id": ["object-107770"]
+    },
+    "description": [
+      {
+        "value": ["Edition lacks introductory pages concerning the facsimile - only facsimile itself present.\n\"Facsimilied at Edmonton anno 1886 by Wm. Muir, E. Druitt, H.T. Muir, and J.D. Watts.\"\nWith sheet of notes on publication in graphite laid in."]
+      },
+      {
+        "value": ["[12] leaves of plates : col. ill ; 20cm."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-102154"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-102154"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-102154"],
+        "summary_title": ["book"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["There is no natural religion"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-107770"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/107770"],
+    "object": ["object-107770"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
