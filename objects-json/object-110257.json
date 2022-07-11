@@ -1,0 +1,187 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-118649"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-118649"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-118649"],
+        "summary_title": ["border"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1950"],
+            "value": ["1950-10-10"],
+            "latest": ["1950"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Marshall, Dendy, Mrs"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-169195"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-169195"],
+            "agent": ["agent-169195"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["1601"],
+              "value": ["1601"],
+              "latest": ["1601"]
+            },
+            "to": {
+              "precision": ["circa"],
+              "earliest": ["1699"],
+              "value": ["1699"],
+              "latest": ["1699"]
+            },
+            "earliest": ["1601"],
+            "latest": ["1699"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["17th Century"],
+            "period": ["term-106447"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106447"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106447"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["production"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Venice"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106518"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106518"],
+            "place": ["term-106518"],
+            "coordinates": {
+              "lat": ["45.4371908"],
+              "lng": ["12.3345898"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Italy"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["The Veneto"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["T.22-1950"],
+        "type": ["accession number"],
+        "value": ["T.22-1950"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["110257"],
+        "type": ["priref"],
+        "value": ["110257"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/110257"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/110257"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Max"],
+        "materials": []
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-40230"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-40230"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-40230"],
+        "summary_title": ["needlepoint (lace)"],
+        "descriptions": [
+          {
+            "description": ["flat needle lace"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-118649"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-118649"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-118649"],
+        "summary_title": ["border"]
+      },
+      {
+        "value": ["needle lace"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1505744974000"],
+      "id": ["object-110257"]
+    },
+    "description": [
+      {
+        "value": ["Collar; flat needle lace"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-39352"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39352"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39352"],
+        "summary_title": ["lace"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-110257"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/110257"],
+    "object": ["object-110257"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

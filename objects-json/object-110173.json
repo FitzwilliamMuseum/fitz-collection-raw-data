@@ -1,0 +1,185 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-118684"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-118684"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-118684"],
+        "summary_title": ["stole"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1986"],
+            "value": ["1986-07-28"],
+            "latest": ["1986"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Vellacott, Elisabeth"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-139165"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-139165"],
+            "agent": ["agent-139165"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["1880"],
+              "value": ["1880"],
+              "latest": ["1880"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["1910"],
+              "value": ["1910"],
+              "latest": ["1910"]
+            },
+            "earliest": ["1880"],
+            "latest": ["1910"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Victorian"],
+            "period": ["term-15214"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-15214"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-15214"]
+          },
+          {
+            "summary_title": ["late 19th-early 20th Century"],
+            "period": ["term-120900"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-120900"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-120900"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["production"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["T.6-1986"],
+        "type": ["accession number"],
+        "value": ["T.6-1986"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["110173"],
+        "type": ["priref"],
+        "value": ["110173"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/110173"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/110173"]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-118661"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-118661"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-118661"],
+        "summary_title": ["machine made lace"],
+        "descriptions": [
+          {
+            "description": ["machine made blonde lace"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-118684"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-118684"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-118684"],
+        "summary_title": ["stole"]
+      },
+      {
+        "value": ["machine made lace"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1507822436000"],
+      "id": ["object-110173"]
+    },
+    "description": [
+      {
+        "value": ["Stole of machine made blonde lace of repeated floral motifs.  Needlerun cordonnet and separately attached picot edge."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-39352"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39352"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39352"],
+        "summary_title": ["lace"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Length"],
+          "value": ["243"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Width"],
+          "value": ["41.2"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-110173"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/110173"],
+    "object": ["object-110173"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

@@ -1,0 +1,183 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-118649"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-118649"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-118649"],
+        "summary_title": ["border"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1946"],
+            "value": ["1946-09-25"],
+            "latest": ["1946"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["de Menasce, George"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-169207"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-169207"],
+            "agent": ["agent-169207"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["1701"],
+              "value": ["1701"],
+              "latest": ["1701"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["1801"],
+              "value": ["1801"],
+              "latest": ["1801"]
+            },
+            "earliest": ["1701"],
+            "latest": ["1801"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["18th century"],
+            "period": ["term-106400"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106400"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106400"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["production"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["T.14-1946"],
+        "type": ["accession number"],
+        "value": ["T.14-1946"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["110972"],
+        "type": ["priref"],
+        "value": ["110972"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/110972"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/110972"]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-27589"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27589"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27589"],
+        "summary_title": ["weaving"],
+        "descriptions": [
+          {
+            "description": ["Linen border embroidered in red silk in cross, long armed cross and backstitch."]
+          }
+        ]
+      },
+      {
+        "term": ["term-29570"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-29570"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-29570"],
+        "summary_title": ["embroidered"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-118649"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-118649"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-118649"],
+        "summary_title": ["border"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1508251510000"],
+      "id": ["object-110972"]
+    },
+    "description": [
+      {
+        "value": ["Linen border embroidered in red silk in cross, long armed cross and backstitch."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-29556"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-29556"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-29556"],
+        "summary_title": ["embroidery"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["in"],
+          "dimension": ["Length"],
+          "value": ["59"]
+        },
+        {
+          "units": ["in"],
+          "dimension": ["Width"],
+          "value": ["9.3/4"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-110972"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/110972"],
+    "object": ["object-110972"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

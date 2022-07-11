@@ -1,0 +1,186 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-117142"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117142"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-117142"],
+        "summary_title": ["sampler"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1939"],
+            "value": ["1939"],
+            "latest": ["1939"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Clarke, Louis Colville Gray"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149875"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149875"],
+            "agent": ["agent-149875"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["possibly"],
+              "earliest": ["1835"],
+              "value": ["1835"],
+              "latest": ["1835"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["possibly"],
+              "earliest": ["1935"],
+              "value": ["1935"],
+              "latest": ["1935"]
+            },
+            "earliest": ["1835"],
+            "latest": ["1935"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["19th century"],
+            "period": ["term-106853"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106853"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106853"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Caspar, Luise"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-170932"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-170932"],
+            "term": ["agent-170932"],
+            "role": [
+              {
+                "value": ["maker"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["T.17-1939"],
+        "type": ["accession number"],
+        "value": ["T.17-1939"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["110879"],
+        "type": ["priref"],
+        "value": ["110879"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/110879"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/110879"]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-27589"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27589"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27589"],
+        "summary_title": ["weaving"],
+        "descriptions": [
+          {
+            "description": ["Band sampler, cotton, embroidered with polychrome silks in cross-stitch"]
+          }
+        ]
+      },
+      {
+        "term": ["term-29899"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-29899"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-29899"],
+        "summary_title": ["embroidering"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-117142"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117142"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-117142"],
+        "summary_title": ["sampler"]
+      },
+      {
+        "value": ["band sampler"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1595237313000"],
+      "id": ["object-110879"]
+    },
+    "description": [
+      {
+        "value": ["Band sampler, cotton, embroidered with polychrome silks in cross-stitch.  The sampler comprises eight lines of alphabets in five different lettering styles, divided by horizontal bands of various repeat border patterns."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-29556"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-29556"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-29556"],
+        "summary_title": ["embroidery"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["ft"],
+          "dimension": ["Length"],
+          "value": ["1'0.3/8\""]
+        },
+        {
+          "units": ["in"],
+          "dimension": ["Width"],
+          "value": ["11.1/8"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-110879"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/110879"],
+    "object": ["object-110879"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

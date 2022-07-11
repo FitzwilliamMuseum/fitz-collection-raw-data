@@ -1,0 +1,174 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-98032"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98032"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98032"],
+        "summary_title": ["print"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1912"],
+            "value": ["1912"],
+            "latest": ["1912"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Marlay, Charles Brinsley"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149674"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149674"],
+            "agent": ["agent-149674"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["after"],
+              "earliest": ["1480"],
+              "value": ["1480"],
+              "latest": ["1480"]
+            },
+            "to": {
+              "precision": ["before"],
+              "earliest": ["1536"],
+              "value": ["1536"],
+              "latest": ["1536"]
+            },
+            "earliest": ["1480"],
+            "latest": ["1536"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Sanzio, Raffaello"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-112234"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-112234"],
+            "term": ["agent-112234"],
+            "role": [
+              {
+                "value": ["draughtsman"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["P.4140-R"],
+        "type": ["accession number"],
+        "value": ["P.4140-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["111508"],
+        "type": ["priref"],
+        "value": ["111508"]
+      },
+      {
+        "type": ["Bartsch"],
+        "value": ["57"]
+      },
+      {
+        "type": ["Illustrated Bartsch"],
+        "value": ["57 (65)"]
+      },
+      {
+        "source": ["Marlay engravings volume 4"],
+        "type": ["old location number"],
+        "value": ["34.16"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/111508"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/111508"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-37166"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-37166"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-37166"],
+            "summary_title": ["laid paper"]
+          }
+        ]
+      },
+      {
+        "name": ["Image"],
+        "materials": []
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-29409"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-29409"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-29409"],
+        "summary_title": ["engraving"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-98032"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98032"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98032"],
+        "summary_title": ["print"]
+      }
+    ],
+    "admin": {
+      "created": ["1312633661000"],
+      "modified": ["1312653409000"],
+      "id": ["object-111508"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-98032"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98032"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98032"],
+        "summary_title": ["print"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["The Virgin with the Long Thigh"]
+      }
+    ],
+    "department": {
+      "value": ["Paintings, Drawings and Prints"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-111508"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/111508"],
+    "object": ["object-111508"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

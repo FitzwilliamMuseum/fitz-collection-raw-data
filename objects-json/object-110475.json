@@ -1,0 +1,178 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-82109"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-82109"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-82109"],
+        "summary_title": ["napkin"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1942"],
+            "value": ["1942-06-09"],
+            "latest": ["1942"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Borrer, Miss"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-169275"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-169275"],
+            "agent": ["agent-169275"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "note": [
+              {
+                "value": ["this piece is probably 17th century"]
+              }
+            ],
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["1601"],
+              "value": ["1601"],
+              "latest": ["1601"]
+            },
+            "to": {
+              "precision": ["circa"],
+              "earliest": ["1701"],
+              "value": ["1701"],
+              "latest": ["1701"]
+            },
+            "earliest": ["1601"],
+            "latest": ["1701"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["17th Century"],
+            "period": ["term-106447"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106447"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106447"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["production"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["T.3-1942"],
+        "type": ["accession number"],
+        "value": ["T.3-1942"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["110475"],
+        "type": ["priref"],
+        "value": ["110475"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/110475"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/110475"]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-27589"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27589"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27589"],
+        "summary_title": ["weaving"],
+        "descriptions": [
+          {
+            "description": ["Damask"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-82109"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-82109"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-82109"],
+        "summary_title": ["napkin"]
+      },
+      {
+        "value": ["damask"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1594994609000"],
+      "id": ["object-110475"]
+    },
+    "description": [
+      {
+        "value": ["Damask napkin with a chequered border, a border with octagons connected by a zigzag stem with buds and one with a flowing stem with stylized flowers and leaves.  The central space is powdered with floral sprigs and carnations."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-118862"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-118862"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-118862"],
+        "summary_title": ["woven textiles"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["in"],
+          "dimension": ["Length"],
+          "value": ["42"]
+        },
+        {
+          "units": ["in"],
+          "dimension": ["Width"],
+          "value": ["32.3/4"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-110475"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/110475"],
+    "object": ["object-110475"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

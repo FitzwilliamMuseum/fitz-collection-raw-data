@@ -1,0 +1,190 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-118731"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-118731"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-118731"],
+        "summary_title": ["flounce"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1964"],
+            "value": ["1964"],
+            "latest": ["1964"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Chick, Samuel, family of"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-169196"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-169196"],
+            "agent": ["agent-169196"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["1601"],
+              "value": ["1601"],
+              "latest": ["1601"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["1799"],
+              "value": ["1799"],
+              "latest": ["1799"]
+            },
+            "earliest": ["1601"],
+            "latest": ["1799"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["17th-18th Century"],
+            "period": ["term-120892"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-120892"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-120892"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["production"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Milan"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106511"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106511"],
+            "place": ["term-106511"],
+            "coordinates": {
+              "lat": ["45.4641943"],
+              "lng": ["9.1896346"]
+            },
+            "note": ["possibly"],
+            "hierarchies": [
+              {
+                "summary_title": ["Italy"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["T.16-1964"],
+        "type": ["accession number"],
+        "value": ["T.16-1964"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["110272"],
+        "type": ["priref"],
+        "value": ["110272"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/110272"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/110272"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Max"],
+        "materials": []
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-40121"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-40121"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-40121"],
+        "summary_title": ["bobbin lace"],
+        "descriptions": [
+          {
+            "description": ["bobbin lace."]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-118731"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-118731"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-118731"],
+        "summary_title": ["flounce"]
+      },
+      {
+        "value": ["bobbin lace"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1507290377000"],
+      "id": ["object-110272"]
+    },
+    "description": [
+      {
+        "value": ["Flounce of bobbin lace."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-39352"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39352"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39352"],
+        "summary_title": ["lace"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-110272"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/110272"],
+    "object": ["object-110272"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

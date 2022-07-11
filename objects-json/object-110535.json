@@ -1,0 +1,182 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-67456"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-67456"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-67456"],
+        "summary_title": ["hanging"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["T.21-1952"],
+        "type": ["accession number"],
+        "value": ["T.21-1952"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["110535"],
+        "type": ["priref"],
+        "value": ["110535"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/110535"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/110535"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1470925741000"],
+      "id": ["object-110535"]
+    },
+    "description": [
+      {
+        "value": ["Three pieces of a silk brocade hanging.  Polychrome silks and silver metal thread.  Pattern includes a floral garland, a medallion, stars and floral borders.  It is backed with yellow silk."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bought"],
+        "date": [
+          {
+            "earliest": ["1952"],
+            "value": ["1952-12-30"],
+            "latest": ["1952"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Arditti & Mayorcas, Messrs"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-169297"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-169297"],
+            "agent": ["agent-169297"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["1770"],
+              "value": ["1770"],
+              "latest": ["1770"]
+            },
+            "to": {
+              "precision": ["circa"],
+              "earliest": ["1805"],
+              "value": ["1805"],
+              "latest": ["1805"]
+            },
+            "earliest": ["1770"],
+            "latest": ["1805"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["late 18th or early 19th century"],
+            "period": ["term-110483"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-110483"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110483"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Salle, Philippe de la"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-169298"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-169298"],
+            "term": ["agent-169298"],
+            "role": [
+              {
+                "value": ["production"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "techniques": [
+      {
+        "term": ["term-27589"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27589"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27589"],
+        "summary_title": ["weaving"],
+        "descriptions": [
+          {
+            "description": ["silk brocade hanging.  Polychrome silks and silver metal thread"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-67456"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-67456"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-67456"],
+        "summary_title": ["hanging"]
+      },
+      {
+        "value": ["brocade"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-118862"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-118862"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-118862"],
+        "summary_title": ["woven textiles"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Length"],
+          "value": ["180.5"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Width"],
+          "value": ["130.5"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-4959"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-4959"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-4959"],
+        "summary_title": ["Friends of the Fitzwilliam 44th Annual report, 1952"],
+        "page": ["4"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-110535"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/110535"],
+    "object": ["object-110535"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
