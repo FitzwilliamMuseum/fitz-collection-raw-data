@@ -1,0 +1,171 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-101770"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101770"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101770"],
+        "summary_title": ["pamphlet"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["PM 3-2004"],
+        "type": ["accession number"],
+        "value": ["PM 3-2004"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["108047"],
+        "type": ["priref"],
+        "value": ["108047"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/108047"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/108047"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1346677513000"],
+      "id": ["object-108047"]
+    },
+    "description": [
+      {
+        "value": ["Consists of one page of text and reproduction of Eric Gill's wood-engraving."]
+      },
+      {
+        "value": ["With typed note by John Dreyfus."]
+      },
+      {
+        "value": ["[4] p"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["Design of the Common seal of the Royal Institute of British Architects"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["2003"],
+            "value": ["2003-05"],
+            "latest": ["2005"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Dreyfus, John"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-163304"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-163304"],
+            "agent": ["agent-163304"]
+          }
+        }
+      },
+      "creation": {
+        "maker": {
+          "maker": {
+            "summary_title": ["Dreyfus, John"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-163304"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-163304"],
+            "term": ["agent-163304"],
+            "role": [
+              {
+                "value": ["writer"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Hemingford Grey"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-115636"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-115636"],
+            "place": ["term-115636"],
+            "coordinates": {
+              "lat": ["52.3062233"],
+              "lng": ["-0.10066456755555"]
+            }
+          }
+        ]
+      }
+    },
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-106206"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106206"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106206"],
+            "summary_title": ["paper"]
+          }
+        ]
+      },
+      {
+        "name": ["Illustration"],
+        "materials": []
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-27526"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27526"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27526"],
+        "summary_title": ["printing"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-101770"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101770"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101770"],
+        "summary_title": ["pamphlet"]
+      },
+      {
+        "term": ["term-102093"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-102093"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-102093"],
+        "summary_title": ["notes"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-117339"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117339"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-117339"],
+        "summary_title": ["archive document"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-108047"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/108047"],
+    "object": ["object-108047"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
