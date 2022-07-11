@@ -1,0 +1,139 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-75231"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-75231"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-75231"],
+        "summary_title": ["helmet"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1893"],
+            "value": ["1893"],
+            "latest": ["1893"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Sandars, Samuel"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149930"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149930"],
+            "agent": ["agent-149930"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["BCE"]
+              ],
+              "earliest": ["501"],
+              "value": ["-500"],
+              "latest": ["501"]
+            },
+            "to": {
+              "era": [
+                ["BCE"]
+              ],
+              "earliest": ["402"],
+              "value": ["-401"],
+              "latest": ["402"]
+            },
+            "earliest": ["501"],
+            "latest": ["402"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Classical"],
+            "period": ["term-14088"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-14088"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-14088"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.2b.1893"],
+        "type": ["accession number"],
+        "value": ["GR.2b.1893"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["66896"],
+        "type": ["priref"],
+        "value": ["66896"]
+      },
+      {
+        "type": ["oldmuseumnumber"],
+        "value": ["P.1.55"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/66896"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/66896"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-75231"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-75231"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-75231"],
+        "summary_title": ["helmet"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1337260853000"],
+      "id": ["object-66896"]
+    },
+    "description": [
+      {
+        "value": ["Corinthian helmet"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-106608"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106608"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106608"],
+        "summary_title": ["armour"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.019"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-66896"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/66896"],
+    "object": ["object-66896"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

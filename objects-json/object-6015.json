@@ -1,0 +1,281 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-97946"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-97946"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-97946"],
+        "summary_title": ["drawing"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["PD.6-1978"],
+        "type": ["accession number"],
+        "value": ["PD.6-1978"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["6015"],
+        "type": ["priref"],
+        "value": ["6015"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/6015"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/6015"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1626460724000"],
+      "id": ["object-6015"]
+    },
+    "description": [
+      {
+        "value": ["Tower in Izurzo"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["Torre en Izurzo"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1978"],
+            "value": ["1978"],
+            "latest": ["1978"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Sabater, José"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-152116"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-152116"],
+            "agent": ["agent-152116"]
+          }
+        }
+      },
+      "creation": {
+        "maker": {
+          "maker": {
+            "summary_title": ["Zuloaga, Ignacio"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149502"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149502"],
+            "term": ["agent-149502"],
+            "role": [
+              {
+                "value": ["draughtsman"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "school_or_style": [
+      {
+        "term": ["term-107200"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107200"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107200"],
+        "summary_title": ["Spanish School"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-106206"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106206"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106206"],
+            "summary_title": ["paper"]
+          }
+        ]
+      }
+    ],
+    "multimedia": [
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1537156893000"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/593/846/preview_PD_6_1978_mas.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["188"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "processed": ["1"],
+          "resizable": ["1"],
+          "modified": ["1537156893000"],
+          "location": ["PD.6-1978_mas.tif"],
+          "type": ["image"]
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1537156893000"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/593/846/large_PD_6_1978_mas.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["768"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["1024"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1537156893000"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/593/846/mid_PD_6_1978_mas.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["375"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        },
+        "zoom": {
+          "resizable": ["1"],
+          "format": ["pyramid tiff"],
+          "modified": ["1537156893000"],
+          "location": ["https://api.fitz.ms/iipsrv/iipsrv.fcgi?FIF=/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/593/846/PD_6_1978_mas.ptif&cvt=jpeg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["4008"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["5344"]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-97946"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-97946"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-97946"],
+        "summary_title": ["drawing"],
+        "descriptions": [
+          {
+            "description": ["pen and black ink on paper, laid down"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-97946"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-97946"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-97946"],
+        "summary_title": ["drawing"]
+      }
+    ],
+    "inscription": [
+      {
+        "method": ["graphite"],
+        "transcription": [
+          {
+            "value": ["Ignacio Zuloaga"]
+          }
+        ],
+        "location": ["lower right"],
+        "type": ["signature"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-97946"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-97946"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-97946"],
+        "summary_title": ["drawing"]
+      }
+    ],
+    "department": {
+      "value": ["Paintings, Drawings and Prints"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["mm"],
+          "dimension": ["Height"],
+          "value": ["387"]
+        },
+        {
+          "units": ["mm"],
+          "dimension": ["Width"],
+          "value": ["479"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-6015"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/6015"],
+    "object": ["object-6015"],
+    "manifestURI": ["https://api.fitz.ms/data-distributor/iiif/object-6015/manifest"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

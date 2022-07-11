@@ -1,0 +1,173 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-111130"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111130"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-111130"],
+        "summary_title": ["lopas"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1929"],
+            "value": ["1929"],
+            "latest": ["1929"]
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["BC"]
+              ],
+              "earliest": ["500"],
+              "value": ["-0500"],
+              "latest": ["500"]
+            },
+            "to": {
+              "era": [
+                ["BC"]
+              ],
+              "earliest": ["401"],
+              "value": ["-0401"],
+              "latest": ["401"]
+            },
+            "earliest": ["500"],
+            "latest": ["401"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Classical"],
+            "period": ["term-14088"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-14088"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-14088"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Athens"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-107608"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107608"],
+            "place": ["term-107608"],
+            "coordinates": {
+              "lat": ["37.9839412"],
+              "lng": ["23.7283052"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Greece"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Attica"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.30.1929"],
+        "type": ["accession number"],
+        "value": ["GR.30.1929"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["69046"],
+        "type": ["priref"],
+        "value": ["69046"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/69046"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/69046"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-111130"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111130"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-111130"],
+        "summary_title": ["lopas"]
+      },
+      {
+        "term": ["term-111136"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111136"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-111136"],
+        "summary_title": ["cooking-pot"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1621012075000"],
+      "id": ["object-69046"]
+    },
+    "description": [
+      {
+        "value": ["lopas, miniature casserole"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-89198"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89198"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89198"],
+        "summary_title": ["vessel"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Diameter"],
+          "value": ["0.09"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.053"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.109"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-4110"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-4110"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-4110"],
+        "summary_title": ["Corpus vasorum antiquorum. Great Britain ; fasc.11, fasc.2. Cambridge"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-69046"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/69046"],
+    "object": ["object-69046"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

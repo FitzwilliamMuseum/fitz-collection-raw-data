@@ -1,0 +1,177 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-110665"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110665"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110665"],
+        "summary_title": ["pin"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bought"],
+        "date": [
+          {
+            "earliest": ["1901"],
+            "value": ["1901"],
+            "latest": ["1901"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Marshall, John Hubert, Sir"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159467"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159467"],
+            "agent": ["agent-159467"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Praesos Crete Greek Islands"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-111420"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111420"]
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "note": [
+              {
+                "value": ["Early Minoan II-III"]
+              }
+            ],
+            "range": ["1"],
+            "from": {
+              "earliest": ["2500"],
+              "value": ["-2500"],
+              "latest": ["2500"]
+            },
+            "to": {
+              "earliest": ["2001"],
+              "value": ["-2001"],
+              "latest": ["2001"]
+            },
+            "earliest": ["2500"],
+            "latest": ["2001"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Early Minoan"],
+            "period": ["term-14135"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-14135"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-14135"]
+          },
+          {
+            "summary_title": ["Bronze Age"],
+            "period": ["term-8271"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-8271"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-8271"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Crete"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-118834"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-118834"],
+            "place": ["term-118834"],
+            "coordinates": {
+              "lat": ["35.3084952"],
+              "lng": ["24.463342318423"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Greek Islands"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.19i.1901"],
+        "type": ["accession number"],
+        "value": ["GR.19i.1901"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["67467"],
+        "type": ["priref"],
+        "value": ["67467"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/67467"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/67467"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-110665"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110665"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110665"],
+        "summary_title": ["pin"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1336663775000"],
+      "id": ["object-67467"]
+    },
+    "description": [
+      {
+        "value": ["pin"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-109541"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-109541"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-109541"],
+        "summary_title": ["jewellery"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Length"],
+          "value": ["0.066"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-200001855"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-200001855"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-200001855"],
+        "summary_title": ["Collecting for Cambridge: John Hubert Marshall on Crete"],
+        "page": ["522"],
+        "notes": ["Footnote 54"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-67467"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/67467"],
+    "object": ["object-67467"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

@@ -1,0 +1,147 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-106294"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106294"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106294"],
+        "summary_title": ["unknown"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1934"],
+            "value": ["1934"],
+            "latest": ["1934"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Brown, Theodore Burton"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159540"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159540"],
+            "agent": ["agent-159540"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Cyprus"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-109616"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-109616"],
+            "coordinates": {
+              "lat": ["34.9823018"],
+              "lng": ["33.1451285"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["5000"],
+              "value": ["-5000"],
+              "latest": ["5000"]
+            },
+            "to": {
+              "earliest": ["3001"],
+              "value": ["-3001"],
+              "latest": ["3001"]
+            },
+            "earliest": ["5000"],
+            "latest": ["3001"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Neolithic"],
+            "period": ["term-8900"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-8900"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-8900"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.6d.1934"],
+        "type": ["accession number"],
+        "value": ["GR.6d.1934"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["69236"],
+        "type": ["priref"],
+        "value": ["69236"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/69236"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/69236"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-106294"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106294"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106294"],
+        "summary_title": ["unknown"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1462285583000"],
+      "id": ["object-69236"]
+    },
+    "description": [
+      {
+        "value": ["sherd"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-89198"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89198"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89198"],
+        "summary_title": ["vessel"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.035"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.036"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-69236"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/69236"],
+    "object": ["object-69236"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

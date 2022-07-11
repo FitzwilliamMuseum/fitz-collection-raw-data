@@ -1,0 +1,636 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-14932"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-14932"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-14932"],
+        "summary_title": ["cinerarium"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1850"],
+            "value": ["1850"],
+            "latest": ["1850"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Disney, John, Dr"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159426"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159426"],
+            "agent": ["agent-159426"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["'Volterra' Etruria Italy"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-111211"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111211"],
+            "coordinates": {
+              "lat": ["43.4014673"],
+              "lng": ["10.861134"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["201"],
+              "value": ["-200"],
+              "latest": ["201"]
+            },
+            "to": {
+              "earliest": ["102"],
+              "value": ["-101"],
+              "latest": ["102"]
+            },
+            "earliest": ["201"],
+            "latest": ["102"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Hellenistic"],
+            "period": ["term-14090"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-14090"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-14090"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Volterra"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-132799"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-132799"],
+            "place": ["term-132799"],
+            "coordinates": {
+              "lat": ["43.400337"],
+              "lng": ["10.860019"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Italy"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Etruria"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.49b.1850"],
+        "type": ["accession number"],
+        "value": ["GR.49b.1850"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["65519"],
+        "type": ["priref"],
+        "value": ["65519"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/65519"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/65519"]
+      }
+    ],
+    "multimedia": [
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616262031151"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant1/preview_GR_49b_1850_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["189"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616262031151"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant1/GR_49b_1850_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["575"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["760"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616262031151"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant1/GR_49b_1850_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["575"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["760"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616262031151"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant1/mid_GR_49b_1850_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["378"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616251192001"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant1/preview_GR_49b_1850_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["180"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616251192001"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant1/GR_49b_1850_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["547"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["760"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616251192001"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant1/GR_49b_1850_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["547"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["760"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616251192001"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant1/mid_GR_49b_1850_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["360"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616285444556"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant1/preview_GR_49b_1850_283_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["311"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616285444556"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant1/GR_49b_1850_283_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["740"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["594"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616285444556"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant1/GR_49b_1850_283_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["740"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["594"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616285444556"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant1/mid_GR_49b_1850_283_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["623"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616265503249"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant1/preview_GR_49b_1850_284_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["322"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616265503249"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant1/GR_49b_1850_284_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["740"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["574"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616265503249"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant1/GR_49b_1850_284_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["740"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["574"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616265503249"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant1/mid_GR_49b_1850_284_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["645"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616272831350"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant1/preview_GR_49b_1850_285_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["157"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616272831350"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant1/GR_49b_1850_285_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["477"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["760"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616272831350"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant1/GR_49b_1850_285_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["477"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["760"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616272831350"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant1/mid_GR_49b_1850_285_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["314"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-14932"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-14932"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-14932"],
+        "summary_title": ["cinerarium"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1529332142000"],
+      "id": ["object-65519"]
+    },
+    "description": [
+      {
+        "value": ["cinerarium, rectangular box, with relief scene of man biding farewell to a woman, with winged vanths"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-89198"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89198"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89198"],
+        "summary_title": ["vessel"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.408"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-3969"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-3969"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-3969"],
+        "summary_title": ["Ancient marbles in Great Britain"]
+      },
+      {
+        "term": ["publication-4058"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-4058"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-4058"],
+        "summary_title": ["Catalogue of the Greek and Roman sculpture in the Fitzwilliam Museum, Cambridge"]
+      },
+      {
+        "term": ["publication-4367"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-4367"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-4367"],
+        "summary_title": ["Museum Disneianum : being a description of a collection of ancient marbles, in the possession of John Disney"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-65519"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/65519"],
+    "object": ["object-65519"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

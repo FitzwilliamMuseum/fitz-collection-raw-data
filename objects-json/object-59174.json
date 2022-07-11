@@ -1,0 +1,157 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-108800"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-108800"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-108800"],
+        "summary_title": ["bead"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1943"],
+            "value": ["1943"],
+            "latest": ["1943"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Gayer-Anderson, R. G. (Major)"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159803"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159803"],
+            "agent": ["agent-159803"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Egypt"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-107870"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107870"],
+            "coordinates": {
+              "lat": ["26.2540493"],
+              "lng": ["29.2675469"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "note": [
+              {
+                "value": ["import: circa 600-101 BC"]
+              }
+            ],
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["601"],
+              "value": ["-600"],
+              "latest": ["601"]
+            },
+            "to": {
+              "earliest": ["102"],
+              "value": ["-101"],
+              "latest": ["102"]
+            },
+            "earliest": ["601"],
+            "latest": ["102"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["E.GA.4763.1943"],
+        "type": ["accession number"],
+        "value": ["E.GA.4763.1943"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["59174"],
+        "type": ["priref"],
+        "value": ["59174"]
+      },
+      {
+        "type": ["oldadmincategory"],
+        "value": ["B"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/59174"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/59174"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-108800"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-108800"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-108800"],
+        "summary_title": ["bead"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1427988714000"],
+      "id": ["object-59174"]
+    },
+    "description": [
+      {
+        "value": ["double human headed bead, black and yellow"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-109541"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-109541"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-109541"],
+        "summary_title": ["jewellery"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Length"],
+          "value": ["0.015"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.012"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-1924"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-1924"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-1924"],
+        "summary_title": ["Glass at the Fitzwilliam Museum"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-59174"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/59174"],
+    "object": ["object-59174"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

@@ -1,0 +1,135 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-111111"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111111"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-111111"],
+        "summary_title": ["disc"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bought"],
+        "date": [
+          {
+            "earliest": ["1910"],
+            "value": ["1910"],
+            "latest": ["1910"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["?"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-151258"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-151258"],
+            "agent": ["agent-151258"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["BCE"]
+              ],
+              "earliest": ["701"],
+              "value": ["-700"],
+              "latest": ["701"]
+            },
+            "to": {
+              "era": [
+                ["BCE"]
+              ],
+              "earliest": ["602"],
+              "value": ["-601"],
+              "latest": ["602"]
+            },
+            "earliest": ["701"],
+            "latest": ["602"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["archaic"],
+            "period": ["term-111220"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-111220"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111220"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.158.1910"],
+        "type": ["accession number"],
+        "value": ["GR.158.1910"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["68582"],
+        "type": ["priref"],
+        "value": ["68582"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/68582"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/68582"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-111111"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111111"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-111111"],
+        "summary_title": ["disc"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1336672111000"],
+      "id": ["object-68582"]
+    },
+    "description": [
+      {
+        "value": ["disc with granulation"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-109541"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-109541"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-109541"],
+        "summary_title": ["jewellery"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Diameter"],
+          "value": ["0.018"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-68582"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/68582"],
+    "object": ["object-68582"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

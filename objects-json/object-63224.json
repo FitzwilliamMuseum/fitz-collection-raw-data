@@ -1,0 +1,170 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-107484"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107484"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107484"],
+        "summary_title": ["plaque"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1982"],
+            "value": ["1982"],
+            "latest": ["1982"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Wellcome Institute, the trustees of the"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-166444"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-166444"],
+            "agent": ["agent-166444"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Egypt"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-107870"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107870"],
+            "coordinates": {
+              "lat": ["26.2540493"],
+              "lng": ["29.2675469"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["AD"]
+              ],
+              "earliest": ["201"],
+              "value": ["0201"],
+              "latest": ["201"]
+            },
+            "to": {
+              "era": [
+                ["AD"]
+              ],
+              "earliest": ["300"],
+              "value": ["0300"],
+              "latest": ["300"]
+            },
+            "earliest": ["201"],
+            "latest": ["300"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Middle Roman"],
+            "period": ["term-111183"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-111183"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111183"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["E.41.1982"],
+        "type": ["accession number"],
+        "value": ["E.41.1982"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["63224"],
+        "type": ["priref"],
+        "value": ["63224"]
+      },
+      {
+        "type": ["oldadmincategory"],
+        "value": ["W"]
+      },
+      {
+        "source": ["Wellcome Institute acquisition number"],
+        "type": ["othernumber"],
+        "value": ["A190087"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/63224"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/63224"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-107484"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107484"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107484"],
+        "summary_title": ["plaque"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1631625794000"],
+      "id": ["object-63224"]
+    },
+    "description": [
+      {
+        "value": ["flat relief plaque, finely worked, with the upper part of a draped woman, with a hairstyle of about the time of Gallienus"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-110812"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110812"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110812"],
+        "summary_title": ["ornamental element"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.063"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.02"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-8844"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-8844"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-8844"],
+        "summary_title": ["Steven's Catalogue, 19-20 August 1930"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-63224"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/63224"],
+    "object": ["object-63224"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

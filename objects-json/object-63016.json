@@ -1,0 +1,148 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-42180"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-42180"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-42180"],
+        "summary_title": ["amulet"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1971"],
+            "value": ["1971"],
+            "latest": ["1971"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Egypt Exploration Society"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159751"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159751"],
+            "agent": ["agent-159751"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Saqqara"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-111951"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111951"],
+            "coordinates": {
+              "lat": ["29.850335"],
+              "lng": ["31.228284"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["401"],
+              "value": ["-400"],
+              "latest": ["401"]
+            },
+            "to": {
+              "earliest": ["302"],
+              "value": ["-301"],
+              "latest": ["302"]
+            },
+            "earliest": ["401"],
+            "latest": ["302"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["E.14.1971"],
+        "type": ["accession number"],
+        "value": ["E.14.1971"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["63016"],
+        "type": ["priref"],
+        "value": ["63016"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/63016"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/63016"]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-25825"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-25825"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-25825"],
+        "summary_title": ["cast (process)"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-42180"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-42180"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-42180"],
+        "summary_title": ["amulet"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1503055214000"],
+      "id": ["object-63016"]
+    },
+    "description": [
+      {
+        "value": ["Anubis jackal, recumbent, on a base, with a loop at back of neck"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-42180"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-42180"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-42180"],
+        "summary_title": ["amulet"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.06"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Length"],
+          "value": ["0.085"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-63016"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/63016"],
+    "object": ["object-63016"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

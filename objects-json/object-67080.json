@@ -1,0 +1,178 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-89390"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89390"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89390"],
+        "summary_title": ["hydria"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bought"],
+        "date": [
+          {
+            "earliest": ["1896"],
+            "value": ["1896"],
+            "latest": ["1896"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Hugel, Anatole von, Baron"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159448"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159448"],
+            "agent": ["agent-159448"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["BCE"]
+              ],
+              "earliest": ["501"],
+              "value": ["-500"],
+              "latest": ["501"]
+            },
+            "to": {
+              "era": [
+                ["BCE"]
+              ],
+              "earliest": ["402"],
+              "value": ["-401"],
+              "latest": ["402"]
+            },
+            "earliest": ["501"],
+            "latest": ["402"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Classical"],
+            "period": ["term-14088"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-14088"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-14088"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Euboea"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-119452"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119452"],
+            "place": ["term-119452"],
+            "coordinates": {
+              "lat": ["38.49417235"],
+              "lng": ["23.911084399138"]
+            },
+            "note": ["possibly Euboea"],
+            "hierarchies": [
+              {
+                "summary_title": ["Greek Islands"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.5d.1896"],
+        "type": ["accession number"],
+        "value": ["GR.5d.1896"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["67080"],
+        "type": ["priref"],
+        "value": ["67080"]
+      },
+      {
+        "type": ["oldmuseumnumber"],
+        "value": ["G236"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/67080"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/67080"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-89390"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89390"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89390"],
+        "summary_title": ["hydria"]
+      },
+      {
+        "term": ["term-115242"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-115242"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-115242"],
+        "summary_title": ["water-jar"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1336672364000"],
+      "id": ["object-67080"]
+    },
+    "description": [
+      {
+        "value": ["hydria, birds"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-89198"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89198"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89198"],
+        "summary_title": ["vessel"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.099"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-4059"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-4059"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-4059"],
+        "summary_title": ["Catalogue of the Greek vases in the Fitzwilliam Museum, Cambridge"]
+      },
+      {
+        "term": ["publication-4110"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-4110"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-4110"],
+        "summary_title": ["Corpus vasorum antiquorum. Great Britain ; fasc.11, fasc.2. Cambridge"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-67080"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/67080"],
+    "object": ["object-67080"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

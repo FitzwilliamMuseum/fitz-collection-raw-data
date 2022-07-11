@@ -1,0 +1,143 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1953"],
+            "value": ["1953"],
+            "latest": ["1953"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Blakeney, T. S."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-186253"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-186253"],
+            "agent": ["agent-186253"]
+          }
+        }
+      },
+      "creation": {
+        "periods": [
+          {
+            "summary_title": ["14th Century"],
+            "period": ["term-107695"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-107695"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107695"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Pope Boniface VIII"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-200478"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-200478"],
+            "term": ["agent-200478"],
+            "role": [
+              {
+                "value": ["author"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["England"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-107139"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107139"],
+            "place": ["term-107139"],
+            "coordinates": {
+              "lat": ["52.5310214"],
+              "lng": ["-1.2649062"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["England"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["MS 1-1955"],
+        "type": ["accession number"],
+        "value": ["MS 1-1955"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["239263"],
+        "type": ["priref"],
+        "value": ["239263"]
+      },
+      {
+        "source": ["Cambridge Illuminated"],
+        "type": ["project ID"],
+        "value": ["3436"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/239263"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/239263"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Owned by Sir Henry Spelman (1564?-1641), legal historian, with his signature on f. 6, partially cut away. The name 'Johnne Williams' is written in a late 17th or early 18th cent. hand on blank page (f. 5). The date '1498' has been added in a more sprawling, slightly later hand, and both the name and the date have been crossed out and scribbled over. Formerly in the family collection of Francis Edward Norris, no. M 10. There may be some connection with John Williams, Baron Williams of Thame (1500?- 1559) whose daughter Margaret married Sir Henry Norris, afterwards Baron Norris of Rycote. Bought from Louis W. Bondy by T.S. Blakeney in September 1953, and given by him to the Museum in 1955."]
+      }
+    ],
+    "admin": {
+      "created": ["1573817719000"],
+      "modified": ["1598266964000"],
+      "id": ["object-239263"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-110558"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110558"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110558"],
+        "summary_title": ["illuminated manuscript"]
+      },
+      {
+        "term": ["term-114522"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-114522"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-114522"],
+        "summary_title": ["manuscript"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "title": [
+      {
+        "value": ["Liber sextus"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-239263"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/239263"],
+    "object": ["object-239263"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

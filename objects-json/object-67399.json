@@ -1,0 +1,151 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1899"],
+            "value": ["1899"],
+            "latest": ["1899"]
+          }
+        ]
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Naukratis Egypt"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-111311"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111311"]
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["BC"]
+              ],
+              "earliest": ["600"],
+              "value": ["-0600"],
+              "latest": ["600"]
+            },
+            "to": {
+              "era": [
+                ["BC"]
+              ],
+              "earliest": ["501"],
+              "value": ["-0501"],
+              "latest": ["501"]
+            },
+            "earliest": ["600"],
+            "latest": ["501"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["archaic"],
+            "period": ["term-111220"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-111220"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111220"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Rhodes"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-15226"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-15226"],
+            "place": ["term-15226"],
+            "coordinates": {
+              "lat": ["36.17262995"],
+              "lng": ["27.919418145633"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Greek Islands"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "summary": [
+      {
+        "term": ["term-90432"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-90432"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-90432"],
+        "summary_title": ["stamnos"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["GR.330.1899"],
+        "type": ["accession number"],
+        "value": ["GR.330.1899"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["67399"],
+        "type": ["priref"],
+        "value": ["67399"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/67399"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/67399"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-90432"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-90432"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-90432"],
+        "summary_title": ["stamnos"]
+      },
+      {
+        "term": ["term-89389"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89389"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89389"],
+        "summary_title": ["jar"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1621012055000"],
+      "id": ["object-67399"]
+    },
+    "description": [
+      {
+        "value": ["stamnos fragment, inscribed"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-89198"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89198"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89198"],
+        "summary_title": ["vessel"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-67399"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/67399"],
+    "object": ["object-67399"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

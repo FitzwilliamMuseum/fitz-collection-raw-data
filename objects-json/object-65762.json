@@ -1,0 +1,182 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-98929"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98929"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98929"],
+        "summary_title": ["herm"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1865"],
+            "value": ["1865"],
+            "latest": ["1865"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Clarke, Edward Daniel"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-152312"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-152312"],
+            "agent": ["agent-152312"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Athens Attica Greece"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-111224"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111224"],
+            "coordinates": {
+              "lat": ["37.9839412"],
+              "lng": ["23.7283052"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["201"],
+              "value": ["201"],
+              "latest": ["201"]
+            },
+            "to": {
+              "earliest": ["300"],
+              "value": ["300"],
+              "latest": ["300"]
+            },
+            "earliest": ["201"],
+            "latest": ["300"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Middle Roman"],
+            "period": ["term-111183"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-111183"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111183"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.8.1865"],
+        "type": ["accession number"],
+        "value": ["GR.8.1865"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["65762"],
+        "type": ["priref"],
+        "value": ["65762"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/65762"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/65762"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-98929"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98929"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98929"],
+        "summary_title": ["herm"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1582634389000"],
+      "id": ["object-65762"]
+    },
+    "description": [
+      {
+        "value": ["herm of Dionysos"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-107454"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107454"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107454"],
+        "summary_title": ["figure"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Depth"],
+          "value": ["0.16"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.446"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.61"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.125"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.215"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-3969"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-3969"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-3969"],
+        "summary_title": ["Ancient marbles in Great Britain"]
+      },
+      {
+        "term": ["publication-4058"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-4058"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-4058"],
+        "summary_title": ["Catalogue of the Greek and Roman sculpture in the Fitzwilliam Museum, Cambridge"]
+      },
+      {
+        "term": ["publication-4246"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-4246"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-4246"],
+        "summary_title": ["Greek marbles brought from the shores of the Euxine, Archipelago, and Mediterranean and deposited in the vestibule of the public library of the University of Cambridge"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-65762"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/65762"],
+    "object": ["object-65762"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

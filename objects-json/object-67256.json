@@ -1,0 +1,355 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-111026"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111026"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-111026"],
+        "summary_title": ["skyphos"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["GR.100.1899"],
+        "type": ["accession number"],
+        "value": ["GR.100.1899"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["67256"],
+        "type": ["priref"],
+        "value": ["67256"]
+      },
+      {
+        "type": ["oldmuseumnumber"],
+        "value": ["N100"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/67256"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/67256"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1582634421000"],
+      "id": ["object-67256"]
+    },
+    "description": [
+      {
+        "value": ["skyphos fragment. With a graffito 'to Artemis'"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["Fragment of the rim of a black-glazed skyphos"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1899"],
+            "value": ["1899"],
+            "latest": ["1899"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["The Egyptian Exploration Fund"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-173406"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-173406"],
+            "agent": ["agent-173406"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Naukratis Egypt"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-111311"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111311"]
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["521"],
+              "value": ["-520"],
+              "latest": ["521"]
+            },
+            "to": {
+              "earliest": ["401"],
+              "value": ["-400"],
+              "latest": ["401"]
+            },
+            "earliest": ["521"],
+            "latest": ["401"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Classical"],
+            "period": ["term-14088"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-14088"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-14088"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Athens"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-107608"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107608"],
+            "place": ["term-107608"],
+            "coordinates": {
+              "lat": ["37.9839412"],
+              "lng": ["23.7283052"]
+            }
+          }
+        ]
+      }
+    },
+    "multimedia": [
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616238784106"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant10/preview_GR_100_1899_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["333"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616238784106"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant10/GR_100_1899_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["760"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["570"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616238784106"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant10/GR_100_1899_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["760"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["570"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616238784106"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant10/mid_GR_100_1899_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["667"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616265553337"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant10/preview_GR_100_1899_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["333"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616265553337"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant10/GR_100_1899_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["760"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["570"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616265553337"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant10/GR_100_1899_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["760"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["570"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616265553337"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant10/mid_GR_100_1899_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["667"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-108827"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-108827"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-108827"],
+        "summary_title": ["black glaze"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-111026"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111026"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-111026"],
+        "summary_title": ["skyphos"]
+      },
+      {
+        "term": ["term-91165"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-91165"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-91165"],
+        "summary_title": ["cup"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-89198"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89198"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89198"],
+        "summary_title": ["vessel"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "publications": [
+      {
+        "term": ["publication-200001381"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-200001381"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-200001381"],
+        "summary_title": ["Excavations at Naukratis B: the inscribed and painted pottery"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-67256"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/67256"],
+    "object": ["object-67256"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

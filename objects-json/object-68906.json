@@ -1,0 +1,129 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-111072"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111072"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-111072"],
+        "summary_title": ["sling shot"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1925"],
+            "value": ["1925"],
+            "latest": ["1925"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Greg, T. T., Mrs"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-151945"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-151945"],
+            "agent": ["agent-151945"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["401"],
+              "value": ["-400"],
+              "latest": ["401"]
+            },
+            "to": {
+              "earliest": ["302"],
+              "value": ["-301"],
+              "latest": ["302"]
+            },
+            "earliest": ["401"],
+            "latest": ["302"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Classical"],
+            "period": ["term-14088"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-14088"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-14088"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.4a.1925"],
+        "type": ["accession number"],
+        "value": ["GR.4a.1925"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["68906"],
+        "type": ["priref"],
+        "value": ["68906"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/68906"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/68906"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-111072"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111072"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-111072"],
+        "summary_title": ["sling shot"]
+      }
+    ],
+    "admin": {
+      "created": ["1312633661000"],
+      "modified": ["1329220023000"],
+      "id": ["object-68906"]
+    },
+    "description": [
+      {
+        "value": ["sling bullet, thunderbolt, dexai"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-86575"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-86575"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-86575"],
+        "summary_title": ["weapons"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.043"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-68906"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/68906"],
+    "object": ["object-68906"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

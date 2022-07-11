@@ -1,0 +1,154 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-107667"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107667"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107667"],
+        "summary_title": ["bowl"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1916"],
+            "value": ["1916"],
+            "latest": ["1916"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Lamb, Winifred"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159497"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159497"],
+            "agent": ["agent-159497"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["901"],
+              "value": ["-900"],
+              "latest": ["901"]
+            },
+            "to": {
+              "earliest": ["702"],
+              "value": ["-701"],
+              "latest": ["702"]
+            },
+            "earliest": ["901"],
+            "latest": ["702"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Cypriote"],
+            "period": ["term-8996"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-8996"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-8996"]
+          },
+          {
+            "summary_title": ["Geometric"],
+            "period": ["term-14071"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-14071"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-14071"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.4.1916"],
+        "type": ["accession number"],
+        "value": ["GR.4.1916"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["68661"],
+        "type": ["priref"],
+        "value": ["68661"]
+      },
+      {
+        "type": ["oldmuseumnumber"],
+        "value": ["CAM.430"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/68661"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/68661"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-107667"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107667"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107667"],
+        "summary_title": ["bowl"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1481022752000"],
+      "id": ["object-68661"]
+    },
+    "description": [
+      {
+        "value": ["bowl"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-89198"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89198"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89198"],
+        "summary_title": ["vessel"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.218"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.194"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-4826"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-4826"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-4826"],
+        "summary_title": ["Winifred Lamb and the Fitzwilliam Museum"],
+        "page": ["151"],
+        "notes": ["Footnote 105"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-68661"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/68661"],
+    "object": ["object-68661"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-99236"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-99236"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-99236"],
+        "summary_title": ["figurine"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1885"],
+            "value": ["1885"],
+            "latest": ["1885"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Waldstein, Charles, Dr"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159445"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159445"],
+            "agent": ["agent-159445"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["101"],
+              "value": ["101"],
+              "latest": ["101"]
+            },
+            "to": {
+              "earliest": ["300"],
+              "value": ["300"],
+              "latest": ["300"]
+            },
+            "earliest": ["101"],
+            "latest": ["300"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Middle Roman"],
+            "period": ["term-111183"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-111183"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111183"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.13.1885"],
+        "type": ["accession number"],
+        "value": ["GR.13.1885"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["66035"],
+        "type": ["priref"],
+        "value": ["66035"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/66035"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/66035"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-99236"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-99236"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-99236"],
+        "summary_title": ["figurine"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1480350470000"],
+      "id": ["object-66035"]
+    },
+    "description": [
+      {
+        "value": ["horse"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-107454"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107454"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107454"],
+        "summary_title": ["figure"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.109"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.118"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-66035"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/66035"],
+    "object": ["object-66035"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

@@ -1,0 +1,163 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-111016"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111016"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-111016"],
+        "summary_title": ["dinos"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1894"],
+            "value": ["1894"],
+            "latest": ["1894"]
+          }
+        ]
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Naukratis Egypt"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-111311"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111311"]
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["BC"]
+              ],
+              "earliest": ["600"],
+              "value": ["-0600"],
+              "latest": ["600"]
+            },
+            "to": {
+              "era": [
+                ["BC"]
+              ],
+              "earliest": ["501"],
+              "value": ["-0501"],
+              "latest": ["501"]
+            },
+            "earliest": ["600"],
+            "latest": ["501"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["archaic"],
+            "period": ["term-111220"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-111220"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111220"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Rhodes"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-15226"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-15226"],
+            "place": ["term-15226"],
+            "coordinates": {
+              "lat": ["36.17262995"],
+              "lng": ["27.919418145633"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Greek Islands"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.24.1894"],
+        "type": ["accession number"],
+        "value": ["GR.24.1894"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["66915"],
+        "type": ["priref"],
+        "value": ["66915"]
+      },
+      {
+        "type": ["oldmuseumnumber"],
+        "value": ["N24"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/66915"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/66915"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-111016"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111016"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-111016"],
+        "summary_title": ["dinos"]
+      },
+      {
+        "term": ["term-107667"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107667"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107667"],
+        "summary_title": ["bowl"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1621012038000"],
+      "id": ["object-66915"]
+    },
+    "description": [
+      {
+        "value": ["dinos fragment, cable pattern"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-89198"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89198"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89198"],
+        "summary_title": ["vessel"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "publications": [
+      {
+        "term": ["publication-4110"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-4110"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-4110"],
+        "summary_title": ["Corpus vasorum antiquorum. Great Britain ; fasc.11, fasc.2. Cambridge"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-66915"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/66915"],
+    "object": ["object-66915"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

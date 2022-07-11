@@ -1,0 +1,159 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-43996"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-43996"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-43996"],
+        "summary_title": ["fibula"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1944"],
+            "value": ["1944"],
+            "latest": ["1944"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Thompson, Henry Francis Herbert, Sir, Bart"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-192498"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-192498"],
+            "agent": ["agent-192498"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Gotland Denmark"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-111718"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111718"],
+            "coordinates": {
+              "lat": ["55.7128995"],
+              "lng": ["12.5778126"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "era": [
+              ["CE"]
+            ],
+            "precision": ["circa"],
+            "earliest": ["700"],
+            "value": ["700"],
+            "latest": ["700"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Medieval"],
+            "period": ["term-10603"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-10603"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-10603"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Gotland"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-130531"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-130531"],
+            "place": ["term-130531"],
+            "coordinates": {
+              "lat": ["57.4174802"],
+              "lng": ["18.5369579275"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Denmark"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.6.1944"],
+        "type": ["accession number"],
+        "value": ["GR.6.1944"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["69505"],
+        "type": ["priref"],
+        "value": ["69505"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/69505"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/69505"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-43996"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-43996"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-43996"],
+        "summary_title": ["fibula"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1418981131000"],
+      "id": ["object-69505"]
+    },
+    "description": [
+      {
+        "value": ["fibula"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-109541"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-109541"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-109541"],
+        "summary_title": ["jewellery"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.046"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.029"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-69505"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/69505"],
+    "object": ["object-69505"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

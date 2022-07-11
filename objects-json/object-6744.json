@@ -1,0 +1,864 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-97946"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-97946"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-97946"],
+        "summary_title": ["drawing"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["2145"],
+        "type": ["accession number"],
+        "value": ["2145"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["6744"],
+        "type": ["priref"],
+        "value": ["6744"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/6744"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/6744"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["from the collection of Charles Ricketts, R.A. (1866-1931) and Charles Shannon, R.A. (1863-1937); on loan to the Museum since January 1933"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1626458336000"],
+      "id": ["object-6744"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["\"The Shades approaching Dante and Virgil\""]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1937"],
+            "value": ["1937-03"],
+            "latest": ["1903"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Shannon, Charles Haslewood"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-125314"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-125314"],
+            "agent": ["agent-125314"]
+          }
+        }
+      },
+      "creation": {
+        "maker": {
+          "maker": {
+            "summary_title": ["Rodin, Auguste"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-116289"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-116289"],
+            "term": ["agent-116289"],
+            "role": [
+              {
+                "value": ["draughtsman"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "school_or_style": [
+      {
+        "term": ["term-8399"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-8399"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-8399"],
+        "summary_title": ["French"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-106206"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106206"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106206"],
+            "summary_title": ["paper"]
+          }
+        ]
+      }
+    ],
+    "multimedia": [
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616286308897"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp63/preview_2145.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["379"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616286308897"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp63/2145.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["760"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["501"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616286308897"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp63/2145.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["760"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["501"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616286308897"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp63/mid_2145.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["758"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616267199149"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp63/preview_2145_pc1.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["307"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616267199149"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp63/2145_pc1.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["1004"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["818"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616267199149"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp63/2145_pc1.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["1004"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["818"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616267199149"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp63/mid_2145_pc1.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["614"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1537143291000"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/566/570/preview_2145_1_mas.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["296"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "processed": ["1"],
+          "resizable": ["1"],
+          "modified": ["1537143291000"],
+          "location": ["2145_1_mas.tif"],
+          "type": ["image"]
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1537143291000"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/566/570/large_2145_1_mas.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["1213"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["1024"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1537143291000"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/566/570/mid_2145_1_mas.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["592"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1537143296000"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/566/579/preview_2145_2_mas.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["316"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "processed": ["1"],
+          "resizable": ["1"],
+          "modified": ["1537143296000"],
+          "location": ["2145_2_mas.tif"],
+          "type": ["image"]
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1537143296000"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/566/579/large_2145_2_mas.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["1295"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["1024"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1537143296000"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/566/579/mid_2145_2_mas.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["632"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1550104308000"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/629/622/preview_2145_1_dc1.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["379"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1550104308000"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/629/622/2145_1_dc1.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["3659"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["2412"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1550104308000"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/629/622/large_2145_1_dc1.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["1553"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["1024"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1550104308000"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/629/622/mid_2145_1_dc1.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["758"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1550104308000"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/629/623/preview_2145_2_dc1.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["313"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1550104308000"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/629/623/2145_2_dc1.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["5689"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["4547"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1550104308000"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/629/623/large_2145_2_dc1.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["1281"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["1024"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1550104308000"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/629/623/mid_2145_2_dc1.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["626"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-27762"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27762"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27762"],
+        "summary_title": ["drawing (image-making)"],
+        "descriptions": [
+          {
+            "description": ["graphite, pen and dark sepia wash on buff paper"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-97946"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-97946"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-97946"],
+        "summary_title": ["drawing"]
+      }
+    ],
+    "inscription": [
+      {
+        "transcription": [
+          {
+            "value": ["A. Rodin"]
+          }
+        ],
+        "location": ["lower centre"],
+        "type": ["signature"]
+      },
+      {
+        "method": ["stamp"],
+        "transcription": [
+          {
+            "value": ["Carfax and Company Limited"]
+          }
+        ],
+        "location": ["mount, verso"]
+      },
+      {
+        "method": ["ink"],
+        "transcription": [
+          {
+            "value": ["17 Ryder St / St James's / London / S W / England"]
+          }
+        ],
+        "location": ["mount, verso"]
+      },
+      {
+        "method": ["graphite"],
+        "transcription": [
+          {
+            "value": ["320"]
+          }
+        ],
+        "location": ["mount, verso"]
+      },
+      {
+        "method": ["graphite"],
+        "transcription": [
+          {
+            "value": ["Des Ombres approchants Rodin / 20 guineas"]
+          }
+        ],
+        "location": ["mount, verso"]
+      },
+      {
+        "method": ["ink over graphite"],
+        "transcription": [
+          {
+            "value": ["price £20"]
+          }
+        ],
+        "location": ["mount, verso"]
+      },
+      {
+        "method": ["stamp"],
+        "transcription": [
+          {
+            "value": ["Carfax and Company Limited"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["below the above inscription"]
+          }
+        ],
+        "location": ["mount, verso"]
+      },
+      {
+        "transcription": [
+          {
+            "value": ["case no 7 left"]
+          }
+        ],
+        "location": ["frame, verso"]
+      },
+      {
+        "method": ["printed label with MS additions"],
+        "transcription": [
+          {
+            "value": ["Bradley and Co. / Exhibitions Agents / 81 Charlotte Street / Fitzroy Square / London W / (written on top of the label:) International Ex. collected"]
+          }
+        ],
+        "location": ["frame, verso"]
+      },
+      {
+        "method": ["label, stamped"],
+        "transcription": [
+          {
+            "value": ["Bradley and Co (printed:) 105"]
+          }
+        ],
+        "location": ["frame, verso"]
+      },
+      {
+        "method": ["label, printed"],
+        "transcription": [
+          {
+            "value": ["From Carfax and Co. 57 / Ltd. 17 Ryder Street / St James's London / to: \"A Rodin\" / The Shades Ap / Drawing / to be returned to London"]
+          }
+        ],
+        "location": ["frame, verso"]
+      },
+      {
+        "method": ["black chalk"],
+        "transcription": [
+          {
+            "value": ["Shades approach / ing Dante & Virgil"]
+          }
+        ],
+        "location": ["frame, verso"]
+      },
+      {
+        "method": ["blue chalk"],
+        "transcription": [
+          {
+            "value": ["Glass Broken / when received, Chicago (underlined)"]
+          }
+        ],
+        "location": ["frame, verso"]
+      },
+      {
+        "method": ["black wash"],
+        "transcription": [
+          {
+            "value": ["Shannon"]
+          }
+        ],
+        "location": ["frame, verso"]
+      },
+      {
+        "method": ["black wash"],
+        "transcription": [
+          {
+            "value": ["56"]
+          }
+        ],
+        "location": ["frame, verso"]
+      },
+      {
+        "method": ["blue chalk"],
+        "transcription": [
+          {
+            "value": ["228/10"]
+          }
+        ],
+        "location": ["frame, verso"]
+      },
+      {
+        "method": ["black chalk"],
+        "transcription": [
+          {
+            "value": ["228-9"]
+          }
+        ],
+        "location": ["frame, verso"]
+      },
+      {
+        "method": ["red chalk"],
+        "transcription": [
+          {
+            "value": ["7(in a circle) a - 5"]
+          }
+        ],
+        "location": ["frame, verso"]
+      },
+      {
+        "method": ["white chalk"],
+        "transcription": [
+          {
+            "value": ["69"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["in a circle"]
+          }
+        ],
+        "location": ["frame, verso"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-97946"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-97946"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-97946"],
+        "summary_title": ["drawing"]
+      }
+    ],
+    "department": {
+      "value": ["Paintings, Drawings and Prints"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["mm"],
+          "dimension": ["Height"],
+          "value": ["183"]
+        },
+        {
+          "units": ["mm"],
+          "dimension": ["Width"],
+          "value": ["117"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-6744"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/6744"],
+    "object": ["object-6744"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

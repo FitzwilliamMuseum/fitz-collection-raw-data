@@ -1,0 +1,139 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-110976"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110976"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110976"],
+        "summary_title": ["pounder"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1907"],
+            "value": ["1907"],
+            "latest": ["1907"]
+          }
+        ]
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Palaikastro Crete Greek Islands"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-111419"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111419"]
+          }
+        ]
+      },
+      "creation": {
+        "places": [
+          {
+            "summary_title": ["Crete"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-118834"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-118834"],
+            "place": ["term-118834"],
+            "coordinates": {
+              "lat": ["35.3084952"],
+              "lng": ["24.463342318423"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Greek Islands"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.229.1907"],
+        "type": ["accession number"],
+        "value": ["GR.229.1907"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["68299"],
+        "type": ["priref"],
+        "value": ["68299"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/68299"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/68299"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-110976"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110976"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110976"],
+        "summary_title": ["pounder"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1621012068000"],
+      "id": ["object-68299"]
+    },
+    "description": [
+      {
+        "value": ["pounder"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-78429"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-78429"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-78429"],
+        "summary_title": ["tool"]
+      },
+      {
+        "term": ["term-137150"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-137150"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-137150"],
+        "summary_title": ["implement"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Depth"],
+          "value": ["0.058"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.05"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.059"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-68299"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/68299"],
+    "object": ["object-68299"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

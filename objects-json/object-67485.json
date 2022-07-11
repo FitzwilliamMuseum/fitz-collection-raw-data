@@ -1,0 +1,140 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-106294"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106294"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106294"],
+        "summary_title": ["unknown"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1901"],
+            "value": ["1901"],
+            "latest": ["1901"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Bosanquet, R. C."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-179767"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-179767"],
+            "agent": ["agent-179767"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Troy Troad Turkey"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-111435"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111435"]
+          }
+        ]
+      },
+      "creation": {
+        "places": [
+          {
+            "summary_title": ["Troy"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-125358"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-125358"],
+            "place": ["term-125358"],
+            "coordinates": {
+              "lat": ["39.95737395"],
+              "lng": ["26.238017461012"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Turkey"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Troad"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.40.1901"],
+        "type": ["accession number"],
+        "value": ["GR.40.1901"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["67485"],
+        "type": ["priref"],
+        "value": ["67485"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/67485"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/67485"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-106294"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106294"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106294"],
+        "summary_title": ["unknown"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1461673515000"],
+      "id": ["object-67485"]
+    },
+    "description": [
+      {
+        "value": ["sherd"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-89198"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89198"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89198"],
+        "summary_title": ["vessel"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.08"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.095"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-67485"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/67485"],
+    "object": ["object-67485"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

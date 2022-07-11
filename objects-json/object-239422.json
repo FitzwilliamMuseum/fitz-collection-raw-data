@@ -1,0 +1,143 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1935"],
+            "value": ["1935"],
+            "latest": ["1935"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Riches, Thomas Henry"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149947"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149947"],
+            "agent": ["agent-149947"]
+          }
+        }
+      },
+      "creation": {
+        "periods": [
+          {
+            "summary_title": ["14th Century"],
+            "period": ["term-107695"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-107695"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107695"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Augustine"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-186973"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-186973"],
+            "term": ["agent-186973"],
+            "role": [
+              {
+                "value": ["author"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["France"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-120306"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-120306"],
+            "place": ["term-120306"],
+            "coordinates": {
+              "lat": ["46.603354"],
+              "lng": ["1.8883335"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["France"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["MS 374*"],
+        "type": ["accession number"],
+        "value": ["MS 374*"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["239422"],
+        "type": ["priref"],
+        "value": ["239422"]
+      },
+      {
+        "source": ["Cambridge Illuminated"],
+        "type": ["project ID"],
+        "value": ["3537"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/239422"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/239422"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Lot 224 at Sotheby's, 26 February 1900, with a second volume of the same date belonging to another copy. Bought by Leighton's, who sold vol. 1 to Charles Butler, of 3 Connaugth Place. Lot 96 in the Butler sale, 5 April 1911. Purchased by Francis Edwards, who sold it to A. Chester Beatty. Lot 18 in the Chester Beatty sale at Sotheby's 7 June 1932. Bought by T.H. RIches, and bequeathed by hom to the Fitzwilliam Museum, 1935."]
+      }
+    ],
+    "admin": {
+      "created": ["1573817746000"],
+      "modified": ["1599047193000"],
+      "id": ["object-239422"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-110558"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110558"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110558"],
+        "summary_title": ["illuminated manuscript"]
+      },
+      {
+        "term": ["term-114522"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-114522"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-114522"],
+        "summary_title": ["manuscript"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "title": [
+      {
+        "value": ["City of God"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-239422"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/239422"],
+    "object": ["object-239422"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

@@ -1,0 +1,153 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-43733"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-43733"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-43733"],
+        "summary_title": ["mirror"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bought"],
+        "date": [
+          {
+            "earliest": ["1864"],
+            "value": ["1864"],
+            "latest": ["1864"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Leake, William Martin"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-77439"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-77439"],
+            "agent": ["agent-77439"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Kassope Epirus Greece"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-111250"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111250"],
+            "coordinates": {
+              "lat": ["39.1449238"],
+              "lng": ["20.673522213811"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["301"],
+              "value": ["-300"],
+              "latest": ["301"]
+            },
+            "to": {
+              "earliest": ["202"],
+              "value": ["-201"],
+              "latest": ["202"]
+            },
+            "earliest": ["301"],
+            "latest": ["202"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Hellenistic"],
+            "period": ["term-14090"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-14090"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-14090"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.150.1864"],
+        "type": ["accession number"],
+        "value": ["GR.150.1864"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["65732"],
+        "type": ["priref"],
+        "value": ["65732"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/65732"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/65732"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Hinge"],
+        "materials": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-43733"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-43733"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-43733"],
+        "summary_title": ["mirror"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1428674364000"],
+      "id": ["object-65732"]
+    },
+    "description": [
+      {
+        "value": ["mirror"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-110814"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110814"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110814"],
+        "summary_title": ["cosmetic equipment"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Diameter"],
+          "value": ["0.149"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.011"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-65732"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/65732"],
+    "object": ["object-65732"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

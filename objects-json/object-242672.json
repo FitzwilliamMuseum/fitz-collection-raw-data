@@ -1,0 +1,177 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-30290"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-30290"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-30290"],
+        "summary_title": ["As"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-200860"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-200860"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-200860"],
+        "summary_title": ["CAMFZ"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["2016"],
+            "value": ["2016-04-25"],
+            "latest": ["2016"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Buttrey, T.V., Prof."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-196171"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-196171"],
+            "agent": ["agent-196171"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["14"],
+              "value": ["0014"],
+              "latest": ["14"]
+            },
+            "to": {
+              "earliest": ["37"],
+              "value": ["0037"],
+              "latest": ["37"]
+            },
+            "earliest": ["14"],
+            "latest": ["37"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Emerita"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-174899"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-174899"],
+            "term": ["agent-174899"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.111-2016"],
+        "type": ["accession number"],
+        "value": ["CM.111-2016"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["242672"],
+        "type": ["priref"],
+        "value": ["242672"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/242672"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/242672"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-40365"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-40365"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-40365"],
+            "summary_title": ["bronze"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-30290"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-30290"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-30290"],
+        "summary_title": ["As"]
+      },
+      {
+        "term": ["term-113870"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-113870"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-113870"],
+        "summary_title": ["Roman Imperial"]
+      }
+    ],
+    "admin": {
+      "created": ["1597679947000"],
+      "modified": ["1626868388000"],
+      "id": ["object-242672"]
+    },
+    "inscription": [
+      {
+        "transcription": [
+          {
+            "value": ["TI CAESAR AVGVSTVS PON MAX IMP"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Laureate head left."]
+          }
+        ],
+        "location": ["obverse"],
+        "type": ["design"]
+      },
+      {
+        "transcription": [
+          {
+            "value": ["COL AVGVSTA EMERITA"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Camp gateway."]
+          }
+        ],
+        "location": ["reverse"],
+        "type": ["design"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-242672"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/242672"],
+    "object": ["object-242672"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

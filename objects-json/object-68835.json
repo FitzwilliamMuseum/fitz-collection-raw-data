@@ -1,0 +1,138 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1923"],
+            "value": ["1923"],
+            "latest": ["1923"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Wace, A. J. B., Professor, anonymous friend of"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159509"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159509"],
+            "agent": ["agent-159509"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Sparta Laconia Greece"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-111516"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111516"],
+            "coordinates": {
+              "lat": ["37.08114525"],
+              "lng": ["22.42486178272"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "periods": [
+          {
+            "summary_title": ["modern"],
+            "period": ["term-111187"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-111187"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111187"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Mycenae"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-132830"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-132830"],
+            "place": ["term-132830"],
+            "coordinates": {
+              "lat": ["37.72919415"],
+              "lng": ["22.754428825394"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Greece"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Peloponnese"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "summary": [
+      {
+        "term": ["term-77412"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-77412"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-77412"],
+        "summary_title": ["necklace"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["GR.12i2.1923"],
+        "type": ["accession number"],
+        "value": ["GR.12i2.1923"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["68835"],
+        "type": ["priref"],
+        "value": ["68835"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/68835"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/68835"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-77412"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-77412"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-77412"],
+        "summary_title": ["necklace"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1503392405000"],
+      "id": ["object-68835"]
+    },
+    "description": [
+      {
+        "value": ["necklace"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-110948"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110948"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110948"],
+        "summary_title": ["no slip"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-68835"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/68835"],
+    "object": ["object-68835"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

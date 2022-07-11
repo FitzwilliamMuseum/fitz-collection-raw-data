@@ -1,0 +1,134 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-42266"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-42266"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-42266"],
+        "summary_title": ["ornament"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1868"],
+            "value": ["1868"],
+            "latest": ["1868"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Fox, C.R., Lt-General"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159435"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159435"],
+            "agent": ["agent-159435"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["501"],
+              "value": ["-500"],
+              "latest": ["501"]
+            },
+            "to": {
+              "earliest": ["402"],
+              "value": ["-401"],
+              "latest": ["402"]
+            },
+            "earliest": ["501"],
+            "latest": ["402"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Classical"],
+            "period": ["term-14088"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-14088"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-14088"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.19.1868"],
+        "type": ["accession number"],
+        "value": ["GR.19.1868"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["65820"],
+        "type": ["priref"],
+        "value": ["65820"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/65820"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/65820"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-42266"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-42266"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-42266"],
+        "summary_title": ["ornament"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1480348208000"],
+      "id": ["object-65820"]
+    },
+    "description": [
+      {
+        "value": ["female protome"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-107454"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107454"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107454"],
+        "summary_title": ["figure"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.053"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.039"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-65820"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/65820"],
+    "object": ["object-65820"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

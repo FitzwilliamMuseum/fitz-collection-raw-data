@@ -1,0 +1,240 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-89480"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89480"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89480"],
+        "summary_title": ["vase"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["C.16-2019"],
+        "type": ["accession number"],
+        "value": ["C.16-2019"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["240169"],
+        "type": ["priref"],
+        "value": ["240169"]
+      },
+      {
+        "date": [
+          {
+            "earliest": ["2019"],
+            "value": ["2019-09-12"],
+            "latest": ["2019"]
+          }
+        ],
+        "source": ["The Fitzwilliam Museum"],
+        "type": ["entry form number"],
+        "value": ["1391"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/240169"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/240169"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Abington Pottery"]
+      }
+    ],
+    "admin": {
+      "created": ["1580215101000"],
+      "modified": ["1594850292000"],
+      "id": ["object-240169"]
+    },
+    "description": [
+      {
+        "value": ["Red stoneware vase, thrown, turned, incised and glazed."]
+      },
+      {
+        "value": ["Tall circular vase with softly rounded sides rising to a wide mouth with slightly everted neck rim, thrown from red stoneware. Abstract pattern reminiscent of large vertical leaves around the body, picked out with incisions and patches of dark blue eggshell glaze. Band around the neck and interior glazed dark mottled blue. Underside turned to slight foot-rim, undecorated."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["2019"],
+            "value": ["2019-11-25"],
+            "latest": ["2019"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Thomas, Tamara"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-200670"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-200670"],
+            "agent": ["agent-200670"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "era": [
+              ["CE"]
+            ],
+            "precision": ["circa"],
+            "earliest": ["2010"],
+            "value": ["2010"],
+            "latest": ["2010"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Abington Pottery"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-200654"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-200654"],
+            "term": ["agent-200654"]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Little Abington"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-136487"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-136487"],
+            "place": ["term-136487"],
+            "coordinates": {
+              "lat": ["52.121755"],
+              "lng": ["0.2351753"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["England"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Cambridgeshire"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "component": [
+      {
+        "name": ["Decoration"],
+        "materials": []
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-120082"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-120082"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-120082"],
+        "summary_title": ["throwing"],
+        "descriptions": [
+          {
+            "description": ["Thrown stoneware, turned, incised and glazed."]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-89480"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89480"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89480"],
+        "summary_title": ["vase"]
+      }
+    ],
+    "inscription": [
+      {
+        "method": ["painted"],
+        "transcription": [
+          {
+            "value": ["AP"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["monogram"]
+          }
+        ],
+        "location": ["underside of base"],
+        "type": ["mark"]
+      },
+      {
+        "method": ["small circular paper label"],
+        "transcription": [
+          {
+            "value": ["100.00, DL"]
+          }
+        ],
+        "location": ["on the rim"],
+        "type": ["label"]
+      },
+      {
+        "method": ["rectangular paper label printed in black"],
+        "transcription": [
+          {
+            "value": ["ABINGTON / POTTERY CENTRE [with pottery address]"]
+          }
+        ],
+        "type": ["label"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-42861"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-42861"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-42861"],
+        "summary_title": ["earthenware"]
+      },
+      {
+        "term": ["term-42692"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-42692"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-42692"],
+        "summary_title": ["Studio Ceramics"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Diameter"],
+          "value": ["20"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Height"],
+          "value": ["27"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-240169"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/240169"],
+    "object": ["object-240169"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

@@ -1,0 +1,184 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-125070"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-125070"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-125070"],
+        "summary_title": ["2 reales"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["2015"],
+            "value": ["2015-04-27"],
+            "latest": ["2015"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["North, Jeffrey J."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-189581"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-189581"],
+            "agent": ["agent-189581"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "earliest": ["1774"],
+            "value": ["1774"],
+            "latest": ["1774"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Potosi"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-178272"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-178272"],
+            "term": ["agent-178272"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.1001-2015"],
+        "type": ["accession number"],
+        "value": ["CM.1001-2015"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["238251"],
+        "type": ["priref"],
+        "value": ["238251"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/238251"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/238251"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-39778"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39778"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39778"],
+            "summary_title": ["silver"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-125070"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-125070"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-125070"],
+        "summary_title": ["2 reales"]
+      },
+      {
+        "term": ["term-117436"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117436"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-117436"],
+        "summary_title": ["Far Eastern"]
+      },
+      {
+        "term": ["term-108120"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-108120"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-108120"],
+        "summary_title": ["China"]
+      },
+      {
+        "term": ["term-106658"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106658"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106658"],
+        "summary_title": ["Spain"]
+      }
+    ],
+    "admin": {
+      "created": ["1568289652000"],
+      "modified": ["1568292507000"],
+      "id": ["object-238251"]
+    },
+    "description": [
+      {
+        "value": ["A Spanish silver with 'chop marks' stamped by Chinese agents as a guarantee of silver purity."]
+      }
+    ],
+    "inscription": [
+      {
+        "transcription": [
+          {
+            "value": ["CAROLUS III DEI GRATIA 1774"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Bust of Charles, right. Chop marks on and around bust"]
+          }
+        ],
+        "location": ["obverse"],
+        "type": ["design"]
+      },
+      {
+        "transcription": [
+          {
+            "value": ["HISPAN ET IND REX PTS 2R J R"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Pillars flanking crowned arms"]
+          }
+        ],
+        "location": ["reverse"],
+        "type": ["design"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-238251"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/238251"],
+    "object": ["object-238251"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

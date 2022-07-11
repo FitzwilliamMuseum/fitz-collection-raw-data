@@ -1,0 +1,178 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-123920"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-123920"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-123920"],
+        "summary_title": ["radiate"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["CM.150-2016"],
+        "type": ["accession number"],
+        "value": ["CM.150-2016"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["242711"],
+        "type": ["priref"],
+        "value": ["242711"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/242711"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/242711"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Ex British Association of Numismatic Societies Congress auction, 8 April 2016, lot 1."]
+      }
+    ],
+    "admin": {
+      "created": ["1597679952000"],
+      "modified": ["1626868390000"],
+      "id": ["object-242711"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-200860"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-200860"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-200860"],
+        "summary_title": ["CAMFZ"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["2016"],
+            "value": ["2016-04-25"],
+            "latest": ["2016"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Allen, M.R., Dr"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-199781"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-199781"],
+            "agent": ["agent-199781"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["286"],
+              "value": ["0286"],
+              "latest": ["286"]
+            },
+            "to": {
+              "earliest": ["306"],
+              "value": ["0306"],
+              "latest": ["306"]
+            },
+            "earliest": ["286"],
+            "latest": ["306"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Lugdunum"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-161584"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-161584"],
+            "term": ["agent-161584"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-40365"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-40365"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-40365"],
+            "summary_title": ["bronze"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-123920"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-123920"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-123920"],
+        "summary_title": ["radiate"]
+      },
+      {
+        "term": ["term-113870"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-113870"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-113870"],
+        "summary_title": ["Roman Imperial"]
+      }
+    ],
+    "inscription": [
+      {
+        "transcription": [
+          {
+            "value": ["IOVI AVGG."]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Jupiter standing left holding globe surmounted by Victory, eagle at feet."]
+          }
+        ],
+        "location": ["reverse"],
+        "type": ["design"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "publications": [
+      {
+        "term": ["publication-7587"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-7587"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-7587"],
+        "summary_title": ["Roman Imperial Coinage V Part II"],
+        "page": ["224"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-242711"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/242711"],
+    "object": ["object-242711"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

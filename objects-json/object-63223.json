@@ -1,0 +1,157 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-107484"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107484"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107484"],
+        "summary_title": ["plaque"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1982"],
+            "value": ["1982"],
+            "latest": ["1982"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Wellcome Institute, the trustees of the"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-166444"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-166444"],
+            "agent": ["agent-166444"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["AD"]
+              ],
+              "earliest": ["101"],
+              "value": ["0101"],
+              "latest": ["101"]
+            },
+            "to": {
+              "era": [
+                ["AD"]
+              ],
+              "earliest": ["300"],
+              "value": ["0300"],
+              "latest": ["300"]
+            },
+            "earliest": ["101"],
+            "latest": ["300"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Middle Roman"],
+            "period": ["term-111183"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-111183"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111183"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["E.40.1982"],
+        "type": ["accession number"],
+        "value": ["E.40.1982"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["63223"],
+        "type": ["priref"],
+        "value": ["63223"]
+      },
+      {
+        "type": ["oldadmincategory"],
+        "value": ["W"]
+      },
+      {
+        "source": ["Wellcome Institute acquisition number"],
+        "type": ["othernumber"],
+        "value": ["A156640"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/63223"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/63223"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-107484"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107484"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107484"],
+        "summary_title": ["plaque"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1631625605000"],
+      "id": ["object-63223"]
+    },
+    "description": [
+      {
+        "value": ["flat rectangular relief plaque, showing Eros wearing chlamys and holding a garland"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-110812"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110812"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110812"],
+        "summary_title": ["ornamental element"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.081"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.054"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-4461"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-4461"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-4461"],
+        "summary_title": ["Sotheby's Sale Catalogue, 17 December 1934"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-63223"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/63223"],
+    "object": ["object-63223"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

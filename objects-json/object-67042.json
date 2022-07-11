@@ -1,0 +1,167 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-106294"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106294"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106294"],
+        "summary_title": ["unknown"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1894"],
+            "value": ["1894"],
+            "latest": ["1894"]
+          }
+        ]
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Naukratis Egypt"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-111311"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111311"]
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["BC"]
+              ],
+              "earliest": ["600"],
+              "value": ["-0600"],
+              "latest": ["600"]
+            },
+            "to": {
+              "era": [
+                ["BC"]
+              ],
+              "earliest": ["501"],
+              "value": ["-0501"],
+              "latest": ["501"]
+            },
+            "earliest": ["600"],
+            "latest": ["501"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["archaic"],
+            "period": ["term-111220"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-111220"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111220"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Laconia"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-129242"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-129242"],
+            "place": ["term-129242"],
+            "coordinates": {
+              "lat": ["43.5278546"],
+              "lng": ["-71.470351"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Greece"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Peloponnese"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.252.1894"],
+        "type": ["accession number"],
+        "value": ["GR.252.1894"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["67042"],
+        "type": ["priref"],
+        "value": ["67042"]
+      },
+      {
+        "type": ["oldmuseumnumber"],
+        "value": ["N252"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/67042"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/67042"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-106294"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106294"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106294"],
+        "summary_title": ["unknown"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1621012045000"],
+      "id": ["object-67042"]
+    },
+    "description": [
+      {
+        "value": ["fragment with two warriors and bird"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-89198"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89198"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89198"],
+        "summary_title": ["vessel"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "publications": [
+      {
+        "term": ["publication-200001526"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-200001526"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-200001526"],
+        "summary_title": ["[Unknown: AJA 81 (1985)]"]
+      },
+      {
+        "term": ["publication-4110"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-4110"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-4110"],
+        "summary_title": ["Corpus vasorum antiquorum. Great Britain ; fasc.11, fasc.2. Cambridge"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-67042"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/67042"],
+    "object": ["object-67042"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

@@ -1,0 +1,126 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1922"],
+            "value": ["1922"],
+            "latest": ["1922"]
+          }
+        ]
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Mycenae Argolid Greece"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-111608"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111608"]
+          }
+        ]
+      },
+      "creation": {
+        "periods": [
+          {
+            "summary_title": ["modern"],
+            "period": ["term-111187"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-111187"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111187"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Mycenae"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-132830"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-132830"],
+            "place": ["term-132830"],
+            "coordinates": {
+              "lat": ["37.72919415"],
+              "lng": ["22.754428825394"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Greece"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Peloponnese"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "summary": [
+      {
+        "term": ["term-98937"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98937"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98937"],
+        "summary_title": ["scarab"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["GR.5h.1922"],
+        "type": ["accession number"],
+        "value": ["GR.5h.1922"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["68766"],
+        "type": ["priref"],
+        "value": ["68766"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/68766"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/68766"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-98937"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98937"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98937"],
+        "summary_title": ["scarab"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1621012073000"],
+      "id": ["object-68766"]
+    },
+    "description": [
+      {
+        "value": ["scarabs (3)"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-98937"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98937"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98937"],
+        "summary_title": ["scarab"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-68766"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/68766"],
+    "object": ["object-68766"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

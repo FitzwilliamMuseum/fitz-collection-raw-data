@@ -1,0 +1,129 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1946"],
+            "value": ["1946"],
+            "latest": ["1946"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["VIscount Maugham"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-201295"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-201295"],
+            "agent": ["agent-201295"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "earliest": ["1571"],
+            "value": ["1571"],
+            "latest": ["1571"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Italy"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106629"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106629"],
+            "place": ["term-106629"],
+            "coordinates": {
+              "lat": ["42.6384261"],
+              "lng": ["12.674297"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Italy"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["MS 383"],
+        "type": ["accession number"],
+        "value": ["MS 383"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["239427"],
+        "type": ["priref"],
+        "value": ["239427"]
+      },
+      {
+        "source": ["Cambridge Illuminated"],
+        "type": ["project ID"],
+        "value": ["3533"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/239427"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/239427"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Belonged to Mrs Kerr Lawson."]
+      }
+    ],
+    "admin": {
+      "created": ["1573817747000"],
+      "modified": ["1598266988000"],
+      "id": ["object-239427"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-110558"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110558"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110558"],
+        "summary_title": ["illuminated manuscript"]
+      },
+      {
+        "term": ["term-114522"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-114522"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-114522"],
+        "summary_title": ["manuscript"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "title": [
+      {
+        "value": ["Certificate of Pius V"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-239427"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/239427"],
+    "object": ["object-239427"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

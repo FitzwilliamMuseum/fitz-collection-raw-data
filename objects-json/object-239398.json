@@ -1,0 +1,116 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1933"],
+            "value": ["1933"],
+            "latest": ["1933"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Pass, Alfred A. de"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-150416"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-150416"],
+            "agent": ["agent-150416"]
+          }
+        }
+      },
+      "creation": {
+        "places": [
+          {
+            "summary_title": ["Persia"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-107888"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107888"],
+            "place": ["term-107888"],
+            "coordinates": {
+              "lat": ["32.6475314"],
+              "lng": ["54.5643516"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Persia"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["MS 344"],
+        "type": ["accession number"],
+        "value": ["MS 344"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["239398"],
+        "type": ["priref"],
+        "value": ["239398"]
+      },
+      {
+        "source": ["Cambridge Illuminated"],
+        "type": ["project ID"],
+        "value": ["3503"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/239398"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/239398"]
+      }
+    ],
+    "admin": {
+      "created": ["1573817742000"],
+      "modified": ["1621345259000"],
+      "id": ["object-239398"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-110558"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110558"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110558"],
+        "summary_title": ["illuminated manuscript"]
+      },
+      {
+        "term": ["term-114522"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-114522"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-114522"],
+        "summary_title": ["manuscript"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "title": [
+      {
+        "value": ["Divan of Ḥāfiẓ"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-239398"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/239398"],
+    "object": ["object-239398"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

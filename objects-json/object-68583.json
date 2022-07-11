@@ -1,0 +1,158 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-110841"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110841"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110841"],
+        "summary_title": ["pendant"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bought"],
+        "date": [
+          {
+            "earliest": ["1910"],
+            "value": ["1910"],
+            "latest": ["1910"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["?"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-151258"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-151258"],
+            "agent": ["agent-151258"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["BCE"]
+              ],
+              "earliest": ["801"],
+              "value": ["-800"],
+              "latest": ["801"]
+            },
+            "to": {
+              "era": [
+                ["BCE"]
+              ],
+              "earliest": ["602"],
+              "value": ["-601"],
+              "latest": ["602"]
+            },
+            "earliest": ["801"],
+            "latest": ["602"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["archaic"],
+            "period": ["term-111220"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-111220"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111220"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Urartu"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-132840"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-132840"],
+            "place": ["term-132840"],
+            "coordinates": {
+              "lat": ["40.1713448"],
+              "lng": ["44.450418521419"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Turkey"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.158a.1910"],
+        "type": ["accession number"],
+        "value": ["GR.158a.1910"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["68583"],
+        "type": ["priref"],
+        "value": ["68583"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/68583"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/68583"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-110841"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110841"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110841"],
+        "summary_title": ["pendant"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1481042091000"],
+      "id": ["object-68583"]
+    },
+    "description": [
+      {
+        "value": ["bull pendant"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-109541"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-109541"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-109541"],
+        "summary_title": ["jewellery"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.017"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.028"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-68583"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/68583"],
+    "object": ["object-68583"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

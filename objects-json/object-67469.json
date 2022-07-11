@@ -1,0 +1,182 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-107316"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107316"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107316"],
+        "summary_title": ["ring"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bought"],
+        "date": [
+          {
+            "earliest": ["1900"],
+            "value": ["1900"],
+            "latest": ["1900"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Marshall, John Hubert, Sir"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159467"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159467"],
+            "agent": ["agent-159467"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Anavlochos, Mirabello Crete Greek Islands"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-111427"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111427"]
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["501"],
+              "value": ["-500"],
+              "latest": ["501"]
+            },
+            "to": {
+              "earliest": ["302"],
+              "value": ["-301"],
+              "latest": ["302"]
+            },
+            "earliest": ["501"],
+            "latest": ["302"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Classical"],
+            "period": ["term-14088"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-14088"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-14088"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Crete"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-118834"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-118834"],
+            "place": ["term-118834"],
+            "coordinates": {
+              "lat": ["35.3084952"],
+              "lng": ["24.463342318423"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Greek Islands"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.21.1901"],
+        "type": ["accession number"],
+        "value": ["GR.21.1901"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["67469"],
+        "type": ["priref"],
+        "value": ["67469"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/67469"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/67469"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-107316"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107316"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107316"],
+        "summary_title": ["ring"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1336663775000"],
+      "id": ["object-67469"]
+    },
+    "description": [
+      {
+        "value": ["finger-ring, cockerel"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-109541"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-109541"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-109541"],
+        "summary_title": ["jewellery"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Depth"],
+          "value": ["0.019"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.017"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.012"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-4084"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-4084"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-4084"],
+        "summary_title": ["Classical gems : ancient and modern intaglios and cameos in the Fitzwilliam Museum, Cambridge"]
+      },
+      {
+        "term": ["publication-200001855"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-200001855"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-200001855"],
+        "summary_title": ["Collecting for Cambridge: John Hubert Marshall on Crete"],
+        "page": ["522"],
+        "notes": ["Footnote 45"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-67469"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/67469"],
+    "object": ["object-67469"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

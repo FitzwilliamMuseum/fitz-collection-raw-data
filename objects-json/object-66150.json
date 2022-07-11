@@ -1,0 +1,142 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-98879"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98879"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98879"],
+        "summary_title": ["relief"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1888"],
+            "value": ["1888"],
+            "latest": ["1888"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Guillemard, Francis Henry Hill"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-152314"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-152314"],
+            "agent": ["agent-152314"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Cyprus"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-109616"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-109616"],
+            "coordinates": {
+              "lat": ["34.9823018"],
+              "lng": ["33.1451285"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["501"],
+              "value": ["-500"],
+              "latest": ["501"]
+            },
+            "to": {
+              "earliest": ["402"],
+              "value": ["-401"],
+              "latest": ["402"]
+            },
+            "earliest": ["501"],
+            "latest": ["402"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Classical"],
+            "period": ["term-14088"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-14088"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-14088"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.3a.1888"],
+        "type": ["accession number"],
+        "value": ["GR.3a.1888"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["66150"],
+        "type": ["priref"],
+        "value": ["66150"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/66150"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/66150"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-98879"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98879"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98879"],
+        "summary_title": ["relief"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1480438074000"],
+      "id": ["object-66150"]
+    },
+    "description": [
+      {
+        "value": ["male head"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-43046"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-43046"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-43046"],
+        "summary_title": ["architectural element"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.148"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-66150"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/66150"],
+    "object": ["object-66150"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

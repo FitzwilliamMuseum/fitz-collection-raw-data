@@ -1,0 +1,137 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1904"],
+            "value": ["1904"],
+            "latest": ["1904"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["McClean, Frank"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-172414"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-172414"],
+            "agent": ["agent-172414"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "earliest": ["1624"],
+            "value": ["1624"],
+            "latest": ["1624"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["17th Century"],
+            "period": ["term-106447"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106447"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106447"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Spain"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106658"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106658"],
+            "place": ["term-106658"],
+            "coordinates": {
+              "lat": ["39.3260685"],
+              "lng": ["-4.8379791"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Spain"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["MS McClean 151"],
+        "type": ["accession number"],
+        "value": ["MS McClean 151"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["239571"],
+        "type": ["priref"],
+        "value": ["239571"]
+      },
+      {
+        "source": ["Cambridge Illuminated"],
+        "type": ["project ID"],
+        "value": ["464"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/239571"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/239571"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["From mr Gibson Craig's collection according to a pencil note in the cover."]
+      }
+    ],
+    "admin": {
+      "created": ["1573817772000"],
+      "modified": ["1598267007000"],
+      "id": ["object-239571"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-110558"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110558"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110558"],
+        "summary_title": ["illuminated manuscript"]
+      },
+      {
+        "term": ["term-114522"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-114522"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-114522"],
+        "summary_title": ["manuscript"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "title": [
+      {
+        "value": ["Patent of nobility"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-239571"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/239571"],
+    "object": ["object-239571"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
