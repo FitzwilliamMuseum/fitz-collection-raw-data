@@ -6,7 +6,12 @@ Warning - This is a large repository, with a huge number of json and csv files. 
 
 ## How are these data generated?
 
-These data are mined from the Museum's Collections API, which is protected by a bearer token authenticated API. These data were mined used R scripts (see scripts directory for examples) and are stored here if you wish to download bulk data.
+These data were mined from the Museum's Collections API using R scripts. 
+The API is protected by a bearer token, which can be obtained either 
+programmatically or via [GUI](https://data.fitzmuseum.cam.ac.uk/api/). 
+Full documentation of the API can be [found 
+online](https://data.fitzmuseum.cam.ac.uk/api/v1/docs) and via Postman 
+collection.
 
 ## Data Structure
 
