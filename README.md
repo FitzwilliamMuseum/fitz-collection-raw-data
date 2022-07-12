@@ -22,9 +22,11 @@ Data in this repository comes as CSV and JSON, with license and readme in markdo
   |- agents-json  
      |- *.json - 42,308 files
   |- exhibitions-json
-     |- *.json
+     |- *.json - 2,663 files
   |- periods-json
      |- *.json
+  |- places-json
+     |- *.json - 3,726 files
   |- publications-json
      |- *.json
   |- ids-csv
