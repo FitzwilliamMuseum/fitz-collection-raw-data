@@ -23,12 +23,20 @@ Data in this repository comes as CSV and JSON, with license and readme in markdo
      |- *.json - 42,308 files
   |- exhibitions-json
      |- *.json - 2,663 files
+  |- makers-json
+    |- *.json - 6,000 files
   |- periods-json
-     |- *.json
+     |- *.json - 1,582 files
   |- places-json
      |- *.json - 3,726 files
   |- publications-json
-     |- *.json
+     |- *.json - 10,086 files
+  |- images-json
+     |- *.json - 214,980 files
+  |- iiif-json
+     |- *.json - 19,846 files
+  |- terminology-json
+     |- *.json - 129,454 files
   |- ids-csv
     |- object-ids.csv
     |- image-ids.csv
@@ -43,7 +51,6 @@ Data in this repository comes as CSV and JSON, with license and readme in markdo
     |- objects-with-geodata-ids.csv
   |- scripts
     |- rstats
-    |- python
 ```
 
 ## License
