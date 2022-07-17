@@ -1,0 +1,80 @@
+{
+  "data": {
+    "admin": {
+      "id": ["media-180805"]
+    },
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/images/media-180805"],
+    "uri": ["https://data.fitzmuseum.cam.ac.uk/id/image/media-180805"],
+    "images": {
+      "preview": {
+        "resizable": [true],
+        "format": ["jpeg"],
+        "modified": [1616278417231],
+        "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm48/preview_cm_340_2013_284_29.jpg"],
+        "location_is_relative": [true],
+        "type": ["image"],
+        "measurements": {
+          "dimensions": [
+            {
+              "units": ["pixels"],
+              "dimension": ["height"],
+              "value": [373]
+            },
+            {
+              "units": ["pixels"],
+              "dimension": ["width"],
+              "value": [250]
+            }
+          ]
+        }
+      },
+      "original": {
+        "resizable": [true],
+        "format": ["jpeg"],
+        "modified": [1616278417231],
+        "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm48/cm_340_2013_284_29.jpg"],
+        "location_is_relative": [true],
+        "type": ["image"],
+        "measurements": {
+          "dimensions": [
+            {
+              "units": ["pixels"],
+              "dimension": ["height"],
+              "value": [2160]
+            },
+            {
+              "units": ["pixels"],
+              "dimension": ["width"],
+              "value": [1447]
+            }
+          ]
+        }
+      },
+      "large": {
+        "resizable": [true],
+        "format": ["jpeg"],
+        "modified": [1616278417231],
+        "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm48/large_cm_340_2013_284_29.jpg"],
+        "location_is_relative": [true],
+        "type": ["image"],
+        "measurements": {
+          "dimensions": [
+            {
+              "units": ["pixels"],
+              "dimension": ["height"],
+              "value": [1529]
+            },
+            {
+              "units": ["pixels"],
+              "dimension": ["width"],
+              "value": [1024]
+            }
+          ]
+        }
+      }
+    },
+    "type": ["images"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
