@@ -1,5 +1,7 @@
 # Fitzwilliam Museum Collections Data
 
+![A social card for this repository](https://repository-images.githubusercontent.com/511317066/1123904f-cfce-40b2-a3f4-775186e178b3)
+
 This repository holds raw data mined from the Museum's collections information systems. These data have been released under CC0 license since around 2010.
 
 Warning - This is a large repository, with a huge number of json and csv files. You will need several GB of disk space to use this data set.
@@ -54,6 +56,17 @@ Data in this repository comes as CSV and JSON, with license and readme in markdo
     |- periods-ids.csv
     |- places-ids.csv
     |- objects-with-geodata-ids.csv
+  |- csv
+    |- iiif.csv
+    |- departments.csv
+    |- images.csv
+    |- terminology.csv
+    |- objects.csv
+    |- publications.csv
+    |- exhibitions.csv
+    |- places.csv
+    |- agents.csv
+    |- makers.csv
   |- scripts
     |- rstats
 ```
