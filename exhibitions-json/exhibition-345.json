@@ -8,7 +8,14 @@
     },
     "venues": [
       {
-        "@link": {
+        "summary_title": ["San Francisco"],
+        "admin": {
+          "id": ["term-107770"]
+        },
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107770"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-107770"],
+        "venue": ["term-107770"],
+        "dates": {
           "date": [
             {
               "range": [true],
@@ -27,26 +34,19 @@
             }
           ],
           "type": ["reference"]
-        },
-        "summary_title": ["San Francisco"],
-        "admin": {
-          "id": ["term-107770"]
-        },
-        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107770"],
-        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-107770"],
-        "venue": ["term-107770"]
+        }
       },
       {
-        "@link": {
-          "type": ["reference"]
-        },
         "summary_title": ["Boston (Lincs)"],
         "admin": {
           "id": ["term-106964"]
         },
         "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106964"],
         "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106964"],
-        "venue": ["term-106964"]
+        "venue": ["term-106964"],
+        "dates": {
+          "type": ["reference"]
+        }
       }
     ],
     "title": [

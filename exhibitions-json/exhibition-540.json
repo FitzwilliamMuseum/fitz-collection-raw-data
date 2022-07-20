@@ -8,7 +8,14 @@
     },
     "venues": [
       {
-        "@link": {
+        "summary_title": ["London"],
+        "admin": {
+          "id": ["term-106216"]
+        },
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106216"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106216"],
+        "venue": ["term-106216"],
+        "dates": {
           "date": [
             {
               "range": [true],
@@ -22,26 +29,19 @@
             }
           ],
           "type": ["reference"]
-        },
-        "summary_title": ["London"],
-        "admin": {
-          "id": ["term-106216"]
-        },
-        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106216"],
-        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106216"],
-        "venue": ["term-106216"]
+        }
       },
       {
-        "@link": {
-          "type": ["reference"]
-        },
         "summary_title": ["Edinburgh"],
         "admin": {
           "id": ["term-106987"]
         },
         "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106987"],
         "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106987"],
-        "venue": ["term-106987"]
+        "venue": ["term-106987"],
+        "dates": {
+          "type": ["reference"]
+        }
       }
     ],
     "title": [

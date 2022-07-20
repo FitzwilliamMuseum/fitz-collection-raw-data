@@ -8,7 +8,14 @@
     },
     "venues": [
       {
-        "@link": {
+        "summary_title": ["New York"],
+        "admin": {
+          "id": ["term-106544"]
+        },
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106544"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106544"],
+        "venue": ["term-106544"],
+        "dates": {
           "date": [
             {
               "range": [true],
@@ -22,29 +29,29 @@
             }
           ],
           "type": ["reference"]
-        },
-        "summary_title": ["New York"],
-        "admin": {
-          "id": ["term-106544"]
-        },
-        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106544"],
-        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106544"],
-        "venue": ["term-106544"]
+        }
       },
       {
-        "@link": {
-          "type": ["reference"]
-        },
         "summary_title": ["Minneapolis"],
         "admin": {
           "id": ["term-107752"]
         },
         "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107752"],
         "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-107752"],
-        "venue": ["term-107752"]
+        "venue": ["term-107752"],
+        "dates": {
+          "type": ["reference"]
+        }
       },
       {
-        "@link": {
+        "summary_title": ["Cleveland"],
+        "admin": {
+          "id": ["term-108860"]
+        },
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-108860"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-108860"],
+        "venue": ["term-108860"],
+        "dates": {
           "date": [
             {
               "range": [true],
@@ -58,14 +65,7 @@
             }
           ],
           "type": ["reference"]
-        },
-        "summary_title": ["Cleveland"],
-        "admin": {
-          "id": ["term-108860"]
-        },
-        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-108860"],
-        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-108860"],
-        "venue": ["term-108860"]
+        }
       }
     ],
     "title": [

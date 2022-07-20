@@ -8,7 +8,14 @@
     },
     "venues": [
       {
-        "@link": {
+        "summary_title": ["Manchester"],
+        "admin": {
+          "id": ["term-108153"]
+        },
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-108153"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-108153"],
+        "venue": ["term-108153"],
+        "dates": {
           "date": [
             {
               "range": [true],
@@ -27,38 +34,31 @@
             }
           ],
           "type": ["reference"]
-        },
-        "summary_title": ["Manchester"],
-        "admin": {
-          "id": ["term-108153"]
-        },
-        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-108153"],
-        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-108153"],
-        "venue": ["term-108153"]
+        }
       },
       {
-        "@link": {
-          "type": ["reference"]
-        },
         "summary_title": ["London"],
         "admin": {
           "id": ["term-106216"]
         },
         "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106216"],
         "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106216"],
-        "venue": ["term-106216"]
+        "venue": ["term-106216"],
+        "dates": {
+          "type": ["reference"]
+        }
       },
       {
-        "@link": {
-          "type": ["reference"]
-        },
         "summary_title": ["Glasgow"],
         "admin": {
           "id": ["term-106233"]
         },
         "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106233"],
         "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106233"],
-        "venue": ["term-106233"]
+        "venue": ["term-106233"],
+        "dates": {
+          "type": ["reference"]
+        }
       }
     ],
     "title": [

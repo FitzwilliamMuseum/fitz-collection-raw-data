@@ -8,7 +8,14 @@
     },
     "venues": [
       {
-        "@link": {
+        "summary_title": ["Cambridge (Mass.)"],
+        "admin": {
+          "id": ["term-116202"]
+        },
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-116202"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-116202"],
+        "venue": ["term-116202"],
+        "dates": {
           "date": [
             {
               "earliest": [1980],
@@ -17,41 +24,41 @@
             }
           ],
           "type": ["reference"]
-        },
-        "summary_title": ["Cambridge (Mass.)"],
-        "admin": {
-          "id": ["term-116202"]
-        },
-        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-116202"],
-        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-116202"],
-        "venue": ["term-116202"]
+        }
       },
       {
-        "@link": {
-          "type": ["reference"]
-        },
         "summary_title": ["Malibu, California"],
         "admin": {
           "id": ["term-113297"]
         },
         "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-113297"],
         "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-113297"],
-        "venue": ["term-113297"]
+        "venue": ["term-113297"],
+        "dates": {
+          "type": ["reference"]
+        }
       },
       {
-        "@link": {
-          "type": ["reference"]
-        },
         "summary_title": ["Montreal"],
         "admin": {
           "id": ["term-122446"]
         },
         "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-122446"],
         "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-122446"],
-        "venue": ["term-122446"]
+        "venue": ["term-122446"],
+        "dates": {
+          "type": ["reference"]
+        }
       },
       {
-        "@link": {
+        "summary_title": ["Tampa, Florida"],
+        "admin": {
+          "id": ["term-137013"]
+        },
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-137013"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-137013"],
+        "venue": ["term-137013"],
+        "dates": {
           "date": [
             {
               "range": [true],
@@ -65,14 +72,7 @@
             }
           ],
           "type": ["reference"]
-        },
-        "summary_title": ["Tampa, Florida"],
-        "admin": {
-          "id": ["term-137013"]
-        },
-        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-137013"],
-        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-137013"],
-        "venue": ["term-137013"]
+        }
       }
     ],
     "title": [

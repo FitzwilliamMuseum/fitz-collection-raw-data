@@ -8,7 +8,14 @@
     },
     "venues": [
       {
-        "@link": {
+        "summary_title": ["Glasgow"],
+        "admin": {
+          "id": ["term-106233"]
+        },
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106233"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106233"],
+        "venue": ["term-106233"],
+        "dates": {
           "date": [
             {
               "range": [true],
@@ -27,26 +34,19 @@
             }
           ],
           "type": ["reference"]
-        },
-        "summary_title": ["Glasgow"],
-        "admin": {
-          "id": ["term-106233"]
-        },
-        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106233"],
-        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106233"],
-        "venue": ["term-106233"]
+        }
       },
       {
-        "@link": {
-          "type": ["reference"]
-        },
         "summary_title": ["Amsterdam"],
         "admin": {
           "id": ["term-106501"]
         },
         "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106501"],
         "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106501"],
-        "venue": ["term-106501"]
+        "venue": ["term-106501"],
+        "dates": {
+          "type": ["reference"]
+        }
       }
     ],
     "title": [

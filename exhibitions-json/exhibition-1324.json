@@ -8,7 +8,14 @@
     },
     "venues": [
       {
-        "@link": {
+        "summary_title": ["New Haven"],
+        "admin": {
+          "id": ["term-106821"]
+        },
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106821"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106821"],
+        "venue": ["term-106821"],
+        "dates": {
           "date": [
             {
               "range": [true],
@@ -27,26 +34,19 @@
             }
           ],
           "type": ["reference"]
-        },
-        "summary_title": ["New Haven"],
-        "admin": {
-          "id": ["term-106821"]
-        },
-        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106821"],
-        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106821"],
-        "venue": ["term-106821"]
+        }
       },
       {
-        "@link": {
-          "type": ["reference"]
-        },
         "summary_title": ["Raleigh"],
         "admin": {
           "id": ["term-109444"]
         },
         "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-109444"],
         "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-109444"],
-        "venue": ["term-109444"]
+        "venue": ["term-109444"],
+        "dates": {
+          "type": ["reference"]
+        }
       }
     ],
     "title": [

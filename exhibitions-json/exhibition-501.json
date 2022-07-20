@@ -8,7 +8,14 @@
     },
     "venues": [
       {
-        "@link": {
+        "summary_title": ["Tokyo"],
+        "admin": {
+          "id": ["term-106646"]
+        },
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106646"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106646"],
+        "venue": ["term-106646"],
+        "dates": {
           "date": [
             {
               "range": [true],
@@ -22,38 +29,31 @@
             }
           ],
           "type": ["reference"]
-        },
-        "summary_title": ["Tokyo"],
-        "admin": {
-          "id": ["term-106646"]
-        },
-        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106646"],
-        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106646"],
-        "venue": ["term-106646"]
+        }
       },
       {
-        "@link": {
-          "type": ["reference"]
-        },
         "summary_title": ["Fukuoka"],
         "admin": {
           "id": ["term-108856"]
         },
         "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-108856"],
         "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-108856"],
-        "venue": ["term-108856"]
+        "venue": ["term-108856"],
+        "dates": {
+          "type": ["reference"]
+        }
       },
       {
-        "@link": {
-          "type": ["reference"]
-        },
         "summary_title": ["Nara"],
         "admin": {
           "id": ["term-13947"]
         },
         "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-13947"],
         "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-13947"],
-        "venue": ["term-13947"]
+        "venue": ["term-13947"],
+        "dates": {
+          "type": ["reference"]
+        }
       }
     ],
     "title": [

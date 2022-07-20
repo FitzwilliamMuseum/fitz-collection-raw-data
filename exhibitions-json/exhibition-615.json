@@ -8,7 +8,14 @@
     },
     "venues": [
       {
-        "@link": {
+        "summary_title": ["Colchester"],
+        "admin": {
+          "id": ["term-107146"]
+        },
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107146"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-107146"],
+        "venue": ["term-107146"],
+        "dates": {
           "date": [
             {
               "range": [true],
@@ -22,38 +29,31 @@
             }
           ],
           "type": ["reference"]
-        },
-        "summary_title": ["Colchester"],
-        "admin": {
-          "id": ["term-107146"]
-        },
-        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107146"],
-        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-107146"],
-        "venue": ["term-107146"]
+        }
       },
       {
-        "@link": {
-          "type": ["reference"]
-        },
         "summary_title": ["Oxford"],
         "admin": {
           "id": ["term-78071"]
         },
         "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-78071"],
         "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-78071"],
-        "venue": ["term-78071"]
+        "venue": ["term-78071"],
+        "dates": {
+          "type": ["reference"]
+        }
       },
       {
-        "@link": {
-          "type": ["reference"]
-        },
         "summary_title": ["Sheffield"],
         "admin": {
           "id": ["term-108100"]
         },
         "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-108100"],
         "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-108100"],
-        "venue": ["term-108100"]
+        "venue": ["term-108100"],
+        "dates": {
+          "type": ["reference"]
+        }
       }
     ],
     "title": [

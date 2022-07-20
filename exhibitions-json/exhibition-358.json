@@ -8,7 +8,14 @@
     },
     "venues": [
       {
-        "@link": {
+        "summary_title": ["Manchester"],
+        "admin": {
+          "id": ["term-108153"]
+        },
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-108153"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-108153"],
+        "venue": ["term-108153"],
+        "dates": {
           "date": [
             {
               "range": [true],
@@ -27,26 +34,19 @@
             }
           ],
           "type": ["reference"]
-        },
-        "summary_title": ["Manchester"],
-        "admin": {
-          "id": ["term-108153"]
-        },
-        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-108153"],
-        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-108153"],
-        "venue": ["term-108153"]
+        }
       },
       {
-        "@link": {
-          "type": ["reference"]
-        },
         "summary_title": ["Cambridge (Cambs.)"],
         "admin": {
           "id": ["term-106176"]
         },
         "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106176"],
         "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106176"],
-        "venue": ["term-106176"]
+        "venue": ["term-106176"],
+        "dates": {
+          "type": ["reference"]
+        }
       }
     ],
     "title": [

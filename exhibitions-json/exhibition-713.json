@@ -8,7 +8,14 @@
     },
     "venues": [
       {
-        "@link": {
+        "summary_title": ["Twickenham"],
+        "admin": {
+          "id": ["term-106695"]
+        },
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106695"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106695"],
+        "venue": ["term-106695"],
+        "dates": {
           "date": [
             {
               "range": [true],
@@ -22,26 +29,19 @@
             }
           ],
           "type": ["reference"]
-        },
-        "summary_title": ["Twickenham"],
-        "admin": {
-          "id": ["term-106695"]
-        },
-        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106695"],
-        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106695"],
-        "venue": ["term-106695"]
+        }
       },
       {
-        "@link": {
-          "type": ["reference"]
-        },
         "summary_title": ["Cardiff"],
         "admin": {
           "id": ["term-107680"]
         },
         "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107680"],
         "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-107680"],
-        "venue": ["term-107680"]
+        "venue": ["term-107680"],
+        "dates": {
+          "type": ["reference"]
+        }
       }
     ],
     "title": [

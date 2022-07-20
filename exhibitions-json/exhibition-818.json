@@ -8,7 +8,14 @@
     },
     "venues": [
       {
-        "@link": {
+        "summary_title": ["London"],
+        "admin": {
+          "id": ["term-106216"]
+        },
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106216"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106216"],
+        "venue": ["term-106216"],
+        "dates": {
           "date": [
             {
               "range": [true],
@@ -27,38 +34,31 @@
             }
           ],
           "type": ["reference"]
-        },
-        "summary_title": ["London"],
-        "admin": {
-          "id": ["term-106216"]
-        },
-        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106216"],
-        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106216"],
-        "venue": ["term-106216"]
+        }
       },
       {
-        "@link": {
-          "type": ["reference"]
-        },
         "summary_title": ["Saint Etienne"],
         "admin": {
           "id": ["term-108846"]
         },
         "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-108846"],
         "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-108846"],
-        "venue": ["term-108846"]
+        "venue": ["term-108846"],
+        "dates": {
+          "type": ["reference"]
+        }
       },
       {
-        "@link": {
-          "type": ["reference"]
-        },
         "summary_title": ["Frankfurt"],
         "admin": {
           "id": ["term-106768"]
         },
         "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106768"],
         "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106768"],
-        "venue": ["term-106768"]
+        "venue": ["term-106768"],
+        "dates": {
+          "type": ["reference"]
+        }
       }
     ],
     "title": [

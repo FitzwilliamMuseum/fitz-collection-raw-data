@@ -8,7 +8,14 @@
     },
     "venues": [
       {
-        "@link": {
+        "summary_title": ["Reading (Berks.)"],
+        "admin": {
+          "id": ["term-108008"]
+        },
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-108008"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-108008"],
+        "venue": ["term-108008"],
+        "dates": {
           "date": [
             {
               "range": [true],
@@ -22,26 +29,19 @@
             }
           ],
           "type": ["reference"]
-        },
-        "summary_title": ["Reading (Berks.)"],
-        "admin": {
-          "id": ["term-108008"]
-        },
-        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-108008"],
-        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-108008"],
-        "venue": ["term-108008"]
+        }
       },
       {
-        "@link": {
-          "type": ["reference"]
-        },
         "summary_title": ["Southampton"],
         "admin": {
           "id": ["term-107230"]
         },
         "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107230"],
         "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-107230"],
-        "venue": ["term-107230"]
+        "venue": ["term-107230"],
+        "dates": {
+          "type": ["reference"]
+        }
       }
     ],
     "title": [
