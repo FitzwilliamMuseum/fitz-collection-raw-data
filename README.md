@@ -80,4 +80,17 @@ Creative Commons Zero 1.0
 
 ## Citation
 
+To cite this data repository in APA format: 
+Pett, D (2022). The Fitzwilliam Museum Collection MetaData Dump (Version 1.0.0) [Data set]. https://data.fitzmuseum.cam.ac.uk
+
+BIBTEX:
+
+@misc{Daniel_Pett_The_Fitzwilliam_Museum_2022,
+author = {Pett, Daniel},
+month = {7},
+title = {{The Fitzwilliam Museum Collection MetaData Dump}},
+url = {https://data.fitzmuseum.cam.ac.uk},
+year = {2022}
+}
+
 [CITATION.cff](CITATION.cff)
