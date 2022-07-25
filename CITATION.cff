@@ -1,15 +1,23 @@
 cff-version: 1.2.0
-message: If you use this code, please cite it using these metadata
-title: The Fitzwilliam Museum MetaData Dump
+title: The Fitzwilliam Museum Collection MetaData Dump
+message: >-
+  If you use this dataset, please cite it using these
+  metadata
+type: dataset
 authors:
-  - family-names: Pett
-    given-names: Daniel
-    orcid: "https://orcid.org/0000-0002-0246-2335"
+  - given-names: Daniel
+    name-particle: Daniel
+    family-names: Pett
+    email: dejp3@cam.ac.uk
+    affiliation: 'St Edmund''s College, University of Cambridge'
+    orcid: 'https://orcid.org/0000-0002-0246-2335'
+url: 'https://data.fitzmuseum.cam.ac.uk'
+keywords:
+  - museum
+  - collections
+  - metadata
+  - csv
+  - json
+license: CC0-1.0
 version: 1.0.0
-date-released: 2022-07-15
-license: cc-zero
-identifiers:
-  - description: "The Fitzwilliam Museum MetaData Dump"
-    type: doi
-    value: ""
-repository-code: https://github.com/FitzwilliamMuseum/fitz-collection-raw-data
+date-released: '2022-07-25'
