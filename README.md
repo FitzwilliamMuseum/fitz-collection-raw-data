@@ -2,6 +2,8 @@
 
 ![A social card for this repository](https://repository-images.githubusercontent.com/511317066/1123904f-cfce-40b2-a3f4-775186e178b3)
 
+[![ORCiD](https://img.shields.io/badge/ORCiD-0000--0002--0246--2335-green.svg)](http://orcid.org/0000-0002-0246-2335)
+
 This repository holds raw data mined from the Museum's collections information systems. These data have been released under CC0 license since around 2010.
 
 Warning - This is a large repository, with a huge number of json and csv files. You will need several GB of disk space to use this data set.
