@@ -1,0 +1,184 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-109983"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-109983"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-109983"],
+        "summary_title": ["panel (stained glass)"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1981"],
+            "value": ["1981-04-27"],
+            "latest": ["1981"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Abbott, George"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-156188"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-156188"],
+            "agent": ["agent-156188"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["1875"],
+              "value": ["1875"],
+              "latest": ["1875"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["1900"],
+              "value": ["1900"],
+              "latest": ["1900"]
+            },
+            "earliest": ["1875"],
+            "latest": ["1900"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["late 19th Century"],
+            "period": ["term-108070"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-108070"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-108070"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["production"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["C.22-1981"],
+        "type": ["accession number"],
+        "value": ["C.22-1981"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["28166"],
+        "type": ["priref"],
+        "value": ["28166"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/28166"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/28166"]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-26622"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-26622"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-26622"],
+        "summary_title": ["staining"],
+        "descriptions": [
+          {
+            "description": ["stained glass; green, yellow and blue"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-109983"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-109983"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-109983"],
+        "summary_title": ["panel (stained glass)"]
+      },
+      {
+        "value": ["stained glass panel"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1582633526000"],
+      "id": ["object-28166"]
+    },
+    "description": [
+      {
+        "value": ["Recatngular stained-glass panel: green, yellow and blue. A lady in early 19th century costume, standing on a lawn below the over-hanging leaves of a tree, the trunk of which is not shown."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-40838"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-40838"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-40838"],
+        "summary_title": ["stained glass"]
+      },
+      {
+        "term": ["term-91170"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-91170"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-91170"],
+        "summary_title": ["glass"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Height"],
+          "value": ["30.2"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Width"],
+          "value": ["17.5"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-28166"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/28166"],
+    "object": ["object-28166"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

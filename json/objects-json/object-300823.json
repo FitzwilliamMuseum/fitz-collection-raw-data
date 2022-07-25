@@ -1,0 +1,164 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-101127"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101127"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101127"],
+        "summary_title": ["daric"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1963"],
+            "value": ["1963-11-21"],
+            "latest": ["1963"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Hart, H. St J., Rev."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-174923"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-174923"],
+            "agent": ["agent-174923"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["336"],
+              "value": ["-0336"],
+              "latest": ["336"]
+            },
+            "to": {
+              "earliest": ["330"],
+              "value": ["-0330"],
+              "latest": ["330"]
+            },
+            "earliest": ["336"],
+            "latest": ["330"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Darius III (336-330 BC)"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-204257"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-204257"],
+            "term": ["agent-204257"],
+            "role": [
+              {
+                "value": ["ruler"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.1399-1963"],
+        "type": ["accession number"],
+        "value": ["CM.1399-1963"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["300823"],
+        "type": ["priref"],
+        "value": ["300823"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/300823"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/300823"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["H. St J. Hart gift 1963"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-39593"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39593"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39593"],
+            "summary_title": ["gold"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-101127"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101127"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101127"],
+        "summary_title": ["daric"]
+      },
+      {
+        "term": ["term-12401"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12401"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-12401"],
+        "summary_title": ["Greek"]
+      },
+      {
+        "term": ["term-10543"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-10543"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-10543"],
+        "summary_title": ["Achaemenid"]
+      }
+    ],
+    "admin": {
+      "created": ["1628070556000"],
+      "modified": ["1628070556000"],
+      "id": ["object-300823"]
+    },
+    "description": [
+      {
+        "value": ["Achaemenids, Darius III (336-330 BC), gold daric, BMC p. 159, 84, 8.37g."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-300823"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/300823"],
+    "object": ["object-300823"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

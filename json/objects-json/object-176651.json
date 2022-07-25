@@ -1,0 +1,168 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["2010"],
+            "value": ["2010"],
+            "latest": ["2010"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Zangwill, Shirley"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-186344"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-186344"],
+            "agent": ["agent-186344"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Algeria"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-16201"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-16201"],
+            "coordinates": {
+              "lat": ["28.0000272"],
+              "lng": ["2.9999825"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["about"],
+              "earliest": ["421"],
+              "value": ["-420"],
+              "latest": ["421"]
+            },
+            "to": {
+              "precision": ["about"],
+              "earliest": ["401"],
+              "value": ["-400"],
+              "latest": ["401"]
+            },
+            "earliest": ["421"],
+            "latest": ["401"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Athens"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-107608"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107608"],
+            "place": ["term-107608"],
+            "coordinates": {
+              "lat": ["37.9839412"],
+              "lng": ["23.7283052"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Greece"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Attica"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "summary": [
+      {
+        "term": ["term-111021"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111021"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-111021"],
+        "summary_title": ["bolsal"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["GR.1.2010"],
+        "type": ["accession number"],
+        "value": ["GR.1.2010"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["176651"],
+        "type": ["priref"],
+        "value": ["176651"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/176651"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/176651"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-111021"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111021"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-111021"],
+        "summary_title": ["bolsal"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1480591329000"],
+      "id": ["object-176651"]
+    },
+    "description": [
+      {
+        "value": ["Black slipped bolsal with fine, horse-shoe-shaped handles. Inside bowl, four linked, stamped palmettes. Underside of foot is red slipped with a painted black circle. On the outside, the slip is poorly applied in some parts"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-89198"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89198"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89198"],
+        "summary_title": ["vessel"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Diameter"],
+          "value": ["10.8"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Height"],
+          "value": ["5"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Width"],
+          "value": ["17.5"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-176651"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/176651"],
+    "object": ["object-176651"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

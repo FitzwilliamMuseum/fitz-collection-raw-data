@@ -1,0 +1,178 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-43000"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-43000"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-43000"],
+        "summary_title": ["statuette"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1961"],
+            "value": ["1961"],
+            "latest": ["1961"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Moore, G. E., Mrs"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159578"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159578"],
+            "agent": ["agent-159578"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Laurion Attica Greece"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-111739"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111739"],
+            "coordinates": {
+              "lat": ["37.71417715"],
+              "lng": ["24.056909609316"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["401"],
+              "value": ["-400"],
+              "latest": ["401"]
+            },
+            "to": {
+              "earliest": ["302"],
+              "value": ["-301"],
+              "latest": ["302"]
+            },
+            "earliest": ["401"],
+            "latest": ["302"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Classical"],
+            "period": ["term-14088"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-14088"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-14088"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Athens"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-107608"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107608"],
+            "place": ["term-107608"],
+            "coordinates": {
+              "lat": ["37.9839412"],
+              "lng": ["23.7283052"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Greece"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Attica"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.6.1961"],
+        "type": ["accession number"],
+        "value": ["GR.6.1961"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["69674"],
+        "type": ["priref"],
+        "value": ["69674"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/69674"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/69674"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-43000"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-43000"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-43000"],
+        "summary_title": ["statuette"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1336738657000"],
+      "id": ["object-69674"]
+    },
+    "description": [
+      {
+        "value": ["Pan, standing with skin cloak over his shoulder"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-107454"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107454"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107454"],
+        "summary_title": ["figure"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.148"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-4085"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-4085"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-4085"],
+        "summary_title": ["Classical landscape with figures : the ancient Greek city and its countryside"]
+      },
+      {
+        "term": ["publication-200001433"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-200001433"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-200001433"],
+        "summary_title": ["Recent additions at the Fitzwilliam Museum, Cambridge"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-69674"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/69674"],
+    "object": ["object-69674"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

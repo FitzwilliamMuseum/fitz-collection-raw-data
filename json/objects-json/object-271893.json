@@ -1,0 +1,165 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-12401"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12401"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-12401"],
+        "summary_title": ["Greek"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["CM.2329-1997"],
+        "type": ["accession number"],
+        "value": ["CM.2329-1997"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["271893"],
+        "type": ["priref"],
+        "value": ["271893"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/271893"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/271893"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Under Review"]
+      }
+    ],
+    "admin": {
+      "created": ["1605606468000"],
+      "modified": ["1633432706000"],
+      "id": ["object-271893"]
+    },
+    "description": [
+      {
+        "value": ["Philip V (221-179 BC), kingdom of Macedonia, AE, c. 220-179 BC. Head of Herakles wearing lionskin r. Rev. two goats recumbent r. (Lindgren I, 1326), 7.78g."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["One of a group of 129 ancient coins comprising 120 Greek and Roman Provincial bronzes (including two silver coins), 1 Celtic gold, 4 Parthian bronzes, 1 Elmaid bronze, 1 Norman bronze from Sicily, 2 modern forgeries of Hellenistic coins, 1 modern UK coin, and 6 banknotes."]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1997"],
+            "value": ["1997-12-05"],
+            "latest": ["1997"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Buttrey, T. V., Prof."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159617"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159617"],
+            "agent": ["agent-159617"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["220"],
+              "value": ["-0220"],
+              "latest": ["220"]
+            },
+            "to": {
+              "precision": ["circa"],
+              "earliest": ["179"],
+              "value": ["-0179"],
+              "latest": ["179"]
+            },
+            "earliest": ["220"],
+            "latest": ["179"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Philip V (221-179 BC)"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-190840"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-190840"],
+            "term": ["agent-190840"],
+            "role": [
+              {
+                "value": ["ruler"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-40365"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-40365"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-40365"],
+            "summary_title": ["bronze"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-12401"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12401"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-12401"],
+        "summary_title": ["Greek"]
+      },
+      {
+        "term": ["term-119370"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119370"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119370"],
+        "summary_title": ["Macedonia"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-271893"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/271893"],
+    "object": ["object-271893"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

@@ -1,0 +1,166 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-43733"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-43733"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-43733"],
+        "summary_title": ["mirror"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1977"],
+            "value": ["1977"],
+            "latest": ["1977"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Davies, Gladys, Miss"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159597"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159597"],
+            "agent": ["agent-159597"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["BCE"]
+              ],
+              "earliest": ["301"],
+              "value": ["-300"],
+              "latest": ["301"]
+            },
+            "to": {
+              "era": [
+                ["BCE"]
+              ],
+              "earliest": ["202"],
+              "value": ["-201"],
+              "latest": ["202"]
+            },
+            "earliest": ["301"],
+            "latest": ["202"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Hellenistic"],
+            "period": ["term-14090"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-14090"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-14090"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Clusium"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-132797"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-132797"],
+            "place": ["term-132797"],
+            "hierarchies": [
+              {
+                "summary_title": ["Italy"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Etruria"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.3.1977"],
+        "type": ["accession number"],
+        "value": ["GR.3.1977"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["69920"],
+        "type": ["priref"],
+        "value": ["69920"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/69920"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/69920"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-43733"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-43733"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-43733"],
+        "summary_title": ["mirror"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1337011905000"],
+      "id": ["object-69920"]
+    },
+    "description": [
+      {
+        "value": ["mirror, Judgement of Paris"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-110814"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110814"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110814"],
+        "summary_title": ["cosmetic equipment"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.135"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.129"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-200001432"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-200001432"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-200001432"],
+        "summary_title": ["Recent acquisitions by the Fitzwilliam Museum, Cambridge, 1971-1989"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-69920"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/69920"],
+    "object": ["object-69920"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

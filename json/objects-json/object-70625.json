@@ -1,0 +1,137 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "agents": {
+          "agent": {
+            "summary_title": ["Thomas, D. Parry, Miss"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159624"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159624"],
+            "agent": ["agent-159624"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["700"],
+              "value": ["-0700"],
+              "latest": ["700"]
+            },
+            "to": {
+              "earliest": ["501"],
+              "value": ["-0501"],
+              "latest": ["501"]
+            },
+            "earliest": ["700"],
+            "latest": ["501"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["archaic"],
+            "period": ["term-111220"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-111220"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111220"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Rhodes"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-15226"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-15226"],
+            "place": ["term-15226"],
+            "coordinates": {
+              "lat": ["36.17262995"],
+              "lng": ["27.919418145633"]
+            },
+            "note": ["possibly"],
+            "hierarchies": [
+              {
+                "summary_title": ["Greek Islands"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "summary": [
+      {
+        "term": ["term-89428"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89428"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89428"],
+        "summary_title": ["oinochoe"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["GR.B.33"],
+        "type": ["accession number"],
+        "value": ["GR.B.33"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["70625"],
+        "type": ["priref"],
+        "value": ["70625"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/70625"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/70625"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-89428"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89428"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89428"],
+        "summary_title": ["oinochoe"]
+      },
+      {
+        "term": ["term-89400"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89400"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89400"],
+        "summary_title": ["jug"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1631636922000"],
+      "id": ["object-70625"]
+    },
+    "description": [
+      {
+        "value": ["oinochoe"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-89198"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89198"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89198"],
+        "summary_title": ["vessel"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-70625"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/70625"],
+    "object": ["object-70625"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

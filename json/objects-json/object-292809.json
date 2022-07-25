@@ -1,0 +1,138 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-101415"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101415"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101415"],
+        "summary_title": ["penny"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["unknown"],
+        "agents": {
+          "agent": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "agent": ["agent-149652"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["1356"],
+              "value": ["1356"],
+              "latest": ["1356"]
+            },
+            "to": {
+              "earliest": ["1361"],
+              "value": ["1361"],
+              "latest": ["1361"]
+            },
+            "earliest": ["1356"],
+            "latest": ["1361"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["London"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149658"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149658"],
+            "term": ["agent-149658"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.BI.3720-R"],
+        "type": ["accession number"],
+        "value": ["CM.BI.3720-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["292809"],
+        "type": ["priref"],
+        "value": ["292809"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/292809"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/292809"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-101415"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101415"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101415"],
+        "summary_title": ["penny"]
+      },
+      {
+        "term": ["term-107139"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107139"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107139"],
+        "summary_title": ["England"]
+      }
+    ],
+    "admin": {
+      "created": ["1624287750000"],
+      "modified": ["1626432196000"],
+      "id": ["object-292809"]
+    },
+    "description": [
+      {
+        "value": ["England, Edward III, AR penny, Pre-Treaty series Ga, London"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-292809"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/292809"],
+    "object": ["object-292809"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

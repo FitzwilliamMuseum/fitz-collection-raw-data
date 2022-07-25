@@ -1,0 +1,145 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-99236"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-99236"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-99236"],
+        "summary_title": ["figurine"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bought"],
+        "date": [
+          {
+            "earliest": ["1910"],
+            "value": ["1910"],
+            "latest": ["1910"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Currelly, Mrs"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159489"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159489"],
+            "agent": ["agent-159489"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["601"],
+              "value": ["-600"],
+              "latest": ["601"]
+            },
+            "to": {
+              "earliest": ["302"],
+              "value": ["-301"],
+              "latest": ["302"]
+            },
+            "earliest": ["601"],
+            "latest": ["302"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["archaic"],
+            "period": ["term-111220"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-111220"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111220"]
+          },
+          {
+            "summary_title": ["Classical"],
+            "period": ["term-14088"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-14088"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-14088"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.160t.1910"],
+        "type": ["accession number"],
+        "value": ["GR.160t.1910"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["68599"],
+        "type": ["priref"],
+        "value": ["68599"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/68599"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/68599"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-99236"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-99236"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-99236"],
+        "summary_title": ["figurine"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1337011601000"],
+      "id": ["object-68599"]
+    },
+    "description": [
+      {
+        "value": ["male figure"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-107454"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107454"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107454"],
+        "summary_title": ["figure"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Depth"],
+          "value": ["0.008"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.065"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.035"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-68599"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/68599"],
+    "object": ["object-68599"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-133795"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-133795"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-133795"],
+        "summary_title": ["Ancient Greek"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["1976"],
+            "value": ["1976"],
+            "latest": ["1976"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Burkitt, M.I., Mrs"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159592"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159592"],
+            "agent": ["agent-159592"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["8501"],
+              "value": ["-85"],
+              "latest": ["8600"]
+            },
+            "to": {
+              "precision": ["circa"],
+              "earliest": ["6501"],
+              "value": ["-65"],
+              "latest": ["6600"]
+            },
+            "earliest": ["8501"],
+            "latest": ["6600"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Amisos"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-189228"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-189228"],
+            "term": ["agent-189228"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Amisos"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-135576"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-135576"],
+            "place": ["term-135576"],
+            "coordinates": {
+              "lat": ["41.0418073"],
+              "lng": ["24.8469104"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Turkey"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Pontus"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.BU.1195-R"],
+        "type": ["accession number"],
+        "value": ["CM.BU.1195-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["222991"],
+        "type": ["priref"],
+        "value": ["222991"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/222991"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/222991"]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-119622"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119622"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119622"],
+        "summary_title": ["struck"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-133795"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-133795"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-133795"],
+        "summary_title": ["Ancient Greek"]
+      }
+    ],
+    "admin": {
+      "created": ["1512126209000"],
+      "modified": ["1568217564000"],
+      "id": ["object-222991"]
+    },
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["g"],
+          "dimension": ["Weight"],
+          "value": ["3.44"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-6337"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-6337"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-6337"],
+        "summary_title": ["Recueil Général des Monnaies Grecques d'Asie Mineure, Vol I Part 2: Bithynie: jusqu'à Juliopolis (deuxième fascicule)"]
+      },
+      {
+        "term": ["publication-8708"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-8708"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-8708"],
+        "summary_title": ["Recueil Général des Monnaies Grecques d’Asie Mineure, Vol. II, Part 3: Bithynie: Nicée et Nicomédie (deuxième fascicule)"]
+      },
+      {
+        "term": ["publication-8709"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-8709"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-8709"],
+        "summary_title": ["Recueil Général des Monnaies Grecques d'Asie Mineure, Vol I Part 1: Pont et Paphlagonie (deuxième fascicule)"]
+      },
+      {
+        "term": ["publication-8710"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-8710"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-8710"],
+        "summary_title": ["Recueil Général des Monnaies Grecques d'Asie Mineure, Vol II Part 4: Bithynie: Prusa, Prusias, Tius (deuxième fascicule)"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-222991"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/222991"],
+    "object": ["object-222991"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

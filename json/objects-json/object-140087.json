@@ -1,0 +1,170 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-107660"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107660"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107660"],
+        "summary_title": ["coffee pot"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["1995"],
+            "value": ["1995"],
+            "latest": ["1995"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Barrett, Douglas and Mary"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-193318"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-193318"],
+            "agent": ["agent-193318"]
+          }
+        }
+      },
+      "creation": {
+        "periods": [
+          {
+            "summary_title": ["late 17th Century"],
+            "period": ["term-106453"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106453"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106453"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["maker"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Arita"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-15025"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-15025"],
+            "place": ["term-15025"],
+            "coordinates": {
+              "lat": ["33.192301"],
+              "lng": ["129.8669613"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Japan"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["BL.4-1995"],
+        "type": ["accession number"],
+        "value": ["BL.4-1995"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["140087"],
+        "type": ["priref"],
+        "value": ["140087"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/140087"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/140087"]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-29074"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-29074"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-29074"],
+        "summary_title": ["underglaze"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-107660"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107660"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107660"],
+        "summary_title": ["coffee pot"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1569413064000"],
+      "id": ["object-140087"]
+    },
+    "description": [
+      {
+        "value": ["Coffee pot imitating European silver, hard paste porcelain painted underglaze in blue.  Decorated with Hō-ō (phoenixes) amongst shrubbery.\nThe pot is lacking the cover and spigot."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-193318"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-193318"],
+        "owner": ["agent-193318"],
+        "summary_title": ["Barrett, Douglas and Mary"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-37627"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-37627"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-37627"],
+        "summary_title": ["hard-paste porcelain"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Diameter"],
+          "value": ["15.4"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Height"],
+          "value": ["24.4"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Length"],
+          "value": ["19"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-140087"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/140087"],
+    "object": ["object-140087"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

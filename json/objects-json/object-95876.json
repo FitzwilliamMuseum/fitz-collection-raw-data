@@ -1,0 +1,254 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-71409"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-71409"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-71409"],
+        "summary_title": ["armchair"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["MAR.M.213-1912"],
+        "type": ["accession number"],
+        "value": ["MAR.M.213-1912"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["95876"],
+        "type": ["priref"],
+        "value": ["95876"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/95876"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/95876"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1470925667000"],
+      "id": ["object-95876"]
+    },
+    "description": [
+      {
+        "value": ["Upholstered armchair with carved serpentine walnut frame, enclosed and padded arms, cabriole legs and scroll feet with brass casters; upholstered in dark green woollen velvet."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1912"],
+            "value": ["1912"],
+            "latest": ["1912"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Marlay, Charles Brinsley"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149674"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149674"],
+            "agent": ["agent-149674"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "note": [
+              {
+                "value": ["date based on active dates for Michel Gourdin the younger (master 1752, died after 1777)"]
+              }
+            ],
+            "range": ["1"],
+            "from": {
+              "precision": ["after"],
+              "earliest": ["1752"],
+              "value": ["1752"],
+              "latest": ["1752"]
+            },
+            "to": {
+              "precision": ["circa"],
+              "earliest": ["1777"],
+              "value": ["1777"],
+              "latest": ["1777"]
+            },
+            "earliest": ["1752"],
+            "latest": ["1777"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["mid 18th Century"],
+            "period": ["term-106451"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106451"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106451"]
+          },
+          {
+            "summary_title": ["Louis XV"],
+            "period": ["term-15538"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-15538"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-15538"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Gourdin, Michel"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-54484"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-54484"],
+            "term": ["agent-54484"],
+            "role": [
+              {
+                "value": ["maker"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Paris"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-129470"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-129470"],
+            "place": ["term-129470"],
+            "coordinates": {
+              "lat": ["48.8588897"],
+              "lng": ["2.3200410217201"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["France"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "school_or_style": [
+      {
+        "term": ["term-9010"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-9010"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-9010"],
+        "summary_title": ["Rococo"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Frame"],
+        "materials": [
+          {
+            "term": ["term-38526"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-38526"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-38526"],
+            "summary_title": ["walnut"]
+          }
+        ]
+      },
+      {
+        "name": ["Casters"],
+        "materials": [
+          {
+            "term": ["term-40335"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-40335"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-40335"],
+            "summary_title": ["brass (alloy)"]
+          }
+        ]
+      },
+      {
+        "name": ["Seat"],
+        "materials": []
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-27310"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27310"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27310"],
+        "summary_title": ["upholstering"],
+        "descriptions": []
+      },
+      {
+        "term": ["term-98865"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98865"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98865"],
+        "summary_title": ["carving"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-71409"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-71409"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-71409"],
+        "summary_title": ["armchair"]
+      }
+    ],
+    "inscription": [
+      {
+        "method": ["stamp"],
+        "transcription": [
+          {
+            "value": ["M. GOURDIN"]
+          }
+        ],
+        "location": ["inside back seat rail"],
+        "type": ["maker's mark"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-67107"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-67107"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-67107"],
+        "summary_title": ["furniture"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["in"],
+          "dimension": ["Height"],
+          "value": ["39 3/4"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-7950"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-7950"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-7950"],
+        "summary_title": ["The Wrightsman Collection, vol. I: Furniture"],
+        "page": ["24-25"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-95876"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/95876"],
+    "object": ["object-95876"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

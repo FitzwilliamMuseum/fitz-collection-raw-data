@@ -1,0 +1,279 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-98032"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98032"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98032"],
+        "summary_title": ["print"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["P.11675-R"],
+        "type": ["accession number"],
+        "value": ["P.11675-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["169632"],
+        "type": ["priref"],
+        "value": ["169632"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/169632"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/169632"]
+      }
+    ],
+    "admin": {
+      "created": ["1312633661000"],
+      "modified": ["1312673858000"],
+      "id": ["object-169632"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "title": [
+      {
+        "type": ["assigned"],
+        "value": ["Cover Page for A Gustave Flaubert"]
+      },
+      {
+        "type": ["series"],
+        "value": ["A Gustave Flaubert"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1949"],
+            "value": ["1949-10"],
+            "latest": ["1910"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Dodgson, Campbell"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-150855"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-150855"],
+            "agent": ["agent-150855"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "earliest": ["1889"],
+            "value": ["1889"],
+            "latest": ["1889"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["19th century"],
+            "period": ["term-106853"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106853"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106853"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Redon, Odilon"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-113287"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-113287"],
+            "term": ["agent-113287"],
+            "role": [
+              {
+                "value": ["printmaker"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "school_or_style": [
+      {
+        "term": ["term-8399"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-8399"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-8399"],
+        "summary_title": ["French"]
+      }
+    ],
+    "multimedia": [
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616271241447"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp48/preview_P_11675_R.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["344"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616271241447"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp48/P_11675_R.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["760"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["552"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616271241447"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp48/P_11675_R.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["760"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["552"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616271241447"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp48/mid_P_11675_R.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["688"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-98032"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98032"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98032"],
+        "summary_title": ["print"]
+      }
+    ],
+    "inscription": [
+      {
+        "method": ["printed"],
+        "transcription": [
+          {
+            "value": ["à GUSTAVE FLAUBERT / 60 Exemplaires"]
+          }
+        ],
+        "location": ["upper left"],
+        "type": ["title"]
+      },
+      {
+        "method": ["ink"],
+        "transcription": [
+          {
+            "value": ["Odilon Redon"]
+          }
+        ],
+        "location": ["upper right"],
+        "type": ["signature"]
+      },
+      {
+        "method": ["graphite"],
+        "transcription": [
+          {
+            "value": ["A Gustave Flaubert / Soixante exemplaires, Dumont, Paris – parmi en 1889 – Couverture papier ardoise. – Sept planches dont un frontispice, format demi-Jésus, tirées sur Chine appliqué par Becquet, à Paris. Bon tirage – Le frontispice seul à eu un premier état – Il existe, en outre, dix épreuves d’Ammonaria, tirées à part, format demi-columbier, sur Chine – Epuisé (Extrait du Catalogue Destrée)"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Extract from Jules Destrée's 1891 catalogue of Redon's work"]
+          }
+        ],
+        "location": ["verso upper left"],
+        "type": ["note"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-98032"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98032"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98032"],
+        "summary_title": ["print"]
+      },
+      {
+        "term": ["term-121172"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-121172"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-121172"],
+        "summary_title": ["portfolio"]
+      }
+    ],
+    "department": {
+      "value": ["Paintings, Drawings and Prints"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-169632"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/169632"],
+    "object": ["object-169632"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

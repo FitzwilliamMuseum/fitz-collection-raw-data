@@ -1,0 +1,159 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-122699"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-122699"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-122699"],
+        "summary_title": ["animal figurine"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1978"],
+            "value": ["1978"],
+            "latest": ["1978"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Ellison, Jan, Mr"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-161862"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-161862"],
+            "agent": ["agent-161862"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Syria"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-107896"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107896"],
+            "coordinates": {
+              "lat": ["34.6401861"],
+              "lng": ["39.0494106"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "note": [
+              {
+                "value": ["import: circa 1800-1501 BC"]
+              }
+            ],
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["BCE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["1800"],
+              "value": ["-1800"],
+              "latest": ["1800"]
+            },
+            "to": {
+              "era": [
+                ["BCE"]
+              ],
+              "earliest": ["1501"],
+              "value": ["-1501"],
+              "latest": ["1501"]
+            },
+            "earliest": ["1800"],
+            "latest": ["1501"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["ANE.3.1978"],
+        "type": ["accession number"],
+        "value": ["ANE.3.1978"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["87770"],
+        "type": ["priref"],
+        "value": ["87770"]
+      },
+      {
+        "type": ["oldadmincategory"],
+        "value": ["O"]
+      },
+      {
+        "type": ["oldobjectnumber"],
+        "value": ["WAE.3.1978"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/87770"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/87770"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-122699"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-122699"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-122699"],
+        "summary_title": ["animal figurine"]
+      }
+    ],
+    "admin": {
+      "created": ["1312633661000"],
+      "modified": ["1326813583000"],
+      "id": ["object-87770"]
+    },
+    "description": [
+      {
+        "value": ["figurine of a quadruped, possibly a fawn (?)"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-99236"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-99236"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-99236"],
+        "summary_title": ["figurine"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Length"],
+          "value": ["0.073"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.06"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-87770"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/87770"],
+    "object": ["object-87770"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

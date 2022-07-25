@@ -1,0 +1,162 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-122699"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-122699"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-122699"],
+        "summary_title": ["animal figurine"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1966"],
+            "value": ["1966"],
+            "latest": ["1966"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["British Museum and British School of Archaeology in Iraq"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-179858"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-179858"],
+            "agent": ["agent-179858"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Tell Brak Syria"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-114137"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-114137"],
+            "coordinates": {
+              "lat": ["36.6671786"],
+              "lng": ["41.058576072929"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "note": [
+              {
+                "value": ["import: circa 3200-2901 BC"]
+              }
+            ],
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["BCE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["3200"],
+              "value": ["-3200"],
+              "latest": ["3200"]
+            },
+            "to": {
+              "era": [
+                ["BCE"]
+              ],
+              "earliest": ["2901"],
+              "value": ["-2901"],
+              "latest": ["2901"]
+            },
+            "earliest": ["3200"],
+            "latest": ["2901"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Jemdet Nasr period"],
+            "period": ["term-114139"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-114139"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-114139"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["ANE.8.1966"],
+        "type": ["accession number"],
+        "value": ["ANE.8.1966"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["87615"],
+        "type": ["priref"],
+        "value": ["87615"]
+      },
+      {
+        "type": ["oldadmincategory"],
+        "value": ["O"]
+      },
+      {
+        "type": ["oldobjectnumber"],
+        "value": ["WAE.8.1966"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/87615"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/87615"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-122699"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-122699"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-122699"],
+        "summary_title": ["animal figurine"]
+      }
+    ],
+    "admin": {
+      "created": ["1312633661000"],
+      "modified": ["1329220192000"],
+      "id": ["object-87615"]
+    },
+    "description": [
+      {
+        "value": ["bear, upper part only"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-99236"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-99236"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-99236"],
+        "summary_title": ["figurine"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Length"],
+          "value": ["0.047"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-87615"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/87615"],
+    "object": ["object-87615"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

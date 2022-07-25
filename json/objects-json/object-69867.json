@@ -1,0 +1,140 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-107667"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107667"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107667"],
+        "summary_title": ["bowl"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bought"],
+        "date": [
+          {
+            "earliest": ["1970"],
+            "value": ["1970"],
+            "latest": ["1970"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Walston, Lord, CVO, DCL"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159588"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159588"],
+            "agent": ["agent-159588"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["BCE"]
+              ],
+              "earliest": ["501"],
+              "value": ["-500"],
+              "latest": ["501"]
+            },
+            "to": {
+              "era": [
+                ["BCE"]
+              ],
+              "earliest": ["402"],
+              "value": ["-401"],
+              "latest": ["402"]
+            },
+            "earliest": ["501"],
+            "latest": ["402"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Classical"],
+            "period": ["term-14088"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-14088"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-14088"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.59.1970"],
+        "type": ["accession number"],
+        "value": ["GR.59.1970"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["69867"],
+        "type": ["priref"],
+        "value": ["69867"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/69867"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/69867"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-107667"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107667"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107667"],
+        "summary_title": ["bowl"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1337168208000"],
+      "id": ["object-69867"]
+    },
+    "description": [
+      {
+        "value": ["bowl, with bail handle"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-89198"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89198"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89198"],
+        "summary_title": ["vessel"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Diameter"],
+          "value": ["0.162"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.135"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-69867"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/69867"],
+    "object": ["object-69867"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-886"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-886"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-886"],
+        "summary_title": ["model"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1941"],
+            "value": ["1941-01-16"],
+            "latest": ["1941"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Gow, S. F."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-154552"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-154552"],
+            "agent": ["agent-154552"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["1840"],
+              "value": ["1840"],
+              "latest": ["1840"]
+            },
+            "to": {
+              "earliest": ["1900"],
+              "value": ["1900"],
+              "latest": ["1900"]
+            },
+            "earliest": ["1840"],
+            "latest": ["1900"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["19th century"],
+            "period": ["term-106853"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106853"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106853"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Granger, E."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-154550"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-154550"],
+            "term": ["agent-154550"],
+            "role": [
+              {
+                "value": ["modeler"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["M.1-1941"],
+        "type": ["accession number"],
+        "value": ["M.1-1941"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["18779"],
+        "type": ["priref"],
+        "value": ["18779"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/18779"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/18779"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Horse"],
+        "materials": []
+      },
+      {
+        "name": ["Figure"],
+        "materials": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-886"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-886"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-886"],
+        "summary_title": ["model"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1618395905000"],
+      "id": ["object-18779"]
+    },
+    "description": [
+      {
+        "value": ["Model of a man and horse in full armour in the 16th century style, made as a prize for jousting by E. Granger of Paris (1860-1895), active from at least 1844."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-106608"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106608"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106608"],
+        "summary_title": ["armour"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "publications": [
+      {
+        "term": ["publication-1841"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-1841"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-1841"],
+        "summary_title": ["Modern Sporting Guns and Firearms; Arms, Armour and Militaria"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-18779"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/18779"],
+    "object": ["object-18779"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

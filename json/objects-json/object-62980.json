@@ -1,0 +1,155 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-102781"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-102781"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-102781"],
+        "summary_title": ["seal"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1968"],
+            "value": ["1968"],
+            "latest": ["1968"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Cossa, Gabor"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-152153"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-152153"],
+            "agent": ["agent-152153"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["101"],
+              "value": ["101"],
+              "latest": ["101"]
+            },
+            "to": {
+              "earliest": ["300"],
+              "value": ["300"],
+              "latest": ["300"]
+            },
+            "earliest": ["101"],
+            "latest": ["300"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Middle Roman"],
+            "period": ["term-111183"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-111183"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111183"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["E.2.1968"],
+        "type": ["accession number"],
+        "value": ["E.2.1968"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["62980"],
+        "type": ["priref"],
+        "value": ["62980"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/62980"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/62980"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Ring"],
+        "materials": [
+          {
+            "term": ["term-115049"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-115049"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-115049"],
+            "summary_title": ["malachite"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-102781"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-102781"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-102781"],
+        "summary_title": ["seal"]
+      }
+    ],
+    "admin": {
+      "created": ["1312633661000"],
+      "modified": ["1326201815000"],
+      "id": ["object-62980"]
+    },
+    "description": [
+      {
+        "value": ["ring bezel, engraved with adoring baboon"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-102781"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-102781"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-102781"],
+        "summary_title": ["seal"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.017"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.017"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-4084"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-4084"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-4084"],
+        "summary_title": ["Classical gems : ancient and modern intaglios and cameos in the Fitzwilliam Museum, Cambridge"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-62980"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/62980"],
+    "object": ["object-62980"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

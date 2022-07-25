@@ -1,0 +1,150 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-43996"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-43996"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-43996"],
+        "summary_title": ["fibula"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bought"],
+        "date": [
+          {
+            "earliest": ["1966"],
+            "value": ["1966"],
+            "latest": ["1966"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Spiro, Peter"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159582"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159582"],
+            "agent": ["agent-159582"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "precision": ["circa"],
+            "earliest": ["451"],
+            "value": ["-450"],
+            "latest": ["451"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Classical"],
+            "period": ["term-14088"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-14088"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-14088"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Campania"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-113200"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-113200"],
+            "place": ["term-113200"],
+            "coordinates": {
+              "lat": ["40.860672"],
+              "lng": ["14.843984"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Italy"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Etruria"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.1.1967"],
+        "type": ["accession number"],
+        "value": ["GR.1.1967"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["69740"],
+        "type": ["priref"],
+        "value": ["69740"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/69740"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/69740"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-43996"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-43996"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-43996"],
+        "summary_title": ["fibula"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1337011813000"],
+      "id": ["object-69740"]
+    },
+    "description": [
+      {
+        "value": ["fibula"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-109541"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-109541"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-109541"],
+        "summary_title": ["jewellery"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Length"],
+          "value": ["0.065"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-200001431"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-200001431"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-200001431"],
+        "summary_title": ["Recent Acquisitions by the Fitzwilliam Museum, Cambridge"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-69740"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/69740"],
+    "object": ["object-69740"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

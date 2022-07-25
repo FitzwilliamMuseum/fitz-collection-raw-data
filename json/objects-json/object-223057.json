@@ -1,0 +1,165 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-119511"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119511"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119511"],
+        "summary_title": ["Roman Provincial"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["1976"],
+            "value": ["1976"],
+            "latest": ["1976"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Burkitt, M.I., Mrs"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159592"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159592"],
+            "agent": ["agent-159592"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "note": [
+              {
+                "value": ["Time of Trajan"]
+              }
+            ],
+            "range": ["1"],
+            "from": {
+              "earliest": ["9801"],
+              "value": ["98"],
+              "latest": ["9900"]
+            },
+            "to": {
+              "earliest": ["117"],
+              "value": ["117"],
+              "latest": ["117"]
+            },
+            "earliest": ["9801"],
+            "latest": ["117"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Sala (Lydia)"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-185841"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-185841"],
+            "term": ["agent-185841"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Sala"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-129333"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-129333"],
+            "place": ["term-129333"],
+            "coordinates": {
+              "lat": ["37.5666791"],
+              "lng": ["126.9782914"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Turkey"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Lydia"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.BU.732-R"],
+        "type": ["accession number"],
+        "value": ["CM.BU.732-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["223057"],
+        "type": ["priref"],
+        "value": ["223057"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/223057"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/223057"]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-119622"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119622"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119622"],
+        "summary_title": ["struck"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-119511"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119511"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119511"],
+        "summary_title": ["Roman Provincial"]
+      }
+    ],
+    "admin": {
+      "created": ["1512560427000"],
+      "modified": ["1512561283000"],
+      "id": ["object-223057"]
+    },
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["g"],
+          "dimension": ["Weight"],
+          "value": ["6.80"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-223057"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/223057"],
+    "object": ["object-223057"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

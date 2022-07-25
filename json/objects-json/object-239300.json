@@ -1,0 +1,116 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bought"],
+        "date": [
+          {
+            "earliest": ["1890"],
+            "value": ["1890"],
+            "latest": ["1890"]
+          }
+        ]
+      },
+      "creation": {
+        "periods": [
+          {
+            "summary_title": ["13th Century"],
+            "period": ["term-107871"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-107871"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107871"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["France"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-120306"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-120306"],
+            "place": ["term-120306"],
+            "coordinates": {
+              "lat": ["46.603354"],
+              "lng": ["1.8883335"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["France"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["MS 21"],
+        "type": ["accession number"],
+        "value": ["MS 21"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["239300"],
+        "type": ["priref"],
+        "value": ["239300"]
+      },
+      {
+        "source": ["Cambridge Illuminated"],
+        "type": ["project ID"],
+        "value": ["287"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/239300"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/239300"]
+      }
+    ],
+    "admin": {
+      "created": ["1573817726000"],
+      "modified": ["1598280773000"],
+      "id": ["object-239300"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-110558"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110558"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110558"],
+        "summary_title": ["illuminated manuscript"]
+      },
+      {
+        "term": ["term-114522"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-114522"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-114522"],
+        "summary_title": ["manuscript"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "title": [
+      {
+        "value": ["Legenda aurea"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-239300"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/239300"],
+    "object": ["object-239300"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

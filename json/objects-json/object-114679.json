@@ -1,0 +1,185 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-101383"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101383"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101383"],
+        "summary_title": ["didrachm"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1936"],
+            "value": ["1936-07-07"],
+            "latest": ["1936"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Young, Arthur W."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149876"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149876"],
+            "agent": ["agent-149876"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["BCE"]
+              ],
+              "earliest": ["281"],
+              "value": ["-280"],
+              "latest": ["281"]
+            },
+            "to": {
+              "era": [
+                ["BCE"]
+              ],
+              "earliest": ["277"],
+              "value": ["-276"],
+              "latest": ["277"]
+            },
+            "earliest": ["281"],
+            "latest": ["277"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Metapontum"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-170116"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-170116"],
+            "term": ["agent-170116"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Metapontum"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-119284"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119284"],
+            "place": ["term-119284"],
+            "coordinates": {
+              "lat": ["39.0616217"],
+              "lng": ["17.1318832"]
+            },
+            "note": ["uncertain"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.YG.423-R"],
+        "type": ["accession number"],
+        "value": ["CM.YG.423-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["114679"],
+        "type": ["priref"],
+        "value": ["114679"]
+      },
+      {
+        "type": ["RRC"],
+        "value": ["13/1"]
+      },
+      {
+        "type": ["ordering"],
+        "value": ["RR-0006"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/114679"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/114679"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-101383"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101383"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101383"],
+        "summary_title": ["didrachm"]
+      },
+      {
+        "term": ["term-119616"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119616"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119616"],
+        "summary_title": ["Roman Republic"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1565883047000"],
+      "id": ["object-114679"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["degrees"],
+          "dimension": ["Die Axis"],
+          "value": ["270"]
+        },
+        {
+          "units": ["mm"],
+          "dimension": ["Image(height)"],
+          "value": ["19"]
+        },
+        {
+          "units": ["mm"],
+          "dimension": ["Image(width)"],
+          "value": ["18"]
+        },
+        {
+          "units": ["g"],
+          "dimension": ["Weight"],
+          "value": ["6.26"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-114679"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/114679"],
+    "object": ["object-114679"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

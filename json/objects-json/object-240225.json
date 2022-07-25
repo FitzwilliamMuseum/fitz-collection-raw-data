@@ -1,0 +1,103 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["2019"],
+            "value": ["2019-06-14"],
+            "latest": ["2019"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["The Merchant's House"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-200695"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-200695"],
+            "agent": ["agent-200695"]
+          }
+        }
+      },
+      "creation": {
+        "maker": {
+          "maker": {
+            "summary_title": ["German School"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-187370"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-187370"],
+            "term": ["agent-187370"]
+          }
+        }
+      }
+    },
+    "summary": [
+      {
+        "term": ["term-106226"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106226"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106226"],
+        "summary_title": ["painting"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["loan 3014.1"],
+        "type": ["accession number"],
+        "value": ["loan 3014.1"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["240225"],
+        "type": ["priref"],
+        "value": ["240225"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/240225"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/240225"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-106226"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106226"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106226"],
+        "summary_title": ["painting"]
+      }
+    ],
+    "admin": {
+      "created": ["1581337786000"],
+      "modified": ["1599557106000"],
+      "id": ["object-240225"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-200695"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-200695"],
+        "owner": ["agent-200695"],
+        "summary_title": ["The Merchant's House"]
+      }
+    ],
+    "department": {
+      "value": ["Paintings, Drawings and Prints"]
+    },
+    "title": [
+      {
+        "value": ["Still Life of a Bowl of Raspberries, Standing Cup, a Bottle of Rose Water, a Sugar Loaf and a Box of Sugar"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-240225"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/240225"],
+    "object": ["object-240225"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

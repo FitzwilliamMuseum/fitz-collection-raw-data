@@ -1,0 +1,139 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-83801"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-83801"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-83801"],
+        "summary_title": ["ladle"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1981"],
+            "value": ["1981"],
+            "latest": ["1981"]
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["AD"]
+              ],
+              "earliest": ["1"],
+              "value": ["0001"],
+              "latest": ["1"]
+            },
+            "to": {
+              "era": [
+                ["AD"]
+              ],
+              "earliest": ["100"],
+              "value": ["0100"],
+              "latest": ["100"]
+            },
+            "earliest": ["1"],
+            "latest": ["100"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Early Roman"],
+            "period": ["term-111186"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-111186"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111186"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.151.1981"],
+        "type": ["accession number"],
+        "value": ["GR.151.1981"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["70134"],
+        "type": ["priref"],
+        "value": ["70134"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/70134"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/70134"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Bowl"],
+        "materials": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-83801"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-83801"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-83801"],
+        "summary_title": ["ladle"]
+      }
+    ],
+    "admin": {
+      "created": ["1312633661000"],
+      "modified": ["1621012090000"],
+      "id": ["object-70134"]
+    },
+    "description": [
+      {
+        "value": ["ladle"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-78429"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-78429"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-78429"],
+        "summary_title": ["tool"]
+      },
+      {
+        "term": ["term-137150"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-137150"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-137150"],
+        "summary_title": ["implement"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.23"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-70134"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/70134"],
+    "object": ["object-70134"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

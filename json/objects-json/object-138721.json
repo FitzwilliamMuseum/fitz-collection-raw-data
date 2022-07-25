@@ -1,0 +1,357 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-107667"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107667"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107667"],
+        "summary_title": ["bowl"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["ML.15-1992"],
+        "type": ["accession number"],
+        "value": ["ML.15-1992"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["138721"],
+        "type": ["priref"],
+        "value": ["138721"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/138721"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/138721"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Captain Dugald Malcolm"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1569413061000"],
+      "id": ["object-138721"]
+    },
+    "description": [
+      {
+        "value": ["Conical bowl with thick celadon glaze, possibly Hangzhou type."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-193804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-193804"],
+        "owner": ["agent-193804"],
+        "summary_title": ["Whittow, Helen H. L. (nee Malcolm)"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["1992"],
+            "value": ["1992"],
+            "latest": ["1992"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Whittow, Helen H. L. (nee Malcolm)"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-193804"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-193804"],
+            "agent": ["agent-193804"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["960"],
+              "value": ["960"],
+              "latest": ["960"]
+            },
+            "to": {
+              "earliest": ["1279"],
+              "value": ["1279"],
+              "latest": ["1279"]
+            },
+            "earliest": ["960"],
+            "latest": ["1279"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Song Dynasty"],
+            "period": ["term-130083"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-130083"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-130083"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["maker"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Hangzhou"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-128522"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-128522"],
+            "place": ["term-128522"],
+            "coordinates": {
+              "lat": ["30.2489634"],
+              "lng": ["120.2052342"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["China"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "multimedia": [
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1537142906000"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/565/936/preview_ML_15_1992_1_201605_amt49_dc2.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["201"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "modified": ["1537142906000"],
+          "location": ["ML.15-1992_1_201605_amt49_dc2.jpg"],
+          "type": ["image"]
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1537142906000"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/565/936/large_ML_15_1992_1_201605_amt49_dc2.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["824"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["1024"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1537142906000"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/565/936/mid_ML_15_1992_1_201605_amt49_dc2.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["402"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["499"]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1537142949000"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/566/57/preview_ML_15_1992_1_201605_amt49_mas.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["201"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "processed": ["1"],
+          "resizable": ["1"],
+          "modified": ["1537142949000"],
+          "location": ["ML.15-1992_1_201605_amt49_mas.tif"],
+          "type": ["image"]
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1537142949000"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/566/57/large_ML_15_1992_1_201605_amt49_mas.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["824"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["1024"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1537142949000"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/566/57/mid_ML_15_1992_1_201605_amt49_mas.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["402"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        },
+        "zoom": {
+          "resizable": ["1"],
+          "format": ["pyramid tiff"],
+          "modified": ["1537142949000"],
+          "location": ["https://api.fitz.ms/iipsrv/iipsrv.fcgi?FIF=/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/566/57/ML_15_1992_1_201605_amt49_mas.ptif&cvt=jpeg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["4465"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["5550"]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-122641"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-122641"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-122641"],
+        "summary_title": ["glazing"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-107667"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107667"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107667"],
+        "summary_title": ["bowl"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-113346"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-113346"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-113346"],
+        "summary_title": ["pottery"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Diameter"],
+          "value": ["14.6"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-138721"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/138721"],
+    "object": ["object-138721"],
+    "manifestURI": ["https://api.fitz.ms/data-distributor/iiif/object-138721/manifest"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

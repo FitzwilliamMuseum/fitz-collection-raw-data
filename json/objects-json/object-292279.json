@@ -1,0 +1,140 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-118991"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-118991"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-118991"],
+        "summary_title": ["Sterling"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["unknown"],
+        "agents": {
+          "agent": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "agent": ["agent-149652"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["1280"],
+              "value": ["1280"],
+              "latest": ["1280"]
+            },
+            "to": {
+              "precision": ["circa"],
+              "earliest": ["1286"],
+              "value": ["1286"],
+              "latest": ["1286"]
+            },
+            "earliest": ["1280"],
+            "latest": ["1286"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Alexander III (1249-86)"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-178252"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-178252"],
+            "term": ["agent-178252"],
+            "role": [
+              {
+                "value": ["ruler"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.BI.3189-R"],
+        "type": ["accession number"],
+        "value": ["CM.BI.3189-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["292279"],
+        "type": ["priref"],
+        "value": ["292279"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/292279"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/292279"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-118991"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-118991"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-118991"],
+        "summary_title": ["Sterling"]
+      },
+      {
+        "term": ["term-109199"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-109199"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-109199"],
+        "summary_title": ["Scotland"]
+      }
+    ],
+    "admin": {
+      "created": ["1624287718000"],
+      "modified": ["1626432179000"],
+      "id": ["object-292279"]
+    },
+    "description": [
+      {
+        "value": ["Scotland, Alexander III, AR sterling, 2nd coinage, type Ma, 24 points"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-292279"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/292279"],
+    "object": ["object-292279"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

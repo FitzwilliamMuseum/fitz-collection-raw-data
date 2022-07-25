@@ -1,0 +1,171 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-106629"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106629"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106629"],
+        "summary_title": ["Italy"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["2006"],
+            "value": ["2006"],
+            "latest": ["2006"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Grierson, Philip, Prof."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159574"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159574"],
+            "agent": ["agent-159574"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["1431"],
+              "value": ["1431"],
+              "latest": ["1431"]
+            },
+            "to": {
+              "precision": ["circa"],
+              "earliest": ["1505"],
+              "value": ["1505"],
+              "latest": ["1505"]
+            },
+            "earliest": ["1431"],
+            "latest": ["1505"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Ferrara"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-188949"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-188949"],
+            "term": ["agent-188949"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Ferrara"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106541"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106541"],
+            "place": ["term-106541"],
+            "coordinates": {
+              "lat": ["44.76676425"],
+              "lng": ["11.82793899564"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Italy"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.PG.7882-2006"],
+        "type": ["accession number"],
+        "value": ["CM.PG.7882-2006"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["226401"],
+        "type": ["priref"],
+        "value": ["226401"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/226401"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/226401"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Ex Philip Grierson (Grierson no. 7882); ex Baron C.A. de Cosson Collection; ex Sotheby's sale 19.03.1951, lot 31."]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-39593"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39593"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39593"],
+            "summary_title": ["gold"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-106629"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106629"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106629"],
+        "summary_title": ["Italy"]
+      },
+      {
+        "term": ["term-106541"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106541"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106541"],
+        "summary_title": ["Ferrara"]
+      },
+      {
+        "term": ["term-101187"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101187"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101187"],
+        "summary_title": ["ducat"]
+      }
+    ],
+    "admin": {
+      "created": ["1549558049000"],
+      "modified": ["1549618062000"],
+      "id": ["object-226401"]
+    },
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-226401"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/226401"],
+    "object": ["object-226401"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

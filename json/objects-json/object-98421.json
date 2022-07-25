@@ -1,0 +1,149 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1991"],
+            "value": ["1991"],
+            "latest": ["1991"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Reitlinger, Henry Scipio"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-150552"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-150552"],
+            "agent": ["agent-150552"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "era": [
+              ["CE"]
+            ],
+            "earliest": ["1928"],
+            "value": ["1928"],
+            "latest": ["1928"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Terquem, J."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-200580"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-200580"],
+            "term": ["agent-200580"],
+            "role": [
+              {
+                "value": ["publisher"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Paris"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-129470"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-129470"],
+            "place": ["term-129470"],
+            "coordinates": {
+              "lat": ["48.8588897"],
+              "lng": ["2.3200410217201"]
+            }
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["PB 74-1991"],
+        "type": ["accession number"],
+        "value": ["PB 74-1991"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["98421"],
+        "type": ["priref"],
+        "value": ["98421"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/98421"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/98421"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-106206"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106206"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106206"],
+            "summary_title": ["paper"]
+          }
+        ]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-27526"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27526"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27526"],
+        "summary_title": ["printing"],
+        "descriptions": []
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1575649288000"],
+      "id": ["object-98421"]
+    },
+    "description": [
+      {
+        "value": ["2 volumes, each volume being in a slipcase with a portfolio of plates. No 30 of limited edition of 87; signed by the artist."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-102154"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-102154"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-102154"],
+        "summary_title": ["book"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["Jean de La Fontaine - Fables illustrées de 238 eaux-fortes de Gus Bofa"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-98421"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/98421"],
+    "object": ["object-98421"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

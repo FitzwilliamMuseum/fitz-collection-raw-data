@@ -1,0 +1,167 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1991"],
+            "value": ["1991-06-10"],
+            "latest": ["1991"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Kemp, J., Mrs"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-169573"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-169573"],
+            "agent": ["agent-169573"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["1901"],
+              "value": ["1901"],
+              "latest": ["1901"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["1920"],
+              "value": ["1920"],
+              "latest": ["1920"]
+            },
+            "earliest": ["1901"],
+            "latest": ["1920"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["early 20th century"],
+            "period": ["term-109008"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-109008"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-109008"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["production"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["T.7-1991"],
+        "type": ["accession number"],
+        "value": ["T.7-1991"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["111056"],
+        "type": ["priref"],
+        "value": ["111056"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/111056"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/111056"]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-27589"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27589"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27589"],
+        "summary_title": ["weaving"],
+        "descriptions": [
+          {
+            "description": ["Band of linen needlework worked in pink, yellow, blue, black and white counted thread embroidery with a crocheted border on one side."]
+          }
+        ]
+      },
+      {
+        "term": ["term-29556"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-29556"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-29556"],
+        "summary_title": ["embroidery"],
+        "descriptions": []
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1507823528000"],
+      "id": ["object-111056"]
+    },
+    "description": [
+      {
+        "value": ["Band of linen needlework worked in pink, yellow, blue, black and white counted thread embroidery with a crocheted border on one side."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-118949"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-118949"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-118949"],
+        "summary_title": ["Band of needlework"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Length"],
+          "value": ["55"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Width"],
+          "value": ["32.3"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-111056"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/111056"],
+    "object": ["object-111056"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

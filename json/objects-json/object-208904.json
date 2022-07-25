@@ -1,0 +1,187 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-90855"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-90855"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-90855"],
+        "summary_title": ["dish"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["1986"],
+            "value": ["1986-09-11"],
+            "latest": ["1986"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Jenyns, Roger"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-195060"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-195060"],
+            "agent": ["agent-195060"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["1675"],
+              "value": ["1675"],
+              "latest": ["1675"]
+            },
+            "to": {
+              "earliest": ["1799"],
+              "value": ["1799"],
+              "latest": ["1799"]
+            },
+            "earliest": ["1675"],
+            "latest": ["1799"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Edo Period (1615-1868)"],
+            "period": ["term-109673"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-109673"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-109673"]
+          },
+          {
+            "summary_title": ["late 17th Century"],
+            "period": ["term-106453"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106453"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106453"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Arita Kilns"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-195101"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-195101"],
+            "term": ["agent-195101"],
+            "role": [
+              {
+                "value": ["maker"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Arita"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-15025"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-15025"],
+            "place": ["term-15025"],
+            "coordinates": {
+              "lat": ["33.192301"],
+              "lng": ["129.8669613"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Japan"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Hizen"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["JL.91-1986"],
+        "type": ["accession number"],
+        "value": ["JL.91-1986"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["208904"],
+        "type": ["priref"],
+        "value": ["208904"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/208904"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/208904"]
+      }
+    ],
+    "school_or_style": [
+      {
+        "term": ["term-121341"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-121341"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-121341"],
+        "summary_title": ["Kutani ware"]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-28662"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-28662"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-28662"],
+        "summary_title": ["enamelling"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-90855"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-90855"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-90855"],
+        "summary_title": ["dish"]
+      }
+    ],
+    "admin": {
+      "created": ["1464096179000"],
+      "modified": ["1606410608000"],
+      "id": ["object-208904"]
+    },
+    "description": [
+      {
+        "value": ["Porcelain dish. Painted in enamels in Ko-Kutani style with pomegrante, keyfret and hanabishi"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-195060"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-195060"],
+        "owner": ["agent-195060"],
+        "summary_title": ["Jenyns, Roger"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-37642"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-37642"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-37642"],
+        "summary_title": ["porcelain"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-208904"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/208904"],
+    "object": ["object-208904"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-91351"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-91351"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-91351"],
+        "summary_title": ["flagon"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1933"],
+            "value": ["1933"],
+            "latest": ["1933"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Navarro, J. M. de"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-172191"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-172191"],
+            "agent": ["agent-172191"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["1725"],
+              "value": ["1725"],
+              "latest": ["1725"]
+            },
+            "to": {
+              "earliest": ["1775"],
+              "value": ["1775"],
+              "latest": ["1775"]
+            },
+            "earliest": ["1725"],
+            "latest": ["1775"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["mid 18th Century"],
+            "period": ["term-106451"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106451"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106451"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["production"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["York"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-107398"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107398"],
+            "place": ["term-107398"],
+            "coordinates": {
+              "lat": ["53.9590555"],
+              "lng": ["-1.0815361"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["England"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["NAV.136A-1933"],
+        "type": ["accession number"],
+        "value": ["NAV.136A-1933"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["125344"],
+        "type": ["priref"],
+        "value": ["125344"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/125344"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/125344"]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-5003"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-5003"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-5003"],
+        "summary_title": ["reeded"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-91351"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-91351"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-91351"],
+        "summary_title": ["flagon"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1440080775000"],
+      "id": ["object-125344"]
+    },
+    "description": [
+      {
+        "value": ["One of a pair of 'York' flagons. Straight sided body with applied spout on a 'globular' reeded lower section and reeded base. The domed and finialed lid, and scrolled thumbpiece are hinged to the body. Single scroll handle.\nMarked with 'HI' or 'IH' on the inside"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-40400"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-40400"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-40400"],
+        "summary_title": ["pewter"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Height"],
+          "value": ["31"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-125344"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/125344"],
+    "object": ["object-125344"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

@@ -1,0 +1,140 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["2003"],
+            "value": ["2003-05"],
+            "latest": ["2005"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Dreyfus, John"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-163304"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-163304"],
+            "agent": ["agent-163304"]
+          }
+        }
+      },
+      "creation": {
+        "maker": {
+          "maker": {
+            "summary_title": ["Wesleyan University Press"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-164045"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-164045"],
+            "term": ["agent-164045"],
+            "role": [
+              {
+                "value": ["writer"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Middletown"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-108285"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-108285"],
+            "place": ["term-108285"],
+            "coordinates": {
+              "lat": ["41.5623178"],
+              "lng": ["-72.6509061"]
+            }
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["PM 264-2003"],
+        "type": ["accession number"],
+        "value": ["PM 264-2003"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["95269"],
+        "type": ["priref"],
+        "value": ["95269"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/95269"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/95269"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-33926"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-33926"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-33926"],
+            "summary_title": ["paper (fibre product)"]
+          }
+        ]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-27023"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27023"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27023"],
+        "summary_title": ["typewriting"],
+        "descriptions": []
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1598276494000"],
+      "id": ["object-95269"]
+    },
+    "description": [
+      {
+        "value": ["Willard A. Lockwood (Director, Wesleyan University Press) to John Dreyfus re the Press's publication \"Hogarth on High Life\" which was presented to Dreyfus."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-103262"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-103262"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-103262"],
+        "summary_title": ["letter (correspondence)"]
+      },
+      {
+        "term": ["term-117339"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117339"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-117339"],
+        "summary_title": ["archive document"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-95269"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/95269"],
+    "object": ["object-95269"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

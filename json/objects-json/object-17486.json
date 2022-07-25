@@ -1,0 +1,185 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-30982"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-30982"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-30982"],
+        "summary_title": ["tile"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1931"],
+            "value": ["1931-03-05"],
+            "latest": ["1931"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Beddington, N. A. C."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-154276"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-154276"],
+            "agent": ["agent-154276"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["1300"],
+              "value": ["1300"],
+              "latest": ["1300"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["1400"],
+              "value": ["1400"],
+              "latest": ["1400"]
+            },
+            "earliest": ["1300"],
+            "latest": ["1400"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["14th Century"],
+            "period": ["term-107695"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-107695"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107695"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["production"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["C.1B-1931"],
+        "type": ["accession number"],
+        "value": ["C.1B-1931"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["17486"],
+        "type": ["priref"],
+        "value": ["17486"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/17486"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/17486"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Decoration"],
+        "materials": [
+          {
+            "term": ["term-32652"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-32652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-32652"],
+            "summary_title": ["glaze"]
+          }
+        ]
+      },
+      {
+        "name": ["Upper Surface"],
+        "materials": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-30982"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-30982"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-30982"],
+        "summary_title": ["tile"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1621506874000"],
+      "id": ["object-17486"]
+    },
+    "description": [
+      {
+        "value": ["Tile. Pale buff frit body, the upper surface moulded in relief with foliage radiating from a central flower head, covered with a turquoise glaze; polygonal. The tile is mounted on a daub of plaster with three others."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-108851"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-108851"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-108851"],
+        "summary_title": ["fritware"]
+      },
+      {
+        "term": ["term-110417"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110417"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110417"],
+        "summary_title": ["stonepaste"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Length"],
+          "value": ["15.5"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Width"],
+          "value": ["10.3"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-17486"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/17486"],
+    "object": ["object-17486"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

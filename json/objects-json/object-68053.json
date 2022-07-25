@@ -1,0 +1,135 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-111096"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111096"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-111096"],
+        "summary_title": ["hair-pin"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bought"],
+        "date": [
+          {
+            "earliest": ["1907"],
+            "value": ["1907"],
+            "latest": ["1907"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Lennep, A. O. van"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159475"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159475"],
+            "agent": ["agent-159475"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["99"],
+              "value": ["1"],
+              "latest": ["1"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["200"],
+              "value": ["200"],
+              "latest": ["200"]
+            },
+            "earliest": ["99"],
+            "latest": ["200"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Early Roman"],
+            "period": ["term-111186"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-111186"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111186"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.102.1907"],
+        "type": ["accession number"],
+        "value": ["GR.102.1907"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["68053"],
+        "type": ["priref"],
+        "value": ["68053"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/68053"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/68053"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-111096"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111096"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-111096"],
+        "summary_title": ["hair-pin"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1435588546000"],
+      "id": ["object-68053"]
+    },
+    "description": [
+      {
+        "value": ["Aphrodite filial, hairpin (?)"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-109541"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-109541"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-109541"],
+        "summary_title": ["jewellery"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.062"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-68053"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/68053"],
+    "object": ["object-68053"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

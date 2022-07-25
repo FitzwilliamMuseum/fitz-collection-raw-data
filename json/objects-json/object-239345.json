@@ -1,0 +1,123 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1899"],
+            "value": ["1899"],
+            "latest": ["1899"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Searle, W. G., the Rev."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-161794"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-161794"],
+            "agent": ["agent-161794"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "earliest": ["1686"],
+            "value": ["1686"],
+            "latest": ["1686"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Italy"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106629"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106629"],
+            "place": ["term-106629"],
+            "coordinates": {
+              "lat": ["42.6384261"],
+              "lng": ["12.674297"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Italy"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["MS 258"],
+        "type": ["accession number"],
+        "value": ["MS 258"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["239345"],
+        "type": ["priref"],
+        "value": ["239345"]
+      },
+      {
+        "source": ["Cambridge Illuminated"],
+        "type": ["project ID"],
+        "value": ["3455"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/239345"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/239345"]
+      }
+    ],
+    "admin": {
+      "created": ["1573817733000"],
+      "modified": ["1599039547000"],
+      "id": ["object-239345"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-110558"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110558"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110558"],
+        "summary_title": ["illuminated manuscript"]
+      },
+      {
+        "term": ["term-114522"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-114522"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-114522"],
+        "summary_title": ["manuscript"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "title": [
+      {
+        "value": ["Dogali"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-239345"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/239345"],
+    "object": ["object-239345"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

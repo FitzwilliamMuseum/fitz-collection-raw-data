@@ -1,0 +1,270 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-89400"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89400"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89400"],
+        "summary_title": ["jug"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["C.748-1928"],
+        "type": ["accession number"],
+        "value": ["C.748-1928"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["190304"],
+        "type": ["priref"],
+        "value": ["190304"]
+      },
+      {
+        "source": ["Glaisher MS Catalogue, vol. 2"],
+        "type": ["old object number"],
+        "value": ["2019"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/190304"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/190304"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Purchased in London in 1904"]
+      }
+    ],
+    "admin": {
+      "created": ["1352207726000"],
+      "modified": ["1355826110000"],
+      "id": ["object-190304"]
+    },
+    "description": [
+      {
+        "value": ["earthenware, slip-cast, and decorated with clear and coloured lead-glazes"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["Fair Hebe Jug"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1928"],
+            "value": ["1928-12-07"],
+            "latest": ["1928"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Glaisher, J.W.L."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159757"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159757"],
+            "agent": ["agent-159757"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "note": [
+              {
+                "value": ["After 1788 the date of the model. Robert Garner (1) died in 1789 and was succeeded by his son"]
+              }
+            ],
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["1788"],
+              "value": ["1788"],
+              "latest": ["1788"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["1790"],
+              "value": ["1790"],
+              "latest": ["1790"]
+            },
+            "earliest": ["1788"],
+            "latest": ["1790"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["late 18th century"],
+            "period": ["term-106779"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106779"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106779"]
+          },
+          {
+            "summary_title": ["George III"],
+            "period": ["term-107437"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-107437"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107437"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Voyez, John"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-141857"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-141857"],
+            "term": ["agent-141857"],
+            "role": [
+              {
+                "value": ["modeller"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Fenton"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-113600"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-113600"],
+            "place": ["term-113600"],
+            "coordinates": {
+              "lat": ["38.5131989"],
+              "lng": ["-90.4400578"]
+            },
+            "note": ["Garner's factory was at the Foley, Lane End, Fenton"],
+            "hierarchies": [
+              {
+                "summary_title": ["English"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Staffordshire"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "component": [
+      {
+        "name": ["Decoration"],
+        "materials": [
+          {
+            "term": ["term-107733"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107733"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107733"],
+            "summary_title": ["lead-glaze"]
+          }
+        ]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-120096"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-120096"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-120096"],
+        "summary_title": ["slip-casting"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-89400"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89400"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89400"],
+        "summary_title": ["jug"]
+      }
+    ],
+    "inscription": [
+      {
+        "method": ["integrally moulded with body"],
+        "transcription": [
+          {
+            "value": ["RG"]
+          }
+        ],
+        "location": ["on bottle"],
+        "type": ["initials"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-108657"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-108657"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-108657"],
+        "summary_title": ["lead-glazed earthenware"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Height"],
+          "value": ["24.5"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-1031"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-1031"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-1031"],
+        "summary_title": ["Catalogue of the Glaisher Collection of Pottery and Porcelain in the Fitzwilliam Museum Cambridge"]
+      },
+      {
+        "term": ["publication-1013"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-1013"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-1013"],
+        "summary_title": ["Victoria and Albert Museum Department of Ceramics, Catalogue of English Porcelain, Earthenware, Enamels and Glass collected by Charles Schreiber Esq., M.P.,  and the Lady Charlotte Elizabeth Schreiber, and presented to the Museum in 1884, Volume I, Porcelain"]
+      },
+      {
+        "term": ["publication-200002877"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-200002877"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-200002877"],
+        "summary_title": ["Jean Voyez"],
+        "page": ["24-5, and p. 32"],
+        "notes": ["Ref. pp. 24-5 for Fair Hebe jugs, and p. 32, note 57 for Robert Garner. Cf. pl. 24, a comparable jug by Garner in the V. & A."]
+      },
+      {
+        "term": ["publication-1041"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-1041"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-1041"],
+        "summary_title": ["The Delhom Gallery Guide, English Pottery"],
+        "page": ["21"],
+        "notes": ["Cf. p. 21, no. 18, a comparable jug"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-190304"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/190304"],
+    "object": ["object-190304"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

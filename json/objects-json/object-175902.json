@@ -1,0 +1,406 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-119511"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119511"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119511"],
+        "summary_title": ["Roman Provincial"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["CM.LS.1986-R"],
+        "type": ["accession number"],
+        "value": ["CM.LS.1986-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["175902"],
+        "type": ["priref"],
+        "value": ["175902"]
+      },
+      {
+        "type": ["SNG"],
+        "value": ["VI 1986"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/175902"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/175902"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Bequeathed to Corpus by the Revd. Samuel Savage Lewis, 1891."]
+      }
+    ],
+    "admin": {
+      "created": ["1397472617000"],
+      "modified": ["1397474473000"],
+      "id": ["object-175902"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-167778"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-167778"],
+        "owner": ["agent-167778"],
+        "summary_title": ["Corpus Christi College"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["1991"],
+            "value": ["1991"],
+            "latest": ["1991"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Corpus Christi College"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-167778"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-167778"],
+            "agent": ["agent-167778"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "note": [
+              {
+                "value": ["Date mark SNR"]
+              }
+            ],
+            "range": ["1"],
+            "from": {
+              "earliest": ["5201"],
+              "value": ["52"],
+              "latest": ["5300"]
+            },
+            "to": {
+              "earliest": ["5301"],
+              "value": ["53"],
+              "latest": ["5400"]
+            },
+            "earliest": ["5201"],
+            "latest": ["5400"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Ascalon"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-185922"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-185922"],
+            "term": ["agent-185922"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Ascalon"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-129444"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-129444"],
+            "place": ["term-129444"],
+            "coordinates": {
+              "lat": ["31.6644874"],
+              "lng": ["34.5730157"]
+            }
+          }
+        ]
+      }
+    },
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-40365"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-40365"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-40365"],
+            "summary_title": ["bronze"]
+          }
+        ]
+      }
+    ],
+    "multimedia": [
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616285500994"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm28/preview_CM_LS_1986_R_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["248"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616285500994"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm28/CM_LS_1986_R_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["357"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["360"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616285500994"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm28/CM_LS_1986_R_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["357"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["360"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616285500994"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm28/CM_LS_1986_R_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["357"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["360"]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616272926846"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm28/preview_CM_LS_1986_R_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["251"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616272926846"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm28/CM_LS_1986_R_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["361"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["360"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616272926846"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm28/CM_LS_1986_R_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["361"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["360"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616272926846"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm28/CM_LS_1986_R_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["361"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["360"]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-119511"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119511"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119511"],
+        "summary_title": ["Roman Provincial"]
+      },
+      {
+        "term": ["term-119600"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119600"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119600"],
+        "summary_title": ["Judaea"]
+      },
+      {
+        "term": ["term-129444"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-129444"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-129444"],
+        "summary_title": ["Ascalon"]
+      }
+    ],
+    "inscription": [
+      {
+        "transcription": [
+          {
+            "value": ["[SE]BAS /  TOS"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Laureate head of Claudius left"]
+          }
+        ],
+        "location": ["obverse"],
+        "type": ["design"]
+      },
+      {
+        "transcription": [
+          {
+            "value": ["[AS]KAL[O] / BP"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Tyche standing facing, head right, with aplustre and sceptre, an altar to left and bird and date-mark at right"]
+          }
+        ],
+        "location": ["reverse"],
+        "type": ["design"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["mm"],
+          "dimension": ["Image(height)"],
+          "value": ["24.21"]
+        },
+        {
+          "units": ["mm"],
+          "dimension": ["Image(width)"],
+          "value": ["24.79"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-175902"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/175902"],
+    "object": ["object-175902"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

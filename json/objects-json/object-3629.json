@@ -1,0 +1,509 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-106226"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106226"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106226"],
+        "summary_title": ["painting"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["1502"],
+        "type": ["accession number"],
+        "value": ["1502"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["3629"],
+        "type": ["priref"],
+        "value": ["3629"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/3629"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/3629"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1596468744000"],
+      "id": ["object-3629"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["Twilight in the woodlands"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1928"],
+            "value": ["1928"],
+            "latest": ["1928"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Smith, Lancelot Hugh"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-150168"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-150168"],
+            "agent": ["agent-150168"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "earliest": ["1850"],
+            "value": ["1850"],
+            "latest": ["1850"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Martin, John"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-86081"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-86081"],
+            "term": ["agent-86081"],
+            "role": [
+              {
+                "value": ["painter"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "school_or_style": [
+      {
+        "term": ["term-9168"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-9168"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-9168"],
+        "summary_title": ["British"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-106206"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106206"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106206"],
+            "summary_title": ["paper"]
+          }
+        ]
+      }
+    ],
+    "multimedia": [
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616246784264"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp82/preview_1502_1_201111_adn21_dc2.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["125"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616246784264"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp82/1502_1_201111_adn21_dc2.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["512"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["1025"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616246784264"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp82/large_1502_1_201111_adn21_dc2.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["512"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["1024"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616246784264"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp82/mid_1502_1_201111_adn21_dc2.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["250"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1554766286000"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/638/177/preview_1502_1_201111_adn21_mas.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["145"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "processed": ["1"],
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1554766286000"],
+          "rotated": ["1"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/638/177/1502_1_201111_adn21_mas.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["3557"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["6130"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1554766286000"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/638/177/large_1502_1_201111_adn21_mas.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["594"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["1024"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1554766286000"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/638/177/mid_1502_1_201111_adn21_mas.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["290"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1567429075000"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/672/7/preview_1502_1_201111_adn21_dc1.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["125"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1567429075000"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/672/7/1502_1_201111_adn21_dc1.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["1843"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["3693"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1567429075000"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/672/7/large_1502_1_201111_adn21_dc1.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["511"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["1024"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1567429075000"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/672/7/mid_1502_1_201111_adn21_dc1.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["250"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-30011"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-30011"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-30011"],
+        "summary_title": ["painting (image-making)"],
+        "descriptions": [
+          {
+            "description": ["oil on paper, laid down on canvas"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-106226"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106226"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106226"],
+        "summary_title": ["painting"]
+      }
+    ],
+    "inscription": [
+      {
+        "transcription": [
+          {
+            "value": ["J. Martin"]
+          }
+        ],
+        "location": ["lower right"],
+        "type": ["signature"]
+      },
+      {
+        "transcription": [
+          {
+            "value": ["1850"]
+          }
+        ],
+        "location": ["lower right"],
+        "type": ["date"]
+      },
+      {
+        "method": ["ink"],
+        "transcription": [
+          {
+            "value": ["John Martin KL No 2 / Lindsey House Chelsea / London"]
+          }
+        ],
+        "location": ["verso, wooden backing"]
+      },
+      {
+        "method": ["ink"],
+        "transcription": [
+          {
+            "value": ["Manchester (?)"]
+          }
+        ],
+        "location": ["verso, wooden backing"]
+      },
+      {
+        "transcription": [
+          {
+            "value": ["Laing Art Gallery"]
+          }
+        ],
+        "location": ["verso"],
+        "type": ["label"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-106226"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106226"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106226"],
+        "summary_title": ["painting"]
+      }
+    ],
+    "department": {
+      "value": ["Paintings, Drawings and Prints"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Height"],
+          "value": ["38.1"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Width"],
+          "value": ["76.3"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-144"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-144"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-144"],
+        "summary_title": ["Catalogue of Paintings in the Fitzwilliam Museum, Cambridge, Vol. III, British School"],
+        "page": ["162-163"]
+      },
+      {
+        "term": ["publication-847"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-847"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-847"],
+        "summary_title": ["British Landscape Paintings from the Fitzwilliam Museum, Cambridge"],
+        "page": ["90-91"],
+        "notes": ["cat. no. 36, reproduced (colour)"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-3629"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/3629"],
+    "object": ["object-3629"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

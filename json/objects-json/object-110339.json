@@ -1,0 +1,181 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-118788"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-118788"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-118788"],
+        "summary_title": ["cover or panel"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1997"],
+            "value": ["1997-12-05"],
+            "latest": ["1997"]
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["1901"],
+              "value": ["1901"],
+              "latest": ["1901"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["1999"],
+              "value": ["1999"],
+              "latest": ["1999"]
+            },
+            "earliest": ["1901"],
+            "latest": ["1999"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["20th century"],
+            "period": ["term-107318"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-107318"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107318"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["production"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["T.23-1997"],
+        "type": ["accession number"],
+        "value": ["T.23-1997"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["110339"],
+        "type": ["priref"],
+        "value": ["110339"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/110339"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/110339"]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-27589"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27589"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27589"],
+        "summary_title": ["weaving"],
+        "descriptions": [
+          {
+            "description": ["Cover in cream cotton with polychrome cotton embroidery. Borders of repeat geometric motifs; three geometric/stylized motifs at each end."]
+          }
+        ]
+      },
+      {
+        "term": ["term-29899"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-29899"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-29899"],
+        "summary_title": ["embroidering"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-118788"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-118788"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-118788"],
+        "summary_title": ["cover or panel"]
+      },
+      {
+        "value": ["Greek Island Embroidery"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1507906253000"],
+      "id": ["object-110339"]
+    },
+    "description": [
+      {
+        "value": ["Cover in cream cotton with polychrome cotton embroidery."]
+      },
+      {
+        "value": ["Borders of repeat geometric motifs; three geometric/stylized motifs at each end."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-29556"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-29556"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-29556"],
+        "summary_title": ["embroidery"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Length"],
+          "value": ["117.25"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Width"],
+          "value": ["37.5"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-110339"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/110339"],
+    "object": ["object-110339"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

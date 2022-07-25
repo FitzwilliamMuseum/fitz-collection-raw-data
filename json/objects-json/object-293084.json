@@ -1,0 +1,138 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-101192"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101192"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101192"],
+        "summary_title": ["groat"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["unknown"],
+        "agents": {
+          "agent": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "agent": ["agent-149652"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["1485"],
+              "value": ["1485"],
+              "latest": ["1485"]
+            },
+            "to": {
+              "earliest": ["1509"],
+              "value": ["1509"],
+              "latest": ["1509"]
+            },
+            "earliest": ["1485"],
+            "latest": ["1509"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Henry VII (1485-1509)"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-174073"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-174073"],
+            "term": ["agent-174073"],
+            "role": [
+              {
+                "value": ["ruler"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.BI.3995-R"],
+        "type": ["accession number"],
+        "value": ["CM.BI.3995-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["293084"],
+        "type": ["priref"],
+        "value": ["293084"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/293084"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/293084"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-101192"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101192"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101192"],
+        "summary_title": ["groat"]
+      },
+      {
+        "term": ["term-107139"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107139"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107139"],
+        "summary_title": ["England"]
+      }
+    ],
+    "admin": {
+      "created": ["1624287767000"],
+      "modified": ["1626432205000"],
+      "id": ["object-293084"]
+    },
+    "description": [
+      {
+        "value": ["England, Henry VII, AR groat, type IIIC, i.m. Pansy"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-293084"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/293084"],
+    "object": ["object-293084"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

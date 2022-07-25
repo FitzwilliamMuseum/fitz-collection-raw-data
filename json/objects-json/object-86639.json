@@ -1,0 +1,277 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-122523"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-122523"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-122523"],
+        "summary_title": ["inscribed plaque"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1874"],
+            "value": ["1874"],
+            "latest": ["1874"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Executors of C. F. Tyrwhitt Drake"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-161809"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-161809"],
+            "agent": ["agent-161809"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Raidat Yemen"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-113979"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-113979"],
+            "coordinates": {
+              "lat": ["15.0378507"],
+              "lng": ["50.477736"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["99"],
+              "value": ["1"],
+              "latest": ["1"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["200"],
+              "value": ["200"],
+              "latest": ["200"]
+            },
+            "earliest": ["99"],
+            "latest": ["200"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Roman"],
+            "period": ["term-111193"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-111193"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111193"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Raidat"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-132820"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-132820"],
+            "place": ["term-132820"],
+            "coordinates": {
+              "lat": ["15.0378507"],
+              "lng": ["50.477736"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Yemen"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["ANE.2.1874"],
+        "type": ["accession number"],
+        "value": ["ANE.2.1874"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["86639"],
+        "type": ["priref"],
+        "value": ["86639"]
+      },
+      {
+        "type": ["oldadmincategory"],
+        "value": ["O"]
+      },
+      {
+        "type": ["oldobjectnumber"],
+        "value": ["WAE.2.1874"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/86639"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/86639"]
+      }
+    ],
+    "multimedia": [
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616243743079"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant22/preview_ANE_2_1874.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["333"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616243743079"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant22/ANE_2_1874.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["760"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["570"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616243743079"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant22/ANE_2_1874.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["760"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["570"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616243743079"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant22/mid_ANE_2_1874.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["667"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-122523"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-122523"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-122523"],
+        "summary_title": ["inscribed plaque"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1481040496000"],
+      "id": ["object-86639"]
+    },
+    "description": [
+      {
+        "value": ["inscribed plaque with fourteen lines of text in relief. Dedication to the god Samic"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-45267"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-45267"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-45267"],
+        "summary_title": ["text"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "publications": [
+      {
+        "term": ["publication-200001698"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-200001698"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-200001698"],
+        "summary_title": ["[Unknown: Le Museon 64]"]
+      },
+      {
+        "term": ["publication-4105"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-4105"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-4105"],
+        "summary_title": ["Corpus inscriptionum Semiticarum [vol. 4]"]
+      },
+      {
+        "term": ["publication-200001445"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-200001445"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-200001445"],
+        "summary_title": ["Some Technical Aspects of the inscribed South Arabian bronze tablets cast in relief"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-86639"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/86639"],
+    "object": ["object-86639"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

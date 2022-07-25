@@ -1,0 +1,176 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-106414"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106414"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106414"],
+        "summary_title": ["mask"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1982"],
+            "value": ["1982"],
+            "latest": ["1982"]
+          }
+        ]
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Rome Italy"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-111213"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111213"],
+            "coordinates": {
+              "lat": ["41.8933203"],
+              "lng": ["12.4829321"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["AD"]
+              ],
+              "earliest": ["1"],
+              "value": ["0001"],
+              "latest": ["1"]
+            },
+            "to": {
+              "era": [
+                ["AD"]
+              ],
+              "earliest": ["200"],
+              "value": ["0200"],
+              "latest": ["200"]
+            },
+            "earliest": ["1"],
+            "latest": ["200"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Early Roman"],
+            "period": ["term-111186"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-111186"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111186"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Rome"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106366"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106366"],
+            "place": ["term-106366"],
+            "coordinates": {
+              "lat": ["41.8933203"],
+              "lng": ["12.4829321"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Italy"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.81.1982"],
+        "type": ["accession number"],
+        "value": ["GR.81.1982"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["70327"],
+        "type": ["priref"],
+        "value": ["70327"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/70327"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/70327"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-106414"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106414"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106414"],
+        "summary_title": ["mask"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1621012096000"],
+      "id": ["object-70327"]
+    },
+    "description": [
+      {
+        "value": ["dramatic mask"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-107454"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107454"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107454"],
+        "summary_title": ["figure"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Depth"],
+          "value": ["0.048"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.154"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.122"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-4415"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-4415"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-4415"],
+        "summary_title": ["Principal acquisitions 1979-83"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-70327"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/70327"],
+    "object": ["object-70327"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

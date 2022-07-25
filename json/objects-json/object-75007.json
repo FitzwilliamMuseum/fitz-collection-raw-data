@@ -1,0 +1,492 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-90855"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-90855"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-90855"],
+        "summary_title": ["dish"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["C.4-1947"],
+        "type": ["accession number"],
+        "value": ["C.4-1947"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["75007"],
+        "type": ["priref"],
+        "value": ["75007"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/75007"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/75007"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Unknown before Mrs H.G. Dashwood"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1582635341000"],
+      "id": ["object-75007"]
+    },
+    "description": [
+      {
+        "value": ["White earthenware, moulded in relief internally with the adjacent arms of Henry IV  (1553-161) as King of France and Navarre, surrounded by other motifs, and lead-glazed green; reverse unglazed."]
+      },
+      {
+        "value": ["White earthenware, moulded with relief decoration on the inside and covered with green lead-glaze which extends unevenly for a little way over the edge on the back; the rest is unglazed and appears dark brownish-grey. Circular with a narrow rim, and deep well with a slight boss in the centre, standing on a footring. At a later date this has been pierced by a hole at the top and another at bottom when the design is the right way up. The boss is decorated with the adjacent arms of France and Navarre below crowns. The arms are flanked by leaves broken by an 'H' at the bottom for Henry IV (1553-1610) . This is surrounded by a sunburst, and the double chain of the Order of the Saint Esprit with the French royal crown at the top. On either side are two angels with a rose spray above and below each of them. On the border there are four winged cherubs heads alternating with four lion's masks separated by stylized flowers. The reverse is undecorated."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1947"],
+            "value": ["1947-01-28"],
+            "latest": ["1947"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Dashwood, Helen Gladys, Mrs"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-166366"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-166366"],
+            "agent": ["agent-166366"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "note": [
+              {
+                "value": ["The Protestant Henry IV ruled as King of Navarre from 1572-1610. He succeeded to the throne of France on the death of Henry III in 1589 because of his descent from Louis IX. He renounced the Protestant faith in 1593 and was crowned King in 1594. He ruled until 1610 when he was murdered."]
+              }
+            ],
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["1600"],
+              "value": ["1600"],
+              "latest": ["1600"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["1650"],
+              "value": ["1650"],
+              "latest": ["1650"]
+            },
+            "earliest": ["1600"],
+            "latest": ["1650"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["early 17th Century"],
+            "period": ["term-106607"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106607"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106607"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unidentified Saintonges Pottery"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-189328"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-189328"],
+            "term": ["agent-189328"],
+            "role": [
+              {
+                "value": ["pottery"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Beauvais"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106883"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106883"],
+            "place": ["term-106883"],
+            "coordinates": {
+              "lat": ["49.4300997"],
+              "lng": ["2.0823355"]
+            },
+            "note": ["attribution at time of acquisition"],
+            "hierarchies": [
+              {
+                "summary_title": ["France"],
+                "type": ["country"]
+              }
+            ]
+          },
+          {
+            "summary_title": ["Saintonges"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-120895"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-120895"],
+            "place": ["term-120895"],
+            "coordinates": {
+              "lat": ["45.6579718"],
+              "lng": ["-0.1223843"]
+            },
+            "note": ["possibly"],
+            "hierarchies": [
+              {
+                "summary_title": ["France"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "school_or_style": [
+      {
+        "term": ["term-10618"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-10618"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-10618"],
+        "summary_title": ["Renaissance"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Front"],
+        "materials": [
+          {
+            "term": ["term-107733"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107733"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107733"],
+            "summary_title": ["lead-glaze"]
+          }
+        ]
+      },
+      {
+        "name": ["Rim"],
+        "materials": []
+      }
+    ],
+    "multimedia": [
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616242843934"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa2/preview_C_4_1947_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["181"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616242843934"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa2/C_4_1947_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["550"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["760"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616242843934"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa2/C_4_1947_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["550"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["760"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616242843934"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa2/mid_C_4_1947_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["362"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616273479334"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa2/preview_C_4_1947_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["181"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616273479334"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa2/C_4_1947_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["550"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["760"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616273479334"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa2/C_4_1947_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["550"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["760"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616273479334"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa2/mid_C_4_1947_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["362"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-120085"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-120085"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-120085"],
+        "summary_title": ["press-moulding"],
+        "descriptions": [
+          {
+            "description": ["white earthenware, press-moulded, and lead-glazed green on the front"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-90855"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-90855"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-90855"],
+        "summary_title": ["dish"]
+      }
+    ],
+    "inscription": [
+      {
+        "method": ["printed on paper which has been cut into strips and stuck on"],
+        "transcription": [
+          {
+            "value": ["36 A small deep circular dish of 'Terre . . . green. In centre of dish are the Arms of France and Navarre on two crowned shields, these are surrounded by collars and badges, a crown over all and H for Henry IV under the arms. On dip of dish are twoangels and flowers. On border, cherubs and lions' heads and flowers, all in relief"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["the last three words are in italics"]
+          }
+        ],
+        "location": ["on back of sides"],
+        "type": ["label"]
+      },
+      {
+        "method": ["hand-written in black ink"],
+        "transcription": [
+          {
+            "value": ["m. o. (crossed by a paraph) /T./E/-"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["rectangular label with a blue border on three sides"]
+          }
+        ],
+        "location": ["on back inside footring"],
+        "type": ["label"]
+      },
+      {
+        "method": ["printed with a blue line border, and inscribed in black ink"],
+        "transcription": [
+          {
+            "value": ["2 or 23"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["rectangular with cut corners and broad blue line border"]
+          }
+        ],
+        "location": ["on back inside footring, and partly under the second lavel"],
+        "type": ["label"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-108838"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-108838"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-108838"],
+        "summary_title": ["glazed earthenware"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Height"],
+          "value": ["4"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-5612"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-5612"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-5612"],
+        "summary_title": ["La Céramique Française"],
+        "page": ["18"],
+        "notes": ["Cf. p. 18, pl. V"]
+      },
+      {
+        "term": ["publication-5613"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-5613"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-5613"],
+        "summary_title": ["L'Art de la Terre Vernissée du Moyen Age à l'an 2000"],
+        "page": ["105, 221"],
+        "notes": ["Cf. p. 105, catalogue no. 79, and p. 221, Cat. 79, a comparable dish 17.5 cm in diameter attributed to Saintonge ? in the Musée des Beaux-Arts, Saintes (Inv. 87.12.1)."]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-75007"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/75007"],
+    "object": ["object-75007"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

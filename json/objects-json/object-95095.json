@@ -1,0 +1,150 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["2003"],
+            "value": ["2003-05"],
+            "latest": ["2005"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Dreyfus, John"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-163304"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-163304"],
+            "agent": ["agent-163304"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "era": [
+              ["CE"]
+            ],
+            "earliest": ["1962"],
+            "value": ["1962-09-16"],
+            "latest": ["1962"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Beauclair, Gotthard de"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-163939"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-163939"],
+            "term": ["agent-163939"],
+            "role": [
+              {
+                "value": ["writer"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Frankfurt"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106768"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106768"],
+            "place": ["term-106768"],
+            "coordinates": {
+              "lat": ["50.1106444"],
+              "lng": ["8.6820917"]
+            }
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["MS 60-2003"],
+        "type": ["accession number"],
+        "value": ["MS 60-2003"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["95095"],
+        "type": ["priref"],
+        "value": ["95095"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/95095"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/95095"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-33926"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-33926"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-33926"],
+            "summary_title": ["paper (fibre product)"]
+          }
+        ]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-27007"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27007"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27007"],
+        "summary_title": ["handwriting"],
+        "descriptions": []
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1598276485000"],
+      "id": ["object-95095"]
+    },
+    "description": [
+      {
+        "value": ["Gotthard de Beauclair to John Dreyfus enclosing a copy of his book, \"Modern German book design\"."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-103262"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-103262"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-103262"],
+        "summary_title": ["letter (correspondence)"]
+      },
+      {
+        "term": ["term-117339"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117339"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-117339"],
+        "summary_title": ["archive document"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-95095"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/95095"],
+    "object": ["object-95095"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

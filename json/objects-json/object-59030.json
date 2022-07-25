@@ -1,0 +1,206 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-110982"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110982"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110982"],
+        "summary_title": ["manicure set"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1943"],
+            "value": ["1943"],
+            "latest": ["1943"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Gayer-Anderson, Robert Grenville, Major"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159805"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159805"],
+            "agent": ["agent-159805"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["1000"],
+              "value": ["-1000"],
+              "latest": ["1000"]
+            },
+            "to": {
+              "precision": ["circa"],
+              "earliest": ["333"],
+              "value": ["-332"],
+              "latest": ["333"]
+            },
+            "earliest": ["1000"],
+            "latest": ["333"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["E.GA.4579.1943"],
+        "type": ["accession number"],
+        "value": ["E.GA.4579.1943"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["59030"],
+        "type": ["priref"],
+        "value": ["59030"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/59030"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/59030"]
+      }
+    ],
+    "multimedia": [
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616260353891"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant5/preview_E_GA_4579_1943.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["188"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616260353891"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant5/E_GA_4579_1943.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["570"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["760"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616260353891"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant5/E_GA_4579_1943.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["570"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["760"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616260353891"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant5/mid_E_GA_4579_1943.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["375"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-110982"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110982"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110982"],
+        "summary_title": ["manicure set"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1582634208000"],
+      "id": ["object-59030"]
+    },
+    "description": [
+      {
+        "value": ["manicure set"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-110814"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110814"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110814"],
+        "summary_title": ["cosmetic equipment"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-59030"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/59030"],
+    "object": ["object-59030"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

@@ -1,0 +1,130 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1953"],
+            "value": ["1953"],
+            "latest": ["1953"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["The Friends of the Fitzwilliam Museum"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149645"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149645"],
+            "agent": ["agent-149645"]
+          }
+        }
+      },
+      "creation": {
+        "periods": [
+          {
+            "summary_title": ["14th Century"],
+            "period": ["term-107695"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-107695"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107695"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["England"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-107139"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107139"],
+            "place": ["term-107139"],
+            "coordinates": {
+              "lat": ["52.5310214"],
+              "lng": ["-1.2649062"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["England"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["MS 7-1953"],
+        "type": ["accession number"],
+        "value": ["MS 7-1953"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["239479"],
+        "type": ["priref"],
+        "value": ["239479"]
+      },
+      {
+        "source": ["Cambridge Illuminated"],
+        "type": ["project ID"],
+        "value": ["564"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/239479"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/239479"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["East Anglia (shields of arms); Sotheby's sale, 4 May 1953, Lot 56; gift of the Friends, through Francis Wormald"]
+      }
+    ],
+    "admin": {
+      "created": ["1573817756000"],
+      "modified": ["1598266995000"],
+      "id": ["object-239479"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-110558"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110558"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110558"],
+        "summary_title": ["illuminated manuscript"]
+      },
+      {
+        "term": ["term-114522"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-114522"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-114522"],
+        "summary_title": ["manuscript"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "title": [
+      {
+        "value": ["Roll of Indulgenced Prayers"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-239479"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/239479"],
+    "object": ["object-239479"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

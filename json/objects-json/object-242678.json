@@ -1,0 +1,186 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-101372"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101372"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101372"],
+        "summary_title": ["denarius"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-200860"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-200860"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-200860"],
+        "summary_title": ["CAMFZ"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["2016"],
+            "value": ["2016-04-25"],
+            "latest": ["2016"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Buttrey, T.V., Prof."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-196171"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-196171"],
+            "agent": ["agent-196171"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["203"],
+              "value": ["0203"],
+              "latest": ["203"]
+            },
+            "to": {
+              "earliest": ["208"],
+              "value": ["0208"],
+              "latest": ["208"]
+            },
+            "earliest": ["203"],
+            "latest": ["208"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Rome"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149886"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149886"],
+            "term": ["agent-149886"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.117-2016"],
+        "type": ["accession number"],
+        "value": ["CM.117-2016"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["242678"],
+        "type": ["priref"],
+        "value": ["242678"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/242678"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/242678"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-39778"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39778"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39778"],
+            "summary_title": ["silver"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-101372"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101372"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101372"],
+        "summary_title": ["denarius"]
+      },
+      {
+        "term": ["term-113870"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-113870"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-113870"],
+        "summary_title": ["Roman Imperial"]
+      }
+    ],
+    "admin": {
+      "created": ["1597679948000"],
+      "modified": ["1626868389000"],
+      "id": ["object-242678"]
+    },
+    "inscription": [
+      {
+        "transcription": [
+          {
+            "value": ["P SEPTIMIVS GETA CAES"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Bare-headed, draped bust right"]
+          }
+        ],
+        "location": ["obverse"],
+        "type": ["design"]
+      },
+      {
+        "transcription": [
+          {
+            "value": ["PROVID DEORVM"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Providentia standing to left holding wand over globe."]
+          }
+        ],
+        "location": ["reverse"],
+        "type": ["design"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "publications": [
+      {
+        "term": ["publication-7692"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-7692"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-7692"],
+        "summary_title": ["Roman Imperial Coinage IV Part I Pertinax to Geta"],
+        "page": ["321"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-242678"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/242678"],
+    "object": ["object-242678"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

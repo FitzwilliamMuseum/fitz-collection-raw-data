@@ -1,0 +1,158 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-122695"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-122695"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-122695"],
+        "summary_title": ["ossuary"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bought"],
+        "date": [
+          {
+            "earliest": ["1966"],
+            "value": ["1966"],
+            "latest": ["1966"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Spink & Son"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-174400"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-174400"],
+            "agent": ["agent-174400"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Jerusalem"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-108521"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-108521"],
+            "coordinates": {
+              "lat": ["31.7788242"],
+              "lng": ["35.2257626"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["99"],
+              "value": ["1"],
+              "latest": ["1"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["5001"],
+              "value": ["50"],
+              "latest": ["5100"]
+            },
+            "earliest": ["99"],
+            "latest": ["5100"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["ANE.2.1966"],
+        "type": ["accession number"],
+        "value": ["ANE.2.1966"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["87609"],
+        "type": ["priref"],
+        "value": ["87609"]
+      },
+      {
+        "type": ["oldadmincategory"],
+        "value": ["O"]
+      },
+      {
+        "type": ["oldobjectnumber"],
+        "value": ["WAE.2.1966"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/87609"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/87609"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-122695"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-122695"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-122695"],
+        "summary_title": ["ossuary"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1407930827000"],
+      "id": ["object-87609"]
+    },
+    "description": [
+      {
+        "value": ["ossuary, with incised rosette decoration, traces of colour, Hebrew graffiti on lid. Water stains on interior preserve outlines of bones. Interior also contains slivers of glass"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-107301"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107301"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107301"],
+        "summary_title": ["burial"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Depth"],
+          "value": ["0.225"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Length"],
+          "value": ["0.415"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.277"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-87609"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/87609"],
+    "object": ["object-87609"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

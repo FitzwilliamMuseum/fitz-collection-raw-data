@@ -1,0 +1,153 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bought"],
+        "date": [
+          {
+            "earliest": ["1910"],
+            "value": ["1910"],
+            "latest": ["1910"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Wake, H. T."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-153138"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-153138"],
+            "agent": ["agent-153138"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["1470"],
+              "value": ["1470"],
+              "latest": ["1470"]
+            },
+            "to": {
+              "earliest": ["1473"],
+              "value": ["1473"],
+              "latest": ["1473"]
+            },
+            "earliest": ["1470"],
+            "latest": ["1473"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["15th century"],
+            "period": ["term-107270"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-107270"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107270"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Ovid"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-159039"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159039"],
+            "term": ["agent-159039"],
+            "role": [
+              {
+                "value": ["author"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Italy"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106629"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106629"],
+            "place": ["term-106629"],
+            "coordinates": {
+              "lat": ["42.6384261"],
+              "lng": ["12.674297"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Italy"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Verona"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["MS 272"],
+        "type": ["accession number"],
+        "value": ["MS 272"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["239355"],
+        "type": ["priref"],
+        "value": ["239355"]
+      },
+      {
+        "source": ["Cambridge Illuminated"],
+        "type": ["project ID"],
+        "value": ["1966"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/239355"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/239355"]
+      }
+    ],
+    "admin": {
+      "created": ["1573817734000"],
+      "modified": ["1598266978000"],
+      "id": ["object-239355"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-110558"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110558"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110558"],
+        "summary_title": ["illuminated manuscript"]
+      },
+      {
+        "term": ["term-114522"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-114522"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-114522"],
+        "summary_title": ["manuscript"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-239355"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/239355"],
+    "object": ["object-239355"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

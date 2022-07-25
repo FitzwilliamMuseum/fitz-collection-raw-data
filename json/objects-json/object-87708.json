@@ -1,0 +1,152 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-106616"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106616"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106616"],
+        "summary_title": ["lamp"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1975"],
+            "value": ["1975"],
+            "latest": ["1975"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Parker-Rhodes, D., Mrs"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-161859"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-161859"],
+            "agent": ["agent-161859"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Petra Jordan"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-112729"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-112729"],
+            "coordinates": {
+              "lat": ["30.3497724"],
+              "lng": ["35.376484630029"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["99"],
+              "value": ["1"],
+              "latest": ["1"]
+            },
+            "to": {
+              "earliest": ["100"],
+              "value": ["100"],
+              "latest": ["100"]
+            },
+            "earliest": ["99"],
+            "latest": ["100"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["ANE.1.1975"],
+        "type": ["accession number"],
+        "value": ["ANE.1.1975"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["87708"],
+        "type": ["priref"],
+        "value": ["87708"]
+      },
+      {
+        "type": ["oldadmincategory"],
+        "value": ["O"]
+      },
+      {
+        "type": ["oldobjectnumber"],
+        "value": ["WAE.1.1975"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/87708"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/87708"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-106616"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106616"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106616"],
+        "summary_title": ["lamp"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1482926804000"],
+      "id": ["object-87708"]
+    },
+    "description": [
+      {
+        "value": ["lamp, with relief decoration, voluted nozzle and scallop shell on discus"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-89198"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89198"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89198"],
+        "summary_title": ["vessel"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Depth"],
+          "value": ["0.028"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Length"],
+          "value": ["0.097"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.067"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-87708"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/87708"],
+    "object": ["object-87708"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

@@ -1,0 +1,137 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-42208"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-42208"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-42208"],
+        "summary_title": ["sword"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1946"],
+            "value": ["1946"],
+            "latest": ["1946"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Helm, J. E."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-184207"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-184207"],
+            "agent": ["agent-184207"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "precision": ["circa"],
+            "earliest": ["1537"],
+            "value": ["1537"],
+            "latest": ["1537"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["16th century"],
+            "period": ["term-106602"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106602"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106602"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Bizen"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-13960"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-13960"],
+            "place": ["term-13960"],
+            "coordinates": {
+              "lat": ["34.744987"],
+              "lng": ["134.1882633"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Japan"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["HELM.O.282-1946"],
+        "type": ["accession number"],
+        "value": ["HELM.O.282-1946"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["169484"],
+        "type": ["priref"],
+        "value": ["169484"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/169484"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/169484"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-42208"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-42208"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-42208"],
+        "summary_title": ["sword"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1582636788000"],
+      "id": ["object-169484"]
+    },
+    "description": [
+      {
+        "value": ["Blade. Signature: Nakagawa Shichirozayemon no jo Sukesada of Bizen. Dated 7th year Tenun period c. 1537"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-86575"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-86575"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-86575"],
+        "summary_title": ["weapons"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-169484"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/169484"],
+    "object": ["object-169484"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

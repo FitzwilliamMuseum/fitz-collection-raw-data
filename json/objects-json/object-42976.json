@@ -1,0 +1,193 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-97946"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-97946"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-97946"],
+        "summary_title": ["drawing"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["PD.2-2002"],
+        "type": ["accession number"],
+        "value": ["PD.2-2002"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["42976"],
+        "type": ["priref"],
+        "value": ["42976"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/42976"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/42976"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1626460722000"],
+      "id": ["object-42976"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["Landscape outside a village with travellers in a waggon"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["2002"],
+            "value": ["2002"],
+            "latest": ["2002"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Henkel, Katrin (Bellinger)"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-157867"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-157867"],
+            "agent": ["agent-157867"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "earliest": ["1813"],
+            "value": ["1813"],
+            "latest": ["1813"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Erhard, Johann Christoph"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-42191"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-42191"],
+            "term": ["agent-42191"],
+            "role": [
+              {
+                "value": ["draughtsman"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "school_or_style": [
+      {
+        "term": ["term-8400"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-8400"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-8400"],
+        "summary_title": ["German"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-106206"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106206"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106206"],
+            "summary_title": ["paper"]
+          }
+        ]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-97946"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-97946"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-97946"],
+        "summary_title": ["drawing"],
+        "descriptions": [
+          {
+            "description": ["graphite, point of the brush, grey and brown wash, bordered on all sides by a line of brown ink, on paper"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-97946"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-97946"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-97946"],
+        "summary_title": ["drawing"]
+      }
+    ],
+    "inscription": [
+      {
+        "method": ["brown ink"],
+        "transcription": [
+          {
+            "value": ["J.C. Erhard. del."]
+          }
+        ],
+        "location": ["lower right"],
+        "type": ["signature"]
+      },
+      {
+        "method": ["brown ink"],
+        "transcription": [
+          {
+            "value": ["1813"]
+          }
+        ],
+        "location": ["lower right, following the above"],
+        "type": ["date"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-97946"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-97946"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-97946"],
+        "summary_title": ["drawing"]
+      }
+    ],
+    "department": {
+      "value": ["Paintings, Drawings and Prints"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["mm"],
+          "dimension": ["Height"],
+          "value": ["172"]
+        },
+        {
+          "units": ["mm"],
+          "dimension": ["Width"],
+          "value": ["142"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-42976"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/42976"],
+    "object": ["object-42976"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

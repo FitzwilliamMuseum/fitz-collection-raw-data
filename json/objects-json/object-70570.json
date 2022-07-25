@@ -1,0 +1,165 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-107683"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107683"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107683"],
+        "summary_title": ["head"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1991"],
+            "value": ["1991"],
+            "latest": ["1991"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Reitlinger, Henry Scipio"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-150552"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-150552"],
+            "agent": ["agent-150552"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Tarentum Italy"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-111849"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111849"],
+            "coordinates": {
+              "lat": ["40.4712427"],
+              "lng": ["17.2432278"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["BCE"]
+              ],
+              "earliest": ["401"],
+              "value": ["-400"],
+              "latest": ["401"]
+            },
+            "to": {
+              "era": [
+                ["BCE"]
+              ],
+              "earliest": ["302"],
+              "value": ["-301"],
+              "latest": ["302"]
+            },
+            "earliest": ["401"],
+            "latest": ["302"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Classical"],
+            "period": ["term-14088"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-14088"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-14088"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Tarentum"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-119278"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119278"],
+            "place": ["term-119278"],
+            "coordinates": {
+              "lat": ["40.4712427"],
+              "lng": ["17.2432278"]
+            }
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.37.1991"],
+        "type": ["accession number"],
+        "value": ["GR.37.1991"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["70570"],
+        "type": ["priref"],
+        "value": ["70570"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/70570"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/70570"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-107683"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107683"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107683"],
+        "summary_title": ["head"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1337182855000"],
+      "id": ["object-70570"]
+    },
+    "description": [
+      {
+        "value": ["female head"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-107454"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107454"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107454"],
+        "summary_title": ["figure"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.115"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.12"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-70570"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/70570"],
+    "object": ["object-70570"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

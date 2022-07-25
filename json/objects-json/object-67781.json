@@ -1,0 +1,176 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-43000"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-43000"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-43000"],
+        "summary_title": ["statuette"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1903"],
+            "value": ["1903"],
+            "latest": ["1903"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Bosanquet, R. C."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-179767"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-179767"],
+            "agent": ["agent-179767"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Athens Attica Greece"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-111224"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111224"],
+            "coordinates": {
+              "lat": ["37.9839412"],
+              "lng": ["23.7283052"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["BCE"]
+              ],
+              "earliest": ["501"],
+              "value": ["-500"],
+              "latest": ["501"]
+            },
+            "to": {
+              "era": [
+                ["BCE"]
+              ],
+              "earliest": ["402"],
+              "value": ["-401"],
+              "latest": ["402"]
+            },
+            "earliest": ["501"],
+            "latest": ["402"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["archaic"],
+            "period": ["term-111220"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-111220"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111220"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Rhodes"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-15226"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-15226"],
+            "place": ["term-15226"],
+            "coordinates": {
+              "lat": ["36.17262995"],
+              "lng": ["27.919418145633"]
+            },
+            "note": ["possibly Rhodes"],
+            "hierarchies": [
+              {
+                "summary_title": ["Greek Islands"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.4.1903"],
+        "type": ["accession number"],
+        "value": ["GR.4.1903"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["67781"],
+        "type": ["priref"],
+        "value": ["67781"]
+      },
+      {
+        "type": ["oldmuseumnumber"],
+        "value": ["B26-1901"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/67781"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/67781"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-43000"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-43000"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-43000"],
+        "summary_title": ["statuette"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1426848566000"],
+      "id": ["object-67781"]
+    },
+    "description": [
+      {
+        "value": ["seated woman"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-107454"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107454"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107454"],
+        "summary_title": ["figure"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Depth"],
+          "value": ["0.055"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.11"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-67781"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/67781"],
+    "object": ["object-67781"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

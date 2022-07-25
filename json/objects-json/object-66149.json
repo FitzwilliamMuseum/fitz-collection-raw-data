@@ -1,0 +1,160 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-99236"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-99236"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-99236"],
+        "summary_title": ["figurine"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1888"],
+            "value": ["1888"],
+            "latest": ["1888"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Venning, R., Miss"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159449"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159449"],
+            "agent": ["agent-159449"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Athens Attica Greece"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-111224"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111224"],
+            "coordinates": {
+              "lat": ["37.9839412"],
+              "lng": ["23.7283052"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["501"],
+              "value": ["-500"],
+              "latest": ["501"]
+            },
+            "to": {
+              "earliest": ["402"],
+              "value": ["-401"],
+              "latest": ["402"]
+            },
+            "earliest": ["501"],
+            "latest": ["402"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Classical"],
+            "period": ["term-14088"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-14088"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-14088"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.2.1888"],
+        "type": ["accession number"],
+        "value": ["GR.2.1888"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["66149"],
+        "type": ["priref"],
+        "value": ["66149"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/66149"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/66149"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Fleece"],
+        "materials": [
+          {
+            "term": ["term-39618"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39618"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39618"],
+            "summary_title": ["zinc"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-99236"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-99236"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-99236"],
+        "summary_title": ["figurine"]
+      }
+    ],
+    "admin": {
+      "created": ["1312633661000"],
+      "modified": ["1326212510000"],
+      "id": ["object-66149"]
+    },
+    "description": [
+      {
+        "value": ["sheep"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-107454"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107454"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107454"],
+        "summary_title": ["figure"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.08"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.14"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-66149"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/66149"],
+    "object": ["object-66149"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

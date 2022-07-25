@@ -1,0 +1,154 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-43000"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-43000"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-43000"],
+        "summary_title": ["statuette"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1888"],
+            "value": ["1888"],
+            "latest": ["1888"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Guillemard, F. H. H., Dr (?)"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159451"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159451"],
+            "agent": ["agent-159451"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Cyprus"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-109616"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-109616"],
+            "coordinates": {
+              "lat": ["34.9823018"],
+              "lng": ["33.1451285"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["400"],
+              "value": ["-0400"],
+              "latest": ["400"]
+            },
+            "to": {
+              "earliest": ["301"],
+              "value": ["-0301"],
+              "latest": ["301"]
+            },
+            "earliest": ["400"],
+            "latest": ["301"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Classical"],
+            "period": ["term-14088"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-14088"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-14088"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.229.1888"],
+        "type": ["accession number"],
+        "value": ["GR.229.1888"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["66376"],
+        "type": ["priref"],
+        "value": ["66376"]
+      },
+      {
+        "type": ["oldmuseumnumber"],
+        "value": ["GR.129.1888 - changed March"]
+      },
+      {
+        "value": ["1985"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/66376"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/66376"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-43000"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-43000"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-43000"],
+        "summary_title": ["statuette"]
+      }
+    ],
+    "admin": {
+      "created": ["1312633661000"],
+      "modified": ["1607350497000"],
+      "id": ["object-66376"]
+    },
+    "description": [
+      {
+        "value": ["woman, with lyre"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-107454"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107454"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107454"],
+        "summary_title": ["figure"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.278"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.113"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-66376"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/66376"],
+    "object": ["object-66376"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

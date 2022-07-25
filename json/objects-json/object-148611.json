@@ -1,0 +1,380 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-101372"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101372"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101372"],
+        "summary_title": ["denarius"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["CM.732-1992"],
+        "type": ["accession number"],
+        "value": ["CM.732-1992"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["148611"],
+        "type": ["priref"],
+        "value": ["148611"]
+      },
+      {
+        "type": ["BMC"],
+        "value": ["-"]
+      },
+      {
+        "type": ["RIC"],
+        "value": ["-"]
+      },
+      {
+        "type": ["ordering"],
+        "value": ["RI-2339"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/148611"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/148611"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Lanz sale 60 (11 Jun. 1992) lot 616."]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1594852669000"],
+      "id": ["object-148611"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bought"],
+        "date": [
+          {
+            "earliest": ["1992"],
+            "value": ["1992-07-20"],
+            "latest": ["1992"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Numismatik Lanz München"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-174913"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-174913"],
+            "agent": ["agent-174913"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["193"],
+              "value": ["193"],
+              "latest": ["193"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["194"],
+              "value": ["194"],
+              "latest": ["194"]
+            },
+            "earliest": ["193"],
+            "latest": ["194"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Antioch"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-161934"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-161934"],
+            "term": ["agent-161934"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Antioch"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-114517"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-114517"],
+            "place": ["term-114517"],
+            "coordinates": {
+              "lat": ["38.0049214"],
+              "lng": ["-121.805789"]
+            }
+          }
+        ]
+      }
+    },
+    "multimedia": [
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616273238500"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm16/preview_CM_732_1992_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["256"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616273238500"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm16/CM_732_1992_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["765"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["746"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616273238500"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm16/CM_732_1992_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["765"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["746"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616273238500"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm16/mid_CM_732_1992_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["513"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616267219754"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm16/preview_CM_732_1992_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["261"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616267219754"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm16/CM_732_1992_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["765"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["734"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616267219754"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm16/CM_732_1992_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["765"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["734"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616267219754"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm16/mid_CM_732_1992_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["521"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-119622"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119622"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119622"],
+        "summary_title": ["struck"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-101372"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101372"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101372"],
+        "summary_title": ["denarius"]
+      },
+      {
+        "term": ["term-113870"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-113870"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-113870"],
+        "summary_title": ["Roman Imperial"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["g"],
+          "dimension": ["Weight"],
+          "value": ["2.59"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-200002074"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-200002074"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-200002074"],
+        "summary_title": ["The President's Address delivered 16 June 1992"],
+        "page": ["xii"],
+        "notes": ["fig. 4"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-148611"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/148611"],
+    "object": ["object-148611"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

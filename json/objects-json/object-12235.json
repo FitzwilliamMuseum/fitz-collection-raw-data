@@ -1,0 +1,288 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-97946"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-97946"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-97946"],
+        "summary_title": ["drawing"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["PD.104-1975"],
+        "type": ["accession number"],
+        "value": ["PD.104-1975"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["12235"],
+        "type": ["priref"],
+        "value": ["12235"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/12235"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/12235"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1596470409000"],
+      "id": ["object-12235"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["Portrait of Martha Gellhorn"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1975"],
+            "value": ["1975"],
+            "latest": ["1975"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Matthews, T. S."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-150558"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-150558"],
+            "agent": ["agent-150558"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "era": [
+              ["CE"]
+            ],
+            "earliest": ["1958"],
+            "value": ["1958"],
+            "latest": ["1958"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Perlin, Bernard"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-106016"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-106016"],
+            "term": ["agent-106016"],
+            "role": [
+              {
+                "value": ["draughtsman"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "school_or_style": [
+      {
+        "term": ["term-9183"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-9183"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-9183"],
+        "summary_title": ["American"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-106206"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106206"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106206"],
+            "summary_title": ["paper"]
+          }
+        ]
+      }
+    ],
+    "multimedia": [
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616279252351"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp66/preview_PD_104_1975.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["240"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616279252351"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp66/PD_104_1975.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["982"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["1024"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616279252351"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp66/PD_104_1975.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["982"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["1024"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616279252351"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp66/mid_PD_104_1975.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["479"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["499"]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-97946"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-97946"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-97946"],
+        "summary_title": ["drawing"],
+        "descriptions": [
+          {
+            "description": ["graphite on paper laid down on cotton"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-97946"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-97946"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-97946"],
+        "summary_title": ["drawing"]
+      }
+    ],
+    "inscription": [
+      {
+        "method": ["graphite"],
+        "transcription": [
+          {
+            "value": ["Bernard Perlin"]
+          }
+        ],
+        "location": ["lower right"],
+        "type": ["signature"]
+      },
+      {
+        "method": ["graphite"],
+        "transcription": [
+          {
+            "value": ["1958"]
+          }
+        ],
+        "location": ["lower right, following the above"],
+        "type": ["date"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-97946"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-97946"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-97946"],
+        "summary_title": ["drawing"]
+      }
+    ],
+    "department": {
+      "value": ["Paintings, Drawings and Prints"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["mm"],
+          "dimension": ["Height"],
+          "value": ["1058"]
+        },
+        {
+          "units": ["mm"],
+          "dimension": ["Width"],
+          "value": ["1041"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-12235"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/12235"],
+    "object": ["object-12235"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

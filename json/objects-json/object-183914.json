@@ -1,0 +1,162 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["2008"],
+            "value": ["2008-11-24"],
+            "latest": ["2008"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Taylor, Geoffrey"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-151969"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-151969"],
+            "agent": ["agent-151969"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Torksey, Lincolnshire"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-130593"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-130593"],
+            "coordinates": {
+              "lat": ["53.3002756"],
+              "lng": ["-0.7448882"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["800"],
+              "value": ["800"],
+              "latest": ["800"]
+            },
+            "to": {
+              "earliest": ["999"],
+              "value": ["999"],
+              "latest": ["999"]
+            },
+            "earliest": ["800"],
+            "latest": ["999"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Early Medieval"],
+            "period": ["term-12571"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-12571"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12571"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Anglo-Saxon"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-187571"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-187571"],
+            "term": ["agent-187571"]
+          }
+        }
+      }
+    },
+    "summary": [
+      {
+        "term": ["term-130630"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-130630"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-130630"],
+        "summary_title": ["Knife blade"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["CM.1993-2008"],
+        "type": ["accession number"],
+        "value": ["CM.1993-2008"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["183914"],
+        "type": ["priref"],
+        "value": ["183914"]
+      },
+      {
+        "type": ["YAT 17/06"],
+        "value": ["1761"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/183914"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/183914"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-114506"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-114506"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-114506"],
+            "summary_title": ["iron"]
+          }
+        ]
+      },
+      {
+        "name": ["Whole Object"],
+        "materials": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-130630"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-130630"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-130630"],
+        "summary_title": ["Knife blade"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1431942757000"],
+      "id": ["object-183914"]
+    },
+    "description": [
+      {
+        "value": ["A short, iron, tanged 'angle-back' knife blade. This type is diagnostically Anglo-saxon and dates from the ninth and tenth centuries."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-183914"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/183914"],
+    "object": ["object-183914"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

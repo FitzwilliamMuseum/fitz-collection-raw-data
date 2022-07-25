@@ -1,0 +1,153 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-107796"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107796"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107796"],
+        "summary_title": ["knife"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1901"],
+            "value": ["1901"],
+            "latest": ["1901"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Bosanquet, R. C."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-179767"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-179767"],
+            "agent": ["agent-179767"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["1600"],
+              "value": ["-1600"],
+              "latest": ["1600"]
+            },
+            "to": {
+              "earliest": ["1101"],
+              "value": ["-1101"],
+              "latest": ["1101"]
+            },
+            "earliest": ["1600"],
+            "latest": ["1101"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Late Minoan & Bronze Age"],
+            "period": ["term-114885"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-114885"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-114885"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Crete"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-118834"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-118834"],
+            "place": ["term-118834"],
+            "coordinates": {
+              "lat": ["35.3084952"],
+              "lng": ["24.463342318423"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Greek Islands"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.13b.1901"],
+        "type": ["accession number"],
+        "value": ["GR.13b.1901"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["67438"],
+        "type": ["priref"],
+        "value": ["67438"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/67438"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/67438"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-107796"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107796"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107796"],
+        "summary_title": ["knife"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1603276576000"],
+      "id": ["object-67438"]
+    },
+    "description": [
+      {
+        "value": ["knife"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-78429"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-78429"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-78429"],
+        "summary_title": ["tool"]
+      },
+      {
+        "term": ["term-137150"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-137150"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-137150"],
+        "summary_title": ["implement"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Length"],
+          "value": ["0.103"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-67438"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/67438"],
+    "object": ["object-67438"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

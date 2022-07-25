@@ -1,0 +1,174 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-42208"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-42208"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-42208"],
+        "summary_title": ["sword"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1946"],
+            "value": ["1946"],
+            "latest": ["1946"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Helm, J. E."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-184207"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-184207"],
+            "agent": ["agent-184207"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "precision": ["circa"],
+            "earliest": ["1558"],
+            "value": ["1558"],
+            "latest": ["1558"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["16th century"],
+            "period": ["term-106602"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106602"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106602"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Kanenori"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-181565"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-181565"],
+            "term": ["agent-181565"],
+            "role": [
+              {
+                "value": ["production"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Mino"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-127599"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-127599"],
+            "place": ["term-127599"],
+            "coordinates": {
+              "lat": ["34.862898"],
+              "lng": ["135.475719"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Japan"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["HELM.O.272-1946"],
+        "type": ["accession number"],
+        "value": ["HELM.O.272-1946"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["169475"],
+        "type": ["priref"],
+        "value": ["169475"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/169475"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/169475"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Tsuba"],
+        "materials": [
+          {
+            "term": ["term-114506"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-114506"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-114506"],
+            "summary_title": ["iron"]
+          }
+        ]
+      },
+      {
+        "name": ["Nunome"],
+        "materials": [
+          {
+            "term": ["term-39593"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39593"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39593"],
+            "summary_title": ["gold"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-42208"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-42208"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-42208"],
+        "summary_title": ["sword"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1582636785000"],
+      "id": ["object-169475"]
+    },
+    "description": [
+      {
+        "value": ["Long blade. Signature: Kanenori (Eiroku) (Mino province) c.1558. Tsuba made from iron, pierced and chased with soldiers in landscape.  Gold nunome rim and details."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-86575"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-86575"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-86575"],
+        "summary_title": ["weapons"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-169475"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/169475"],
+    "object": ["object-169475"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

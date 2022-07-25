@@ -1,0 +1,189 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-101078"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101078"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101078"],
+        "summary_title": ["dirham"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["1941"],
+            "value": ["1941-05-22"],
+            "latest": ["1941"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Girton College"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-167100"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-167100"],
+            "agent": ["agent-167100"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "note": [
+              {
+                "value": ["AH 193"]
+              }
+            ],
+            "range": ["1"],
+            "from": {
+              "earliest": ["808"],
+              "value": ["808"],
+              "latest": ["808"]
+            },
+            "to": {
+              "earliest": ["809"],
+              "value": ["809"],
+              "latest": ["809"]
+            },
+            "earliest": ["808"],
+            "latest": ["809"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Madinat al-Salam"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-167885"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-167885"],
+            "term": ["agent-167885"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Madinat al-Salam"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-123246"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-123246"],
+            "place": ["term-123246"],
+            "coordinates": {
+              "lat": ["13.87651505"],
+              "lng": ["45.243812137803"]
+            }
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.GC.1-R"],
+        "type": ["accession number"],
+        "value": ["CM.GC.1-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["106345"],
+        "type": ["priref"],
+        "value": ["106345"]
+      },
+      {
+        "type": ["catalogue"],
+        "value": ["517"]
+      },
+      {
+        "type": ["ordering"],
+        "value": ["IS-0478"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/106345"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/106345"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-101078"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101078"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101078"],
+        "summary_title": ["dirham"]
+      },
+      {
+        "term": ["term-451"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-451"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-451"],
+        "summary_title": ["Islamic"]
+      },
+      {
+        "term": ["term-117821"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117821"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-117821"],
+        "summary_title": ["‘Abbasids"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1551873572000"],
+      "id": ["object-106345"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-167100"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-167100"],
+        "owner": ["agent-167100"],
+        "summary_title": ["Girton College"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["degrees"],
+          "dimension": ["Die Axis"],
+          "value": ["45"]
+        },
+        {
+          "units": ["mm"],
+          "dimension": ["Image(height)"],
+          "value": ["23"]
+        },
+        {
+          "units": ["mm"],
+          "dimension": ["Image(width)"],
+          "value": ["22"]
+        },
+        {
+          "units": ["g"],
+          "dimension": ["Weight"],
+          "value": ["2.8"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-106345"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/106345"],
+    "object": ["object-106345"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

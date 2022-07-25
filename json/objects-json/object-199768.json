@@ -1,0 +1,172 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1991"],
+            "value": ["1991"],
+            "latest": ["1991"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Lister, Raymond"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-152474"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-152474"],
+            "agent": ["agent-152474"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "era": [
+              ["CE"]
+            ],
+            "earliest": ["1963"],
+            "value": ["1963"],
+            "latest": ["1963"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Crampton and Sons"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-160555"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-160555"],
+            "term": ["agent-160555"],
+            "role": [
+              {
+                "value": ["printer"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Cambridge (Cambs.)"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106176"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106176"],
+            "place": ["term-106176"],
+            "coordinates": {
+              "lat": ["52.19758465"],
+              "lng": ["0.13915373736874"]
+            }
+          },
+          {
+            "summary_title": ["Sawston"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-117045"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117045"],
+            "place": ["term-117045"],
+            "coordinates": {
+              "lat": ["52.1252327"],
+              "lng": ["0.1693457"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["England"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Cambridgeshire"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["PB 177-1991"],
+        "type": ["accession number"],
+        "value": ["PB 177-1991"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["199768"],
+        "type": ["priref"],
+        "value": ["199768"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/199768"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/199768"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-106206"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106206"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106206"],
+            "summary_title": ["paper"]
+          }
+        ]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-27526"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27526"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27526"],
+        "summary_title": ["printing"],
+        "descriptions": []
+      }
+    ],
+    "admin": {
+      "created": ["1408709792000"],
+      "modified": ["1408710035000"],
+      "id": ["object-199768"]
+    },
+    "description": [
+      {
+        "value": ["\"This edition ... is limted to two hundred and seventy-five numbered and signed impressions on hand made paper. It has been printed by Crampton & Sons, Ltd., of Sawston, Cambridge\"--t.p. verso.\n Museum has copy no. 125, signed by Raymond Lister."]
+      },
+      {
+        "value": ["[4], 20 p : 6 plates (incl. facsims., ports.) ; 23 cm."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-102154"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-102154"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-102154"],
+        "summary_title": ["book"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["The miniature defined"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-199768"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/199768"],
+    "object": ["object-199768"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

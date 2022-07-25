@@ -1,0 +1,184 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-108938"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-108938"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-108938"],
+        "summary_title": ["collar"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["2001"],
+            "value": ["2001-03-05"],
+            "latest": ["2001"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Shoenberg, C. F., Mrs"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-169193"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-169193"],
+            "agent": ["agent-169193"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["1880"],
+              "value": ["1880"],
+              "latest": ["1880"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["1920"],
+              "value": ["1920"],
+              "latest": ["1920"]
+            },
+            "earliest": ["1880"],
+            "latest": ["1920"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["late 19th-early 20th Century"],
+            "period": ["term-120900"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-120900"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-120900"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["production"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["T.5-2001"],
+        "type": ["accession number"],
+        "value": ["T.5-2001"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["110184"],
+        "type": ["priref"],
+        "value": ["110184"]
+      },
+      {
+        "source": ["The Fitzwilliam Museum"],
+        "type": ["Entry form"],
+        "value": ["152"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/110184"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/110184"]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-40230"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-40230"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-40230"],
+        "summary_title": ["needlepoint (lace)"],
+        "descriptions": [
+          {
+            "description": ["needle lace"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-108938"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-108938"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-108938"],
+        "summary_title": ["collar"]
+      },
+      {
+        "value": ["Needle lace"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1507907485000"],
+      "id": ["object-110184"]
+    },
+    "description": [
+      {
+        "value": ["Collar in needle lace in the 'Gros Point' style of the 17th century.  Quite crudely worked and probably made at an Irish school or workshop set up with a philantropic motive."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-39352"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39352"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39352"],
+        "summary_title": ["lace"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Length"],
+          "value": ["43"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Width"],
+          "value": ["13"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-110184"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/110184"],
+    "object": ["object-110184"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

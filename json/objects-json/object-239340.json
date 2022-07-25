@@ -1,0 +1,132 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bought"],
+        "date": [
+          {
+            "earliest": ["1897"],
+            "value": ["1897"],
+            "latest": ["1897"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Phillipps, Thomas, Sir"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-184666"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-184666"],
+            "agent": ["agent-184666"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "precision": ["circa"],
+            "earliest": ["1250"],
+            "value": ["1250"],
+            "latest": ["1250"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["13th Century"],
+            "period": ["term-107871"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-107871"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107871"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["France"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-120306"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-120306"],
+            "place": ["term-120306"],
+            "coordinates": {
+              "lat": ["46.603354"],
+              "lng": ["1.8883335"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["France"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["MS 245"],
+        "type": ["accession number"],
+        "value": ["MS 245"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["239340"],
+        "type": ["priref"],
+        "value": ["239340"]
+      },
+      {
+        "source": ["Cambridge Illuminated"],
+        "type": ["project ID"],
+        "value": ["3446"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/239340"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/239340"]
+      }
+    ],
+    "admin": {
+      "created": ["1573817732000"],
+      "modified": ["1598266976000"],
+      "id": ["object-239340"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-110558"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110558"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110558"],
+        "summary_title": ["illuminated manuscript"]
+      },
+      {
+        "term": ["term-114522"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-114522"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-114522"],
+        "summary_title": ["manuscript"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "title": [
+      {
+        "value": ["Collectar (Carthusian)"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-239340"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/239340"],
+    "object": ["object-239340"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

@@ -1,0 +1,126 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1929"],
+            "value": ["1929"],
+            "latest": ["1929"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Lamb, Winifred"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159497"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159497"],
+            "agent": ["agent-159497"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Troy Troad Turkey"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-111435"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111435"]
+          }
+        ]
+      },
+      "creation": {
+        "places": [
+          {
+            "summary_title": ["Troy"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-125358"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-125358"],
+            "place": ["term-125358"],
+            "coordinates": {
+              "lat": ["39.95737395"],
+              "lng": ["26.238017461012"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Turkey"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Troad"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "summary": [
+      {
+        "term": ["term-106294"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106294"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106294"],
+        "summary_title": ["unknown"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["GR.8e.1929"],
+        "type": ["accession number"],
+        "value": ["GR.8e.1929"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["69028"],
+        "type": ["priref"],
+        "value": ["69028"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/69028"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/69028"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-106294"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106294"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106294"],
+        "summary_title": ["unknown"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1337264571000"],
+      "id": ["object-69028"]
+    },
+    "description": [
+      {
+        "value": ["sherd"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-89198"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89198"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89198"],
+        "summary_title": ["vessel"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-69028"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/69028"],
+    "object": ["object-69028"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

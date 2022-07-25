@@ -1,0 +1,174 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-107454"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107454"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107454"],
+        "summary_title": ["figure"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["2016"],
+            "value": ["2016"],
+            "latest": ["2016"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Shakeshaft, John, Dr"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-172527"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-172527"],
+            "agent": ["agent-172527"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["after"],
+              "earliest": ["1936"],
+              "value": ["1936"],
+              "latest": ["1936"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["before"],
+              "earliest": ["1972"],
+              "value": ["1972-10"],
+              "latest": ["1910"]
+            },
+            "earliest": ["1936"],
+            "latest": ["1910"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["20th century"],
+            "period": ["term-107318"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-107318"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107318"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Duckworth, Ruth"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-39161"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-39161"],
+            "term": ["agent-39161"],
+            "role": [
+              {
+                "value": ["potter"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["C.212-2016"],
+        "type": ["accession number"],
+        "value": ["C.212-2016"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["207858"],
+        "type": ["priref"],
+        "value": ["207858"]
+      },
+      {
+        "type": ["Sale catalogue photo number"],
+        "value": ["K340"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/207858"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/207858"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Bought by Shakeshaft from the British Crafts Centre (now the Contemporary Applied Arts), Earlham Street. 15th October 1972"]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-127610"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-127610"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-127610"],
+        "summary_title": ["hand built"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-107454"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107454"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107454"],
+        "summary_title": ["figure"]
+      }
+    ],
+    "admin": {
+      "created": ["1453481934000"],
+      "modified": ["1609946939000"],
+      "id": ["object-207858"]
+    },
+    "description": [
+      {
+        "value": ["Large black stoneware anthropomorphic standing figure, made up of four joined sections. \n1) The head, made of a broad squat hand built circular jar, turned on its side, with the short narrow neck representing a jar.\n2) Two thrown tapering jars, flattened and joined at their bases, placed horizontally under the head to represent arms and torso.\n3) A hand built strong curved cylinder to represent legs and hips.\n4) A thick rectangular slab base.\nA thin grey-green wash has been applied in places."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-42825"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-42825"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-42825"],
+        "summary_title": ["stoneware"]
+      },
+      {
+        "term": ["term-42692"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-42692"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-42692"],
+        "summary_title": ["Studio Ceramics"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-207858"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/207858"],
+    "object": ["object-207858"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

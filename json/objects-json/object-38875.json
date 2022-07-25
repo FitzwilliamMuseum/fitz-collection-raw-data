@@ -1,0 +1,199 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1916"],
+            "value": ["1916-12"],
+            "latest": ["1912"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Murray, Charles Fairfax"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-153239"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-153239"],
+            "agent": ["agent-153239"]
+          }
+        }
+      },
+      "creation": {
+        "maker": {
+          "maker": {
+            "summary_title": ["Flaxman, John"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-45771"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-45771"],
+            "term": ["agent-45771"],
+            "role": [
+              {
+                "value": ["draughtsman"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["832/3"],
+        "type": ["accession number"],
+        "value": ["832/3"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["38875"],
+        "type": ["priref"],
+        "value": ["38875"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/38875"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/38875"]
+      }
+    ],
+    "school_or_style": [
+      {
+        "term": ["term-9168"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-9168"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-9168"],
+        "summary_title": ["British"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-37166"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-37166"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-37166"],
+            "summary_title": ["laid paper"]
+          }
+        ]
+      },
+      {
+        "name": ["Leaf"],
+        "materials": []
+      },
+      {
+        "name": ["Cover"],
+        "materials": []
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1635433089000"],
+      "id": ["object-38875"]
+    },
+    "description": [
+      {
+        "value": ["Vellum bound sketchbook containing 28 leaves, including two which are apparently not originally from the book (f.11 and f.28). The first 14 leaves have been cut out, and are detached from the binding. Front cover has a flap and a length of string so that the covers may be fastened to protect the leaves. The following leaves have been removed: five preceding f.15; one following f.24 and one following f.26. Many other leaves appear to have been cut out and are missing."]
+      }
+    ],
+    "inscription": [
+      {
+        "method": ["black ink"],
+        "transcription": [
+          {
+            "value": ["Hindu"]
+          }
+        ],
+        "location": ["spine"]
+      },
+      {
+        "method": ["printed label with black ink MS additions"],
+        "transcription": [
+          {
+            "value": [".[6]77"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["the left edge of the label is torn"]
+          }
+        ],
+        "location": ["outside front cover, lower left"]
+      },
+      {
+        "method": ["graphite"],
+        "transcription": [
+          {
+            "value": ["P VII.58.59"]
+          }
+        ],
+        "location": ["inside rear cover, upper right"]
+      },
+      {
+        "method": ["graphite"],
+        "transcription": [
+          {
+            "value": ["Q.III 42 R XII.14 / P VIII.58.59"]
+          }
+        ],
+        "location": ["inside rear cover, below"]
+      },
+      {
+        "method": ["printed label with black ink MS additions"],
+        "transcription": [
+          {
+            "value": ["448H"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["upside down"]
+          }
+        ],
+        "location": ["outside rear cover, lower right"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-101697"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101697"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101697"],
+        "summary_title": ["sketchbook"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["Sketchbook"]
+      },
+      {
+        "type": ["inside front cover; assigned"],
+        "value": ["A map; various sketches of figures (all graphite)"]
+      },
+      {
+        "type": ["inside rear cover; assigned"],
+        "value": ["Profile of a seated figure; various slight graphite sketches"]
+      }
+    ],
+    "department": {
+      "value": ["Paintings, Drawings and Prints"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-38875"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/38875"],
+    "object": ["object-38875"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

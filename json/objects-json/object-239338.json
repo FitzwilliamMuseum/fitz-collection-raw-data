@@ -1,0 +1,111 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "creation": {
+        "periods": [
+          {
+            "summary_title": ["13th Century"],
+            "period": ["term-107871"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-107871"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107871"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Vincent de Beauvais"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-140737"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-140737"],
+            "term": ["agent-140737"],
+            "role": [
+              {
+                "value": ["author"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["France"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-120306"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-120306"],
+            "place": ["term-120306"],
+            "coordinates": {
+              "lat": ["46.603354"],
+              "lng": ["1.8883335"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["France"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["MS 240"],
+        "type": ["accession number"],
+        "value": ["MS 240"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["239338"],
+        "type": ["priref"],
+        "value": ["239338"]
+      },
+      {
+        "source": ["Cambridge Illuminated"],
+        "type": ["project ID"],
+        "value": ["1210"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/239338"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/239338"]
+      }
+    ],
+    "admin": {
+      "created": ["1573817731000"],
+      "modified": ["1598266976000"],
+      "id": ["object-239338"]
+    },
+    "categories": [
+      {
+        "term": ["term-110558"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110558"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110558"],
+        "summary_title": ["illuminated manuscript"]
+      },
+      {
+        "term": ["term-114522"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-114522"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-114522"],
+        "summary_title": ["manuscript"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "title": [
+      {
+        "value": ["de Laudibus Beate Virginis"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-239338"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/239338"],
+    "object": ["object-239338"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

@@ -1,0 +1,151 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-117777"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117777"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-117777"],
+        "summary_title": ["drachm"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["unknown"],
+        "agents": {
+          "agent": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "agent": ["agent-149652"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["161"],
+              "value": ["0161"],
+              "latest": ["161"]
+            },
+            "to": {
+              "earliest": ["180"],
+              "value": ["0180"],
+              "latest": ["180"]
+            },
+            "earliest": ["161"],
+            "latest": ["180"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Marcus Aurelius (AD 161-80)"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-174671"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-174671"],
+            "term": ["agent-174671"],
+            "role": [
+              {
+                "value": ["ruler"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.G.1118-R"],
+        "type": ["accession number"],
+        "value": ["CM.G.1118-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["305496"],
+        "type": ["priref"],
+        "value": ["305496"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/305496"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/305496"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-40365"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-40365"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-40365"],
+            "summary_title": ["bronze"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-117777"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117777"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-117777"],
+        "summary_title": ["drachm"]
+      },
+      {
+        "term": ["term-119511"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119511"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119511"],
+        "summary_title": ["Roman Provincial"]
+      },
+      {
+        "term": ["term-107870"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107870"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107870"],
+        "summary_title": ["Egypt"]
+      }
+    ],
+    "admin": {
+      "created": ["1628597299000"],
+      "modified": ["1628597299000"],
+      "id": ["object-305496"]
+    },
+    "description": [
+      {
+        "value": ["Roman Provincial, Egypt, Marcus Aurelius (161-80), AE drachm, Alexandria, Milne2498"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-305496"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/305496"],
+    "object": ["object-305496"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

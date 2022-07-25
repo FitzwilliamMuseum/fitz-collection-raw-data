@@ -1,0 +1,302 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-23035"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-23035"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-23035"],
+        "summary_title": ["bust"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["C.843-2016"],
+        "type": ["accession number"],
+        "value": ["C.843-2016"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["215840"],
+        "type": ["priref"],
+        "value": ["215840"]
+      },
+      {
+        "type": ["old number"],
+        "value": ["260"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/215840"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/215840"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["The estate of G. D. V. Glynn"]
+      }
+    ],
+    "admin": {
+      "created": ["1495624548000"],
+      "modified": ["1602600929000"],
+      "id": ["object-215840"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["Elizabeth Fry (1780-1845)"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["allocated"],
+        "date": [
+          {
+            "earliest": ["2016"],
+            "value": ["2016-01-25"],
+            "latest": ["2016"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["H.M. Government"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-150141"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-150141"],
+            "agent": ["agent-150141"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "note": [
+              {
+                "value": ["date of model"]
+              }
+            ],
+            "era": [
+              ["CE"]
+            ],
+            "earliest": ["1843"],
+            "value": ["1843-03-18"],
+            "latest": ["1843"]
+          },
+          {
+            "note": [
+              {
+                "value": ["date of model"]
+              }
+            ],
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["1845"],
+              "value": ["1845"],
+              "latest": ["1845"]
+            },
+            "earliest": ["1845"],
+            "latest": ["1845"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["mid 19th century"],
+            "period": ["term-109672"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-109672"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-109672"]
+          },
+          {
+            "summary_title": ["Victoria I"],
+            "period": ["term-120127"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-120127"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-120127"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Minton"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-166167"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-166167"],
+            "term": ["agent-166167"],
+            "role": [
+              {
+                "value": ["factory"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Stoke-on-Trent"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-110455"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110455"],
+            "place": ["term-110455"],
+            "coordinates": {
+              "lat": ["53.0162014"],
+              "lng": ["-2.1812607"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["England"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "component": [
+      {
+        "name": ["Base"],
+        "materials": []
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-28383"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-28383"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-28383"],
+        "summary_title": ["slip casting"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-23035"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-23035"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-23035"],
+        "summary_title": ["bust"]
+      }
+    ],
+    "inscription": [
+      {
+        "method": ["incised"],
+        "transcription": [
+          {
+            "value": ["Mary Rivers Sc"]
+          }
+        ],
+        "location": ["reverse of shoulders of bust"],
+        "type": ["name"]
+      },
+      {
+        "transcription": [
+          {
+            "value": ["Published As the/Act Directs/Mar 18 1843"]
+          }
+        ],
+        "location": ["on reverse of lower part of bust"],
+        "type": ["inscription"]
+      },
+      {
+        "method": ["incised"],
+        "transcription": [
+          {
+            "value": ["inverted arrowhead with three dots below"]
+          }
+        ],
+        "location": ["on inside of socle"],
+        "type": ["factory mark"]
+      },
+      {
+        "method": ["typed"],
+        "transcription": [
+          {
+            "value": ["260."]
+          }
+        ],
+        "description": [
+          {
+            "value": ["circular white paper stick-on label"]
+          }
+        ],
+        "location": ["on underside of socle"],
+        "type": ["label"]
+      },
+      {
+        "method": ["printed and hand-written in blue biro"],
+        "transcription": [
+          {
+            "value": ["Richard Dennis/Parian Exhibition/1984 (printed) 165 (biro)"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["rectangular white paper stick-on label"]
+          }
+        ],
+        "location": ["on reverse of bust partly over inscription"],
+        "type": ["label"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-37641"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-37641"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-37641"],
+        "summary_title": ["Parian (porcelain)"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Height"],
+          "value": ["12.3"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Length"],
+          "value": ["7.2"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Width"],
+          "value": ["5"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-3696"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-3696"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-3696"],
+        "summary_title": ["The Parian Phenomenon, A Survey of Victorian Parian Porcelain Statuary and Busts"],
+        "page": ["124"],
+        "notes": ["Cf. p. 124, fig. 465, centre, a bust of Mrs Fry by Mary Rivers, attributed to Minton, Shape 176."]
+      },
+      {
+        "term": ["publication-2727"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-2727"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-2727"],
+        "summary_title": ["Minton 1798-1910"],
+        "page": ["16"],
+        "notes": ["Ref. For the Ermine mark, see p. 16, Mark No. 5"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-215840"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/215840"],
+    "object": ["object-215840"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

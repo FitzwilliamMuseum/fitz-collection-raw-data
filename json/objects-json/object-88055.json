@@ -1,0 +1,150 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1923"],
+            "value": ["1923"],
+            "latest": ["1923"]
+          }
+        ]
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["temple of Artemis Orthia Sparta Greece"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-111631"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111631"],
+            "coordinates": {
+              "lat": ["37.0828678"],
+              "lng": ["22.43511445"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["BC"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["800"],
+              "value": ["-0800"],
+              "latest": ["800"]
+            },
+            "to": {
+              "era": [
+                ["BC"]
+              ],
+              "earliest": ["701"],
+              "value": ["-0701"],
+              "latest": ["701"]
+            },
+            "earliest": ["800"],
+            "latest": ["701"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Geometric"],
+            "period": ["term-14071"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-14071"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-14071"]
+          }
+        ]
+      }
+    },
+    "summary": [
+      {
+        "term": ["term-109541"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-109541"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-109541"],
+        "summary_title": ["jewellery"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["GR.23.1923"],
+        "type": ["accession number"],
+        "value": ["GR.23.1923"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["88055"],
+        "type": ["priref"],
+        "value": ["88055"]
+      },
+      {
+        "type": ["oldadmincategory"],
+        "value": ["B"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/88055"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/88055"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-109541"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-109541"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-109541"],
+        "summary_title": ["jewellery"]
+      }
+    ],
+    "admin": {
+      "created": ["1312633661000"],
+      "modified": ["1621012114000"],
+      "id": ["object-88055"]
+    },
+    "description": [
+      {
+        "value": ["brooch, with 4 coils around central boss"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-109541"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-109541"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-109541"],
+        "summary_title": ["jewellery"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Depth"],
+          "value": ["0.008"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.045"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-88055"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/88055"],
+    "object": ["object-88055"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

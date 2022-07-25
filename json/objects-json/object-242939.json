@@ -1,0 +1,188 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-117783"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117783"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-117783"],
+        "summary_title": ["nummus"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-200860"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-200860"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-200860"],
+        "summary_title": ["CAMFZ"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["2016"],
+            "value": ["2016-07-11"],
+            "latest": ["2016"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Buttrey, T.V., Prof."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-196171"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-196171"],
+            "agent": ["agent-196171"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["309"],
+              "value": ["0309"],
+              "latest": ["309"]
+            },
+            "to": {
+              "precision": ["circa"],
+              "earliest": ["310"],
+              "value": ["0310"],
+              "latest": ["310"]
+            },
+            "earliest": ["309"],
+            "latest": ["310"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Lugdunum"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-161584"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-161584"],
+            "term": ["agent-161584"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.378-2016"],
+        "type": ["accession number"],
+        "value": ["CM.378-2016"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["242939"],
+        "type": ["priref"],
+        "value": ["242939"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/242939"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/242939"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-40365"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-40365"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-40365"],
+            "summary_title": ["bronze"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-117783"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117783"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-117783"],
+        "summary_title": ["nummus"]
+      },
+      {
+        "term": ["term-113870"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-113870"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-113870"],
+        "summary_title": ["Roman Imperial"]
+      }
+    ],
+    "admin": {
+      "created": ["1597679984000"],
+      "modified": ["1626868401000"],
+      "id": ["object-242939"]
+    },
+    "inscription": [
+      {
+        "transcription": [
+          {
+            "value": ["IMP CONSTANTINVS P F AVG"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Laureate, draped, cuirassed bust right"]
+          }
+        ],
+        "location": ["obverse"],
+        "type": ["design"]
+      },
+      {
+        "transcription": [
+          {
+            "value": ["SOLI INVICTO COMITI. Mintmark: F/T//PLG"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Sol standing facing."]
+          }
+        ],
+        "location": ["reverse"],
+        "type": ["design"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "publications": [
+      {
+        "term": ["publication-7235"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-7235"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-7235"],
+        "summary_title": ["Roman Imperial Coinage VI"],
+        "page": ["265"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-242939"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/242939"],
+    "object": ["object-242939"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

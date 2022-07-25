@@ -1,0 +1,299 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-111143"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111143"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-111143"],
+        "summary_title": ["lamp fragment"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["GR.15.1969"],
+        "type": ["accession number"],
+        "value": ["GR.15.1969"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["69773"],
+        "type": ["priref"],
+        "value": ["69773"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/69773"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/69773"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1468844853000"],
+      "id": ["object-69773"]
+    },
+    "description": [
+      {
+        "value": ["lamp discus, Eros with double flute"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bought"],
+        "date": [
+          {
+            "earliest": ["1969"],
+            "value": ["1969"],
+            "latest": ["1969"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Rouse, W. H. D., Dr"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159587"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159587"],
+            "agent": ["agent-159587"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Athens (?) Attica Greece"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-111668"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111668"],
+            "coordinates": {
+              "lat": ["37.9839412"],
+              "lng": ["23.7283052"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["201"],
+              "value": ["201"],
+              "latest": ["201"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["400"],
+              "value": ["400"],
+              "latest": ["400"]
+            },
+            "earliest": ["201"],
+            "latest": ["400"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Middle Roman"],
+            "period": ["term-111183"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-111183"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111183"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Athens"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-107608"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107608"],
+            "place": ["term-107608"],
+            "coordinates": {
+              "lat": ["37.9839412"],
+              "lng": ["23.7283052"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Greece"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Attica"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "component": [
+      {
+        "name": ["Discus"],
+        "materials": []
+      }
+    ],
+    "multimedia": [
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616248439980"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant9/preview_GR_15_1969.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["333"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616248439980"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant9/GR_15_1969.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["760"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["570"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616248439980"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant9/GR_15_1969.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["760"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["570"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616248439980"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant9/mid_GR_15_1969.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["667"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-111143"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111143"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-111143"],
+        "summary_title": ["lamp fragment"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-110836"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110836"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110836"],
+        "summary_title": ["lighting equipment"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.053"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.047"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-4012"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-4012"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-4012"],
+        "summary_title": ["Athenian Agora vol VII"]
+      },
+      {
+        "term": ["publication-200001366"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-200001366"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-200001366"],
+        "summary_title": ["Debris from an Athenian lamp workshop of the Roman period"]
+      },
+      {
+        "term": ["publication-200001431"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-200001431"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-200001431"],
+        "summary_title": ["Recent Acquisitions by the Fitzwilliam Museum, Cambridge"]
+      },
+      {
+        "term": ["publication-7438"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-7438"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-7438"],
+        "summary_title": ["Catalogue of Lamps in the British Museum III"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-69773"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/69773"],
+    "object": ["object-69773"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

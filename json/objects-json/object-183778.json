@@ -1,0 +1,346 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-130609"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-130609"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-130609"],
+        "summary_title": ["Strap end fragment"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bought"],
+        "date": [
+          {
+            "earliest": ["2010"],
+            "value": ["2010-07-12"],
+            "latest": ["2010"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Slack, Paul"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-187528"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-187528"],
+            "agent": ["agent-187528"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Torksey, Lincolnshire"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-130593"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-130593"],
+            "coordinates": {
+              "lat": ["53.3002756"],
+              "lng": ["-0.7448882"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["800"],
+              "value": ["0800"],
+              "latest": ["800"]
+            },
+            "to": {
+              "earliest": ["1099"],
+              "value": ["1099"],
+              "latest": ["1099"]
+            },
+            "earliest": ["800"],
+            "latest": ["1099"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Early Medieval"],
+            "period": ["term-12571"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-12571"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12571"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Anglo-Saxon"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-187571"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-187571"],
+            "term": ["agent-187571"]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.629-2010"],
+        "type": ["accession number"],
+        "value": ["CM.629-2010"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["183778"],
+        "type": ["priref"],
+        "value": ["183778"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/183778"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/183778"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Bought as a part of group of 52 objects for £650"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-39741"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39741"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39741"],
+            "summary_title": ["copper alloy"]
+          }
+        ]
+      },
+      {
+        "name": ["Whole Object"],
+        "materials": []
+      }
+    ],
+    "multimedia": [
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616276526884"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm34/preview_CM_629_2010_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["367"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616276526884"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm34/CM_629_2010_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["765"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["521"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616276526884"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm34/CM_629_2010_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["765"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["521"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616276526884"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm34/mid_CM_629_2010_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["734"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616248452346"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm34/preview_CM_629_2010_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["359"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616248452346"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm34/CM_629_2010_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["765"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["532"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616248452346"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm34/CM_629_2010_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["765"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["532"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616248452346"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm34/mid_CM_629_2010_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["719"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-130609"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-130609"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-130609"],
+        "summary_title": ["Strap end fragment"]
+      }
+    ],
+    "admin": {
+      "created": ["1312633661000"],
+      "modified": ["1617210745000"],
+      "id": ["object-183778"]
+    },
+    "description": [
+      {
+        "value": ["A terminal fragment of an Anglo-Saxon copper-alloy strap-end. Broken just above the zoomorphic terminal."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-183778"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/183778"],
+    "object": ["object-183778"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

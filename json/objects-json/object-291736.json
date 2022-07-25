@@ -1,0 +1,138 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-101415"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101415"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101415"],
+        "summary_title": ["penny"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["unknown"],
+        "agents": {
+          "agent": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "agent": ["agent-149652"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["1080"],
+              "value": ["1080"],
+              "latest": ["1080"]
+            },
+            "to": {
+              "earliest": ["1087"],
+              "value": ["1087"],
+              "latest": ["1087"]
+            },
+            "earliest": ["1080"],
+            "latest": ["1087"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["William I (1066-87)"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-160103"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-160103"],
+            "term": ["agent-160103"],
+            "role": [
+              {
+                "value": ["ruler"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.BI.18-R"],
+        "type": ["accession number"],
+        "value": ["CM.BI.18-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["291736"],
+        "type": ["priref"],
+        "value": ["291736"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/291736"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/291736"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-101415"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101415"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101415"],
+        "summary_title": ["penny"]
+      },
+      {
+        "term": ["term-107139"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107139"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107139"],
+        "summary_title": ["England"]
+      }
+    ],
+    "admin": {
+      "created": ["1624287685000"],
+      "modified": ["1626432161000"],
+      "id": ["object-291736"]
+    },
+    "description": [
+      {
+        "value": ["England, William I type 8, silver penny, Oxford, Brihtred, 1.40g."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-291736"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/291736"],
+    "object": ["object-291736"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

@@ -1,0 +1,165 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-101673"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101673"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101673"],
+        "summary_title": ["prospectus"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["PM 4-2004"],
+        "type": ["accession number"],
+        "value": ["PM 4-2004"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["108049"],
+        "type": ["priref"],
+        "value": ["108049"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/108049"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/108049"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1346677502000"],
+      "id": ["object-108049"]
+    },
+    "description": [
+      {
+        "value": ["Prospectus for \"Watcher in Florence\"; compliments slip with engraving; engraved label \"Twenty five poems\" (Vine Press?)"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["Items relating to Vine Press"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["2003"],
+            "value": ["2003-05"],
+            "latest": ["2005"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Dreyfus, John"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-163304"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-163304"],
+            "agent": ["agent-163304"]
+          }
+        }
+      },
+      "creation": {
+        "maker": {
+          "maker": {
+            "summary_title": ["Vine Press"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-164043"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-164043"],
+            "term": ["agent-164043"],
+            "role": [
+              {
+                "value": ["printer"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Hemingford Grey"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-115636"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-115636"],
+            "place": ["term-115636"],
+            "coordinates": {
+              "lat": ["52.3062233"],
+              "lng": ["-0.10066456755555"]
+            }
+          }
+        ]
+      }
+    },
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-106206"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106206"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106206"],
+            "summary_title": ["paper"]
+          }
+        ]
+      },
+      {
+        "name": ["Illustration"],
+        "materials": []
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-27526"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27526"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27526"],
+        "summary_title": ["printing"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-101673"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101673"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101673"],
+        "summary_title": ["prospectus"]
+      },
+      {
+        "term": ["term-115491"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-115491"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-115491"],
+        "summary_title": ["compliments slip"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-117339"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117339"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-117339"],
+        "summary_title": ["archive document"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-108049"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/108049"],
+    "object": ["object-108049"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

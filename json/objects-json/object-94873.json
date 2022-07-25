@@ -1,0 +1,151 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["2003"],
+            "value": ["2003-05"],
+            "latest": ["2005"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Dreyfus, John"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-163304"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-163304"],
+            "agent": ["agent-163304"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "era": [
+              ["CE"]
+            ],
+            "earliest": ["1991"],
+            "value": ["1991-11-04"],
+            "latest": ["1991"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Gardner, William"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-163811"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-163811"],
+            "term": ["agent-163811"],
+            "role": [
+              {
+                "value": ["writer"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Hollingrove"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-115594"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-115594"],
+            "place": ["term-115594"],
+            "coordinates": {
+              "lat": ["-38.0814487"],
+              "lng": ["145.3658058"]
+            },
+            "note": ["written in Hollingrove"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["MS 23-2003"],
+        "type": ["accession number"],
+        "value": ["MS 23-2003"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["94873"],
+        "type": ["priref"],
+        "value": ["94873"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/94873"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/94873"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-33926"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-33926"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-33926"],
+            "summary_title": ["paper (fibre product)"]
+          }
+        ]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-27007"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27007"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27007"],
+        "summary_title": ["handwriting"],
+        "descriptions": []
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1598276469000"],
+      "id": ["object-94873"]
+    },
+    "description": [
+      {
+        "value": ["William Gardner to John Dreyfus. Found in Dreyfus's copy of Gardner's Book of Calligraphy."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-103262"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-103262"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-103262"],
+        "summary_title": ["letter (correspondence)"]
+      },
+      {
+        "term": ["term-117339"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117339"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-117339"],
+        "summary_title": ["archive document"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-94873"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/94873"],
+    "object": ["object-94873"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

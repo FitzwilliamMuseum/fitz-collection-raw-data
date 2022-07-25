@@ -1,0 +1,176 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-117783"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117783"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-117783"],
+        "summary_title": ["nummus"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-200860"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-200860"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-200860"],
+        "summary_title": ["CAMFZ"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bought"],
+        "date": [
+          {
+            "earliest": ["2016"],
+            "value": ["2016-11-21"],
+            "latest": ["2016"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Savoca Numismatik GmbH & Co. KG"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-190700"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-190700"],
+            "agent": ["agent-190700"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "earliest": ["320"],
+            "value": ["0320"],
+            "latest": ["320"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Siscia"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-166996"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-166996"],
+            "term": ["agent-166996"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.600-2016"],
+        "type": ["accession number"],
+        "value": ["CM.600-2016"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["243161"],
+        "type": ["priref"],
+        "value": ["243161"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/243161"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/243161"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-40365"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-40365"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-40365"],
+            "summary_title": ["bronze"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-117783"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117783"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-117783"],
+        "summary_title": ["nummus"]
+      },
+      {
+        "term": ["term-113870"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-113870"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-113870"],
+        "summary_title": ["Roman Imperial"]
+      }
+    ],
+    "admin": {
+      "created": ["1597680014000"],
+      "modified": ["1626868413000"],
+      "id": ["object-243161"]
+    },
+    "inscription": [
+      {
+        "transcription": [
+          {
+            "value": ["LICINIVS IVN NOB CAES"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Laureate, cuirassed bust left, holding up victory on globe."]
+          }
+        ],
+        "location": ["obverse"],
+        "type": ["design"]
+      },
+      {
+        "transcription": [
+          {
+            "value": ["VIRTVS EXERCIT. S - F HL in left and right fields. Mintmark:?SISC(crescent)."]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Two captives either side of a standard inscribed VOT / X."]
+          }
+        ],
+        "location": ["reverse"],
+        "type": ["design"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "publications": [
+      {
+        "term": ["publication-7236"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-7236"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-7236"],
+        "summary_title": ["Roman Imperial Coinage VII"],
+        "page": ["440"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-243161"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/243161"],
+    "object": ["object-243161"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

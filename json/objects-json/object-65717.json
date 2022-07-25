@@ -1,0 +1,187 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-89881"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89881"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89881"],
+        "summary_title": ["squat lekythos"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bought"],
+        "date": [
+          {
+            "earliest": ["1864"],
+            "value": ["1864"],
+            "latest": ["1864"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Leake, William Martin"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-77439"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-77439"],
+            "agent": ["agent-77439"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Athens Attica Greece"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-111224"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111224"],
+            "coordinates": {
+              "lat": ["37.9839412"],
+              "lng": ["23.7283052"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["501"],
+              "value": ["-500"],
+              "latest": ["501"]
+            },
+            "to": {
+              "earliest": ["402"],
+              "value": ["-401"],
+              "latest": ["402"]
+            },
+            "earliest": ["501"],
+            "latest": ["402"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Classical"],
+            "period": ["term-14088"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-14088"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-14088"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Athens"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-107608"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107608"],
+            "place": ["term-107608"],
+            "coordinates": {
+              "lat": ["37.9839412"],
+              "lng": ["23.7283052"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Greece"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Attica"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.135.1864"],
+        "type": ["accession number"],
+        "value": ["GR.135.1864"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["65717"],
+        "type": ["priref"],
+        "value": ["65717"]
+      },
+      {
+        "type": ["oldmuseumnumber"],
+        "value": ["G186"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/65717"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/65717"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-89881"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89881"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89881"],
+        "summary_title": ["squat lekythos"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1428674364000"],
+      "id": ["object-65717"]
+    },
+    "description": [
+      {
+        "value": ["squat lekythos, ribbed"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-89198"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89198"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89198"],
+        "summary_title": ["vessel"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.119"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.07"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-4059"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-4059"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-4059"],
+        "summary_title": ["Catalogue of the Greek vases in the Fitzwilliam Museum, Cambridge"]
+      },
+      {
+        "term": ["publication-4113"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-4113"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-4113"],
+        "summary_title": ["Corpus vasorum antiquorum. Great Britain ; fasc.6, fasc.1. Cambridge"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-65717"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/65717"],
+    "object": ["object-65717"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

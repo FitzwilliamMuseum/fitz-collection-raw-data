@@ -1,0 +1,160 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-101131"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101131"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101131"],
+        "summary_title": ["follis"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1977"],
+            "value": ["1977-11-28"],
+            "latest": ["1977"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Kidd, M. K."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-174381"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-174381"],
+            "agent": ["agent-174381"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["631"],
+              "value": ["0631"],
+              "latest": ["631"]
+            },
+            "to": {
+              "precision": ["circa"],
+              "earliest": ["641"],
+              "value": ["0641"],
+              "latest": ["641"]
+            },
+            "earliest": ["631"],
+            "latest": ["641"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Heraclius (610-641)"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-193000"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-193000"],
+            "term": ["agent-193000"],
+            "role": [
+              {
+                "value": ["ruler"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.128-1977"],
+        "type": ["accession number"],
+        "value": ["CM.128-1977"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["281427"],
+        "type": ["priref"],
+        "value": ["281427"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/281427"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/281427"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Under Review"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-40365"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-40365"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-40365"],
+            "summary_title": ["bronze"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-101131"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101131"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101131"],
+        "summary_title": ["follis"]
+      },
+      {
+        "term": ["term-10591"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-10591"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-10591"],
+        "summary_title": ["Byzantine"]
+      }
+    ],
+    "admin": {
+      "created": ["1615452439000"],
+      "modified": ["1623679118000"],
+      "id": ["object-281427"]
+    },
+    "description": [
+      {
+        "value": ["Byzantine Empire, Heraclius, AD 610-641, bronze follis, restruck in Sicily ca.631-641"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-281427"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/281427"],
+    "object": ["object-281427"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

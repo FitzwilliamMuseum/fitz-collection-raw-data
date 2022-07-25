@@ -1,0 +1,185 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-101415"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101415"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101415"],
+        "summary_title": ["penny"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1930"],
+            "value": ["1930-02-15"],
+            "latest": ["1930"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Duncanson, T. J. G."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-154693"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-154693"],
+            "agent": ["agent-154693"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["862"],
+              "value": ["862"],
+              "latest": ["862"]
+            },
+            "earliest": ["862"],
+            "latest": ["862"]
+          },
+          {
+            "range": ["1"],
+            "to": {
+              "earliest": ["869"],
+              "value": ["869"],
+              "latest": ["869"]
+            },
+            "earliest": ["869"],
+            "latest": ["869"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Ipswich"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-160013"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-160013"],
+            "term": ["agent-160013"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.1.28-1930"],
+        "type": ["accession number"],
+        "value": ["CM.1.28-1930"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["216447"],
+        "type": ["priref"],
+        "value": ["216447"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/216447"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/216447"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-39778"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39778"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39778"],
+            "summary_title": ["silver"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-101415"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101415"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101415"],
+        "summary_title": ["penny"]
+      },
+      {
+        "term": ["term-10603"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-10603"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-10603"],
+        "summary_title": ["Medieval"]
+      },
+      {
+        "term": ["term-14584"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-14584"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-14584"],
+        "summary_title": ["Anglo-Saxon"]
+      },
+      {
+        "term": ["term-107139"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107139"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107139"],
+        "summary_title": ["England"]
+      }
+    ],
+    "admin": {
+      "created": ["1405952095000"],
+      "modified": ["1564155280000"],
+      "id": ["object-216447"]
+    },
+    "inscription": [
+      {
+        "transcription": [
+          {
+            "value": ["+EaD¹VND REX / `"]
+          }
+        ],
+        "location": ["obverse"],
+        "type": ["design"]
+      },
+      {
+        "transcription": [
+          {
+            "value": ["+EaD¹VND ¹o"]
+          }
+        ],
+        "location": ["reverse"],
+        "type": ["design"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-216447"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/216447"],
+    "object": ["object-216447"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

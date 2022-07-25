@@ -1,0 +1,135 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-81073"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-81073"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-81073"],
+        "summary_title": ["dog"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1899"],
+            "value": ["1899"],
+            "latest": ["1899"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Perceval, Spencer George"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-151972"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-151972"],
+            "agent": ["agent-151972"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["101"],
+              "value": ["101"],
+              "latest": ["101"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["300"],
+              "value": ["300"],
+              "latest": ["300"]
+            },
+            "earliest": ["101"],
+            "latest": ["300"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Imperial Roman"],
+            "period": ["term-111400"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-111400"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111400"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.26.1899"],
+        "type": ["accession number"],
+        "value": ["GR.26.1899"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["67226"],
+        "type": ["priref"],
+        "value": ["67226"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/67226"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/67226"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-81073"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-81073"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-81073"],
+        "summary_title": ["dog"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1337169254000"],
+      "id": ["object-67226"]
+    },
+    "description": [
+      {
+        "value": ["dog"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-107454"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107454"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107454"],
+        "summary_title": ["figure"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Length"],
+          "value": ["0.047"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-67226"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/67226"],
+    "object": ["object-67226"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

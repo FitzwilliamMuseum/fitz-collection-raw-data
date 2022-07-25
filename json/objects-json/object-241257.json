@@ -1,0 +1,380 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-133024"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-133024"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-133024"],
+        "summary_title": ["Dichalkon"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["CM.94-2017"],
+        "type": ["accession number"],
+        "value": ["CM.94-2017"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["241257"],
+        "type": ["priref"],
+        "value": ["241257"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/241257"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/241257"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Ex Numismatik Naumann, Auction 48, Lot 40."]
+      }
+    ],
+    "admin": {
+      "created": ["1594903514000"],
+      "modified": ["1626868352000"],
+      "id": ["object-241257"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-200860"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-200860"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-200860"],
+        "summary_title": ["CAMFZ"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bought"],
+        "date": [
+          {
+            "earliest": ["2017"],
+            "value": ["2017-01-23"],
+            "latest": ["2017"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Numismatik Naumann GmbH"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-195601"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-195601"],
+            "agent": ["agent-195601"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["350"],
+              "value": ["-0350"],
+              "latest": ["350"]
+            },
+            "to": {
+              "precision": ["circa"],
+              "earliest": ["200"],
+              "value": ["-0200"],
+              "latest": ["200"]
+            },
+            "earliest": ["350"],
+            "latest": ["200"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Apollonia Pontika"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-201059"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-201059"],
+            "term": ["agent-201059"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-40365"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-40365"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-40365"],
+            "summary_title": ["bronze"]
+          }
+        ]
+      }
+    ],
+    "multimedia": [
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616247556482"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm65/preview_CM_94_2017_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["250"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616247556482"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm65/CM_94_2017_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["2835"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["2835"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616247556482"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm65/large_CM_94_2017_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["1024"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["1024"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616247556482"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm65/mid_CM_94_2017_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["500"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616276123053"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm65/preview_CM_94_2017_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["250"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616276123053"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm65/CM_94_2017_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["2835"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["2835"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616276123053"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm65/large_CM_94_2017_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["1024"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["1024"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616276123053"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm65/mid_CM_94_2017_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["500"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-133024"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-133024"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-133024"],
+        "summary_title": ["Dichalkon"]
+      },
+      {
+        "term": ["term-133795"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-133795"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-133795"],
+        "summary_title": ["Ancient Greek"]
+      },
+      {
+        "term": ["term-119347"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119347"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119347"],
+        "summary_title": ["Thrace"]
+      },
+      {
+        "term": ["term-119350"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119350"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119350"],
+        "summary_title": ["Apollonia Pontica"]
+      }
+    ],
+    "inscription": [
+      {
+        "description": [
+          {
+            "value": ["Head, right."]
+          }
+        ],
+        "location": ["reverse"],
+        "type": ["design"]
+      },
+      {
+        "transcription": [
+          {
+            "value": ["??XA? KIH"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["obverse"]
+          }
+        ],
+        "type": ["design"]
+      },
+      {
+        "description": [
+          {
+            "value": ["Anchor"]
+          }
+        ]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-241257"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/241257"],
+    "object": ["object-241257"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

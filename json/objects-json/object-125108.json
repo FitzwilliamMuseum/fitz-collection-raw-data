@@ -1,0 +1,168 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["2004"],
+            "value": ["2004"],
+            "latest": ["2004"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Pouncey, Jacqueline"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-172573"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-172573"],
+            "agent": ["agent-172573"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["1730"],
+              "value": ["1730"],
+              "latest": ["1730"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["1736"],
+              "value": ["1736"],
+              "latest": ["1736"]
+            },
+            "earliest": ["1730"],
+            "latest": ["1736"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Rossi, Antonio de"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-172662"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-172662"],
+            "term": ["agent-172662"],
+            "role": [
+              {
+                "value": ["publisher"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Rome"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106366"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106366"],
+            "place": ["term-106366"],
+            "coordinates": {
+              "lat": ["41.8933203"],
+              "lng": ["12.4829321"]
+            }
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["PB 203-2004"],
+        "type": ["accession number"],
+        "value": ["PB 203-2004"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["125108"],
+        "type": ["priref"],
+        "value": ["125108"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/125108"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/125108"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-106206"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106206"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106206"],
+            "summary_title": ["paper"]
+          }
+        ]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-27526"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27526"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27526"],
+        "summary_title": ["printing"],
+        "descriptions": []
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1582636174000"],
+      "id": ["object-125108"]
+    },
+    "description": [
+      {
+        "value": ["Scritte, e dedicate alla maesta di Vittorio Amadeo, re di Sardegna, da Lione Pascoli."]
+      },
+      {
+        "value": ["Vol 2: \"alla maesta di Carlo Emanuel re di Sardegna ...\"\nTitle page in red and black; ornamental initials throughout\nIn Roma : Per Antonio de’ Rossi nella Strada del Seminario Romano, 1730-1736."]
+      },
+      {
+        "value": ["2 v. ([24], 330, [6]; [14], 560, [6] p.) ; 26 cm."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-102154"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-102154"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-102154"],
+        "summary_title": ["book"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["Vite de’ pittori, scultori, ed architetti moderni"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-125108"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/125108"],
+    "object": ["object-125108"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

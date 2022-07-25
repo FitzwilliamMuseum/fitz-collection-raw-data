@@ -1,0 +1,123 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bought"],
+        "date": [
+          {
+            "earliest": ["1896"],
+            "value": ["1896"],
+            "latest": ["1896"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Parsons"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-104337"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-104337"],
+            "agent": ["agent-104337"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "earliest": ["1697"],
+            "value": ["1697"],
+            "latest": ["1697"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Austria"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-107496"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107496"],
+            "place": ["term-107496"],
+            "coordinates": {
+              "lat": ["47.59397"],
+              "lng": ["14.12456"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Austria"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["MS 256"],
+        "type": ["accession number"],
+        "value": ["MS 256"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["239344"],
+        "type": ["priref"],
+        "value": ["239344"]
+      },
+      {
+        "source": ["Cambridge Illuminated"],
+        "type": ["project ID"],
+        "value": ["3454"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/239344"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/239344"]
+      }
+    ],
+    "admin": {
+      "created": ["1573817732000"],
+      "modified": ["1598266977000"],
+      "id": ["object-239344"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-110558"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110558"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110558"],
+        "summary_title": ["illuminated manuscript"]
+      },
+      {
+        "term": ["term-114522"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-114522"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-114522"],
+        "summary_title": ["manuscript"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "title": [
+      {
+        "value": ["Patent of Nobility"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-239344"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/239344"],
+    "object": ["object-239344"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

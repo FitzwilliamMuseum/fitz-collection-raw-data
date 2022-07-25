@@ -1,0 +1,166 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-98228"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98228"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98228"],
+        "summary_title": ["sculpture"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["1986"],
+            "value": ["1986"],
+            "latest": ["1986"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Anonymous"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149647"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149647"],
+            "agent": ["agent-149647"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "precision": ["circa"],
+            "earliest": ["1760"],
+            "value": ["1760"],
+            "latest": ["1760"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["18th century"],
+            "period": ["term-106400"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106400"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106400"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Persico, Paolo"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-106223"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-106223"],
+            "term": ["agent-106223"],
+            "role": [
+              {
+                "value": ["maker"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Naples"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106545"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106545"],
+            "place": ["term-106545"],
+            "coordinates": {
+              "lat": ["40.8358846"],
+              "lng": ["14.2487679"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Italy"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["AAL.1-1986"],
+        "type": ["accession number"],
+        "value": ["AAL.1-1986"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["208787"],
+        "type": ["priref"],
+        "value": ["208787"]
+      },
+      {
+        "source": ["Art UK"],
+        "type": ["external ID"],
+        "value": ["CAM_CCF_AAL_1_1986"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/208787"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/208787"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-98228"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98228"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98228"],
+        "summary_title": ["sculpture"]
+      }
+    ],
+    "admin": {
+      "created": ["1463416498000"],
+      "modified": ["1575388588000"],
+      "id": ["object-208787"]
+    },
+    "description": [
+      {
+        "value": ["Terracotta."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149647"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149647"],
+        "owner": ["agent-149647"],
+        "summary_title": ["Anonymous"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-33162"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-33162"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-33162"],
+        "summary_title": ["terracotta"]
+      },
+      {
+        "term": ["term-98228"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98228"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98228"],
+        "summary_title": ["sculpture"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["St Augustine writing in a book"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-208787"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/208787"],
+    "object": ["object-208787"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

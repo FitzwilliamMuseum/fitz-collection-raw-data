@@ -1,0 +1,158 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-12401"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12401"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-12401"],
+        "summary_title": ["Greek"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1936"],
+            "value": ["1936-07-07"],
+            "latest": ["1936"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Young, Arthur W."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149876"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149876"],
+            "agent": ["agent-149876"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["414"],
+              "value": ["-413"],
+              "latest": ["414"]
+            },
+            "earliest": ["414"],
+            "latest": ["414"]
+          },
+          {
+            "range": ["1"],
+            "to": {
+              "earliest": ["346"],
+              "value": ["-345"],
+              "latest": ["346"]
+            },
+            "earliest": ["346"],
+            "latest": ["346"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Syracuse"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-170147"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-170147"],
+            "term": ["agent-170147"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.YG.1998-R"],
+        "type": ["accession number"],
+        "value": ["CM.YG.1998-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["219049"],
+        "type": ["priref"],
+        "value": ["219049"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/219049"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/219049"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Young number 534."]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-40365"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-40365"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-40365"],
+            "summary_title": ["bronze"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-12401"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12401"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-12401"],
+        "summary_title": ["Greek"]
+      },
+      {
+        "term": ["term-107491"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107491"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107491"],
+        "summary_title": ["Sicily"]
+      }
+    ],
+    "admin": {
+      "created": ["1499098178000"],
+      "modified": ["1499092691000"],
+      "id": ["object-219049"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-219049"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/219049"],
+    "object": ["object-219049"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

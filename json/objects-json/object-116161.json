@@ -1,0 +1,187 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-119616"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119616"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119616"],
+        "summary_title": ["Roman Republic"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["1975"],
+            "value": ["1975"],
+            "latest": ["1975"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Crawford, M.H."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-168829"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-168829"],
+            "agent": ["agent-168829"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["211"],
+              "value": ["211"],
+              "latest": ["211"]
+            },
+            "to": {
+              "earliest": ["208"],
+              "value": ["208"],
+              "latest": ["208"]
+            },
+            "earliest": ["211"],
+            "latest": ["208"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Luceria"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-170107"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-170107"],
+            "term": ["agent-170107"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Lucera"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-125443"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-125443"],
+            "place": ["term-125443"],
+            "coordinates": {
+              "lat": ["41.5082727"],
+              "lng": ["15.3376465"]
+            }
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.CR.34-R"],
+        "type": ["accession number"],
+        "value": ["CM.CR.34-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["116161"],
+        "type": ["priref"],
+        "value": ["116161"]
+      },
+      {
+        "type": ["RRC"],
+        "value": ["97/1a"]
+      },
+      {
+        "type": ["ordering"],
+        "value": ["RR-3279"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/116161"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/116161"]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-119622"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119622"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119622"],
+        "summary_title": ["struck"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-119616"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119616"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119616"],
+        "summary_title": ["Roman Republic"]
+      },
+      {
+        "term": ["term-101170"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101170"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101170"],
+        "summary_title": ["victoriati"]
+      }
+    ],
+    "admin": {
+      "created": ["1397472617000"],
+      "modified": ["1397473883000"],
+      "id": ["object-116161"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-168829"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-168829"],
+        "owner": ["agent-168829"],
+        "summary_title": ["Crawford, M.H."]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["degrees"],
+          "dimension": ["Die Axis"],
+          "value": ["340"]
+        },
+        {
+          "units": ["mm"],
+          "dimension": ["Image(height)"],
+          "value": ["16"]
+        },
+        {
+          "units": ["mm"],
+          "dimension": ["Image(width)"],
+          "value": ["16"]
+        },
+        {
+          "units": ["g"],
+          "dimension": ["Weight"],
+          "value": ["3.21"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-116161"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/116161"],
+    "object": ["object-116161"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

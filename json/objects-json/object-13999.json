@@ -1,0 +1,243 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-98879"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98879"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98879"],
+        "summary_title": ["relief"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["M.25-1979"],
+        "type": ["accession number"],
+        "value": ["M.25-1979"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["13999"],
+        "type": ["priref"],
+        "value": ["13999"]
+      },
+      {
+        "source": ["Art UK"],
+        "type": ["external ID"],
+        "value": ["CAM_CCF_M_25_1979"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/13999"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/13999"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Putatively collection Emperor Joseph II, from whom to a lady of the bedchamber on her marriage to Signor Corradi of Urbino. Collection Mr Wilfred Buckley of Basingstoke; sold by the Executor of the late Mrs Buckley at Sotheby's 22nd June 1937, Catalogue of Objects of Vertu, Minatures, etc., p. 9, lot 55; Lt Col. the Hon. M.T. Boscawen, DSO, MC (1892-1958)"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1582632788000"],
+      "id": ["object-13999"]
+    },
+    "description": [
+      {
+        "value": ["Silver, cast in relief and chased, mounted on an oval amethyst plaque, in a rectangular wooden frame."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "title": [
+      {
+        "note": [
+          {
+            "value": ["Also known as Fall of the Titans"]
+          }
+        ],
+        "value": ["Mourning Figures in Clouds"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1979"],
+            "value": ["1979"],
+            "latest": ["1979"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Anonymous"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149647"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149647"],
+            "agent": ["agent-149647"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["1600"],
+              "value": ["1600"],
+              "latest": ["1600"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["1700"],
+              "value": ["1700"],
+              "latest": ["1700"]
+            },
+            "earliest": ["1600"],
+            "latest": ["1700"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["17th Century"],
+            "period": ["term-106447"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106447"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106447"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Della Porta, Guglielmo"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-35488"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-35488"],
+            "term": ["agent-35488"],
+            "role": [
+              {
+                "value": ["sculptor"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Rome"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106366"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106366"],
+            "place": ["term-106366"],
+            "coordinates": {
+              "lat": ["41.8933203"],
+              "lng": ["12.4829321"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Italy"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "component": [
+      {
+        "name": ["Plaque"],
+        "materials": [
+          {
+            "term": ["term-32074"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-32074"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-32074"],
+            "summary_title": ["amethyst"]
+          }
+        ]
+      },
+      {
+        "name": ["Relief"],
+        "materials": [
+          {
+            "term": ["term-39778"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39778"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39778"],
+            "summary_title": ["silver"]
+          }
+        ]
+      },
+      {
+        "name": ["Amethyst"],
+        "materials": []
+      },
+      {
+        "name": ["Silver"],
+        "materials": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-98879"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98879"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98879"],
+        "summary_title": ["relief"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-98228"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98228"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98228"],
+        "summary_title": ["sculpture"]
+      },
+      {
+        "term": ["term-39778"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39778"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39778"],
+        "summary_title": ["silver"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "publications": [
+      {
+        "term": ["publication-1252"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-1252"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-1252"],
+        "summary_title": ["Exhibition of Italian Art 1200-1900"],
+        "page": ["440"],
+        "notes": ["Publ. p. 440, Case 955, V, where the possible provenance, and attribution to Benvenuto Cellini is given"]
+      },
+      {
+        "term": ["publication-200000521"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-200000521"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-200000521"],
+        "summary_title": ["The Boscawen Collection at the Fitzwilliam Museum, Cambridge"],
+        "page": ["908"],
+        "notes": ["Publ. Mentioned offprint, pp. i-vi, on p. ii, no. 25. (In magazine, p. 908)"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-13999"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/13999"],
+    "object": ["object-13999"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

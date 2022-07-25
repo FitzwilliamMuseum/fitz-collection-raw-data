@@ -1,0 +1,222 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-124731"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-124731"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-124731"],
+        "summary_title": ["confit box"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["PER.M.366 & A-1923"],
+        "type": ["accession number"],
+        "value": ["PER.M.366 & A-1923"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["150645"],
+        "type": ["priref"],
+        "value": ["150645"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/150645"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/150645"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["unknown before testator"]
+      }
+    ],
+    "admin": {
+      "created": ["1312633661000"],
+      "modified": ["1329219705000"],
+      "id": ["object-150645"]
+    },
+    "description": [
+      {
+        "value": ["silver; circular box with pull-off lid, engraved with flowers and a bird."]
+      },
+      {
+        "value": ["Silver with engraved decoration; circular with straight sides and flat pull-off lid.  The lid is engraved with flowers and a bird.  The base is initialled \"E.H.\".  The interior base of the box is lightlyt scratch engraved \"Found in taking down the Old Queen Bess which was in Nicholas Street, Bristol, demolished 1860\"."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1922"],
+            "value": ["1922"],
+            "latest": ["1922"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Perceval, Spencer George"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-151972"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-151972"],
+            "agent": ["agent-151972"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["1680"],
+              "value": ["1680"],
+              "latest": ["1680"]
+            },
+            "to": {
+              "earliest": ["1710"],
+              "value": ["1710"],
+              "latest": ["1710"]
+            },
+            "earliest": ["1680"],
+            "latest": ["1710"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["late 17th or early 18th century"],
+            "period": ["term-110363"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-110363"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110363"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["silversmith"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "component": [
+      {
+        "name": ["Inscription"],
+        "materials": []
+      },
+      {
+        "name": ["Lid"],
+        "materials": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-124731"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-124731"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-124731"],
+        "summary_title": ["confit box"]
+      },
+      {
+        "term": ["term-128241"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-128241"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-128241"],
+        "summary_title": ["objet de vertu"]
+      }
+    ],
+    "inscription": [
+      {
+        "method": ["scratch engraved"],
+        "transcription": [
+          {
+            "value": ["EH"]
+          }
+        ],
+        "location": ["on the base of the box"],
+        "type": ["initials"]
+      },
+      {
+        "method": ["scratched engraved"],
+        "transcription": [
+          {
+            "value": ["Found in taking down the Old Queen Bess which was in Nicholas Street, Bristol, demolished 1860"]
+          }
+        ],
+        "location": ["inside the box on the base"],
+        "type": ["inscription"]
+      },
+      {
+        "method": ["written in ink"],
+        "transcription": [
+          {
+            "value": ["Inscription on Box / This box was found in / pulling down the Old Queen / Bess\" which was in Nicholas Street, / Bristol, [1861]"]
+          }
+        ],
+        "location": ["loose inside the box"],
+        "type": ["paper label"]
+      },
+      {
+        "method": ["printed and written in ink"],
+        "transcription": [
+          {
+            "value": ["FITZWILLIAM MUSEUM / BEQUEATHED BY / SPENCER GEORGE / PERCIVAL / 1923 / PER.M366"]
+          }
+        ],
+        "location": ["loose inside the box"],
+        "type": ["paper label"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-110356"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110356"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110356"],
+        "summary_title": ["boxes"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Diameter"],
+          "value": ["3.4"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Height"],
+          "value": ["1.4"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-150645"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/150645"],
+    "object": ["object-150645"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

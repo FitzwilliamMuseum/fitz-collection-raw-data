@@ -1,0 +1,138 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1904"],
+            "value": ["1904"],
+            "latest": ["1904"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["McClean, Frank"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-172414"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-172414"],
+            "agent": ["agent-172414"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "precision": ["after"],
+            "earliest": ["1179"],
+            "value": ["1179"],
+            "latest": ["1179"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["12th Century"],
+            "period": ["term-107804"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-107804"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107804"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["England"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-107139"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107139"],
+            "place": ["term-107139"],
+            "coordinates": {
+              "lat": ["52.5310214"],
+              "lng": ["-1.2649062"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["England"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["MS McClean 134"],
+        "type": ["accession number"],
+        "value": ["MS McClean 134"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["239560"],
+        "type": ["priref"],
+        "value": ["239560"]
+      },
+      {
+        "source": ["Cambridge Illuminated"],
+        "type": ["project ID"],
+        "value": ["739"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/239560"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/239560"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Formerly Ashburnham, Appendix no. 82: no. 35 in the sale May 1899."]
+      }
+    ],
+    "admin": {
+      "created": ["1573817770000"],
+      "modified": ["1598267006000"],
+      "id": ["object-239560"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-110558"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110558"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110558"],
+        "summary_title": ["illuminated manuscript"]
+      },
+      {
+        "term": ["term-114522"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-114522"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-114522"],
+        "summary_title": ["manuscript"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "title": [
+      {
+        "value": ["Canons of Lateran Council 1179"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-239560"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/239560"],
+    "object": ["object-239560"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

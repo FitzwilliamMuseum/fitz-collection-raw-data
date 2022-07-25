@@ -1,0 +1,169 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1993"],
+            "value": ["1993-05"],
+            "latest": ["1905"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Lister, Raymond"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-152474"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-152474"],
+            "agent": ["agent-152474"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["1990"],
+              "value": ["1990"],
+              "latest": ["1990"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["1993"],
+              "value": ["1993"],
+              "latest": ["1993"]
+            },
+            "earliest": ["1990"],
+            "latest": ["1993"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Warner, Francis"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-156729"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-156729"],
+            "term": ["agent-156729"],
+            "role": [
+              {
+                "value": ["author"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Oxford"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-78071"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-78071"],
+            "place": ["term-78071"],
+            "coordinates": {
+              "lat": ["51.7520131"],
+              "lng": ["-1.2578499"]
+            }
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["PM 13-1993"],
+        "type": ["accession number"],
+        "value": ["PM 13-1993"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["78897"],
+        "type": ["priref"],
+        "value": ["78897"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/78897"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/78897"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Lister, RAymond"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-106206"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106206"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106206"],
+            "summary_title": ["paper"]
+          }
+        ]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-29307"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-29307"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-29307"],
+        "summary_title": ["photocopying"],
+        "descriptions": []
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1598276225000"],
+      "id": ["object-78897"]
+    },
+    "description": [
+      {
+        "value": ["A photocopy given to Raymond Lister By Francis Warner"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-102207"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-102207"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-102207"],
+        "summary_title": ["photocopy"]
+      },
+      {
+        "term": ["term-117339"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117339"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-117339"],
+        "summary_title": ["archive document"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-78897"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/78897"],
+    "object": ["object-78897"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

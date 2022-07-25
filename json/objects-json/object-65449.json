@@ -1,0 +1,163 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-111016"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111016"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-111016"],
+        "summary_title": ["dinos"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1822"],
+            "value": ["1822"],
+            "latest": ["1822"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Frere, Bartle"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159419"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159419"],
+            "agent": ["agent-159419"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Hymettos, mount Attica Greece"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-111184"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111184"]
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["501"],
+              "value": ["-500"],
+              "latest": ["501"]
+            },
+            "to": {
+              "earliest": ["402"],
+              "value": ["-401"],
+              "latest": ["402"]
+            },
+            "earliest": ["501"],
+            "latest": ["402"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Classical"],
+            "period": ["term-14088"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-14088"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-14088"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.1.1822"],
+        "type": ["accession number"],
+        "value": ["GR.1.1822"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["65449"],
+        "type": ["priref"],
+        "value": ["65449"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/65449"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/65449"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Lid"],
+        "materials": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-111016"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111016"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-111016"],
+        "summary_title": ["dinos"]
+      },
+      {
+        "term": ["term-107667"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107667"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107667"],
+        "summary_title": ["bowl"]
+      }
+    ],
+    "admin": {
+      "created": ["1312633661000"],
+      "modified": ["1326212492000"],
+      "id": ["object-65449"]
+    },
+    "description": [
+      {
+        "value": ["dinos with lid"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-89198"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89198"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89198"],
+        "summary_title": ["vessel"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Diameter"],
+          "value": ["0.44"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.23"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-3923"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-3923"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-3923"],
+        "summary_title": ["A Handbook to the Collection of Antiquities and other Objects exhibited in the Fitzwilliam Museum, compiled by Henry Arburn Chapman"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-65449"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/65449"],
+    "object": ["object-65449"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

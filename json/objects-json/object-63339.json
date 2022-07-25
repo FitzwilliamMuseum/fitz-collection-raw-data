@@ -1,0 +1,166 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-99656"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-99656"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-99656"],
+        "summary_title": ["ushabti"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1985"],
+            "value": ["1985"],
+            "latest": ["1985"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Wickens, V., Miss"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159876"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159876"],
+            "agent": ["agent-159876"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Egypt"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-107870"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107870"],
+            "coordinates": {
+              "lat": ["26.2540493"],
+              "lng": ["29.2675469"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["381"],
+              "value": ["-380"],
+              "latest": ["381"]
+            },
+            "to": {
+              "earliest": ["343"],
+              "value": ["-342"],
+              "latest": ["343"]
+            },
+            "earliest": ["381"],
+            "latest": ["343"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Thirtieth Dynasty"],
+            "period": ["term-12835"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-12835"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12835"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["E.1.1985"],
+        "type": ["accession number"],
+        "value": ["E.1.1985"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["63339"],
+        "type": ["priref"],
+        "value": ["63339"]
+      },
+      {
+        "type": ["oldadmincategory"],
+        "value": ["SU"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/63339"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/63339"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-99656"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-99656"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-99656"],
+        "summary_title": ["ushabti"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1480087705000"],
+      "id": ["object-63339"]
+    },
+    "description": [
+      {
+        "value": ["shabti, inscribed for Padihor"]
+      }
+    ],
+    "inscription": [
+      {
+        "transcription": [
+          {
+            "value": ["pA-di-Hr"]
+          }
+        ],
+        "type": ["inscription"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-110791"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110791"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110791"],
+        "summary_title": ["funerary equipment"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Depth"],
+          "value": ["0.0227"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.12"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.041"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-63339"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/63339"],
+    "object": ["object-63339"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

@@ -1,0 +1,155 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["2003"],
+            "value": ["2003-05"],
+            "latest": ["2005"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Dreyfus, John"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-163304"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-163304"],
+            "agent": ["agent-163304"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "note": [
+              {
+                "value": ["Date on title page: 1842"]
+              }
+            ],
+            "era": [
+              ["CE"]
+            ],
+            "earliest": ["1943"],
+            "value": ["1943"],
+            "latest": ["1943"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["J. Brandt & Zoon"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-163323"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-163323"],
+            "term": ["agent-163323"],
+            "role": [
+              {
+                "value": ["publisher"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Amsterdam"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106501"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106501"],
+            "place": ["term-106501"],
+            "coordinates": {
+              "lat": ["52.3727598"],
+              "lng": ["4.8936041"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Netherlands"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["PB 13-2003"],
+        "type": ["accession number"],
+        "value": ["PB 13-2003"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["94015"],
+        "type": ["priref"],
+        "value": ["94015"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/94015"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/94015"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-106206"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106206"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106206"],
+            "summary_title": ["paper"]
+          }
+        ]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-27526"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27526"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27526"],
+        "summary_title": ["printing"],
+        "descriptions": []
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1569861092000"],
+      "id": ["object-94015"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-102154"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-102154"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-102154"],
+        "summary_title": ["book"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["Twee eeuwen Brandt en Proost : een bijdrage tot de geschiedenis van de boekbinderkj de uitgeverij van Bijbels en kerkboeken en den papierhandel in Nederland naar gegevens geput uit de archieven van J. Brandt & Zoon sinds 1742 en P. Proost & Zoon sinds 1842."]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-94015"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/94015"],
+    "object": ["object-94015"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

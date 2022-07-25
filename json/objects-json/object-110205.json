@@ -1,0 +1,189 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-118746"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-118746"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-118746"],
+        "summary_title": ["Lappet/pelerine"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1950"],
+            "value": ["1950"],
+            "latest": ["1950"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Tallerman, Georgette & Barbara, Misses"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-169194"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-169194"],
+            "agent": ["agent-169194"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["1860"],
+              "value": ["1860"],
+              "latest": ["1860"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["1880"],
+              "value": ["1880"],
+              "latest": ["1880"]
+            },
+            "earliest": ["1860"],
+            "latest": ["1880"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["mid-late 19th Century"],
+            "period": ["term-107981"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-107981"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107981"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["production"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Brussels"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106574"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106574"],
+            "place": ["term-106574"],
+            "coordinates": {
+              "lat": ["50.8465573"],
+              "lng": ["4.351697"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Belgium"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["T.13-1950"],
+        "type": ["accession number"],
+        "value": ["T.13-1950"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["110205"],
+        "type": ["priref"],
+        "value": ["110205"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/110205"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/110205"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Max"],
+        "materials": []
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-118739"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-118739"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-118739"],
+        "summary_title": ["Point de Gaze"],
+        "descriptions": [
+          {
+            "description": ["Brussels Point de Gaze needlepoint lace"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-118746"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-118746"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-118746"],
+        "summary_title": ["Lappet/pelerine"]
+      },
+      {
+        "value": ["Point de Gaze"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1507286245000"],
+      "id": ["object-110205"]
+    },
+    "description": [
+      {
+        "value": ["Lappet or pelerine of Brussels Point de Gaze needlepoint lace"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-39352"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39352"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39352"],
+        "summary_title": ["lace"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-110205"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/110205"],
+    "object": ["object-110205"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

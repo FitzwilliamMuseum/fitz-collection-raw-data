@@ -1,0 +1,161 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["2003"],
+            "value": ["2003-05"],
+            "latest": ["2005"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Dreyfus, John"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-163304"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-163304"],
+            "agent": ["agent-163304"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["1972"],
+              "value": ["1972-09"],
+              "latest": ["1909"]
+            },
+            "to": {
+              "earliest": ["1989"],
+              "value": ["1989-06"],
+              "latest": ["1906"]
+            },
+            "earliest": ["1972"],
+            "latest": ["1906"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Gibbings, Robert John"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-51778"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-51778"],
+            "term": ["agent-51778"],
+            "role": [
+              {
+                "value": ["illustrator"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Long Wittenham"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-115671"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-115671"],
+            "place": ["term-115671"],
+            "coordinates": {
+              "lat": ["51.641101"],
+              "lng": ["-1.2097904"]
+            }
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["PM 291-2003"],
+        "type": ["accession number"],
+        "value": ["PM 291-2003"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["95328"],
+        "type": ["priref"],
+        "value": ["95328"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/95328"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/95328"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-33926"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-33926"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-33926"],
+            "summary_title": ["paper (fibre product)"]
+          }
+        ]
+      },
+      {
+        "name": ["Illustrations"],
+        "materials": []
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-27526"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27526"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27526"],
+        "summary_title": ["printing"],
+        "descriptions": []
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1598276499000"],
+      "id": ["object-95328"]
+    },
+    "description": [
+      {
+        "value": ["Invitations re Robert Gibbings exhibitions. 1. 2 copies of card featuring Robert Gibbings engraving for Dorchester Abbey Festival 1972. One  has handwritten message from Patience Empson to John Dreyfus 2. Dorchester Abbey Festival: \"The Festival Committee have pleasure in inviting you to the opening by Mr. John Dreyfus of an exhibition of the work of Robert Gibbings ...\" 3. Robert Gibbings : a centenary exhibition, Reading Museum and Art Gallery - private view 9.6.1989 (card features Robert Gibbings wood engraving of a boat)"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-101655"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101655"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101655"],
+        "summary_title": ["invitation"]
+      },
+      {
+        "term": ["term-117339"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117339"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-117339"],
+        "summary_title": ["archive document"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-95328"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/95328"],
+    "object": ["object-95328"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

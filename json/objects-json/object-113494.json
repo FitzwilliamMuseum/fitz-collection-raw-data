@@ -1,0 +1,216 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-101389"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101389"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101389"],
+        "summary_title": ["tetradrachm"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["1991"],
+            "value": ["1991"],
+            "latest": ["1991"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Lewis, S. S."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-162613"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-162613"],
+            "agent": ["agent-162613"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["BCE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["360"],
+              "value": ["-359"],
+              "latest": ["360"]
+            },
+            "to": {
+              "era": [
+                ["BCE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["357"],
+              "value": ["-356"],
+              "latest": ["357"]
+            },
+            "earliest": ["360"],
+            "latest": ["357"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Enez"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-189731"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-189731"],
+            "term": ["agent-189731"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Aenus"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-119349"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119349"],
+            "place": ["term-119349"],
+            "coordinates": {
+              "lat": ["40.72421725"],
+              "lng": ["26.080441300309"]
+            },
+            "note": ["Enez"]
+          },
+          {
+            "summary_title": ["Enez"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-125477"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-125477"],
+            "place": ["term-125477"],
+            "coordinates": {
+              "lat": ["40.725028"],
+              "lng": ["26.0845648"]
+            },
+            "note": ["Aenus"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.LS.454-R"],
+        "type": ["accession number"],
+        "value": ["CM.LS.454-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["113494"],
+        "type": ["priref"],
+        "value": ["113494"]
+      },
+      {
+        "type": ["SNG Lewis"],
+        "value": ["454"]
+      },
+      {
+        "type": ["ordering"],
+        "value": ["LW-0453"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/113494"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/113494"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Bequeathed to Corpus by the Revd. Samuel Savage Lewis, 1891."]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-101389"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101389"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101389"],
+        "summary_title": ["tetradrachm"]
+      },
+      {
+        "term": ["term-12401"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12401"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-12401"],
+        "summary_title": ["Greek"]
+      },
+      {
+        "term": ["term-119347"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119347"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119347"],
+        "summary_title": ["Thrace"]
+      },
+      {
+        "term": ["term-119349"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119349"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119349"],
+        "summary_title": ["Aenus"]
+      }
+    ],
+    "admin": {
+      "created": ["1397472617000"],
+      "modified": ["1397474641000"],
+      "id": ["object-113494"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-167778"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-167778"],
+        "owner": ["agent-167778"],
+        "summary_title": ["Corpus Christi College"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["degrees"],
+          "dimension": ["Die Axis"],
+          "value": ["0"]
+        },
+        {
+          "units": ["mm"],
+          "dimension": ["Image(height)"],
+          "value": ["26"]
+        },
+        {
+          "units": ["mm"],
+          "dimension": ["Image(width)"],
+          "value": ["26"]
+        },
+        {
+          "units": ["g"],
+          "dimension": ["Weight"],
+          "value": ["15.24"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-113494"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/113494"],
+    "object": ["object-113494"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

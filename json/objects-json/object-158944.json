@@ -1,0 +1,407 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-98222"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98222"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98222"],
+        "summary_title": ["medals"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["CM.2917-2003"],
+        "type": ["accession number"],
+        "value": ["CM.2917-2003"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["158944"],
+        "type": ["priref"],
+        "value": ["158944"]
+      },
+      {
+        "type": ["Rogers"],
+        "value": ["2900"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/158944"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/158944"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["From the estate of Dr David J. de Sola Rogers (1946-99)."]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1367932792000"],
+      "id": ["object-158944"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["2003"],
+            "value": ["2003-11-25"],
+            "latest": ["2003"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Withers, Paul"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-180445"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-180445"],
+            "agent": ["agent-180445"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["1900"],
+              "value": ["1900"],
+              "latest": ["1900"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["1925"],
+              "value": ["1925"],
+              "latest": ["1925"]
+            },
+            "earliest": ["1900"],
+            "latest": ["1925"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Paris"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-158722"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-158722"],
+            "term": ["agent-158722"],
+            "role": [
+              {
+                "value": ["origin"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Paris"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-129470"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-129470"],
+            "place": ["term-129470"],
+            "coordinates": {
+              "lat": ["48.8588897"],
+              "lng": ["2.3200410217201"]
+            }
+          }
+        ]
+      }
+    },
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-39764"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39764"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39764"],
+            "summary_title": ["zinc alloy"]
+          }
+        ]
+      }
+    ],
+    "multimedia": [
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616238221531"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm19/preview_CM_2917_2003_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["254"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616238221531"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm19/CM_2917_2003_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["365"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["359"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616238221531"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm19/CM_2917_2003_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["365"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["359"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616238221531"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm19/CM_2917_2003_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["365"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["359"]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616271509986"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm19/preview_CM_2917_2003_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["256"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616271509986"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm19/CM_2917_2003_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["365"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["356"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616271509986"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm19/CM_2917_2003_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["365"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["356"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616271509986"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm19/CM_2917_2003_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["365"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["356"]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-98222"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98222"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98222"],
+        "summary_title": ["medals"]
+      },
+      {
+        "term": ["term-126192"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-126192"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-126192"],
+        "summary_title": ["medalets"]
+      }
+    ],
+    "inscription": [
+      {
+        "description": [
+          {
+            "value": ["Eiffel Tower at centre with dirigible left and early biplane right"]
+          }
+        ],
+        "location": ["obverse"],
+        "type": ["design"]
+      },
+      {
+        "transcription": [
+          {
+            "value": ["SOUVENIR / DE MON / ASCENSION"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Legend above maker's address"]
+          }
+        ],
+        "location": ["reverse"],
+        "type": ["design"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-42993"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-42993"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-42993"],
+        "summary_title": ["medal"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["mm"],
+          "dimension": ["Image(height)"],
+          "value": ["25.0"]
+        },
+        {
+          "units": ["mm"],
+          "dimension": ["Image(width)"],
+          "value": ["25.0"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-6086"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-6086"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-6086"],
+        "summary_title": ["Toy Coins"],
+        "page": ["213"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-158944"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/158944"],
+    "object": ["object-158944"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

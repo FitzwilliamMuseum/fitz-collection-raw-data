@@ -1,0 +1,163 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-91394"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-91394"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-91394"],
+        "summary_title": ["teapot"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1933"],
+            "value": ["1933"],
+            "latest": ["1933"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Navarro, J. M. de"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-172191"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-172191"],
+            "agent": ["agent-172191"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["1850"],
+              "value": ["1850"],
+              "latest": ["1850"]
+            },
+            "to": {
+              "earliest": ["1899"],
+              "value": ["1899"],
+              "latest": ["1899"]
+            },
+            "earliest": ["1850"],
+            "latest": ["1899"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["late 19th Century"],
+            "period": ["term-108070"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-108070"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-108070"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["production"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["NAV.209-1933"],
+        "type": ["accession number"],
+        "value": ["NAV.209-1933"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["125428"],
+        "type": ["priref"],
+        "value": ["125428"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/125428"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/125428"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Collar"],
+        "materials": [
+          {
+            "term": ["term-106692"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106692"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106692"],
+            "summary_title": ["wood"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-91394"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-91394"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-91394"],
+        "summary_title": ["teapot"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1440500426000"],
+      "id": ["object-125428"]
+    },
+    "description": [
+      {
+        "value": ["Pewter teapot. Tall, stepped, and bell shaped lid with a 'collar stud' finial. Wooden collar."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-40400"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-40400"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-40400"],
+        "summary_title": ["pewter"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Height"],
+          "value": ["18"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-125428"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/125428"],
+    "object": ["object-125428"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

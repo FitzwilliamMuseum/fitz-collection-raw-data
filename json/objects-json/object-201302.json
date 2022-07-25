@@ -1,0 +1,156 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-68009"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-68009"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-68009"],
+        "summary_title": ["candlestick"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["1999"],
+            "value": ["1999"],
+            "latest": ["1999"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Anonymous"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149647"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149647"],
+            "agent": ["agent-149647"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "precision": ["circa"],
+            "earliest": ["1525"],
+            "value": ["1525"],
+            "latest": ["1525"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["16th century"],
+            "period": ["term-106602"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106602"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106602"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["maker"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Venice"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106518"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106518"],
+            "place": ["term-106518"],
+            "coordinates": {
+              "lat": ["45.4371908"],
+              "lng": ["12.3345898"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Italy"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["AAL.15A-1999"],
+        "type": ["accession number"],
+        "value": ["AAL.15A-1999"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["201302"],
+        "type": ["priref"],
+        "value": ["201302"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/201302"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/201302"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-68009"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-68009"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-68009"],
+        "summary_title": ["candlestick"]
+      }
+    ],
+    "admin": {
+      "created": ["1429110891000"],
+      "modified": ["1571932665000"],
+      "id": ["object-201302"]
+    },
+    "description": [
+      {
+        "value": ["Bronze candlestick, one of a pair. Elaborately decorated with acanthus leaves, grotesque masks and strap-work."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149647"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149647"],
+        "owner": ["agent-149647"],
+        "summary_title": ["Anonymous"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-41077"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-41077"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-41077"],
+        "summary_title": ["lighting"]
+      },
+      {
+        "term": ["term-40365"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-40365"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-40365"],
+        "summary_title": ["bronze"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-201302"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/201302"],
+    "object": ["object-201302"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

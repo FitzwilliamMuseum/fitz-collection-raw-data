@@ -1,0 +1,183 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-117142"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117142"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-117142"],
+        "summary_title": ["sampler"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1996"],
+            "value": ["1996-01-22"],
+            "latest": ["1996"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Smith, P. M., Mrs"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-161065"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-161065"],
+            "agent": ["agent-161065"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "note": [
+              {
+                "value": ["dated"]
+              }
+            ],
+            "earliest": ["1950"],
+            "value": ["1950"],
+            "latest": ["1950"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["mid 20th century"],
+            "period": ["term-110488"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-110488"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110488"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Smith, P. M., Mrs"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-161065"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-161065"],
+            "term": ["agent-161065"],
+            "role": [
+              {
+                "value": ["maker"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["T.2-1996"],
+        "type": ["accession number"],
+        "value": ["T.2-1996"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["81936"],
+        "type": ["priref"],
+        "value": ["81936"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/81936"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/81936"]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-27589"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27589"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27589"],
+        "summary_title": ["weaving"],
+        "descriptions": [
+          {
+            "description": ["Border sampler, linen, embroidered with polychrome stranded cottons in cross-stitch."]
+          }
+        ]
+      },
+      {
+        "term": ["term-29899"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-29899"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-29899"],
+        "summary_title": ["embroidering"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-117142"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117142"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-117142"],
+        "summary_title": ["sampler"]
+      },
+      {
+        "value": ["border sampler"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1595237305000"],
+      "id": ["object-81936"]
+    },
+    "description": [
+      {
+        "value": ["Border sampler, linen, embroidered with polychrome stranded cottons in cross-stitch.  A double border of repeat floral and geometric motifs encloses contemporary motifs such as a train, aeroplanes, ships, a bus and cars.  The overall theme appears to be transport as sailing boats, hot air balloons, a horse and carriage and a cyclist are also worked."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-29556"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-29556"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-29556"],
+        "summary_title": ["embroidery"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Length"],
+          "value": ["50.75"]
+        },
+        {
+          "units": ["in"],
+          "dimension": ["Length"],
+          "value": ["20"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Width"],
+          "value": ["42"]
+        },
+        {
+          "units": ["in"],
+          "dimension": ["Width"],
+          "value": ["16.1/2"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-81936"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/81936"],
+    "object": ["object-81936"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

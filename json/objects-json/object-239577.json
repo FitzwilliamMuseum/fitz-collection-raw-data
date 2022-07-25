@@ -1,0 +1,138 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1904"],
+            "value": ["1904"],
+            "latest": ["1904"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["McClean, Frank"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-172414"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-172414"],
+            "agent": ["agent-172414"]
+          }
+        }
+      },
+      "creation": {
+        "periods": [
+          {
+            "summary_title": ["14th Century"],
+            "period": ["term-107695"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-107695"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107695"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Terence"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-171437"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-171437"],
+            "term": ["agent-171437"],
+            "role": [
+              {
+                "value": ["author"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Italy"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106629"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106629"],
+            "place": ["term-106629"],
+            "coordinates": {
+              "lat": ["42.6384261"],
+              "lng": ["12.674297"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Italy"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["MS McClean 163"],
+        "type": ["accession number"],
+        "value": ["MS McClean 163"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["239577"],
+        "type": ["priref"],
+        "value": ["239577"]
+      },
+      {
+        "source": ["Cambridge Illuminated"],
+        "type": ["project ID"],
+        "value": ["476"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/239577"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/239577"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Formerly in the collections of Dr Askew, of Samuel Parr, and of Sir Th. Phillipps (no. 3895, no. 1115 in the sale of June 1898)."]
+      }
+    ],
+    "admin": {
+      "created": ["1573817773000"],
+      "modified": ["1598267008000"],
+      "id": ["object-239577"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-110558"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110558"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110558"],
+        "summary_title": ["illuminated manuscript"]
+      },
+      {
+        "term": ["term-114522"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-114522"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-114522"],
+        "summary_title": ["manuscript"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-239577"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/239577"],
+    "object": ["object-239577"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

@@ -1,0 +1,168 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1944"],
+            "value": ["1944-05-26"],
+            "latest": ["1944"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Thompson, Henry Francis Herbert, Sir, Bart"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-192498"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-192498"],
+            "agent": ["agent-192498"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "era": [
+              ["CE"]
+            ],
+            "earliest": ["1923"],
+            "value": ["1923"],
+            "latest": ["1923"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Oxford University Press"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-150705"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-150705"],
+            "term": ["agent-150705"],
+            "role": [
+              {
+                "value": ["printer"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["London"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106216"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106216"],
+            "place": ["term-106216"],
+            "coordinates": {
+              "lat": ["51.5073219"],
+              "lng": ["-0.1276474"]
+            }
+          },
+          {
+            "summary_title": ["Oxford"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-78071"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-78071"],
+            "place": ["term-78071"],
+            "coordinates": {
+              "lat": ["51.7520131"],
+              "lng": ["-1.2578499"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["England"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["PB 1923.2"],
+        "type": ["accession number"],
+        "value": ["PB 1923.2"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["98858"],
+        "type": ["priref"],
+        "value": ["98858"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/98858"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/98858"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-106206"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106206"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106206"],
+            "summary_title": ["paper"]
+          }
+        ]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-27526"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27526"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27526"],
+        "summary_title": ["printing"],
+        "descriptions": []
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1467303504000"],
+      "id": ["object-98858"]
+    },
+    "description": [
+      {
+        "value": ["By John Donne"]
+      },
+      {
+        "value": ["vii,80p ; 23cm"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-102154"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-102154"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-102154"],
+        "summary_title": ["book"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["Paradoxes and problemes: with two characters and an essay on valour"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-98858"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/98858"],
+    "object": ["object-98858"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

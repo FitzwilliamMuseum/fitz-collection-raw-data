@@ -1,0 +1,381 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-101187"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101187"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101187"],
+        "summary_title": ["ducat"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["CM.96-2017"],
+        "type": ["accession number"],
+        "value": ["CM.96-2017"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["241259"],
+        "type": ["priref"],
+        "value": ["241259"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/241259"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/241259"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Ex Numismatik Naumann, Auction 48, Lot 774."]
+      }
+    ],
+    "admin": {
+      "created": ["1594903514000"],
+      "modified": ["1626868352000"],
+      "id": ["object-241259"]
+    },
+    "description": [
+      {
+        "value": ["Levantine imitation"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-200860"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-200860"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-200860"],
+        "summary_title": ["CAMFZ"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bought"],
+        "date": [
+          {
+            "earliest": ["2017"],
+            "value": ["2017-01-23"],
+            "latest": ["2017"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Numismatik Naumann GmbH"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-195601"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-195601"],
+            "agent": ["agent-195601"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "precision": ["post"],
+            "earliest": ["1343"],
+            "value": ["1343"],
+            "latest": ["1343"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Irregular Levantine mint"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-201061"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-201061"],
+            "term": ["agent-201061"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-123196"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-123196"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-123196"],
+            "summary_title": ["pale gold"]
+          }
+        ]
+      }
+    ],
+    "multimedia": [
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616246007393"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm65/preview_CM_96_2017_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["250"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616246007393"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm65/CM_96_2017_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["2835"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["2835"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616246007393"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm65/large_CM_96_2017_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["1024"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["1024"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616246007393"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm65/mid_CM_96_2017_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["500"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616255503396"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm65/preview_CM_96_2017_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["250"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616255503396"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm65/CM_96_2017_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["2835"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["2835"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616255503396"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm65/large_CM_96_2017_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["1024"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["1024"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616255503396"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm65/mid_CM_96_2017_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["500"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-101187"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101187"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101187"],
+        "summary_title": ["ducat"]
+      },
+      {
+        "term": ["term-119586"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119586"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119586"],
+        "summary_title": ["contemporary imitation"]
+      },
+      {
+        "term": ["term-106518"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106518"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106518"],
+        "summary_title": ["Venice"]
+      }
+    ],
+    "inscription": [
+      {
+        "transcription": [
+          {
+            "value": ["SIT T XPE DAT Q TV REGIS ISTE DVCAT"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Standing figure of Christ, facing."]
+          }
+        ],
+        "location": ["reverse"],
+        "type": ["design"]
+      },
+      {
+        "transcription": [
+          {
+            "value": ["ANDR DANDO DVX SM VENET"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["obverse"]
+          }
+        ],
+        "type": ["design"]
+      },
+      {
+        "description": [
+          {
+            "value": ["Doge kneeling before Saint Mark"]
+          }
+        ]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "publications": [
+      {
+        "term": ["publication-400000739"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-400000739"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-400000739"],
+        "summary_title": ["Revue Numismatique"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-241259"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/241259"],
+    "object": ["object-241259"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

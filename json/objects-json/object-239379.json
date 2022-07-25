@@ -1,0 +1,137 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1967"],
+            "value": ["1967"],
+            "latest": ["1967"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["anonymous ('Friend of the Fitzwilliam Museum')"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159512"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159512"],
+            "agent": ["agent-159512"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "earliest": ["1523"],
+            "value": ["1523"],
+            "latest": ["1523"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["16th century"],
+            "period": ["term-106602"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106602"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106602"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["England"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-107139"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107139"],
+            "place": ["term-107139"],
+            "coordinates": {
+              "lat": ["52.5310214"],
+              "lng": ["-1.2649062"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["England"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["MS 3-1967"],
+        "type": ["accession number"],
+        "value": ["MS 3-1967"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["239379"],
+        "type": ["priref"],
+        "value": ["239379"]
+      },
+      {
+        "source": ["Cambridge Illuminated"],
+        "type": ["project ID"],
+        "value": ["1185"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/239379"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/239379"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["The book was later in the library of the Dominicans at Woodchester. Given to the Museum by an anonymous donor through the Friends of the Fitzwilliam Museum in 1967."]
+      }
+    ],
+    "admin": {
+      "created": ["1573817738000"],
+      "modified": ["1598266981000"],
+      "id": ["object-239379"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-110558"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110558"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110558"],
+        "summary_title": ["illuminated manuscript"]
+      },
+      {
+        "term": ["term-114522"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-114522"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-114522"],
+        "summary_title": ["manuscript"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "title": [
+      {
+        "value": ["Collectar"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-239379"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/239379"],
+    "object": ["object-239379"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

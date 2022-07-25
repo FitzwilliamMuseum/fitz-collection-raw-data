@@ -1,0 +1,337 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-121420"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-121420"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-121420"],
+        "summary_title": ["Low Countries"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["unknown"],
+        "agents": {
+          "agent": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "agent": ["agent-149652"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "earliest": ["1621"],
+            "value": ["1621"],
+            "latest": ["1621"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Brussels"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-151842"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-151842"],
+            "term": ["agent-151842"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Brussels"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106574"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106574"],
+            "place": ["term-106574"],
+            "coordinates": {
+              "lat": ["50.8465573"],
+              "lng": ["4.351697"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Brabant"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.EU.42-R"],
+        "type": ["accession number"],
+        "value": ["CM.EU.42-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["226534"],
+        "type": ["priref"],
+        "value": ["226534"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/226534"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/226534"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-39778"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39778"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39778"],
+            "summary_title": ["silver"]
+          }
+        ]
+      }
+    ],
+    "multimedia": [
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616263631724"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm66/preview_CM_EU_42_R_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["250"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616263631724"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm66/CM_EU_42_R_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["3402"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["3402"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616263631724"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm66/large_CM_EU_42_R_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["1024"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["1024"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616263631724"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm66/mid_CM_EU_42_R_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["500"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616261193381"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm66/preview_CM_EU_42_R_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["250"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616261193381"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm66/CM_EU_42_R_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["3402"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["3402"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616261193381"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm66/large_CM_EU_42_R_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["1024"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["1024"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616261193381"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm66/mid_CM_EU_42_R_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["500"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-121420"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-121420"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-121420"],
+        "summary_title": ["Low Countries"]
+      },
+      {
+        "term": ["term-114606"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-114606"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-114606"],
+        "summary_title": ["Brabant"]
+      },
+      {
+        "term": ["term-125047"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-125047"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-125047"],
+        "summary_title": ["ducaton"]
+      }
+    ],
+    "admin": {
+      "created": ["1551113545000"],
+      "modified": ["1607600753000"],
+      "id": ["object-226534"]
+    },
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "publications": [
+      {
+        "term": ["publication-8584"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-8584"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-8584"],
+        "summary_title": ["Les Monnaies des Pays-Bas Bourguignons et Espagnols 1434-1713"],
+        "page": ["162"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-226534"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/226534"],
+    "object": ["object-226534"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

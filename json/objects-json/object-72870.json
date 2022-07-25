@@ -1,0 +1,283 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-27402"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27402"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27402"],
+        "summary_title": ["fragment"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["C.19-1982"],
+        "type": ["accession number"],
+        "value": ["C.19-1982"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["72870"],
+        "type": ["priref"],
+        "value": ["72870"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/72870"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/72870"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Dug up at Lampang"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1605191281000"],
+      "id": ["object-72870"]
+    },
+    "description": [
+      {
+        "value": ["Shard from the rim of a honey part, made from a dark bluff stoneware, with a brown black glaze."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1982"],
+            "value": ["1982-06-07"],
+            "latest": ["1982"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Johnson, Edward P"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-166448"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-166448"],
+            "agent": ["agent-166448"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["1400"],
+              "value": ["1400"],
+              "latest": ["1400"]
+            },
+            "to": {
+              "earliest": ["1599"],
+              "value": ["1599"],
+              "latest": ["1599"]
+            },
+            "earliest": ["1400"],
+            "latest": ["1599"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["15th-16th century"],
+            "period": ["term-120936"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-120936"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-120936"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["production"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Lampang"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-117161"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117161"],
+            "place": ["term-117161"],
+            "coordinates": {
+              "lat": ["18.6799728"],
+              "lng": ["99.7332501"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Thailand"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "multimedia": [
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616278607669"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa12/preview_C_19_1982.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["181"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616278607669"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa12/C_19_1982.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["550"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["760"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616278607669"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa12/C_19_1982.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["550"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["760"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616278607669"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa12/mid_C_19_1982.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["362"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-122641"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-122641"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-122641"],
+        "summary_title": ["glazing"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-27402"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27402"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27402"],
+        "summary_title": ["fragment"]
+      },
+      {
+        "value": ["honey pot sherd"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-42825"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-42825"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-42825"],
+        "summary_title": ["stoneware"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Height"],
+          "value": ["7.5"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Length"],
+          "value": ["15.2"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-72870"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/72870"],
+    "object": ["object-72870"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

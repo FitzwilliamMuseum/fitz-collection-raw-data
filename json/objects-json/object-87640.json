@@ -1,0 +1,191 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-120486"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-120486"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-120486"],
+        "summary_title": ["stamp seal"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1966"],
+            "value": ["1966"],
+            "latest": ["1966"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["British Museum and British School of Archaeology in Iraq"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-179858"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-179858"],
+            "agent": ["agent-179858"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Tell Brak Syria"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-114137"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-114137"],
+            "coordinates": {
+              "lat": ["36.6671786"],
+              "lng": ["41.058576072929"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "note": [
+              {
+                "value": ["import: circa 3200-2901 BC"]
+              }
+            ],
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["BCE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["3200"],
+              "value": ["-3200"],
+              "latest": ["3200"]
+            },
+            "to": {
+              "era": [
+                ["BCE"]
+              ],
+              "earliest": ["2901"],
+              "value": ["-2901"],
+              "latest": ["2901"]
+            },
+            "earliest": ["3200"],
+            "latest": ["2901"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Jamdat Nasr"],
+            "period": ["term-12375"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-12375"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12375"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Tell Brak"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-132827"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-132827"],
+            "place": ["term-132827"],
+            "coordinates": {
+              "lat": ["36.6671786"],
+              "lng": ["41.058576072929"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Syria"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["ANE.29b.1966"],
+        "type": ["accession number"],
+        "value": ["ANE.29b.1966"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["87640"],
+        "type": ["priref"],
+        "value": ["87640"]
+      },
+      {
+        "type": ["oldadmincategory"],
+        "value": ["O"]
+      },
+      {
+        "type": ["oldobjectnumber"],
+        "value": ["WAE.29b.1966"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/87640"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/87640"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-120486"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-120486"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-120486"],
+        "summary_title": ["stamp seal"]
+      },
+      {
+        "term": ["term-42180"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-42180"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-42180"],
+        "summary_title": ["amulet"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1337183388000"],
+      "id": ["object-87640"]
+    },
+    "description": [
+      {
+        "value": ["rosette stamp seal, glazed, with restrung necklace"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-102781"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-102781"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-102781"],
+        "summary_title": ["seal"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Length"],
+          "value": ["0.017"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.006"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-87640"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/87640"],
+    "object": ["object-87640"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

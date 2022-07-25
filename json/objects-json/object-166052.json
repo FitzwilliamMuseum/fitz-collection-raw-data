@@ -1,0 +1,403 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-119309"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119309"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119309"],
+        "summary_title": ["hemilitron"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["CM.6489-2007"],
+        "type": ["accession number"],
+        "value": ["CM.6489-2007"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["166052"],
+        "type": ["priref"],
+        "value": ["166052"]
+      },
+      {
+        "type": ["Calciati"],
+        "value": ["ii.34"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/166052"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/166052"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Ex Ritchie W. Post, from the F. Martin Post Collection; bt Empire, Florida, ix.1992, $75.00"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1594853006000"],
+      "id": ["object-166052"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["2007"],
+            "value": ["2007-11-19"],
+            "latest": ["2007"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["The Post Family Trust"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-182403"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-182403"],
+            "agent": ["agent-182403"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["uncertain"],
+              "earliest": ["426"],
+              "value": ["-425"],
+              "latest": ["426"]
+            },
+            "to": {
+              "earliest": ["401"],
+              "value": ["-400"],
+              "latest": ["401"]
+            },
+            "earliest": ["426"],
+            "latest": ["401"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Syracuse"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-170147"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-170147"],
+            "term": ["agent-170147"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Syracuse"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-119331"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119331"],
+            "place": ["term-119331"],
+            "coordinates": {
+              "lat": ["37.0646139"],
+              "lng": ["15.2907196"]
+            }
+          }
+        ]
+      }
+    },
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-40365"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-40365"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-40365"],
+            "summary_title": ["bronze"]
+          }
+        ]
+      }
+    ],
+    "multimedia": [
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616243475272"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm23/preview_CM_6489_2007_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["278"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616243475272"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm23/CM_6489_2007_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["365"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["328"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616243475272"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm23/CM_6489_2007_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["365"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["328"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616243475272"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm23/CM_6489_2007_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["365"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["328"]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616258158172"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm23/preview_CM_6489_2007_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["266"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616258158172"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm23/CM_6489_2007_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["365"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["343"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616258158172"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm23/CM_6489_2007_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["365"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["343"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616258158172"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm23/CM_6489_2007_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["365"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["343"]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-119309"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119309"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119309"],
+        "summary_title": ["hemilitron"]
+      },
+      {
+        "term": ["term-12401"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12401"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-12401"],
+        "summary_title": ["Greek"]
+      },
+      {
+        "term": ["term-107491"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107491"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107491"],
+        "summary_title": ["Sicily"]
+      },
+      {
+        "term": ["term-119331"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119331"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119331"],
+        "summary_title": ["Syracuse"]
+      }
+    ],
+    "inscription": [
+      {
+        "transcription": [
+          {
+            "value": ["[STPA]"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Helmeted head of Athena left"]
+          }
+        ],
+        "location": ["obverse"],
+        "type": ["design"]
+      },
+      {
+        "description": [
+          {
+            "value": ["Hippocamp left"]
+          }
+        ],
+        "location": ["reverse"],
+        "type": ["design"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["mm"],
+          "dimension": ["Image(height)"],
+          "value": ["19.04"]
+        },
+        {
+          "units": ["mm"],
+          "dimension": ["Image(width)"],
+          "value": ["17.33"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-166052"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/166052"],
+    "object": ["object-166052"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

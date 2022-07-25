@@ -1,0 +1,188 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-123278"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-123278"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-123278"],
+        "summary_title": ["½ tilla"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["unknown"],
+        "date": [
+          {
+            "earliest": ["1908"],
+            "value": ["1908"],
+            "latest": ["1908"]
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "note": [
+              {
+                "value": ["AH 1270"]
+              }
+            ],
+            "range": ["1"],
+            "from": {
+              "earliest": ["1853"],
+              "value": ["1853"],
+              "latest": ["1853"]
+            },
+            "to": {
+              "earliest": ["1854"],
+              "value": ["1854"],
+              "latest": ["1854"]
+            },
+            "earliest": ["1853"],
+            "latest": ["1854"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Khorezm"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-191037"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-191037"],
+            "term": ["agent-191037"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Khorezm"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-11178"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-11178"],
+            "place": ["term-11178"],
+            "coordinates": {
+              "lat": ["41.5477905"],
+              "lng": ["60.6444897"]
+            }
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.IS.835-R"],
+        "type": ["accession number"],
+        "value": ["CM.IS.835-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["105070"],
+        "type": ["priref"],
+        "value": ["105070"]
+      },
+      {
+        "type": ["catalogue"],
+        "value": ["1944"]
+      },
+      {
+        "type": ["ordering"],
+        "value": ["IS-1908"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/105070"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/105070"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["No provenance."]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-123278"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-123278"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-123278"],
+        "summary_title": ["½ tilla"]
+      },
+      {
+        "term": ["term-451"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-451"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-451"],
+        "summary_title": ["Islamic"]
+      },
+      {
+        "term": ["term-117857"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117857"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-117857"],
+        "summary_title": ["Later Central Asia"]
+      },
+      {
+        "term": ["term-117967"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117967"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-117967"],
+        "summary_title": ["Khans of Khwarizm"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1560961947000"],
+      "id": ["object-105070"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["mm"],
+          "dimension": ["Diameter"],
+          "value": ["16"]
+        },
+        {
+          "units": ["degrees"],
+          "dimension": ["Die Axis"],
+          "value": ["250"]
+        },
+        {
+          "units": ["g"],
+          "dimension": ["Weight"],
+          "value": ["2.27"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-105070"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/105070"],
+    "object": ["object-105070"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

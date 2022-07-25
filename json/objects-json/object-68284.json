@@ -1,0 +1,133 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-78429"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-78429"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-78429"],
+        "summary_title": ["tool"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1907"],
+            "value": ["1907"],
+            "latest": ["1907"]
+          }
+        ]
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Palaikastro Crete Greek Islands"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-111419"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111419"]
+          }
+        ]
+      },
+      "creation": {
+        "places": [
+          {
+            "summary_title": ["Crete"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-118834"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-118834"],
+            "place": ["term-118834"],
+            "coordinates": {
+              "lat": ["35.3084952"],
+              "lng": ["24.463342318423"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Greek Islands"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.213.1907"],
+        "type": ["accession number"],
+        "value": ["GR.213.1907"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["68284"],
+        "type": ["priref"],
+        "value": ["68284"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/68284"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/68284"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-78429"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-78429"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-78429"],
+        "summary_title": ["tool"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1621012067000"],
+      "id": ["object-68284"]
+    },
+    "description": [
+      {
+        "value": ["tool"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-78429"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-78429"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-78429"],
+        "summary_title": ["tool"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Depth"],
+          "value": ["0.046"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.045"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.058"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-68284"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/68284"],
+    "object": ["object-68284"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

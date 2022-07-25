@@ -1,0 +1,122 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1972"],
+            "value": ["1972"],
+            "latest": ["1972"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Wormald, Francis, Mrs"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-152603"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-152603"],
+            "agent": ["agent-152603"]
+          }
+        }
+      },
+      "creation": {
+        "places": [
+          {
+            "summary_title": ["Greece"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106666"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106666"],
+            "place": ["term-106666"],
+            "coordinates": {
+              "lat": ["38.9953683"],
+              "lng": ["21.9877132"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Greece"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["MS 87-1972"],
+        "type": ["accession number"],
+        "value": ["MS 87-1972"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["239493"],
+        "type": ["priref"],
+        "value": ["239493"]
+      },
+      {
+        "source": ["Cambridge Illuminated"],
+        "type": ["project ID"],
+        "value": ["3574"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/239493"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/239493"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Said to have been acquired in Cyprus by Major Alessandro Palma di Cesnola, and presented to Mr Lawrence (Edwin Henry Lawrence, F.S.A.) abuot 1876. Lot 209 in his sale at Sotheby's, 9 May 1892. Bought by Quaritch. No. 21 in their catalogue no. 126, 1892. Bought by Lord Peckover of Wisbech (1830 - 1919), 5 february 1894, for £200, see his armorial bookplate mounted on the flap of the loose morocco cover. Afterwards owned by his daughter, the Hon. Alexandrina Peckover, and sold by her executors. Lot 199 at Sotheby's, 4 April 1949. Bought by Francis Wormald. Given to the Fitzwilliam Museum by Mrs Wormald in 1972 in accordance with her late husband's wishes."]
+      }
+    ],
+    "admin": {
+      "created": ["1573817758000"],
+      "modified": ["1598266996000"],
+      "id": ["object-239493"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-110558"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110558"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110558"],
+        "summary_title": ["illuminated manuscript"]
+      },
+      {
+        "term": ["term-114522"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-114522"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-114522"],
+        "summary_title": ["manuscript"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "title": [
+      {
+        "value": ["Gospel Book"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-239493"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/239493"],
+    "object": ["object-239493"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

@@ -1,0 +1,183 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-135564"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-135564"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-135564"],
+        "summary_title": ["fragment of a jug"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["C.4.76-1964"],
+        "type": ["accession number"],
+        "value": ["C.4.76-1964"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["207354"],
+        "type": ["priref"],
+        "value": ["207354"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/207354"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/207354"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Found in London  by G.F. Lawrence of the London Museum, and given by him to Bernard Rackham (1876-1964)"]
+      }
+    ],
+    "admin": {
+      "created": ["1450454455000"],
+      "modified": ["1519742095000"],
+      "id": ["object-207354"]
+    },
+    "description": [
+      {
+        "value": ["Lower part of a jug, of thrown greyish-brown earthenware with the lower end of an applied handle. The vessel has a circular base and sloping sides tapering towards the top which is broken off unevenly."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1964"],
+            "value": ["1964-03-12"],
+            "latest": ["1964"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Rackham, Bernard"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-152751"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-152751"],
+            "agent": ["agent-152751"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["1200"],
+              "value": ["1200"],
+              "latest": ["1200"]
+            },
+            "to": {
+              "earliest": ["1300"],
+              "value": ["1300"],
+              "latest": ["1300"]
+            },
+            "earliest": ["1200"],
+            "latest": ["1300"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["13th Century"],
+            "period": ["term-107871"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-107871"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107871"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["London"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106216"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106216"],
+            "place": ["term-106216"],
+            "coordinates": {
+              "lat": ["51.5073219"],
+              "lng": ["-0.1276474"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["England"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "component": [
+      {
+        "name": ["Handle"],
+        "materials": []
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-120082"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-120082"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-120082"],
+        "summary_title": ["throwing"],
+        "descriptions": [
+          {
+            "description": ["thrown greyish-brown earthenware with applied handle"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-135564"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-135564"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-135564"],
+        "summary_title": ["fragment of a jug"]
+      },
+      {
+        "value": ["sherd"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-113346"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-113346"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-113346"],
+        "summary_title": ["pottery"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-207354"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/207354"],
+    "object": ["object-207354"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

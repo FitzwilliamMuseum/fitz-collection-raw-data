@@ -1,0 +1,169 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1997"],
+            "value": ["1997-03-13"],
+            "latest": ["1997"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Lister, Raymond"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-152474"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-152474"],
+            "agent": ["agent-152474"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["1990"],
+              "value": ["1990"],
+              "latest": ["1990"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["1998"],
+              "value": ["1998"],
+              "latest": ["1998"]
+            },
+            "earliest": ["1990"],
+            "latest": ["1998"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Gould, David (2)"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-157959"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-157959"],
+            "term": ["agent-157959"],
+            "role": [
+              {
+                "value": ["author"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Gloucester"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106697"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106697"],
+            "place": ["term-106697"],
+            "coordinates": {
+              "lat": ["51.8653705"],
+              "lng": ["-2.2458192"]
+            }
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["MS 8-1997"],
+        "type": ["accession number"],
+        "value": ["MS 8-1997"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["45038"],
+        "type": ["priref"],
+        "value": ["45038"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/45038"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/45038"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Lister, Raymond"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-106206"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106206"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106206"],
+            "summary_title": ["paper"]
+          }
+        ]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-27007"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27007"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27007"],
+        "summary_title": ["handwriting"],
+        "descriptions": []
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1598275796000"],
+      "id": ["object-45038"]
+    },
+    "description": [
+      {
+        "value": ["A card from David and Angel Gould to Raymond and Pamela Lister"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-158219"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-158219"],
+        "owner": ["agent-158219"],
+        "summary_title": ["FitzwilliamMuseum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-106412"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106412"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106412"],
+        "summary_title": ["letter"]
+      },
+      {
+        "term": ["term-117339"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117339"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-117339"],
+        "summary_title": ["archive document"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-45038"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/45038"],
+    "object": ["object-45038"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

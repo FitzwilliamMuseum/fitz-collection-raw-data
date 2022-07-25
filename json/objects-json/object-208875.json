@@ -1,0 +1,164 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-98228"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98228"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98228"],
+        "summary_title": ["sculpture"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["1999"],
+            "value": ["1999"],
+            "latest": ["1999"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Anonymous"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149647"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149647"],
+            "agent": ["agent-149647"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["1598"],
+              "value": ["1598"],
+              "latest": ["1598"]
+            },
+            "to": {
+              "earliest": ["1654"],
+              "value": ["1654"],
+              "latest": ["1654"]
+            },
+            "earliest": ["1598"],
+            "latest": ["1654"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["16th/17th century"],
+            "period": ["term-108566"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-108566"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-108566"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Algardi, Alessandro"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-1661"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-1661"],
+            "term": ["agent-1661"],
+            "role": [
+              {
+                "value": ["maker"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Rome"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106366"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106366"],
+            "place": ["term-106366"],
+            "coordinates": {
+              "lat": ["41.8933203"],
+              "lng": ["12.4829321"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Italy"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["AAL.18-1999"],
+        "type": ["accession number"],
+        "value": ["AAL.18-1999"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["208875"],
+        "type": ["priref"],
+        "value": ["208875"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/208875"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/208875"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-98228"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98228"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98228"],
+        "summary_title": ["sculpture"]
+      }
+    ],
+    "admin": {
+      "created": ["1463765320000"],
+      "modified": ["1569413148000"],
+      "id": ["object-208875"]
+    },
+    "description": [
+      {
+        "value": ["Bronze, on a later stepped marble base."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149647"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149647"],
+        "owner": ["agent-149647"],
+        "summary_title": ["Anonymous"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-40365"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-40365"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-40365"],
+        "summary_title": ["bronze"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["Christ as a Man of Sorrows"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-208875"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/208875"],
+    "object": ["object-208875"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

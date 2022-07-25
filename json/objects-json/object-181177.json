@@ -1,0 +1,393 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-119511"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119511"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119511"],
+        "summary_title": ["Roman Provincial"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["CM.3-2011"],
+        "type": ["accession number"],
+        "value": ["CM.3-2011"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["181177"],
+        "type": ["priref"],
+        "value": ["181177"]
+      },
+      {
+        "type": ["RPC"],
+        "value": ["93.151"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/181177"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/181177"]
+      }
+    ],
+    "admin": {
+      "created": ["1397472617000"],
+      "modified": ["1397473133000"],
+      "id": ["object-181177"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["2011"],
+            "value": ["2011-01-24"],
+            "latest": ["2011"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Buttrey, T. V., Prof."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159617"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159617"],
+            "agent": ["agent-159617"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["5001"],
+              "value": ["-50"],
+              "latest": ["5100"]
+            },
+            "to": {
+              "earliest": ["99"],
+              "value": ["-1"],
+              "latest": ["1"]
+            },
+            "earliest": ["5001"],
+            "latest": ["1"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Carthago Nova"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-187258"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-187258"],
+            "term": ["agent-187258"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Carthago Nova"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-130264"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-130264"],
+            "place": ["term-130264"],
+            "coordinates": {
+              "lat": ["37.6019353"],
+              "lng": ["-0.9841152"]
+            }
+          }
+        ]
+      }
+    },
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-39588"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39588"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39588"],
+            "summary_title": ["copper"]
+          }
+        ]
+      }
+    ],
+    "multimedia": [
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616238573532"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm31/preview_CM_3_2011_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["259"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616238573532"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm31/CM_3_2011_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["365"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["352"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616238573532"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm31/CM_3_2011_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["365"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["352"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616238573532"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm31/CM_3_2011_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["365"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["352"]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616278324912"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm31/preview_CM_3_2011_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["239"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616278324912"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm31/CM_3_2011_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["344"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["360"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616278324912"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm31/CM_3_2011_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["344"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["360"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616278324912"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm31/CM_3_2011_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["344"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["360"]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-119511"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119511"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119511"],
+        "summary_title": ["Roman Provincial"]
+      },
+      {
+        "term": ["term-130264"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-130264"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-130264"],
+        "summary_title": ["Carthago Nova"]
+      }
+    ],
+    "inscription": [
+      {
+        "description": [
+          {
+            "value": ["Head of Athen right"]
+          }
+        ],
+        "location": ["obverse"],
+        "type": ["design"]
+      },
+      {
+        "transcription": [
+          {
+            "value": ["C V I N"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Statue left upon pedestal"]
+          }
+        ],
+        "location": ["reverse"],
+        "type": ["design"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["mm"],
+          "dimension": ["Image(height)"],
+          "value": ["20.17"]
+        },
+        {
+          "units": ["mm"],
+          "dimension": ["Image(width)"],
+          "value": ["19.71"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-3905"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-3905"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-3905"],
+        "summary_title": ["Roman Provincial Coinage"],
+        "page": ["93"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-181177"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/181177"],
+    "object": ["object-181177"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

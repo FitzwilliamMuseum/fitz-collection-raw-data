@@ -1,0 +1,164 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-118965"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-118965"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-118965"],
+        "summary_title": ["unit"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bought"],
+        "date": [
+          {
+            "earliest": ["2015"],
+            "value": ["2015-04-27"],
+            "latest": ["2015"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Numismatik Lnaz"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-193256"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-193256"],
+            "agent": ["agent-193256"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["1001"],
+              "value": ["10"],
+              "latest": ["1100"]
+            },
+            "earliest": ["1001"],
+            "latest": ["1100"]
+          },
+          {
+            "range": ["1"],
+            "to": {
+              "precision": ["circa"],
+              "earliest": ["4001"],
+              "value": ["40"],
+              "latest": ["4100"]
+            },
+            "earliest": ["4001"],
+            "latest": ["4100"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Verica"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-170091"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-170091"],
+            "term": ["agent-170091"]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.1589-2015"],
+        "type": ["accession number"],
+        "value": ["CM.1589-2015"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["221120"],
+        "type": ["priref"],
+        "value": ["221120"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/221120"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/221120"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-39778"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39778"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39778"],
+            "summary_title": ["silver"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-118965"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-118965"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-118965"],
+        "summary_title": ["unit"]
+      },
+      {
+        "term": ["term-8277"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-8277"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-8277"],
+        "summary_title": ["Iron Age"]
+      },
+      {
+        "term": ["term-135232"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-135232"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-135232"],
+        "summary_title": ["Verica"]
+      }
+    ],
+    "admin": {
+      "created": ["1437486081000"],
+      "modified": ["1499095135000"],
+      "id": ["object-221120"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "publications": [
+      {
+        "term": ["publication-4879"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-4879"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-4879"],
+        "summary_title": ["British Iron Age coins in the British Museum"],
+        "page": ["102"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-221120"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/221120"],
+    "object": ["object-221120"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

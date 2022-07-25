@@ -1,0 +1,135 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-78742"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-78742"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-78742"],
+        "summary_title": ["needle"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1931"],
+            "value": ["1931"],
+            "latest": ["1931"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["British School of Archaeology"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159709"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159709"],
+            "agent": ["agent-159709"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Tell el Ajjul Gaza Strip"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-127508"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-127508"]
+          }
+        ]
+      },
+      "creation": {
+        "places": [
+          {
+            "summary_title": ["Tell el Ajjul"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-132829"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-132829"],
+            "place": ["term-132829"],
+            "hierarchies": [
+              {
+                "summary_title": ["Gaza Strip"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["ANE.222.1931"],
+        "type": ["accession number"],
+        "value": ["ANE.222.1931"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["87380"],
+        "type": ["priref"],
+        "value": ["87380"]
+      },
+      {
+        "type": ["oldadmincategory"],
+        "value": ["O"]
+      },
+      {
+        "type": ["oldobjectnumber"],
+        "value": ["WAE.222.1931"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/87380"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/87380"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-78742"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-78742"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-78742"],
+        "summary_title": ["needle"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1337261960000"],
+      "id": ["object-87380"]
+    },
+    "description": [
+      {
+        "value": ["needle"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-111107"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111107"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-111107"],
+        "summary_title": ["sewing equipment"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Length"],
+          "value": ["0.13"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-87380"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/87380"],
+    "object": ["object-87380"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

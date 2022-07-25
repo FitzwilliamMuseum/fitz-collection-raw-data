@@ -1,0 +1,143 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1904"],
+            "value": ["1904"],
+            "latest": ["1904"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["McClean, Frank"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-172414"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-172414"],
+            "agent": ["agent-172414"]
+          }
+        }
+      },
+      "creation": {
+        "periods": [
+          {
+            "summary_title": ["16th century"],
+            "period": ["term-106602"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106602"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106602"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Wycliff"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-200500"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-200500"],
+            "term": ["agent-200500"],
+            "role": [
+              {
+                "value": ["author"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["England"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-107139"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107139"],
+            "place": ["term-107139"],
+            "coordinates": {
+              "lat": ["52.5310214"],
+              "lng": ["-1.2649062"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["England"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["MS McClean 133"],
+        "type": ["accession number"],
+        "value": ["MS McClean 133"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["239559"],
+        "type": ["priref"],
+        "value": ["239559"]
+      },
+      {
+        "source": ["Cambridge Illuminated"],
+        "type": ["project ID"],
+        "value": ["740"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/239559"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/239559"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Formerly MS. Phillipps 7219 and 10170: no. 112 in the sale of June 1896."]
+      }
+    ],
+    "admin": {
+      "created": ["1573817770000"],
+      "modified": ["1598267006000"],
+      "id": ["object-239559"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-110558"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110558"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110558"],
+        "summary_title": ["illuminated manuscript"]
+      },
+      {
+        "term": ["term-114522"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-114522"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-114522"],
+        "summary_title": ["manuscript"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "title": [
+      {
+        "value": ["Commentary on Matthew and the Apocalypse"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-239559"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/239559"],
+    "object": ["object-239559"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-12401"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12401"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-12401"],
+        "summary_title": ["Greek"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["1982"],
+            "value": ["1982"],
+            "latest": ["1982"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Barker, Sir E."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-174472"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-174472"],
+            "agent": ["agent-174472"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["401"],
+              "value": ["-400"],
+              "latest": ["401"]
+            },
+            "to": {
+              "earliest": ["201"],
+              "value": ["-200"],
+              "latest": ["201"]
+            },
+            "earliest": ["401"],
+            "latest": ["201"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Phliasia"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-174177"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-174177"],
+            "term": ["agent-174177"],
+            "role": [
+              {
+                "value": ["state"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Phlius"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-119467"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119467"],
+            "place": ["term-119467"],
+            "coordinates": {
+              "lat": ["37.84443875"],
+              "lng": ["22.646567548083"]
+            }
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.BK.527-R"],
+        "type": ["accession number"],
+        "value": ["CM.BK.527-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["134735"],
+        "type": ["priref"],
+        "value": ["134735"]
+      },
+      {
+        "type": ["othernumber"],
+        "value": ["BMC 10, 13-15"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/134735"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/134735"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Barker Collection."]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-12401"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12401"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-12401"],
+        "summary_title": ["Greek"]
+      },
+      {
+        "term": ["term-119466"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119466"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119466"],
+        "summary_title": ["Phliasia"]
+      }
+    ],
+    "admin": {
+      "created": ["1397472617000"],
+      "modified": ["1397473661000"],
+      "id": ["object-134735"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-174471"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-174471"],
+        "owner": ["agent-174471"],
+        "summary_title": ["Museum of Classical Archaeology"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["mm"],
+          "dimension": ["Image(height)"],
+          "value": ["12"]
+        },
+        {
+          "units": ["mm"],
+          "dimension": ["Image(width)"],
+          "value": ["12"]
+        },
+        {
+          "units": ["g"],
+          "dimension": ["Weight"],
+          "value": ["2.46"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-134735"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/134735"],
+    "object": ["object-134735"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

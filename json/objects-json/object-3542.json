@@ -1,0 +1,234 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-98032"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98032"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98032"],
+        "summary_title": ["print"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["P.1325-R"],
+        "type": ["accession number"],
+        "value": ["P.1325-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["3542"],
+        "type": ["priref"],
+        "value": ["3542"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/3542"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/3542"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1596468730000"],
+      "id": ["object-3542"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["Thomas Dixon"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1915"],
+            "value": ["1915-12"],
+            "latest": ["1912"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Middleton-Wake, Charles H."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149739"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149739"],
+            "agent": ["agent-149739"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "note": [
+              {
+                "value": ["Published in September 1880"]
+              }
+            ],
+            "era": [
+              ["CE"]
+            ],
+            "earliest": ["1880"],
+            "value": ["1880"],
+            "latest": ["1880"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Gueraut, Robert"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-151454"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-151454"],
+            "term": ["agent-151454"],
+            "role": [
+              {
+                "value": ["publisher"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["London"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106216"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106216"],
+            "place": ["term-106216"],
+            "coordinates": {
+              "lat": ["51.5073219"],
+              "lng": ["-0.1276474"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["England"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "school_or_style": [
+      {
+        "term": ["term-8399"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-8399"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-8399"],
+        "summary_title": ["French"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-106206"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106206"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106206"],
+            "summary_title": ["paper"]
+          }
+        ]
+      },
+      {
+        "name": ["Plate"],
+        "materials": []
+      },
+      {
+        "name": ["Sheet"],
+        "materials": []
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-99807"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-99807"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-99807"],
+        "summary_title": ["etching"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-98032"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98032"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98032"],
+        "summary_title": ["print"]
+      }
+    ],
+    "inscription": [
+      {
+        "method": ["printed"],
+        "transcription": [
+          {
+            "value": ["A. Legros Pinxt."]
+          }
+        ],
+        "location": ["plate lower left"],
+        "type": ["signature"]
+      },
+      {
+        "method": ["printed"],
+        "transcription": [
+          {
+            "value": ["L. Richeton Sculpt."]
+          }
+        ],
+        "location": ["plate lower right"],
+        "type": ["signature"]
+      },
+      {
+        "method": ["printed"],
+        "transcription": [
+          {
+            "value": ["THOMAS DIXON."]
+          }
+        ],
+        "location": ["plate lower centre"],
+        "type": ["title"]
+      },
+      {
+        "method": ["red ink"],
+        "transcription": [
+          {
+            "value": ["3 - 100 copies"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["inscribed in a circle"]
+          }
+        ],
+        "location": ["plate lower right"],
+        "type": ["stamp"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-98032"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98032"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98032"],
+        "summary_title": ["print"]
+      }
+    ],
+    "department": {
+      "value": ["Paintings, Drawings and Prints"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-3542"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/3542"],
+    "object": ["object-3542"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

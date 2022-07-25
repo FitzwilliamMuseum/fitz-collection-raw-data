@@ -1,0 +1,194 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-118649"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-118649"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-118649"],
+        "summary_title": ["border"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1950"],
+            "value": ["1950"],
+            "latest": ["1950"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Tallerman, Georgette & Barbara, Misses"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-169194"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-169194"],
+            "agent": ["agent-169194"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "note": [
+              {
+                "value": ["Second third 19th century"]
+              }
+            ],
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["1830"],
+              "value": ["1830"],
+              "latest": ["1830"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["1860"],
+              "value": ["1860"],
+              "latest": ["1860"]
+            },
+            "earliest": ["1830"],
+            "latest": ["1860"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["19th century"],
+            "period": ["term-106853"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106853"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106853"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["production"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Brussels"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106574"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106574"],
+            "place": ["term-106574"],
+            "coordinates": {
+              "lat": ["50.8465573"],
+              "lng": ["4.351697"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Belgium"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["T.12-1950"],
+        "type": ["accession number"],
+        "value": ["T.12-1950"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["110204"],
+        "type": ["priref"],
+        "value": ["110204"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/110204"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/110204"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Max"],
+        "materials": []
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-118745"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-118745"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-118745"],
+        "summary_title": ["Point de Duchesse"],
+        "descriptions": [
+          {
+            "description": ["lace, Point de Duchesse, Brussels bobbin lace"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-118649"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-118649"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-118649"],
+        "summary_title": ["border"]
+      },
+      {
+        "value": ["Point de Duchesse"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1507286189000"],
+      "id": ["object-110204"]
+    },
+    "description": [
+      {
+        "value": ["Good quality lace border in Point de Duchesse, Brussels bobbin lace"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-39352"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39352"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39352"],
+        "summary_title": ["lace"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-110204"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/110204"],
+    "object": ["object-110204"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

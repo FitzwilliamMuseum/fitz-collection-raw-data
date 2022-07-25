@@ -1,0 +1,103 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["20190806"],
+            "value": ["20190806"],
+            "latest": ["20190806"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["University Library, Cambridge"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-200690"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-200690"],
+            "agent": ["agent-200690"]
+          }
+        }
+      },
+      "creation": {
+        "maker": {
+          "maker": {
+            "summary_title": ["Evelyn, John"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-42737"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-42737"],
+            "term": ["agent-42737"]
+          }
+        }
+      }
+    },
+    "summary": [
+      {
+        "term": ["term-102154"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-102154"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-102154"],
+        "summary_title": ["book"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["loan 3011.6"],
+        "type": ["accession number"],
+        "value": ["loan 3011.6"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["240221"],
+        "type": ["priref"],
+        "value": ["240221"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/240221"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/240221"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-102154"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-102154"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-102154"],
+        "summary_title": ["book"]
+      }
+    ],
+    "admin": {
+      "created": ["1581335725000"],
+      "modified": ["1599563408000"],
+      "id": ["object-240221"]
+    },
+    "description": [
+      {
+        "value": ["Acetaria, A Discourse of Sallets"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-200690"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-200690"],
+        "owner": ["agent-200690"],
+        "summary_title": ["University Library, Cambridge"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-240221"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/240221"],
+    "object": ["object-240221"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

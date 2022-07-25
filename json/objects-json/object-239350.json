@@ -1,0 +1,122 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1948"],
+            "value": ["1948"],
+            "latest": ["1948"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Manuk, P. C. and Coles, G. M., Miss"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-188391"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-188391"],
+            "agent": ["agent-188391"]
+          }
+        }
+      },
+      "creation": {
+        "places": [
+          {
+            "summary_title": ["Persia"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-107888"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107888"],
+            "place": ["term-107888"],
+            "coordinates": {
+              "lat": ["32.6475314"],
+              "lng": ["54.5643516"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Persia"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["MS 263-1949"],
+        "type": ["accession number"],
+        "value": ["MS 263-1949"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["239350"],
+        "type": ["priref"],
+        "value": ["239350"]
+      },
+      {
+        "source": ["Cambridge Illuminated"],
+        "type": ["project ID"],
+        "value": ["3550"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/239350"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/239350"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Collected by Capt. William Campbell, at Teheran, in 1800-1, according to his MS. notes on the verso of several leaves. Bequeathed by P.C. Manuk and Miss G.M. Coles, through the National Art Collections Fund, 1948. Their number 'M. 90' in blue chalk written inside upper cover."]
+      }
+    ],
+    "admin": {
+      "created": ["1573817733000"],
+      "modified": ["1602165437000"],
+      "id": ["object-239350"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-110558"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110558"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110558"],
+        "summary_title": ["illuminated manuscript"]
+      },
+      {
+        "term": ["term-114522"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-114522"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-114522"],
+        "summary_title": ["manuscript"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "title": [
+      {
+        "value": ["Album of Caligraphy"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-239350"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/239350"],
+    "object": ["object-239350"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

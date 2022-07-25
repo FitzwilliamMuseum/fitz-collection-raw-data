@@ -1,0 +1,170 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-89400"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89400"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89400"],
+        "summary_title": ["jug"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1946"],
+            "value": ["1946"],
+            "latest": ["1946"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Raphael, Oscar C."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-166314"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-166314"],
+            "agent": ["agent-166314"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Gaza Palestine"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-114101"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-114101"],
+            "coordinates": {
+              "lat": ["31.5128679"],
+              "lng": ["34.4581358"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "note": [
+              {
+                "value": ["import: ca 1780=1550 BC"]
+              }
+            ],
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["1780"],
+              "value": ["-1780"],
+              "latest": ["1780"]
+            },
+            "to": {
+              "earliest": ["1550"],
+              "value": ["-1550"],
+              "latest": ["1550"]
+            },
+            "earliest": ["1780"],
+            "latest": ["1550"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Iron Age (Palestinian)"],
+            "period": ["term-114100"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-114100"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-114100"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["ANE.43.1946"],
+        "type": ["accession number"],
+        "value": ["ANE.43.1946"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["87528"],
+        "type": ["priref"],
+        "value": ["87528"]
+      },
+      {
+        "type": ["oldadmincategory"],
+        "value": ["O"]
+      },
+      {
+        "type": ["oldobjectnumber"],
+        "value": ["WAE.43.1946"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/87528"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/87528"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-89400"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89400"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89400"],
+        "summary_title": ["jug"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1482321985000"],
+      "id": ["object-87528"]
+    },
+    "description": [
+      {
+        "value": ["jug, with melon shaped body and small neck and foot. Hard yellow ware"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-89198"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89198"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89198"],
+        "summary_title": ["vessel"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Length"],
+          "value": ["0.146"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.09"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-4600"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-4600"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-4600"],
+        "summary_title": ["Umm El-Ga`ab : pottery from the Nile Valley before the Arab conquest"],
+        "page": ["138-139"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-87528"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/87528"],
+    "object": ["object-87528"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

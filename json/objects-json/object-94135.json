@@ -1,0 +1,149 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["2003"],
+            "value": ["2003-05"],
+            "latest": ["2005"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Dreyfus, John"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-163304"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-163304"],
+            "agent": ["agent-163304"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "era": [
+              ["CE"]
+            ],
+            "earliest": ["1940"],
+            "value": ["1940"],
+            "latest": ["1940"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Harvard College Library. Dept. of Printing and Graphic Arts"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-163385"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-163385"],
+            "term": ["agent-163385"],
+            "role": [
+              {
+                "value": ["publisher"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Cambridge (Mass.)"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-116202"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-116202"],
+            "place": ["term-116202"],
+            "coordinates": {
+              "lat": ["42.3750997"],
+              "lng": ["-71.1056157"]
+            }
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["PB 29-2003"],
+        "type": ["accession number"],
+        "value": ["PB 29-2003"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["94135"],
+        "type": ["priref"],
+        "value": ["94135"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/94135"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/94135"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-106206"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106206"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106206"],
+            "summary_title": ["paper"]
+          }
+        ]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-27526"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27526"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27526"],
+        "summary_title": ["printing"],
+        "descriptions": []
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1418228169000"],
+      "id": ["object-94135"]
+    },
+    "description": [
+      {
+        "value": ["\"A slightly expanded version of a letter written on July 21, 1937 to a friend who wanted to know how one went about designing a type-face\"--P. [3]."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-102154"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-102154"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-102154"],
+        "summary_title": ["book"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["WAD to RR : a letter about designing type"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-94135"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/94135"],
+    "object": ["object-94135"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1910"],
+            "value": ["1910-12-31"],
+            "latest": ["1910"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Murray, Charles Fairfax"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-153239"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-153239"],
+            "agent": ["agent-153239"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "era": [
+              ["CE"]
+            ],
+            "earliest": ["1910"],
+            "value": ["1910"],
+            "latest": ["1910"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Davies, Hugh Wm."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-166050"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-166050"],
+            "term": ["agent-166050"],
+            "role": [
+              {
+                "value": ["compiler"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["London"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106216"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106216"],
+            "place": ["term-106216"],
+            "coordinates": {
+              "lat": ["51.5073219"],
+              "lng": ["-0.1276474"]
+            },
+            "note": ["possibly London"],
+            "hierarchies": [
+              {
+                "summary_title": ["England"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["PB 1910.1"],
+        "type": ["accession number"],
+        "value": ["PB 1910.1"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["98402"],
+        "type": ["priref"],
+        "value": ["98402"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/98402"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/98402"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-106206"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106206"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106206"],
+            "summary_title": ["paper"]
+          }
+        ]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-27526"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27526"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27526"],
+        "summary_title": ["printing"],
+        "descriptions": []
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1621516418000"],
+      "id": ["object-98402"]
+    },
+    "description": [
+      {
+        "value": ["Compiled by Hugh Wm. Davies"]
+      },
+      {
+        "value": ["Embraces the period 1475 to 1692; 2 items respectively dated 1705 and 1728 are included as containing woodcuts belonging to a much earlier period. The majority of the books were printed in France, a few from presses at Louvain, Antwerp, La Haye, Middleburg, and Geneva being included, as most of them are in the French language. The main portion of the collection consists of books with cuts, which have been chosen as representative of book-illustration in France. cf. Pref.\n707 entries. Full descriptions, except for the 7 works acquired from the Didot library when the catalog was ready for the press. Numerous facsimiles.\nIndexes: I. Authors & persons mentioned. II. Titles, subjects and places. III. Printers and publishers. IV. Names of former owners.\nCompanion work to the \"Catalogue of a collection of early German books in the library of C. Fairfax Murray,\" issued in 2 vols., 1913."]
+      },
+      {
+        "value": ["2 v. : col.fronts.,illus.,plates(part col.) ports.,facsims ; 31 cm"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-102154"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-102154"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-102154"],
+        "summary_title": ["book"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["Catalogue of a collection of early French books in the library of C. Fairfax Murray"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-98402"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/98402"],
+    "object": ["object-98402"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

@@ -1,0 +1,283 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-27402"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27402"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27402"],
+        "summary_title": ["fragment"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["C.22-1904"],
+        "type": ["accession number"],
+        "value": ["C.22-1904"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["80896"],
+        "type": ["priref"],
+        "value": ["80896"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/80896"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/80896"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["According to a label accompanying a group of fragments including this one given by R.C. Bosanquet they were 'Mostly bought at Orvieto; some pieces (marked P at back) from Perugia. The Orvieto pieces, with a few exceptions were found in excavating foundations for houses near the Cathedral.' Robert Carr Bosanquet (1871-1935), the Director of the British School of Athens, passed through Orvieto with his wife, Ellen Sophia (née Hodgkin) in July 1904, signing the visitors book in the Museo dell’Opera del Duomo on 26th, and then went on to Perugia, where he purchased some small Etruscan bronzes which he gave to the Fitzwilliam at the same time."]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1613668262000"],
+      "id": ["object-80896"]
+    },
+    "description": [
+      {
+        "value": ["Pale buff earthenware, tin-glazed overall. Painted in blue and with slightly lustrous yellow.\nSection of a bowl with a deep well and broad rim, of approximately shape 60.\nPart of a central medallion containing leaves and semi-circular motifs, surrounded by three bands and a zone of scales with a band above. On the rim, pointed yellow rays with blue shaded edges alternate with buds on stems, bordered by a yellow band between two blue, and a yellow band. On the back there are two spaced yellow concentric circles."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1904"],
+            "value": ["1904"],
+            "latest": ["1904"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Bosanquet, R. C."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-179767"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-179767"],
+            "agent": ["agent-179767"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["1500"],
+              "value": ["1500"],
+              "latest": ["1500"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["1530"],
+              "value": ["1530"],
+              "latest": ["1530"]
+            },
+            "earliest": ["1500"],
+            "latest": ["1530"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["16th century"],
+            "period": ["term-106602"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106602"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106602"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unidentified Orvieto pottery"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-189314"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-189314"],
+            "term": ["agent-189314"],
+            "role": [
+              {
+                "value": ["maker"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Deruta"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-110784"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110784"],
+            "place": ["term-110784"],
+            "coordinates": {
+              "lat": ["42.98229"],
+              "lng": ["12.4195878"]
+            },
+            "note": ["uncertain"],
+            "hierarchies": [
+              {
+                "summary_title": ["Italy"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Umbria"],
+                "type": ["region"]
+              }
+            ]
+          },
+          {
+            "summary_title": ["Orvieto"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-110716"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110716"],
+            "place": ["term-110716"],
+            "coordinates": {
+              "lat": ["42.7186152"],
+              "lng": ["12.1087907"]
+            },
+            "note": ["uncertain"],
+            "hierarchies": [
+              {
+                "summary_title": ["Italy"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Umbria"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "component": [
+      {
+        "name": ["Decoration"],
+        "materials": [
+          {
+            "term": ["term-110730"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110730"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110730"],
+            "summary_title": ["high-temperature colour"]
+          },
+          {
+            "term": ["term-113115"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-113115"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-113115"],
+            "summary_title": ["reduced pigment lustre"]
+          }
+        ]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-120059"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-120059"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-120059"],
+        "summary_title": ["tin-glazing"],
+        "descriptions": [
+          {
+            "description": ["Pale buff earthenware, tin-glazed overall. Painted in blue and with slightly lustrous yellow."]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-27402"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27402"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27402"],
+        "summary_title": ["fragment"]
+      },
+      {
+        "value": ["fragment of a bowl with a broad rim"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-108348"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-108348"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-108348"],
+        "summary_title": ["tin-glazed earthenware"]
+      },
+      {
+        "term": ["term-42865"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-42865"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-42865"],
+        "summary_title": ["maiolica"]
+      },
+      {
+        "term": ["term-110727"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110727"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110727"],
+        "summary_title": ["lustreware"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Diameter"],
+          "value": ["8.8"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Height"],
+          "value": ["3.5"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-3010"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-3010"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-3010"],
+        "summary_title": ["Italian Maiolica and Incised Slipware in the Fitzwilliam Museum Cambridge"],
+        "page": ["p. 170"],
+        "notes": ["Publ. p. 170, no. 241"]
+      },
+      {
+        "term": ["publication-3315"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-3315"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-3315"],
+        "summary_title": ["La ceramica orvietana nel Quattrocento & nel Cinquecento"],
+        "page": ["72-4"],
+        "notes": ["Cf. pp. 72-4, figs. 63-6"]
+      },
+      {
+        "term": ["publication-400002301"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-400002301"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-400002301"],
+        "summary_title": ["Orvieto underground. Scheda 38, le ceramiche ritrovate: un altra fornace in via della Cava"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-80896"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/80896"],
+    "object": ["object-80896"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

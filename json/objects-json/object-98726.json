@@ -1,0 +1,224 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-98032"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98032"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98032"],
+        "summary_title": ["print"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["P.203-1943"],
+        "type": ["accession number"],
+        "value": ["P.203-1943"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["98726"],
+        "type": ["priref"],
+        "value": ["98726"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/98726"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/98726"]
+      }
+    ],
+    "admin": {
+      "created": ["1312633661000"],
+      "modified": ["1312651075000"],
+      "id": ["object-98726"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["Installation of the Marquis Camden as Chancellor in the senate House Cambridge, 1834."]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1943"],
+            "value": ["1943-07"],
+            "latest": ["1907"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Laws, A. Esq."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-166774"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-166774"],
+            "agent": ["agent-166774"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["on or after"],
+              "earliest": ["1834"],
+              "value": ["1834"],
+              "latest": ["1834"]
+            },
+            "to": {
+              "precision": ["before"],
+              "earliest": ["1841"],
+              "value": ["1841"],
+              "latest": ["1841"]
+            },
+            "earliest": ["1834"],
+            "latest": ["1841"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Hawkins, S. H."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-158626"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-158626"],
+            "term": ["agent-158626"],
+            "role": [
+              {
+                "value": ["publisher"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-37178"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-37178"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-37178"],
+            "summary_title": ["wove paper"]
+          }
+        ]
+      },
+      {
+        "name": ["Image"],
+        "materials": []
+      },
+      {
+        "name": ["Sheet"],
+        "materials": []
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-100239"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100239"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100239"],
+        "summary_title": ["aquatint"],
+        "descriptions": []
+      },
+      {
+        "term": ["term-99807"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-99807"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-99807"],
+        "summary_title": ["etching"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-98032"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98032"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98032"],
+        "summary_title": ["print"]
+      }
+    ],
+    "inscription": [
+      {
+        "method": ["printed"],
+        "transcription": [
+          {
+            "value": ["To His Most Gracious Majesty William IVth King of Great Britain & Ireland/ This Print of The Interior of the Senate-House, Cambridge, during the/ CEREMONY OF THE INSTALLATION OF THE MARQUIS CAMDEN, AS CHANCELLOR OF THE UNIVERSITY,/ is with perm[?]sion humbly dedicated by His Majesty's most devoted subject & servant,/ THOMAS DIGHTON."]
+          }
+        ],
+        "location": ["lower middle"],
+        "type": ["inscription"]
+      },
+      {
+        "method": ["printed"],
+        "transcription": [
+          {
+            "value": ["DRAWN & ETCHED BY THOMAS DIGHTON."]
+          }
+        ],
+        "location": ["lower left"],
+        "type": ["signature"]
+      },
+      {
+        "method": ["printed"],
+        "transcription": [
+          {
+            "value": ["AQUATINTED BY R.G. REEVE."]
+          }
+        ],
+        "location": ["lower right"],
+        "type": ["signature"]
+      },
+      {
+        "method": ["printed"],
+        "transcription": [
+          {
+            "value": ["PRINTED BY S.H.HAWKINS"]
+          }
+        ],
+        "location": ["lower left"],
+        "type": ["signature"]
+      },
+      {
+        "method": ["printed"],
+        "transcription": [
+          {
+            "value": ["Proof"]
+          }
+        ],
+        "location": ["lower right"],
+        "type": ["inscription"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-98032"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98032"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98032"],
+        "summary_title": ["print"]
+      }
+    ],
+    "department": {
+      "value": ["Paintings, Drawings and Prints"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-98726"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/98726"],
+    "object": ["object-98726"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

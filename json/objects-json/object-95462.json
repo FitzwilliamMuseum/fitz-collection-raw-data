@@ -1,0 +1,135 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["2003"],
+            "value": ["2003-05"],
+            "latest": ["2005"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Dreyfus, John"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-163304"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-163304"],
+            "agent": ["agent-163304"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "earliest": ["1972"],
+            "value": ["1972-05"],
+            "latest": ["1905"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Smith, Richard Shirley"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-163892"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-163892"],
+            "term": ["agent-163892"],
+            "role": [
+              {
+                "value": ["writer"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["MS 104-2003"],
+        "type": ["accession number"],
+        "value": ["MS 104-2003"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["95462"],
+        "type": ["priref"],
+        "value": ["95462"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/95462"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/95462"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-33926"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-33926"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-33926"],
+            "summary_title": ["paper (fibre product)"]
+          }
+        ]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-27007"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27007"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27007"],
+        "summary_title": ["handwriting"],
+        "descriptions": []
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1598276509000"],
+      "id": ["object-95462"]
+    },
+    "description": [
+      {
+        "value": ["Richard Shirley Smith to John Dreyfus re applying for jobs"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-103262"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-103262"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-103262"],
+        "summary_title": ["letter (correspondence)"]
+      },
+      {
+        "term": ["term-117339"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117339"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-117339"],
+        "summary_title": ["archive document"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-95462"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/95462"],
+    "object": ["object-95462"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

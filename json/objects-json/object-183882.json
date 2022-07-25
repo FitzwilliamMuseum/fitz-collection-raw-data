@@ -1,0 +1,332 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-130626"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-130626"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-130626"],
+        "summary_title": ["Junction"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bought"],
+        "date": [
+          {
+            "earliest": ["2008"],
+            "value": ["2008-11-24"],
+            "latest": ["2008"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Taylor, Geoffrey"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-151969"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-151969"],
+            "agent": ["agent-151969"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Torksey, Lincolnshire"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-130593"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-130593"],
+            "coordinates": {
+              "lat": ["53.3002756"],
+              "lng": ["-0.7448882"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["500"],
+              "value": ["500"],
+              "latest": ["500"]
+            },
+            "to": {
+              "earliest": ["1499"],
+              "value": ["1499"],
+              "latest": ["1499"]
+            },
+            "earliest": ["500"],
+            "latest": ["1499"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Medieval"],
+            "period": ["term-10603"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-10603"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-10603"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.1857-2008"],
+        "type": ["accession number"],
+        "value": ["CM.1857-2008"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["183882"],
+        "type": ["priref"],
+        "value": ["183882"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/183882"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/183882"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-39741"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39741"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39741"],
+            "summary_title": ["copper alloy"]
+          }
+        ]
+      },
+      {
+        "name": ["Whole Object"],
+        "materials": []
+      }
+    ],
+    "multimedia": [
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616266657598"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm34/preview_CM_1857_2008_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["156"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616266657598"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm34/CM_1857_2008_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["475"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["760"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616266657598"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm34/CM_1857_2008_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["475"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["760"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616266657598"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm34/mid_CM_1857_2008_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["313"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616266284183"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm34/preview_CM_1857_2008_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["151"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616266284183"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm34/CM_1857_2008_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["459"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["760"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616266284183"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm34/CM_1857_2008_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["459"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["760"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616266284183"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm34/mid_CM_1857_2008_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["302"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-130626"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-130626"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-130626"],
+        "summary_title": ["Junction"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1431942756000"],
+      "id": ["object-183882"]
+    },
+    "description": [
+      {
+        "value": ["A curved copper-alloy object. The main body forms a domes shape with two holes. In addition there are two cylindrical protrusions that are similarly drilled. It appears to be a junction point for something although the purpose is unclear."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-183882"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/183882"],
+    "object": ["object-183882"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

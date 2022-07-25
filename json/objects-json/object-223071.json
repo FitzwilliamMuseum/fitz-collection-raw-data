@@ -1,0 +1,162 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-133795"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-133795"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-133795"],
+        "summary_title": ["Ancient Greek"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["1976"],
+            "value": ["1976"],
+            "latest": ["1976"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Burkitt, M.I., Mrs"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159592"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159592"],
+            "agent": ["agent-159592"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["175"],
+              "value": ["-174"],
+              "latest": ["175"]
+            },
+            "to": {
+              "precision": ["circa"],
+              "earliest": ["151"],
+              "value": ["-150"],
+              "latest": ["151"]
+            },
+            "earliest": ["175"],
+            "latest": ["151"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Sidon"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-170402"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-170402"],
+            "term": ["agent-170402"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Sidon"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-119598"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119598"],
+            "place": ["term-119598"],
+            "coordinates": {
+              "lat": ["33.5618345"],
+              "lng": ["35.3780338"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Lebanon"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Phoenicia"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.BU.1083-R"],
+        "type": ["accession number"],
+        "value": ["CM.BU.1083-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["223071"],
+        "type": ["priref"],
+        "value": ["223071"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/223071"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/223071"]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-119622"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119622"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119622"],
+        "summary_title": ["struck"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-133795"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-133795"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-133795"],
+        "summary_title": ["Ancient Greek"]
+      }
+    ],
+    "admin": {
+      "created": ["1512647204000"],
+      "modified": ["1512647853000"],
+      "id": ["object-223071"]
+    },
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["g"],
+          "dimension": ["Weight"],
+          "value": ["1.66"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-223071"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/223071"],
+    "object": ["object-223071"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

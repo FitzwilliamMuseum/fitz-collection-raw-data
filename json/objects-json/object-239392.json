@@ -1,0 +1,130 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1933"],
+            "value": ["1933"],
+            "latest": ["1933"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["de Pass, Alfred A."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-153140"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-153140"],
+            "agent": ["agent-153140"]
+          }
+        }
+      },
+      "creation": {
+        "periods": [
+          {
+            "summary_title": ["15th century"],
+            "period": ["term-107270"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-107270"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107270"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["France"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-120306"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-120306"],
+            "place": ["term-120306"],
+            "coordinates": {
+              "lat": ["46.603354"],
+              "lng": ["1.8883335"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["France"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["MS 335"],
+        "type": ["accession number"],
+        "value": ["MS 335"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["239392"],
+        "type": ["priref"],
+        "value": ["239392"]
+      },
+      {
+        "source": ["Cambridge Illuminated"],
+        "type": ["project ID"],
+        "value": ["1312"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/239392"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/239392"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Edward William Smith (armorial bookplate; 'Franks 27239' written in pencil); Alfred A. De Pass; his gift, 1933, in memory of his son, Crispin De Pass (d. 1918)"]
+      }
+    ],
+    "admin": {
+      "created": ["1573817741000"],
+      "modified": ["1598266983000"],
+      "id": ["object-239392"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-110558"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110558"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110558"],
+        "summary_title": ["illuminated manuscript"]
+      },
+      {
+        "term": ["term-114522"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-114522"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-114522"],
+        "summary_title": ["manuscript"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "title": [
+      {
+        "value": ["Hours"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-239392"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/239392"],
+    "object": ["object-239392"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

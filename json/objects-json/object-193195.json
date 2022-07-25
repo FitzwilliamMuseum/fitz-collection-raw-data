@@ -1,0 +1,154 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-133185"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-133185"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-133185"],
+        "summary_title": ["cigarette holder"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["2008"],
+            "value": ["2008-11-24"],
+            "latest": ["2008"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Hull, Roy, Dr"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-182524"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-182524"],
+            "agent": ["agent-182524"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["1900"],
+              "value": ["1900"],
+              "latest": ["1900"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["1930"],
+              "value": ["1930"],
+              "latest": ["1930"]
+            },
+            "earliest": ["1900"],
+            "latest": ["1930"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["early 20th century"],
+            "period": ["term-109008"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-109008"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-109008"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["carver"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["O.329-2008"],
+        "type": ["accession number"],
+        "value": ["O.329-2008"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["193195"],
+        "type": ["priref"],
+        "value": ["193195"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/193195"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/193195"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["unknown before donor"]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-98865"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98865"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98865"],
+        "summary_title": ["carving"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-133185"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-133185"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-133185"],
+        "summary_title": ["cigarette holder"]
+      }
+    ],
+    "admin": {
+      "created": ["1358941848000"],
+      "modified": ["1358947838000"],
+      "id": ["object-193195"]
+    },
+    "description": [
+      {
+        "value": ["Cigarette Holder, ivory, a slim pipe with two monkeys thinly carved on the surface."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-193195"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/193195"],
+    "object": ["object-193195"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

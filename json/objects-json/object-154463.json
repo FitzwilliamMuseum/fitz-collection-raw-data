@@ -1,0 +1,179 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-116166"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-116166"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-116166"],
+        "summary_title": ["desk seal"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1930"],
+            "value": ["1930-02-14"],
+            "latest": ["1930"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Duncanson, T. J. G."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-154693"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-154693"],
+            "agent": ["agent-154693"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["1700"],
+              "value": ["1700"],
+              "latest": ["1700"]
+            },
+            "to": {
+              "precision": ["circa"],
+              "earliest": ["1800"],
+              "value": ["1800"],
+              "latest": ["1800"]
+            },
+            "earliest": ["1700"],
+            "latest": ["1800"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["18th century"],
+            "period": ["term-106400"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106400"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106400"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["maker"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["M.86-1930"],
+        "type": ["accession number"],
+        "value": ["M.86-1930"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["154463"],
+        "type": ["priref"],
+        "value": ["154463"]
+      },
+      {
+        "date": [
+          {
+            "earliest": ["1930"],
+            "value": ["1930"],
+            "latest": ["1930"]
+          }
+        ],
+        "source": ["The Fitzwilliam Museum"],
+        "type": ["old object number"],
+        "value": ["M.2-1930"]
+      },
+      {
+        "type": ["Smart collection"],
+        "value": ["70"]
+      },
+      {
+        "type": ["Gem cat no."],
+        "value": ["792"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/154463"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/154463"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Seal"],
+        "materials": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-116166"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-116166"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-116166"],
+        "summary_title": ["desk seal"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1433324387000"],
+      "id": ["object-154463"]
+    },
+    "description": [
+      {
+        "value": ["Gold desk seal with female bust"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-103655"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-103655"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-103655"],
+        "summary_title": ["seals"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "publications": [
+      {
+        "term": ["publication-1001"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-1001"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-1001"],
+        "summary_title": ["Classical Gems, Ancient and Modern Intaglios and Cameos in the Fitzwilliam Museum, Cambridge"],
+        "page": ["379"],
+        "notes": ["Publ., p. 379, no. 792"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-154463"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/154463"],
+    "object": ["object-154463"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

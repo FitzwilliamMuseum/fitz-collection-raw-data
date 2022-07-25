@@ -1,0 +1,156 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1993"],
+            "value": ["1993"],
+            "latest": ["1993"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Lister, Raymond"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-152474"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-152474"],
+            "agent": ["agent-152474"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "era": [
+              ["CE"]
+            ],
+            "earliest": ["1992"],
+            "value": ["1992-08-10"],
+            "latest": ["1992"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Lochle, Dieter"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-158404"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-158404"],
+            "term": ["agent-158404"],
+            "role": [
+              {
+                "value": ["author"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Tübingen"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-110752"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110752"],
+            "place": ["term-110752"],
+            "coordinates": {
+              "lat": ["48.5236164"],
+              "lng": ["9.0535531"]
+            }
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["MS 1416-1993"],
+        "type": ["accession number"],
+        "value": ["MS 1416-1993"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["80326"],
+        "type": ["priref"],
+        "value": ["80326"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/80326"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/80326"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Lister, Raymond"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-106206"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106206"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106206"],
+            "summary_title": ["paper"]
+          }
+        ]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-27007"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27007"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27007"],
+        "summary_title": ["handwriting"],
+        "descriptions": []
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1598276368000"],
+      "id": ["object-80326"]
+    },
+    "description": [
+      {
+        "value": ["A letter from Dieter Lochle to Raymond Lister"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-106412"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106412"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106412"],
+        "summary_title": ["letter"]
+      },
+      {
+        "term": ["term-117339"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117339"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-117339"],
+        "summary_title": ["archive document"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-80326"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/80326"],
+    "object": ["object-80326"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

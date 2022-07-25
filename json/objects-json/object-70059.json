@@ -1,0 +1,174 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-111016"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111016"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-111016"],
+        "summary_title": ["dinos"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1981"],
+            "value": ["1981"],
+            "latest": ["1981"]
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["BC"]
+              ],
+              "earliest": ["500"],
+              "value": ["-0500"],
+              "latest": ["500"]
+            },
+            "to": {
+              "era": [
+                ["BC"]
+              ],
+              "earliest": ["401"],
+              "value": ["-0401"],
+              "latest": ["401"]
+            },
+            "earliest": ["500"],
+            "latest": ["401"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Classical"],
+            "period": ["term-14088"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-14088"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-14088"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Corinth"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-112497"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-112497"],
+            "place": ["term-112497"],
+            "coordinates": {
+              "lat": ["37.9386936"],
+              "lng": ["22.9280447"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Greece"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Corinthia"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.76.1981"],
+        "type": ["accession number"],
+        "value": ["GR.76.1981"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["70059"],
+        "type": ["priref"],
+        "value": ["70059"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/70059"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/70059"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-111016"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111016"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-111016"],
+        "summary_title": ["dinos"]
+      },
+      {
+        "term": ["term-107667"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107667"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107667"],
+        "summary_title": ["bowl"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1621012087000"],
+      "id": ["object-70059"]
+    },
+    "description": [
+      {
+        "value": ["handle from dinos, in form of lion head ring"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-89198"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89198"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89198"],
+        "summary_title": ["vessel"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.099"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.083"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-3989"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-3989"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-3989"],
+        "summary_title": ["Annual Report for 1981"]
+      },
+      {
+        "term": ["publication-4415"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-4415"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-4415"],
+        "summary_title": ["Principal acquisitions 1979-83"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-70059"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/70059"],
+    "object": ["object-70059"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

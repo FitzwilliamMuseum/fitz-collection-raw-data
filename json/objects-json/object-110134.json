@@ -1,0 +1,182 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-27402"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27402"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27402"],
+        "summary_title": ["fragment"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1974"],
+            "value": ["1974-12-05"],
+            "latest": ["1974"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Ede, Harold Stanley ('Jim')"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-169177"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-169177"],
+            "agent": ["agent-169177"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["1850"],
+              "value": ["1850"],
+              "latest": ["1850"]
+            },
+            "to": {
+              "precision": ["circa"],
+              "earliest": ["1860"],
+              "value": ["1860"],
+              "latest": ["1860"]
+            },
+            "earliest": ["1850"],
+            "latest": ["1860"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Victorian"],
+            "period": ["term-15214"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-15214"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-15214"]
+          },
+          {
+            "summary_title": ["mid 19th century"],
+            "period": ["term-109672"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-109672"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-109672"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["production"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["T.66-1974"],
+        "type": ["accession number"],
+        "value": ["T.66-1974"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["110134"],
+        "type": ["priref"],
+        "value": ["110134"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/110134"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/110134"]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-118668"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-118668"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-118668"],
+        "summary_title": ["machine made net"],
+        "descriptions": [
+          {
+            "description": ["machine made two twist net decorated with machine embroidery."]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-27402"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27402"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27402"],
+        "summary_title": ["fragment"]
+      },
+      {
+        "term": ["term-118668"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-118668"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-118668"],
+        "summary_title": ["machine made net"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1507304194000"],
+      "id": ["object-110134"]
+    },
+    "description": [
+      {
+        "value": ["Fragment of a machine made two twist net decorated with machine embroidery."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-39352"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39352"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39352"],
+        "summary_title": ["lace"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Length"],
+          "value": ["49.5"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Width"],
+          "value": ["13"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-110134"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/110134"],
+    "object": ["object-110134"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

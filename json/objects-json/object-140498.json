@@ -1,0 +1,299 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-107454"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107454"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107454"],
+        "summary_title": ["figure"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["JL.2-1984"],
+        "type": ["accession number"],
+        "value": ["JL.2-1984"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["140498"],
+        "type": ["priref"],
+        "value": ["140498"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/140498"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/140498"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1606413019000"],
+      "id": ["object-140498"]
+    },
+    "description": [
+      {
+        "value": ["Figure of a Bijin, or Beauty, painted in Kakiemon-style enamels in red, blue, yellow, green and black.  The Bijin is standing and leaning slightly backwards with a smiling expression, holding a cup in her right hand and grasping a billowing sleeve with her left.  Her hair is elaborately arranged with a loop at the back.  She is dressed in a long kimono decorated with a phoenix with long tail feathers which extend down its length and with cloud scrolls; with a black sash and an under robe bearing a diamond chequered pattern in red.  The cup appears to be the remains of a damaged bottle."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-193309"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-193309"],
+        "owner": ["agent-193309"],
+        "summary_title": ["Jenyns, Roger, Mr and Mrs"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["Figure of a Bijin, or Beauty"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["1984"],
+            "value": ["1984"],
+            "latest": ["1984"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Jenyns, Roger, Mr and Mrs"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-193309"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-193309"],
+            "agent": ["agent-193309"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["1670"],
+              "value": ["1670"],
+              "latest": ["1670"]
+            },
+            "to": {
+              "earliest": ["1690"],
+              "value": ["1690"],
+              "latest": ["1690"]
+            },
+            "earliest": ["1670"],
+            "latest": ["1690"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["17th Century"],
+            "period": ["term-106447"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106447"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106447"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["maker"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Arita"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-15025"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-15025"],
+            "place": ["term-15025"],
+            "coordinates": {
+              "lat": ["33.192301"],
+              "lng": ["129.8669613"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Japan"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "school_or_style": [
+      {
+        "term": ["term-15024"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-15024"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-15024"],
+        "summary_title": ["Kakiemon"]
+      }
+    ],
+    "multimedia": [
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616273919558"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa20/preview_JL_2_1984.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["319"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616273919558"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa20/JL_2_1984.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["760"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["595"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616273919558"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa20/JL_2_1984.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["760"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["595"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616273919558"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa20/mid_JL_2_1984.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["639"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-28662"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-28662"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-28662"],
+        "summary_title": ["enamelling"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-107454"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107454"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107454"],
+        "summary_title": ["figure"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-37627"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-37627"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-37627"],
+        "summary_title": ["hard-paste porcelain"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Height"],
+          "value": ["35"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-2574"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-2574"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-2574"],
+        "summary_title": ["Porcelain for Palaces: The Fashion for Japan in Europe 1650-1750"],
+        "page": ["181"],
+        "notes": ["165"]
+      },
+      {
+        "term": ["publication-7805"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-7805"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-7805"],
+        "summary_title": ["Oriental Art (XXXVI no. 2)"],
+        "page": ["66-76"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-140498"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/140498"],
+    "object": ["object-140498"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

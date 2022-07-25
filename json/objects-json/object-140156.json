@@ -1,0 +1,172 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-130060"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-130060"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-130060"],
+        "summary_title": ["tea set"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1932"],
+            "value": ["1932-10"],
+            "latest": ["1910"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Dickson, W. D. (Frances Louisa), Mrs"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-180712"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-180712"],
+            "agent": ["agent-180712"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "precision": ["circa"],
+            "earliest": ["1776"],
+            "value": ["1776"],
+            "latest": ["1776"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["18th century"],
+            "period": ["term-106400"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106400"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106400"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Höchst Porcelain Manufactory"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-176305"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-176305"],
+            "term": ["agent-176305"],
+            "role": [
+              {
+                "value": ["factory"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Höchst-am-Main"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-110407"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110407"],
+            "place": ["term-110407"],
+            "coordinates": {
+              "lat": ["50.0995118"],
+              "lng": ["8.5452956"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Germany"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["C.195A-E-1932"],
+        "type": ["accession number"],
+        "value": ["C.195A-E-1932"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["140156"],
+        "type": ["priref"],
+        "value": ["140156"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/140156"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/140156"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Sugar Bowl"],
+        "materials": []
+      },
+      {
+        "name": ["Saucer"],
+        "materials": []
+      },
+      {
+        "name": ["Teapot"],
+        "materials": []
+      },
+      {
+        "name": ["Cup"],
+        "materials": []
+      },
+      {
+        "name": ["Tray"],
+        "materials": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-130060"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-130060"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-130060"],
+        "summary_title": ["tea set"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1476200117000"],
+      "id": ["object-140156"]
+    },
+    "description": [
+      {
+        "value": ["Porcelain bedroom tea set, decorated with landscapes in a purple monochrome. Comprised of a tea pot, two cups and saucers, suger basin and cover, and a tray."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-37642"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-37642"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-37642"],
+        "summary_title": ["porcelain"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-140156"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/140156"],
+    "object": ["object-140156"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

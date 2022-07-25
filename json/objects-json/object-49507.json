@@ -1,0 +1,360 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-110862"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110862"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110862"],
+        "summary_title": ["menat"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1896"],
+            "value": ["1896"],
+            "latest": ["1896"]
+          }
+        ]
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Ramesseum"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-113018"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-113018"],
+            "coordinates": {
+              "lat": ["25.7280523"],
+              "lng": ["32.610002760616"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["BC"]
+              ],
+              "earliest": ["945"],
+              "value": ["-0945"],
+              "latest": ["945"]
+            },
+            "to": {
+              "era": [
+                ["BC"]
+              ],
+              "earliest": ["715"],
+              "value": ["-0715"],
+              "latest": ["715"]
+            },
+            "earliest": ["945"],
+            "latest": ["715"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Twenty-second Dynasty"],
+            "period": ["term-12514"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-12514"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12514"]
+          },
+          {
+            "summary_title": ["Third Intermediate period"],
+            "period": ["term-12523"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-12523"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12523"]
+          },
+          {
+            "summary_title": ["reign of Osorkon I"],
+            "period": ["term-127114"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-127114"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-127114"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["E.97.1896"],
+        "type": ["accession number"],
+        "value": ["E.97.1896"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["49507"],
+        "type": ["priref"],
+        "value": ["49507"]
+      },
+      {
+        "type": ["oldadmincategory"],
+        "value": ["Misc"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/49507"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/49507"]
+      }
+    ],
+    "multimedia": [
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616277155479"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant46/preview_E_96_1896_E_97_1896_2_201502_jas244_dc2.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["169"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616277155479"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant46/E_96_1896_E_97_1896_2_201502_jas244_dc2.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["691"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["1025"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616277155479"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant46/large_E_96_1896_E_97_1896_2_201502_jas244_dc2.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["690"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["1024"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616277155479"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant46/mid_E_96_1896_E_97_1896_2_201502_jas244_dc2.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["337"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1554767472000"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/639/760/preview_E_97_1896_E_96_1896_1_201502_jas244_mas.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["169"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "processed": ["1"],
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1554767472000"],
+          "rotated": ["1"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/639/760/E_97_1896_E_96_1896_1_201502_jas244_mas.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["4380"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["6496"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1554767472000"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/639/760/large_E_97_1896_E_96_1896_1_201502_jas244_mas.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["690"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["1023"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1554767472000"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/639/760/mid_E_97_1896_E_96_1896_1_201502_jas244_mas.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["337"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-110862"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110862"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110862"],
+        "summary_title": ["menat"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1621011879000"],
+      "id": ["object-49507"]
+    },
+    "description": [
+      {
+        "value": ["menat from mummy straps, stamped with cartouches of Osorkon I and floral motif, coloured pink"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-110832"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110832"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110832"],
+        "summary_title": ["mummy trappings"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Height"],
+          "value": ["8.1"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Length"],
+          "value": ["3.2"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-4550"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-4550"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-4550"],
+        "summary_title": ["The Ramesseum"]
+      },
+      {
+        "term": ["publication-8152"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-8152"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-8152"],
+        "summary_title": ["Death on the Nile: Uncovering the Afterlife of Ancient Egypt"],
+        "page": ["207"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-49507"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/49507"],
+    "object": ["object-49507"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

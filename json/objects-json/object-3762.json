@@ -1,0 +1,296 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-106226"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106226"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106226"],
+        "summary_title": ["painting"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["10"],
+        "type": ["accession number"],
+        "value": ["10"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["3762"],
+        "type": ["priref"],
+        "value": ["3762"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/3762"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/3762"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Dr George Heath, his father, (1745-1822)"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1596468763000"],
+      "id": ["object-3762"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["Hugh Percy, 3rd Duke of Northumberland"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1850"],
+            "value": ["1850"],
+            "latest": ["1850"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Heath, George Crauford"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-151795"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-151795"],
+            "agent": ["agent-151795"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "earliest": ["1803"],
+            "value": ["1803"],
+            "latest": ["1803"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Phillips, Thomas"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-107056"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-107056"],
+            "term": ["agent-107056"],
+            "role": [
+              {
+                "value": ["painter"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "school_or_style": [
+      {
+        "term": ["term-9168"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-9168"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-9168"],
+        "summary_title": ["British"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-39136"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39136"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39136"],
+            "summary_title": ["canvas"]
+          }
+        ]
+      },
+      {
+        "name": ["Frame"],
+        "materials": []
+      },
+      {
+        "name": ["Canvas"],
+        "materials": []
+      }
+    ],
+    "multimedia": [
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616284139731"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp2/preview_10.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["302"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616284139731"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp2/10.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["760"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["630"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616284139731"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp2/10.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["760"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["630"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616284139731"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp2/mid_10.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["603"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-30011"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-30011"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-30011"],
+        "summary_title": ["painting (image-making)"],
+        "descriptions": [
+          {
+            "description": ["oil on canvas"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-106226"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106226"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106226"],
+        "summary_title": ["painting"]
+      }
+    ],
+    "inscription": [
+      {
+        "transcription": [
+          {
+            "value": ["Earl Percy. / Phillips pinxt / 1803"]
+          }
+        ],
+        "location": ["verso of original canvas"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-106226"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106226"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106226"],
+        "summary_title": ["painting"]
+      }
+    ],
+    "department": {
+      "value": ["Paintings, Drawings and Prints"]
+    },
+    "publications": [
+      {
+        "term": ["publication-4"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-4"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-4"],
+        "summary_title": ["A Descriptive Catalogue of the Pictures in the Fitzwilliam Museum"],
+        "page": ["152, 155"],
+        "notes": ["reproduced"]
+      },
+      {
+        "term": ["publication-709"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-709"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-709"],
+        "summary_title": ["Catalogue of Cambridge Portraits I The University Collection"]
+      },
+      {
+        "term": ["publication-144"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-144"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-144"],
+        "summary_title": ["Catalogue of Paintings in the Fitzwilliam Museum, Cambridge, Vol. III, British School"],
+        "page": ["192-193"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-3762"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/3762"],
+    "object": ["object-3762"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

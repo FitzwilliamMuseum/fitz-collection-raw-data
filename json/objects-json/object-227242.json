@@ -1,0 +1,336 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-120306"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-120306"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-120306"],
+        "summary_title": ["France"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["unknown"],
+        "agents": {
+          "agent": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "agent": ["agent-149652"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["1494"],
+              "value": ["1494"],
+              "latest": ["1494"]
+            },
+            "to": {
+              "earliest": ["1495"],
+              "value": ["1495"],
+              "latest": ["1495"]
+            },
+            "earliest": ["1494"],
+            "latest": ["1495"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Charles VIII (1483-1498)"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-198535"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-198535"],
+            "term": ["agent-198535"],
+            "role": [
+              {
+                "value": ["ruler"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Florence"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106508"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106508"],
+            "place": ["term-106508"],
+            "coordinates": {
+              "lat": ["43.7698712"],
+              "lng": ["11.2555757"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Italy"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Tuscany"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.M.3794-R"],
+        "type": ["accession number"],
+        "value": ["CM.M.3794-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["227242"],
+        "type": ["priref"],
+        "value": ["227242"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/227242"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/227242"]
+      }
+    ],
+    "multimedia": [
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616253261165"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm66/preview_CM_M_3794_R_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["250"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616253261165"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm66/CM_M_3794_R_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["3402"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["3402"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616253261165"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm66/large_CM_M_3794_R_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["1024"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["1024"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616253261165"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm66/mid_CM_M_3794_R_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["500"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616283706406"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm66/preview_CM_M_3794_R_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["250"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616283706406"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm66/CM_M_3794_R_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["3402"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["3402"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616283706406"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm66/large_CM_M_3794_R_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["1024"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["1024"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616283706406"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm66/mid_CM_M_3794_R_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["500"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-120306"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-120306"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-120306"],
+        "summary_title": ["France"]
+      }
+    ],
+    "admin": {
+      "created": ["1560954455000"],
+      "modified": ["1607522351000"],
+      "id": ["object-227242"]
+    },
+    "description": [
+      {
+        "value": ["Charles VIII personally led an aggressive campaign to annex large parts of Italy in 1494-5.  He swept from north to south, entering Pisa, Florence, Rome and Naples, by which time an effective force, the Holy League of Venice, was being assembled against him.  Recognising he was out classed, he beat a retreat with his army to France.  \n\nThis piece belongs to a group of medals of French military leaders and courtiers present on the campaign, evidently commissioned during the French occupation of Florence in 1494-5. They are unsigned, but their style suggests an attribution to Spinelli."]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-42993"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-42993"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-42993"],
+        "summary_title": ["medal"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["Bronze medal of Charles VIII of France, attributed to Niccolo Spinelli; Florence, 1494-95"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["mm"],
+          "dimension": ["Diameter"],
+          "value": ["93"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-227242"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/227242"],
+    "object": ["object-227242"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

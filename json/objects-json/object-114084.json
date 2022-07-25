@@ -1,0 +1,191 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-12401"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12401"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-12401"],
+        "summary_title": ["Greek"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["1991"],
+            "value": ["1991"],
+            "latest": ["1991"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Lewis, S. S."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-162613"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-162613"],
+            "agent": ["agent-162613"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["134"],
+              "value": ["-133"],
+              "latest": ["134"]
+            },
+            "to": {
+              "earliest": ["6001"],
+              "value": ["-60"],
+              "latest": ["6100"]
+            },
+            "earliest": ["134"],
+            "latest": ["6100"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Dinar (Turkey)"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-191039"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-191039"],
+            "term": ["agent-191039"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Dinar (Turkey)"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-125433"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-125433"],
+            "place": ["term-125433"],
+            "coordinates": {
+              "lat": ["38.0664374"],
+              "lng": ["30.1635717"]
+            }
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.LS.1013-R"],
+        "type": ["accession number"],
+        "value": ["CM.LS.1013-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["114084"],
+        "type": ["priref"],
+        "value": ["114084"]
+      },
+      {
+        "type": ["SNG Lewis"],
+        "value": ["1013"]
+      },
+      {
+        "type": ["ordering"],
+        "value": ["LW-1012"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/114084"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/114084"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Forbes 1882, from Denizli"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-12401"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12401"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-12401"],
+        "summary_title": ["Greek"]
+      },
+      {
+        "term": ["term-119559"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119559"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119559"],
+        "summary_title": ["Phrygia"]
+      },
+      {
+        "term": ["term-119562"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119562"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119562"],
+        "summary_title": ["Apamea"]
+      }
+    ],
+    "admin": {
+      "created": ["1397472617000"],
+      "modified": ["1397474340000"],
+      "id": ["object-114084"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-167778"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-167778"],
+        "owner": ["agent-167778"],
+        "summary_title": ["Corpus Christi College"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["degrees"],
+          "dimension": ["Die Axis"],
+          "value": ["0"]
+        },
+        {
+          "units": ["mm"],
+          "dimension": ["Image(height)"],
+          "value": ["20"]
+        },
+        {
+          "units": ["mm"],
+          "dimension": ["Image(width)"],
+          "value": ["22"]
+        },
+        {
+          "units": ["g"],
+          "dimension": ["Weight"],
+          "value": ["6.14"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-114084"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/114084"],
+    "object": ["object-114084"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

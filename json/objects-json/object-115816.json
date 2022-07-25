@@ -1,0 +1,185 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-119616"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119616"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119616"],
+        "summary_title": ["Roman Republic"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["unknown"],
+        "date": [
+          {
+            "earliest": ["1908"],
+            "value": ["1908"],
+            "latest": ["1908"]
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["212"],
+              "value": ["-211"],
+              "latest": ["212"]
+            },
+            "to": {
+              "earliest": ["209"],
+              "value": ["-208"],
+              "latest": ["209"]
+            },
+            "earliest": ["212"],
+            "latest": ["209"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Central Italy"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-170440"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-170440"],
+            "term": ["agent-170440"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Central Italy"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-119627"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119627"],
+            "place": ["term-119627"],
+            "coordinates": {
+              "lat": ["46.0097187"],
+              "lng": ["9.2820212"]
+            }
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.RR.108-R"],
+        "type": ["accession number"],
+        "value": ["CM.RR.108-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["115816"],
+        "type": ["priref"],
+        "value": ["115816"]
+      },
+      {
+        "type": ["RRC"],
+        "value": ["61/3"]
+      },
+      {
+        "type": ["ordering"],
+        "value": ["RR-0383"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/115816"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/115816"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["No provenance."]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-119622"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119622"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119622"],
+        "summary_title": ["struck"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-119616"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119616"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119616"],
+        "summary_title": ["Roman Republic"]
+      },
+      {
+        "term": ["term-101145"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101145"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101145"],
+        "summary_title": ["semis"]
+      }
+    ],
+    "admin": {
+      "created": ["1397472617000"],
+      "modified": ["1397475438000"],
+      "id": ["object-115816"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["degrees"],
+          "dimension": ["Die Axis"],
+          "value": ["180"]
+        },
+        {
+          "units": ["mm"],
+          "dimension": ["Image(height)"],
+          "value": ["23"]
+        },
+        {
+          "units": ["mm"],
+          "dimension": ["Image(width)"],
+          "value": ["23"]
+        },
+        {
+          "units": ["g"],
+          "dimension": ["Weight"],
+          "value": ["8.22"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-115816"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/115816"],
+    "object": ["object-115816"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

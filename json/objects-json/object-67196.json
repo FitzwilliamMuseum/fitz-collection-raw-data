@@ -1,0 +1,179 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-111073"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111073"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-111073"],
+        "summary_title": ["slab"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["unknown"],
+        "date": [
+          {
+            "earliest": ["1896"],
+            "value": ["1896"],
+            "latest": ["1896"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["?"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-151258"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-151258"],
+            "agent": ["agent-151258"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["BCE"]
+              ],
+              "earliest": ["601"],
+              "value": ["-600"],
+              "latest": ["601"]
+            },
+            "to": {
+              "era": [
+                ["BCE"]
+              ],
+              "earliest": ["502"],
+              "value": ["-501"],
+              "latest": ["502"]
+            },
+            "earliest": ["601"],
+            "latest": ["502"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["archaic"],
+            "period": ["term-111220"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-111220"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111220"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Vulci"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-132796"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-132796"],
+            "place": ["term-132796"],
+            "coordinates": {
+              "lat": ["42.355892"],
+              "lng": ["11.5922396"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Italy"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Etruria"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.103.1896"],
+        "type": ["accession number"],
+        "value": ["GR.103.1896"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["67196"],
+        "type": ["priref"],
+        "value": ["67196"]
+      },
+      {
+        "type": ["oldmuseumnumber"],
+        "value": ["G232"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/67196"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/67196"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-111073"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111073"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-111073"],
+        "summary_title": ["slab"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1480352348000"],
+      "id": ["object-67196"]
+    },
+    "description": [
+      {
+        "value": ["slab from Etruscan tomb"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-43046"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-43046"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-43046"],
+        "summary_title": ["architectural element"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Depth"],
+          "value": ["0.146"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.025"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.155"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-4059"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-4059"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-4059"],
+        "summary_title": ["Catalogue of the Greek vases in the Fitzwilliam Museum, Cambridge"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-67196"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/67196"],
+    "object": ["object-67196"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

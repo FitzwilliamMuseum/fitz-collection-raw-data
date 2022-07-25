@@ -1,0 +1,186 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-123920"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-123920"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-123920"],
+        "summary_title": ["radiate"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-200860"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-200860"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-200860"],
+        "summary_title": ["CAMFZ"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["2016"],
+            "value": ["2016-11-21"],
+            "latest": ["2016"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Kruger, Daniel Y."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-201526"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-201526"],
+            "agent": ["agent-201526"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["266"],
+              "value": ["0266"],
+              "latest": ["266"]
+            },
+            "to": {
+              "earliest": ["268"],
+              "value": ["0268"],
+              "latest": ["268"]
+            },
+            "earliest": ["266"],
+            "latest": ["268"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Asia"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-173465"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-173465"],
+            "term": ["agent-173465"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.507-2016"],
+        "type": ["accession number"],
+        "value": ["CM.507-2016"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["243068"],
+        "type": ["priref"],
+        "value": ["243068"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/243068"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/243068"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-39745"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39745"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39745"],
+            "summary_title": ["billon"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-123920"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-123920"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-123920"],
+        "summary_title": ["radiate"]
+      },
+      {
+        "term": ["term-113870"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-113870"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-113870"],
+        "summary_title": ["Roman Imperial"]
+      }
+    ],
+    "admin": {
+      "created": ["1597680000000"],
+      "modified": ["1626868408000"],
+      "id": ["object-243068"]
+    },
+    "inscription": [
+      {
+        "transcription": [
+          {
+            "value": ["GALLIENVS AVG"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Radiate, draped bust right."]
+          }
+        ],
+        "location": ["obverse"],
+        "type": ["design"]
+      },
+      {
+        "transcription": [
+          {
+            "value": ["PIETAS AVG. VIIC· in exergue"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Emperor, togate, standing left, holding transverse sceptre, sacrificing with patera over lit altar to left."]
+          }
+        ],
+        "location": ["reverse"],
+        "type": ["design"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "publications": [
+      {
+        "term": ["publication-7515"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-7515"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-7515"],
+        "summary_title": ["Roman Imperial Coinage V Part I"],
+        "page": ["186"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-243068"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/243068"],
+    "object": ["object-243068"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

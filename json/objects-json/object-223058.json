@@ -1,0 +1,143 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-133795"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-133795"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-133795"],
+        "summary_title": ["Ancient Greek"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["1976"],
+            "value": ["1976"],
+            "latest": ["1976"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Burkitt, M.I., Mrs"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159592"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159592"],
+            "agent": ["agent-159592"]
+          }
+        }
+      },
+      "creation": {
+        "maker": {
+          "maker": {
+            "summary_title": ["Sardes"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-170178"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-170178"],
+            "term": ["agent-170178"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Sardes"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-119366"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119366"],
+            "place": ["term-119366"],
+            "coordinates": {
+              "lat": ["38.48845005"],
+              "lng": ["28.040168153521"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Turkey"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Lydia"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.BU.801-R"],
+        "type": ["accession number"],
+        "value": ["CM.BU.801-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["223058"],
+        "type": ["priref"],
+        "value": ["223058"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/223058"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/223058"]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-119622"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119622"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119622"],
+        "summary_title": ["struck"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-133795"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-133795"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-133795"],
+        "summary_title": ["Ancient Greek"]
+      }
+    ],
+    "admin": {
+      "created": ["1512561321000"],
+      "modified": ["1512561549000"],
+      "id": ["object-223058"]
+    },
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["g"],
+          "dimension": ["Weight"],
+          "value": ["4.15"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-223058"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/223058"],
+    "object": ["object-223058"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

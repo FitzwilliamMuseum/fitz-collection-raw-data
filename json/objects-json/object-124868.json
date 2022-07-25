@@ -1,0 +1,180 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-120373"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-120373"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-120373"],
+        "summary_title": ["ringstone"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["CG 1068"],
+        "type": ["accession number"],
+        "value": ["CG 1068"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["124868"],
+        "type": ["priref"],
+        "value": ["124868"]
+      },
+      {
+        "type": ["gem catalogue number"],
+        "value": ["CM.18.1982"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/124868"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/124868"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["given by the trustees of the Wellcome Institute"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1460562242000"],
+      "id": ["object-124868"]
+    },
+    "description": [
+      {
+        "value": ["Eros leaning against a column, in profile to the right.  He holds spear and helmet."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "agents": {
+          "agent": {
+            "summary_title": ["Wellcome Institute, the trustees of the"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-166444"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-166444"],
+            "agent": ["agent-166444"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["101"],
+              "value": ["-100"],
+              "latest": ["101"]
+            },
+            "to": {
+              "precision": ["circa"],
+              "earliest": ["100"],
+              "value": ["100"],
+              "latest": ["100"]
+            },
+            "earliest": ["101"],
+            "latest": ["100"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["first century B.C- first century A.D."],
+            "period": ["term-120710"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-120710"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-120710"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"]
+          }
+        }
+      }
+    },
+    "school_or_style": [
+      {
+        "term": ["term-120782"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-120782"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-120782"],
+        "summary_title": ["Augustan/ Early Imperial"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Intaglio"],
+        "materials": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-120373"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-120373"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-120373"],
+        "summary_title": ["ringstone"]
+      },
+      {
+        "term": ["term-120458"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-120458"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-120458"],
+        "summary_title": ["intaglio"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-110361"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110361"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110361"],
+        "summary_title": ["engraved gems"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "value": ["7.5"]
+        },
+        {
+          "value": ["7"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-1001"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-1001"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-1001"],
+        "summary_title": ["Classical Gems, Ancient and Modern Intaglios and Cameos in the Fitzwilliam Museum, Cambridge"],
+        "page": ["483"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-124868"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/124868"],
+    "object": ["object-124868"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

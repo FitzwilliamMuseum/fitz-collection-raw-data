@@ -1,0 +1,177 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-121950"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-121950"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-121950"],
+        "summary_title": ["500 pesos"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-200860"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-200860"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-200860"],
+        "summary_title": ["CAMFZ"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["2017"],
+            "value": ["2017-01-23"],
+            "latest": ["2017"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Salgado, O. N., Prof."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-174466"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-174466"],
+            "agent": ["agent-174466"]
+          }
+        }
+      },
+      "creation": {
+        "maker": {
+          "maker": {
+            "summary_title": ["Cental Bank of Argentina"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-201053"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-201053"],
+            "term": ["agent-201053"],
+            "role": [
+              {
+                "value": ["issuer"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.80-2017"],
+        "type": ["accession number"],
+        "value": ["CM.80-2017"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["241243"],
+        "type": ["priref"],
+        "value": ["241243"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/241243"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/241243"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-106206"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106206"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106206"],
+            "summary_title": ["paper"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-121950"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-121950"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-121950"],
+        "summary_title": ["500 pesos"]
+      },
+      {
+        "term": ["term-121411"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-121411"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-121411"],
+        "summary_title": ["Argentina"]
+      }
+    ],
+    "admin": {
+      "created": ["1594903512000"],
+      "modified": ["1626868352000"],
+      "id": ["object-241243"]
+    },
+    "description": [
+      {
+        "value": ["Serial 35176816B"]
+      }
+    ],
+    "inscription": [
+      {
+        "transcription": [
+          {
+            "value": ["500 REPUBLICA ARGENTINA en union e libertad"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Rainforest and map."]
+          }
+        ],
+        "location": ["reverse"],
+        "type": ["design"]
+      },
+      {
+        "transcription": [
+          {
+            "value": ["BANCO CENTRAL DE LA REPUBLICA ARGENTINA 500 QUINIENTOS PESOS"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["obverse"]
+          }
+        ],
+        "type": ["design"]
+      },
+      {
+        "description": [
+          {
+            "value": ["Panther and flower."]
+          }
+        ]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100907"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100907"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100907"],
+        "summary_title": ["paper money"]
+      },
+      {
+        "term": ["term-135747"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-135747"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-135747"],
+        "summary_title": ["banknote"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-241243"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/241243"],
+    "object": ["object-241243"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

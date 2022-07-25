@@ -1,0 +1,173 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-99236"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-99236"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-99236"],
+        "summary_title": ["figurine"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bought"],
+        "date": [
+          {
+            "earliest": ["1984"],
+            "value": ["1984"],
+            "latest": ["1984"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Chesterman, M. James D."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159615"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159615"],
+            "agent": ["agent-159615"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["501"],
+              "value": ["-500"],
+              "latest": ["501"]
+            },
+            "to": {
+              "earliest": ["402"],
+              "value": ["-401"],
+              "latest": ["402"]
+            },
+            "earliest": ["501"],
+            "latest": ["402"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["archaic"],
+            "period": ["term-111220"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-111220"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111220"]
+          },
+          {
+            "summary_title": ["Classical"],
+            "period": ["term-14088"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-14088"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-14088"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Rhodes"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-15226"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-15226"],
+            "place": ["term-15226"],
+            "coordinates": {
+              "lat": ["36.17262995"],
+              "lng": ["27.919418145633"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Greek Islands"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.29.1984"],
+        "type": ["accession number"],
+        "value": ["GR.29.1984"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["70378"],
+        "type": ["priref"],
+        "value": ["70378"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/70378"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/70378"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-99236"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-99236"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-99236"],
+        "summary_title": ["figurine"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1336668358000"],
+      "id": ["object-70378"]
+    },
+    "description": [
+      {
+        "value": ["tortoise"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-107454"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107454"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107454"],
+        "summary_title": ["figure"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.035"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-3966"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-3966"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-3966"],
+        "summary_title": ["Ancient Life in Miniature"]
+      },
+      {
+        "term": ["publication-4083"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-4083"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-4083"],
+        "summary_title": ["Classical Terracotta Figures"]
+      },
+      {
+        "term": ["publication-4245"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-4245"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-4245"],
+        "summary_title": ["Greek gods and goddesses in miniature: handlist of an exhibition of the Chesterman terracotta collection"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-70378"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/70378"],
+    "object": ["object-70378"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

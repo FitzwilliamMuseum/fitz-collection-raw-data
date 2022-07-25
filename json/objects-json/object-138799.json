@@ -1,0 +1,164 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-91394"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-91394"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-91394"],
+        "summary_title": ["teapot"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1985"],
+            "value": ["1985-06-03"],
+            "latest": ["1985"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Palmer, A. H."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-155886"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-155886"],
+            "agent": ["agent-155886"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["1800"],
+              "value": ["1800"],
+              "latest": ["1800"]
+            },
+            "to": {
+              "earliest": ["1899"],
+              "value": ["1899"],
+              "latest": ["1899"]
+            },
+            "earliest": ["1800"],
+            "latest": ["1899"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["19th century"],
+            "period": ["term-106853"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106853"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106853"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["maker"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["O.3-1985"],
+        "type": ["accession number"],
+        "value": ["O.3-1985"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["138799"],
+        "type": ["priref"],
+        "value": ["138799"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/138799"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/138799"]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-26483"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-26483"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-26483"],
+        "summary_title": ["piercing"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-91394"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-91394"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-91394"],
+        "summary_title": ["teapot"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1450179132000"],
+      "id": ["object-138799"]
+    },
+    "description": [
+      {
+        "value": ["Brass and copper teapot, with a dragon handle and pierced cover."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-113690"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-113690"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-113690"],
+        "summary_title": ["teaware"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Height"],
+          "value": ["27"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Length"],
+          "value": ["28.2"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-138799"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/138799"],
+    "object": ["object-138799"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

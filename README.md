@@ -8,16 +8,18 @@ Warning - This is a large repository, with a huge number of json and csv files. 
 
 ## How are these data generated?
 
-These data were mined from the Museum's Collections API using R scripts. 
-The API is protected by a bearer token, which can be obtained either 
-programmatically or via [GUI](https://data.fitzmuseum.cam.ac.uk/api/). 
-Full documentation of the API can be [found 
-online](https://data.fitzmuseum.cam.ac.uk/api/v1/docs) and via Postman 
+These data were mined from the Museum's Collections API using R scripts.
+The API is protected by a bearer token, which can be obtained either
+programmatically or via [GUI](https://data.fitzmuseum.cam.ac.uk/api/).
+Full documentation of the API can be [found
+online](https://data.fitzmuseum.cam.ac.uk/api/v1/docs) and via Postman
 collection.
 
 ## Data Structure
 
-Data in this repository comes as CSV and JSON, with license and readme in markdown format. Folder structure is as below:
+Data in this repository comes as CSV and JSON, with license and readme in markdown format. To avoid
+Github file size limits, images and objects csv files are gzipped. 
+Folder structure is as below:
 
 ```
 |- Root
@@ -59,14 +61,13 @@ Data in this repository comes as CSV and JSON, with license and readme in markdo
   |- csv
     |- iiif.csv
     |- departments.csv
-    |- images.csv
+    |- images.csv.gz
     |- terminology.csv
-    |- objects.csv
+    |- objects.csv.gz
     |- publications.csv
     |- exhibitions.csv
     |- places.csv
     |- agents.csv
-    |- makers.csv
   |- scripts
     |- rstats
 ```

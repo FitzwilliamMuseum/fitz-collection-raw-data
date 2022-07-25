@@ -1,0 +1,186 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-117783"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117783"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-117783"],
+        "summary_title": ["nummus"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-200860"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-200860"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-200860"],
+        "summary_title": ["CAMFZ"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bought"],
+        "date": [
+          {
+            "earliest": ["2016"],
+            "value": ["2016-11-21"],
+            "latest": ["2016"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Savoca Numismatik GmbH & Co. KG"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-190700"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-190700"],
+            "agent": ["agent-190700"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["392"],
+              "value": ["0392"],
+              "latest": ["392"]
+            },
+            "to": {
+              "earliest": ["395"],
+              "value": ["0395"],
+              "latest": ["395"]
+            },
+            "earliest": ["392"],
+            "latest": ["395"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Cyzicus"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-167005"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-167005"],
+            "term": ["agent-167005"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.602-2016"],
+        "type": ["accession number"],
+        "value": ["CM.602-2016"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["243163"],
+        "type": ["priref"],
+        "value": ["243163"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/243163"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/243163"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-40365"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-40365"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-40365"],
+            "summary_title": ["bronze"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-117783"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117783"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-117783"],
+        "summary_title": ["nummus"]
+      },
+      {
+        "term": ["term-113870"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-113870"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-113870"],
+        "summary_title": ["Roman Imperial"]
+      }
+    ],
+    "admin": {
+      "created": ["1597680014000"],
+      "modified": ["1626868413000"],
+      "id": ["object-243163"]
+    },
+    "inscription": [
+      {
+        "transcription": [
+          {
+            "value": ["DN ARCADI-VS P F AVG."]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Diademed, draped, cuirassed bust right."]
+          }
+        ],
+        "location": ["obverse"],
+        "type": ["design"]
+      },
+      {
+        "transcription": [
+          {
+            "value": ["GLORIA ROMANORVM. Mintmark: SMK?."]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Emperor on horseback, right."]
+          }
+        ],
+        "location": ["reverse"],
+        "type": ["design"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "publications": [
+      {
+        "term": ["publication-7233"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-7233"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-7233"],
+        "summary_title": ["Roman Imperial Coinage IX"],
+        "page": ["247"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-243163"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/243163"],
+    "object": ["object-243163"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

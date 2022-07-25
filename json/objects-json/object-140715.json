@@ -1,0 +1,109 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["2007"],
+            "value": ["2007"],
+            "latest": ["2007"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Cole, Dennis"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-174696"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-174696"],
+            "agent": ["agent-174696"]
+          }
+        }
+      },
+      "creation": {
+        "maker": {
+          "maker": {
+            "summary_title": ["Coker, Peter"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-28650"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-28650"],
+            "term": ["agent-28650"]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["PD.2-2007"],
+        "type": ["accession number"],
+        "value": ["PD.2-2007"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["140715"],
+        "type": ["priref"],
+        "value": ["140715"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/140715"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/140715"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1596472023000"],
+      "id": ["object-140715"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-106226"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106226"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106226"],
+        "summary_title": ["painting"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["Forest VII"]
+      }
+    ],
+    "department": {
+      "value": ["Paintings, Drawings and Prints"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Height"],
+          "value": ["33.5"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Width"],
+          "value": ["25.3"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-140715"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/140715"],
+    "object": ["object-140715"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

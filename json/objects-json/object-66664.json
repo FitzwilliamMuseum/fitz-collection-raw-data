@@ -1,0 +1,184 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-45267"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-45267"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-45267"],
+        "summary_title": ["text"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1891"],
+            "value": ["1891"],
+            "latest": ["1891"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["James, M.R., Dr"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159457"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159457"],
+            "agent": ["agent-159457"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Megalopolis Arcadia Greece"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-111352"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111352"],
+            "coordinates": {
+              "lat": ["37.4012364"],
+              "lng": ["22.1356726"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["BCE"]
+              ],
+              "earliest": ["301"],
+              "value": ["-300"],
+              "latest": ["301"]
+            },
+            "to": {
+              "era": [
+                ["BCE"]
+              ],
+              "earliest": ["202"],
+              "value": ["-201"],
+              "latest": ["202"]
+            },
+            "earliest": ["301"],
+            "latest": ["202"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Hellenistic"],
+            "period": ["term-14090"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-14090"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-14090"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Megalopolis"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-58130"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-58130"],
+            "place": ["term-58130"],
+            "coordinates": {
+              "lat": ["53.74471735"],
+              "lng": ["11.79528606929"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Greece"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Peloponnese"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.17.1891"],
+        "type": ["accession number"],
+        "value": ["GR.17.1891"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["66664"],
+        "type": ["priref"],
+        "value": ["66664"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/66664"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/66664"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-45267"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-45267"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-45267"],
+        "summary_title": ["text"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1510762687000"],
+      "id": ["object-66664"]
+    },
+    "description": [
+      {
+        "value": ["inscription"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-45267"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-45267"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-45267"],
+        "summary_title": ["text"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.101"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-4497"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-4497"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-4497"],
+        "summary_title": ["Supplementum Epigraphicum Graecum [vol. 11]"]
+      },
+      {
+        "term": ["publication-200001456"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-200001456"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-200001456"],
+        "summary_title": ["The Greek Inscriptions in the Fitzwilliam Museum"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-66664"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/66664"],
+    "object": ["object-66664"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

@@ -1,0 +1,98 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "agents": {
+          "agent": {
+            "summary_title": ["Egypt Exploration Fund"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159652"],
+            "agent": ["agent-159652"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Hu Egypt Cemetery Y"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-121273"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-121273"]
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["2347"],
+              "value": ["-2347"],
+              "latest": ["2347"]
+            },
+            "to": {
+              "earliest": ["2216"],
+              "value": ["-2216"],
+              "latest": ["2216"]
+            },
+            "earliest": ["2347"],
+            "latest": ["2216"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Dynasty 6"],
+            "period": ["term-121274"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-121274"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-121274"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["E.200.1989"],
+        "type": ["accession number"],
+        "value": ["E.200.1989"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["131172"],
+        "type": ["priref"],
+        "value": ["131172"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/131172"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/131172"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1459504902000"],
+      "id": ["object-131172"]
+    },
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "title": [
+      {
+        "value": ["Clay vessel"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-131172"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/131172"],
+    "object": ["object-131172"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

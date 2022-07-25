@@ -1,0 +1,326 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-90128"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-90128"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-90128"],
+        "summary_title": ["goblet"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["C.8-1963"],
+        "type": ["accession number"],
+        "value": ["C.8-1963"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["24953"],
+        "type": ["priref"],
+        "value": ["24953"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/24953"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/24953"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Sotheby's, 30th July, 1957, Catalogue of Fine Continental Glass (with a tazza); Phillips, London; W.A. Evill"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1582633203000"],
+      "id": ["object-24953"]
+    },
+    "description": [
+      {
+        "value": ["Clear metal; round funnel bowl; light baluster stem with inverted baluster, central knop and lower baluster; conical foot (a 19th century replacement?). Bowl stipple engraved with a rearing horse to left with a landscape background; trees to the right."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1963"],
+            "value": ["1963-05-23"],
+            "latest": ["1963"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Evill, Wilfrid Ariel"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-151696"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-151696"],
+            "agent": ["agent-151696"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["1730"],
+              "value": ["1730"],
+              "latest": ["1730"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["1740"],
+              "value": ["1740"],
+              "latest": ["1740"]
+            },
+            "earliest": ["1730"],
+            "latest": ["1740"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["18th century"],
+            "period": ["term-106400"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106400"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106400"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Tempesta, Antonio"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-133423"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-133423"],
+            "term": ["agent-133423"],
+            "role": [
+              {
+                "value": ["production"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Dordrecht"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-107361"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107361"],
+            "place": ["term-107361"],
+            "coordinates": {
+              "lat": ["51.7958812"],
+              "lng": ["4.6779351"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["England"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "component": [
+      {
+        "name": ["Bowl"],
+        "materials": []
+      },
+      {
+        "name": ["Decoration"],
+        "materials": []
+      }
+    ],
+    "multimedia": [
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616241741516"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa19/preview_C_8_1963.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["370"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616241741516"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa19/C_8_1963.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["760"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["513"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616241741516"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa19/C_8_1963.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["760"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["513"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616241741516"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa19/mid_C_8_1963.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["741"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-90128"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-90128"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-90128"],
+        "summary_title": ["goblet"]
+      },
+      {
+        "term": ["term-91741"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-91741"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-91741"],
+        "summary_title": ["drinking glasses"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-91170"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-91170"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-91170"],
+        "summary_title": ["glass"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "publications": [
+      {
+        "term": ["publication-1937"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-1937"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-1937"],
+        "summary_title": ["Circle of Glass Collectors Commemorative Exhibition, 1937-1962"],
+        "page": ["p. 58"],
+        "notes": ["Publ. p. 58, no. 304"]
+      },
+      {
+        "term": ["publication-1924"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-1924"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-1924"],
+        "summary_title": ["Glass at the Fitzwilliam Museum"],
+        "page": ["p. 94"],
+        "notes": ["Publ. Illustrated, p. 94, no. 230"]
+      },
+      {
+        "term": ["publication-382"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-382"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-382"],
+        "summary_title": ["Treasures of the Fitzwilliam Museum"],
+        "page": ["p. 69"],
+        "notes": ["Publ. p. 69, no. 68"]
+      },
+      {
+        "term": ["publication-1941"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-1941"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-1941"],
+        "summary_title": ["Frans Greenwood 1680-1763 Dutch Poet and Glass Engraver"],
+        "page": ["pp. 144-5"],
+        "notes": ["Publ. pp. 144-5, no. 41.2 and figs. 87 and 88, see also pp. 143-4, figs 84-6, for cf. Amsterdam collection A. Vecht, dated 1741, inscribed 'Vrijheid' (freedom)"]
+      },
+      {
+        "term": ["publication-1942"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-1942"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-1942"],
+        "summary_title": ["European Glass"]
+      },
+      {
+        "term": ["publication-1943"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-1943"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-1943"],
+        "summary_title": ["Glas en Kristal"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-24953"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/24953"],
+    "object": ["object-24953"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

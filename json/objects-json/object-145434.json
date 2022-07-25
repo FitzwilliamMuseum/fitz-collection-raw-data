@@ -1,0 +1,181 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-34935"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-34935"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-34935"],
+        "summary_title": ["plate"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["C.1-2007"],
+        "type": ["accession number"],
+        "value": ["C.1-2007"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["145434"],
+        "type": ["priref"],
+        "value": ["145434"]
+      },
+      {
+        "type": ["entry form number"],
+        "value": ["834"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/145434"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/145434"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Crabbe, Peter, Pembroke Street, Cambridge"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1609845949000"],
+      "id": ["object-145434"]
+    },
+    "description": [
+      {
+        "value": ["Hard-paste porcelain with scalloped edge, painted underglaze in blue with scholar's studio objects around the border and in the centre a folding fan, which is decorated with narcissus."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["2007"],
+            "value": ["2007-01-29"],
+            "latest": ["2007"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Scrase, David E."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149654"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149654"],
+            "agent": ["agent-149654"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["1662"],
+              "value": ["1662"],
+              "latest": ["1662"]
+            },
+            "to": {
+              "earliest": ["1722"],
+              "value": ["1722"],
+              "latest": ["1722"]
+            },
+            "earliest": ["1662"],
+            "latest": ["1722"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["late 17th or early 18th century"],
+            "period": ["term-110363"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-110363"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110363"]
+          }
+        ]
+      }
+    },
+    "component": [
+      {
+        "name": ["Decoration"],
+        "materials": [
+          {
+            "term": ["term-38994"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-38994"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-38994"],
+            "summary_title": ["cobalt-blue"]
+          }
+        ]
+      },
+      {
+        "name": ["Part"],
+        "materials": []
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-107436"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107436"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107436"],
+        "summary_title": ["moulded"],
+        "descriptions": [
+          {
+            "description": ["hard-paste porcelain painted underglaze in blue"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-34935"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-34935"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-34935"],
+        "summary_title": ["plate"]
+      },
+      {
+        "value": ["pan"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-37627"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-37627"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-37627"],
+        "summary_title": ["hard-paste porcelain"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Width"],
+          "value": ["26.3"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-145434"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/145434"],
+    "object": ["object-145434"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

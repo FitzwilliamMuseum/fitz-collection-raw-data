@@ -1,0 +1,162 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["2003"],
+            "value": ["2003-05"],
+            "latest": ["2005"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Dreyfus, John"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-163304"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-163304"],
+            "agent": ["agent-163304"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "era": [
+              ["CE"]
+            ],
+            "earliest": ["1982"],
+            "value": ["1982"],
+            "latest": ["1982"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Meriden Gravure Company"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-163326"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-163326"],
+            "term": ["agent-163326"],
+            "role": [
+              {
+                "value": ["printer"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["New York"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106544"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106544"],
+            "place": ["term-106544"],
+            "coordinates": {
+              "lat": ["40.7127281"],
+              "lng": ["-74.0060152"]
+            }
+          },
+          {
+            "summary_title": ["Lunenburg"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-115492"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-115492"],
+            "place": ["term-115492"],
+            "coordinates": {
+              "lat": ["44.3774954"],
+              "lng": ["-64.3154816"]
+            }
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["PB 118-2003"],
+        "type": ["accession number"],
+        "value": ["PB 118-2003"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["95042"],
+        "type": ["priref"],
+        "value": ["95042"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/95042"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/95042"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-106206"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106206"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106206"],
+            "summary_title": ["paper"]
+          }
+        ]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-27526"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27526"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27526"],
+        "summary_title": ["printing"],
+        "descriptions": []
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1569861104000"],
+      "id": ["object-95042"]
+    },
+    "description": [
+      {
+        "value": ["By Joseph Blumenthal"]
+      },
+      {
+        "value": ["[12], 153 p. : ill. ; 25 cm"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-102154"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-102154"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-102154"],
+        "summary_title": ["book"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["Typographic years : a printer's journey through a half century 1925-1975"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-95042"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/95042"],
+    "object": ["object-95042"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

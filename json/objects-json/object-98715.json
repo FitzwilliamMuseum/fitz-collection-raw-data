@@ -1,0 +1,173 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-98032"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98032"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98032"],
+        "summary_title": ["print"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1955"],
+            "value": ["1955-10"],
+            "latest": ["1910"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Clarke, Louis Colville Gray"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149875"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149875"],
+            "agent": ["agent-149875"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["1655"],
+              "value": ["1655"],
+              "latest": ["1655"]
+            },
+            "to": {
+              "precision": ["before"],
+              "earliest": ["1722"],
+              "value": ["1722"],
+              "latest": ["1722"]
+            },
+            "earliest": ["1655"],
+            "latest": ["1722"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Le Brun, Charles"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-77053"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-77053"],
+            "term": ["agent-77053"],
+            "role": [
+              {
+                "value": ["designer"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["P.185-1955"],
+        "type": ["accession number"],
+        "value": ["P.185-1955"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["98715"],
+        "type": ["priref"],
+        "value": ["98715"]
+      },
+      {
+        "type": ["Duplessis"],
+        "value": ["?535"]
+      },
+      {
+        "type": ["Duplessis"],
+        "value": ["?536"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/98715"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/98715"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-37178"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-37178"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-37178"],
+            "summary_title": ["wove paper"]
+          }
+        ]
+      },
+      {
+        "name": ["Image"],
+        "materials": []
+      },
+      {
+        "name": ["Sheet"],
+        "materials": []
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-29409"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-29409"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-29409"],
+        "summary_title": ["engraving"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-98032"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98032"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98032"],
+        "summary_title": ["print"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1571934838000"],
+      "id": ["object-98715"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-98032"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98032"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98032"],
+        "summary_title": ["print"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["Louis Le Grand"]
+      }
+    ],
+    "department": {
+      "value": ["Paintings, Drawings and Prints"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-98715"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/98715"],
+    "object": ["object-98715"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

@@ -1,0 +1,98 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "creation": {
+        "periods": [
+          {
+            "summary_title": ["13th Century"],
+            "period": ["term-107871"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-107871"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107871"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["England"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-107139"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107139"],
+            "place": ["term-107139"],
+            "coordinates": {
+              "lat": ["52.5310214"],
+              "lng": ["-1.2649062"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["England"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["MS 68-1980"],
+        "type": ["accession number"],
+        "value": ["MS 68-1980"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["239472"],
+        "type": ["priref"],
+        "value": ["239472"]
+      },
+      {
+        "source": ["Cambridge Illuminated"],
+        "type": ["project ID"],
+        "value": ["1251"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/239472"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/239472"]
+      }
+    ],
+    "admin": {
+      "created": ["1573817755000"],
+      "modified": ["1598266994000"],
+      "id": ["object-239472"]
+    },
+    "categories": [
+      {
+        "term": ["term-110558"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110558"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110558"],
+        "summary_title": ["illuminated manuscript"]
+      },
+      {
+        "term": ["term-114522"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-114522"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-114522"],
+        "summary_title": ["manuscript"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "title": [
+      {
+        "value": ["fragment from Bible"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-239472"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/239472"],
+    "object": ["object-239472"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

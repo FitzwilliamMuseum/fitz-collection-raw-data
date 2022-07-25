@@ -1,0 +1,176 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-110835"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110835"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110835"],
+        "summary_title": ["key"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["MAR.M.232-1912"],
+        "type": ["accession number"],
+        "value": ["MAR.M.232-1912"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["201734"],
+        "type": ["priref"],
+        "value": ["201734"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/201734"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/201734"]
+      }
+    ],
+    "admin": {
+      "created": ["1433422620000"],
+      "modified": ["1452005422000"],
+      "id": ["object-201734"]
+    },
+    "description": [
+      {
+        "value": ["Iron key inlaid with silver. With a tassel shaped collar below a pierced circular bow decorated with tracery."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1912"],
+            "value": ["1912"],
+            "latest": ["1912"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Marlay, Charles Brinsley"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149674"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149674"],
+            "agent": ["agent-149674"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["1600"],
+              "value": ["1600"],
+              "latest": ["1600"]
+            },
+            "to": {
+              "earliest": ["1699"],
+              "value": ["1699"],
+              "latest": ["1699"]
+            },
+            "earliest": ["1600"],
+            "latest": ["1699"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["17th Century"],
+            "period": ["term-106447"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106447"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106447"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["maker"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "component": [
+      {
+        "name": ["Inlay"],
+        "materials": [
+          {
+            "term": ["term-39778"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39778"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39778"],
+            "summary_title": ["silver"]
+          }
+        ]
+      },
+      {
+        "name": ["Bow"],
+        "materials": []
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-27645"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27645"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27645"],
+        "summary_title": ["inlay (process)"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-110835"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110835"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110835"],
+        "summary_title": ["key"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-42600"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-42600"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-42600"],
+        "summary_title": ["metalwork"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Length"],
+          "value": ["11"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-201734"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/201734"],
+    "object": ["object-201734"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

@@ -1,0 +1,161 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-12401"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12401"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-12401"],
+        "summary_title": ["Greek"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["1937"],
+            "value": ["1937-08-11"],
+            "latest": ["1937"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Trinity College, Cambridge"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-169619"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-169619"],
+            "agent": ["agent-169619"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["276"],
+              "value": ["-275"],
+              "latest": ["276"]
+            },
+            "earliest": ["276"],
+            "latest": ["276"]
+          },
+          {
+            "range": ["1"],
+            "to": {
+              "earliest": ["217"],
+              "value": ["-216"],
+              "latest": ["217"]
+            },
+            "earliest": ["217"],
+            "latest": ["217"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Syracuse"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-170147"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-170147"],
+            "term": ["agent-170147"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.TR.1921-R"],
+        "type": ["accession number"],
+        "value": ["CM.TR.1921-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["219307"],
+        "type": ["priref"],
+        "value": ["219307"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/219307"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/219307"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-40365"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-40365"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-40365"],
+            "summary_title": ["bronze"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-12401"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12401"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-12401"],
+        "summary_title": ["Greek"]
+      },
+      {
+        "term": ["term-107491"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107491"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107491"],
+        "summary_title": ["Sicily"]
+      }
+    ],
+    "admin": {
+      "created": ["1499096351000"],
+      "modified": ["1565951843000"],
+      "id": ["object-219307"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-169619"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-169619"],
+        "owner": ["agent-169619"],
+        "summary_title": ["Trinity College, Cambridge"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "publications": [
+      {
+        "term": ["publication-7275"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-7275"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-7275"],
+        "summary_title": ["A Catalogue of the Greek coins in the British Museum: Sicily"],
+        "page": ["216"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-219307"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/219307"],
+    "object": ["object-219307"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

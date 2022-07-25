@@ -1,0 +1,165 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-12401"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12401"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-12401"],
+        "summary_title": ["Greek"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["CM.106-1995"],
+        "type": ["accession number"],
+        "value": ["CM.106-1995"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["273697"],
+        "type": ["priref"],
+        "value": ["273697"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/273697"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/273697"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Under Review"]
+      }
+    ],
+    "admin": {
+      "created": ["1605779633000"],
+      "modified": ["1633629555000"],
+      "id": ["object-273697"]
+    },
+    "description": [
+      {
+        "value": ["Sigeion, Troas, AE, c. 350-300 BC. Three-quarter facing head of Apollo. Rev. eagle r., crescent (BMC 86, 7), 1.80g."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["One of 79 Ancient Greek and Roman coins"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["Purchased"],
+        "date": [
+          {
+            "earliest": ["1995"],
+            "value": ["1995-01-23"],
+            "latest": ["1995"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Konuk, Koray"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-167133"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-167133"],
+            "agent": ["agent-167133"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["350"],
+              "value": ["-0350"],
+              "latest": ["350"]
+            },
+            "to": {
+              "precision": ["circa"],
+              "earliest": ["300"],
+              "value": ["-0300"],
+              "latest": ["300"]
+            },
+            "earliest": ["350"],
+            "latest": ["300"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Sigeion"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-205587"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-205587"],
+            "term": ["agent-205587"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-40365"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-40365"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-40365"],
+            "summary_title": ["bronze"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-12401"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12401"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-12401"],
+        "summary_title": ["Greek"]
+      },
+      {
+        "term": ["term-119512"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119512"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119512"],
+        "summary_title": ["Troas"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-273697"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/273697"],
+    "object": ["object-273697"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

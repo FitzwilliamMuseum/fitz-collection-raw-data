@@ -1,0 +1,190 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-123610"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-123610"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-123610"],
+        "summary_title": ["multiple dirham"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bought"],
+        "agents": {
+          "agent": {
+            "summary_title": ["Coins and Medals Fund"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-167878"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-167878"],
+            "agent": ["agent-167878"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "note": [
+              {
+                "value": ["AH 365"]
+              }
+            ],
+            "range": ["1"],
+            "from": {
+              "earliest": ["975"],
+              "value": ["975"],
+              "latest": ["975"]
+            },
+            "to": {
+              "earliest": ["976"],
+              "value": ["976"],
+              "latest": ["976"]
+            },
+            "earliest": ["975"],
+            "latest": ["976"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Balkh"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-167887"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-167887"],
+            "term": ["agent-167887"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Balkh"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-123250"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-123250"],
+            "place": ["term-123250"],
+            "coordinates": {
+              "lat": ["36.7581256"],
+              "lng": ["66.8980826"]
+            }
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.169-1998"],
+        "type": ["accession number"],
+        "value": ["CM.169-1998"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["107549"],
+        "type": ["priref"],
+        "value": ["107549"]
+      },
+      {
+        "type": ["catalogue"],
+        "value": ["846"]
+      },
+      {
+        "type": ["ordering"],
+        "value": ["IS-0807"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/107549"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/107549"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["bt Tye (list 33 no. 21a), 1998"]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-119622"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119622"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119622"],
+        "summary_title": ["struck"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-123610"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-123610"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-123610"],
+        "summary_title": ["multiple dirham"]
+      },
+      {
+        "term": ["term-451"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-451"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-451"],
+        "summary_title": ["Islamic"]
+      },
+      {
+        "term": ["term-117822"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117822"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-117822"],
+        "summary_title": ["Iran - The Early Period"]
+      },
+      {
+        "term": ["term-117823"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117823"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-117823"],
+        "summary_title": ["Samanids"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1563985843000"],
+      "id": ["object-107549"]
+    },
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["mm"],
+          "dimension": ["Diameter"],
+          "value": ["37"]
+        },
+        {
+          "units": ["degrees"],
+          "dimension": ["Die Axis"],
+          "value": ["335"]
+        },
+        {
+          "units": ["g"],
+          "dimension": ["Weight"],
+          "value": ["4.19"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-107549"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/107549"],
+    "object": ["object-107549"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

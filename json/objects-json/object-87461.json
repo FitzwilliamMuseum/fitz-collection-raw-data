@@ -1,0 +1,191 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-122520"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-122520"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-122520"],
+        "summary_title": ["inscribed brick"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1934"],
+            "value": ["1934"],
+            "latest": ["1934"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Tizzard, Captain"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-161829"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-161829"],
+            "agent": ["agent-161829"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Ur (Tell al-Muqayyar) Iraq"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-114106"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-114106"]
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["BCE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["2112"],
+              "value": ["-2112"],
+              "latest": ["2112"]
+            },
+            "to": {
+              "era": [
+                ["BCE"]
+              ],
+              "earliest": ["2095"],
+              "value": ["-2095"],
+              "latest": ["2095"]
+            },
+            "earliest": ["2112"],
+            "latest": ["2095"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Third Dynasty of Ur"],
+            "period": ["term-12380"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-12380"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12380"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Ur"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-132839"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-132839"],
+            "place": ["term-132839"],
+            "coordinates": {
+              "lat": ["46.7864413"],
+              "lng": ["8.6420159"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Iraq"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["ANE.202.1934"],
+        "type": ["accession number"],
+        "value": ["ANE.202.1934"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["87461"],
+        "type": ["priref"],
+        "value": ["87461"]
+      },
+      {
+        "type": ["oldadmincategory"],
+        "value": ["O"]
+      },
+      {
+        "type": ["oldobjectnumber"],
+        "value": ["WAE.202.1934"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/87461"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/87461"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-122520"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-122520"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-122520"],
+        "summary_title": ["inscribed brick"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1337264961000"],
+      "id": ["object-87461"]
+    },
+    "description": [
+      {
+        "value": ["brick fragment, dedication of King Ur-Nammu, inscribed on one side, top of inscription missing"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-43046"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-43046"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-43046"],
+        "summary_title": ["architectural element"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Depth"],
+          "value": ["0.08"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Length"],
+          "value": ["0.17"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.155"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-6269"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-6269"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-6269"],
+        "summary_title": ["Cuneiform Brick Inscriptions"],
+        "page": ["26"],
+        "notes": ["FM brick has same inscription (though different orthography) as no. 19 (Ur-Nammu no. 10) in this book"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-87461"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/87461"],
+    "object": ["object-87461"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

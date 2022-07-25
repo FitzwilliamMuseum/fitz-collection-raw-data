@@ -1,0 +1,184 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-122520"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-122520"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-122520"],
+        "summary_title": ["inscribed brick"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1930"],
+            "value": ["1930"],
+            "latest": ["1930"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Hutchinson, R. W."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159524"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159524"],
+            "agent": ["agent-159524"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Babylon Iraq"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-113981"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-113981"],
+            "coordinates": {
+              "lat": ["32.5447132"],
+              "lng": ["44.431814334436"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "note": [
+              {
+                "value": ["import: ca 604-542 BC"]
+              },
+              {
+                "value": ["reign of Nebuchadnezzer II"]
+              }
+            ],
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["605"],
+              "value": ["-604"],
+              "latest": ["605"]
+            },
+            "to": {
+              "earliest": ["543"],
+              "value": ["-542"],
+              "latest": ["543"]
+            },
+            "earliest": ["605"],
+            "latest": ["543"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Neo Babylonian"],
+            "period": ["term-114295"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-114295"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-114295"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["ANE.86.1930"],
+        "type": ["accession number"],
+        "value": ["ANE.86.1930"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["87004"],
+        "type": ["priref"],
+        "value": ["87004"]
+      },
+      {
+        "type": ["oldadmincategory"],
+        "value": ["O"]
+      },
+      {
+        "type": ["oldobjectnumber"],
+        "value": ["WAE.86.1930"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/87004"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/87004"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-122520"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-122520"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-122520"],
+        "summary_title": ["inscribed brick"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1482166244000"],
+      "id": ["object-87004"]
+    },
+    "description": [
+      {
+        "value": ["brick, inscribed with dedication of Nebuchadnezzer"]
+      }
+    ],
+    "inscription": [
+      {
+        "transcription": [
+          {
+            "value": ["d Nabu(AG)-Kudur-(NIG.DU)ri-usur(SES) Sar (LUGAL) Ba-bi-i-lu ki za-ni-in E.SAG.ILA u E.ZI.DAU maru (DUMU) a-Sa-ri-du Sa d Nabu (AG)-apal (IBILA)-usur (SES) Sar (LUGAL) Ba-bi-i--lu ki"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["transcription and translation by R.G. Killick 1980"]
+          }
+        ],
+        "type": ["inscription"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-43046"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-43046"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-43046"],
+        "summary_title": ["architectural element"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Depth"],
+          "value": ["0.05"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Length"],
+          "value": ["0.249"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.192"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-87004"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/87004"],
+    "object": ["object-87004"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

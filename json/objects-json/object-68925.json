@@ -1,0 +1,134 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-111123"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111123"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-111123"],
+        "summary_title": ["plate - check"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1926"],
+            "value": ["1926"],
+            "latest": ["1926"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Cuttle, W.L."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159516"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159516"],
+            "agent": ["agent-159516"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "note": [
+              {
+                "value": ["Dating not confident"]
+              }
+            ],
+            "range": ["1"],
+            "from": {
+              "earliest": ["1901"],
+              "value": ["1901"],
+              "latest": ["1901"]
+            },
+            "to": {
+              "earliest": ["2000"],
+              "value": ["2000"],
+              "latest": ["2000"]
+            },
+            "earliest": ["1901"],
+            "latest": ["2000"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["modern"],
+            "period": ["term-111187"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-111187"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111187"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.2j.1926"],
+        "type": ["accession number"],
+        "value": ["GR.2j.1926"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["68925"],
+        "type": ["priref"],
+        "value": ["68925"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/68925"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/68925"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-111123"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111123"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-111123"],
+        "summary_title": ["plate - check"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1480516574000"],
+      "id": ["object-68925"]
+    },
+    "description": [
+      {
+        "value": ["saucer with animal's head"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-89198"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89198"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89198"],
+        "summary_title": ["vessel"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.05"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-68925"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/68925"],
+    "object": ["object-68925"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

@@ -1,0 +1,183 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-91189"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-91189"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-91189"],
+        "summary_title": ["tankard"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["AAL.54-2009"],
+        "type": ["accession number"],
+        "value": ["AAL.54-2009"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["184569"],
+        "type": ["priref"],
+        "value": ["184569"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/184569"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/184569"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1569413109000"],
+      "id": ["object-184569"]
+    },
+    "description": [
+      {
+        "value": ["Plain, slightly tapered with moulded foot rim, the flat domed cover with a simple peak and cast bifurcated thumbpiece. Simple scroll handle pricked with initials \"K\" above \"A M\" in foliate pricked engraving."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-193982"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-193982"],
+        "owner": ["agent-193982"],
+        "summary_title": ["The Bill Gray Collection"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["2009"],
+            "value": ["2009"],
+            "latest": ["2009"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Gray, Jonathan"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-193981"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-193981"],
+            "agent": ["agent-193981"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "era": [
+              ["CE"]
+            ],
+            "precision": ["circa"],
+            "earliest": ["1670"],
+            "value": ["1670"],
+            "latest": ["1670"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Charles II"],
+            "period": ["term-107696"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-107696"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107696"]
+          },
+          {
+            "summary_title": ["17th Century"],
+            "period": ["term-106447"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106447"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106447"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Wright, Edward"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-188404"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-188404"],
+            "term": ["agent-188404"],
+            "role": [
+              {
+                "value": ["silversmith"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "techniques": [
+      {
+        "term": ["term-111179"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111179"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-111179"],
+        "summary_title": ["moulding"],
+        "descriptions": []
+      },
+      {
+        "term": ["term-26699"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-26699"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-26699"],
+        "summary_title": ["casting (process)"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-91189"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-91189"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-91189"],
+        "summary_title": ["tankard"]
+      }
+    ],
+    "inscription": [
+      {
+        "method": ["pricked"],
+        "transcription": [
+          {
+            "value": ["\"K\" above \"A M\""]
+          }
+        ],
+        "location": ["handle"],
+        "type": ["initials"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-39778"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39778"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39778"],
+        "summary_title": ["silver"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Diameter"],
+          "value": ["11.4"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Height"],
+          "value": ["13.3"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-184569"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/184569"],
+    "object": ["object-184569"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

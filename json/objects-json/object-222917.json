@@ -1,0 +1,195 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["2017"],
+            "value": ["2017-11-20"],
+            "latest": ["2017"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Cameron, Nigel"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-198126"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-198126"],
+            "agent": ["agent-198126"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "note": [
+              {
+                "value": ["made between January and May 1953"]
+              }
+            ],
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["1953"],
+              "value": ["1953-01"],
+              "latest": ["1901"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["1953"],
+              "value": ["1953-05"],
+              "latest": ["1905"]
+            },
+            "earliest": ["1953"],
+            "latest": ["1905"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["mid 20th century"],
+            "period": ["term-110488"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-110488"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110488"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Frink, Elisabeth"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-48241"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-48241"],
+            "term": ["agent-48241"],
+            "role": [
+              {
+                "value": ["sculptor"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["London"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106216"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106216"],
+            "place": ["term-106216"],
+            "coordinates": {
+              "lat": ["51.5073219"],
+              "lng": ["-0.1276474"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["England"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["M.9-2017"],
+        "type": ["accession number"],
+        "value": ["M.9-2017"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["222917"],
+        "type": ["priref"],
+        "value": ["222917"]
+      },
+      {
+        "source": ["The Fitzwilliam Museum, Department of Applied Art"],
+        "type": ["Entry Form number"],
+        "value": ["CAM_CCF_M_9_2017"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/222917"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/222917"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Commissioned by Nigel Cameron (1920-2017) from Elisabeth Frink (1930-93) on 8 January 1953; made between 20 January and 14 April 1953; delivered to Cameron on 22 May 1953; sent to Hong Kong in 1964 when nose was damaged in transit; sent back to Frink for repair to nose in July 1992 and returned to Hong Kong at end of 1992."]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Base"],
+        "materials": [
+          {
+            "term": ["term-106692"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106692"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106692"],
+            "summary_title": ["wood"]
+          }
+        ]
+      },
+      {
+        "name": ["Head"],
+        "materials": [
+          {
+            "term": ["term-32639"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-32639"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-32639"],
+            "summary_title": ["plaster"]
+          }
+        ]
+      }
+    ],
+    "admin": {
+      "created": ["1511884911000"],
+      "modified": ["1607684645000"],
+      "id": ["object-222917"]
+    },
+    "description": [
+      {
+        "value": ["hand-built plaster, mounted on a wooden cub"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-98228"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98228"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98228"],
+        "summary_title": ["sculpture"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["Head of Nigel Cameron (1920-2017)"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Height"],
+          "value": ["38"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-222917"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/222917"],
+    "object": ["object-222917"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

@@ -1,0 +1,163 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-133795"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-133795"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-133795"],
+        "summary_title": ["Ancient Greek"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["1976"],
+            "value": ["1976"],
+            "latest": ["1976"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Burkitt, M.I., Mrs"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159592"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159592"],
+            "agent": ["agent-159592"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "note": [
+              {
+                "value": ["Third-first centuries BC"]
+              }
+            ],
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["300"],
+              "value": ["-299"],
+              "latest": ["300"]
+            },
+            "to": {
+              "precision": ["circa"],
+              "earliest": ["99"],
+              "value": ["-1"],
+              "latest": ["1"]
+            },
+            "earliest": ["300"],
+            "latest": ["1"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Dyrrachium"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-170228"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-170228"],
+            "term": ["agent-170228"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Dyrrachium"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-119423"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119423"],
+            "place": ["term-119423"],
+            "hierarchies": [
+              {
+                "summary_title": ["Greece"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Illyria"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.BU.1124-R"],
+        "type": ["accession number"],
+        "value": ["CM.BU.1124-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["223006"],
+        "type": ["priref"],
+        "value": ["223006"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/223006"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/223006"]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-119622"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119622"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119622"],
+        "summary_title": ["struck"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-133795"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-133795"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-133795"],
+        "summary_title": ["Ancient Greek"]
+      }
+    ],
+    "admin": {
+      "created": ["1512389502000"],
+      "modified": ["1512392294000"],
+      "id": ["object-223006"]
+    },
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["g"],
+          "dimension": ["Weight"],
+          "value": ["4.05"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-223006"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/223006"],
+    "object": ["object-223006"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

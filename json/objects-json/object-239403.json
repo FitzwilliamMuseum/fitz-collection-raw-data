@@ -1,0 +1,143 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1933"],
+            "value": ["1933"],
+            "latest": ["1933"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Henderson, James Stewart"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-154334"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-154334"],
+            "agent": ["agent-154334"]
+          }
+        }
+      },
+      "creation": {
+        "periods": [
+          {
+            "summary_title": ["14th Century"],
+            "period": ["term-107695"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-107695"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107695"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["de Abbatibus, Franciscus"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-200491"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-200491"],
+            "term": ["agent-200491"],
+            "role": [
+              {
+                "value": ["author"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Italy"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106629"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106629"],
+            "place": ["term-106629"],
+            "coordinates": {
+              "lat": ["42.6384261"],
+              "lng": ["12.674297"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Italy"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["MS 350"],
+        "type": ["accession number"],
+        "value": ["MS 350"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["239403"],
+        "type": ["priref"],
+        "value": ["239403"]
+      },
+      {
+        "source": ["Cambridge Illuminated"],
+        "type": ["project ID"],
+        "value": ["3507"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/239403"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/239403"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["No. 245 in a French collection, see MS. catalogue slip pasted inside upper cover. No. 361 in English printed catalogue, loose slip in volume. No. 504 in a Sotheby (?) sale, loose slip in volume."]
+      }
+    ],
+    "admin": {
+      "created": ["1573817743000"],
+      "modified": ["1599046440000"],
+      "id": ["object-239403"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-110558"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110558"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110558"],
+        "summary_title": ["illuminated manuscript"]
+      },
+      {
+        "term": ["term-114522"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-114522"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-114522"],
+        "summary_title": ["manuscript"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "title": [
+      {
+        "value": ["Postilla super evangeliis"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-239403"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/239403"],
+    "object": ["object-239403"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

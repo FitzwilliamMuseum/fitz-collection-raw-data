@@ -1,0 +1,142 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-117142"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117142"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-117142"],
+        "summary_title": ["sampler"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1970"],
+            "value": ["1970-03-05"],
+            "latest": ["1970"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Stevens, Dorothy, Miss"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-169553"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-169553"],
+            "agent": ["agent-169553"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "earliest": ["1936"],
+            "value": ["1936"],
+            "latest": ["1936"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["20th century"],
+            "period": ["term-107318"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-107318"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107318"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Stevens, Dorothy, Miss"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-169553"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-169553"],
+            "term": ["agent-169553"],
+            "role": [
+              {
+                "value": ["maker"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["T.2-1970"],
+        "type": ["accession number"],
+        "value": ["T.2-1970"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["110923"],
+        "type": ["priref"],
+        "value": ["110923"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/110923"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/110923"]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-27589"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27589"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27589"],
+        "summary_title": ["weaving"],
+        "descriptions": []
+      },
+      {
+        "term": ["term-29899"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-29899"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-29899"],
+        "summary_title": ["embroidering"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-117142"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117142"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-117142"],
+        "summary_title": ["sampler"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1595237314000"],
+      "id": ["object-110923"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-29556"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-29556"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-29556"],
+        "summary_title": ["embroidery"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-110923"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/110923"],
+    "object": ["object-110923"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

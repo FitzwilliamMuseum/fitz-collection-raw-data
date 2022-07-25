@@ -1,0 +1,155 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-119511"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119511"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119511"],
+        "summary_title": ["Roman Provincial"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["1976"],
+            "value": ["1976"],
+            "latest": ["1976"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Burkitt, M.I., Mrs"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159592"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159592"],
+            "agent": ["agent-159592"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["238"],
+              "value": ["238"],
+              "latest": ["238"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["244"],
+              "value": ["244"],
+              "latest": ["244"]
+            },
+            "earliest": ["238"],
+            "latest": ["244"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Tarsus"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-170378"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-170378"],
+            "term": ["agent-170378"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Tarsus"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-119580"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119580"],
+            "place": ["term-119580"],
+            "coordinates": {
+              "lat": ["36.9164834"],
+              "lng": ["34.895149"]
+            }
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.BU.888-R"],
+        "type": ["accession number"],
+        "value": ["CM.BU.888-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["223050"],
+        "type": ["priref"],
+        "value": ["223050"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/223050"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/223050"]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-119622"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119622"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119622"],
+        "summary_title": ["struck"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-119511"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119511"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119511"],
+        "summary_title": ["Roman Provincial"]
+      }
+    ],
+    "admin": {
+      "created": ["1512487682000"],
+      "modified": ["1512488267000"],
+      "id": ["object-223050"]
+    },
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "dimension": ["Weight"],
+          "value": ["20.44"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-223050"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/223050"],
+    "object": ["object-223050"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

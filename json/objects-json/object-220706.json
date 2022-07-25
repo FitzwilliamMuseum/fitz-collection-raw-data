@@ -1,0 +1,174 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-101368"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101368"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101368"],
+        "summary_title": ["quadrans"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1997"],
+            "value": ["1997-12-05"],
+            "latest": ["1997"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Buttrey, T.V., Prof."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-196171"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-196171"],
+            "agent": ["agent-196171"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["193"],
+              "value": ["-192"],
+              "latest": ["193"]
+            },
+            "earliest": ["193"],
+            "latest": ["193"]
+          },
+          {
+            "range": ["1"],
+            "to": {
+              "precision": ["circa"],
+              "earliest": ["190"],
+              "value": ["-189"],
+              "latest": ["190"]
+            },
+            "earliest": ["190"],
+            "latest": ["190"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Vibo Valentia"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-189548"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-189548"],
+            "term": ["agent-189548"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.2314-1997"],
+        "type": ["accession number"],
+        "value": ["CM.2314-1997"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["220706"],
+        "type": ["priref"],
+        "value": ["220706"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/220706"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/220706"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-40365"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-40365"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-40365"],
+            "summary_title": ["bronze"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-101368"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101368"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101368"],
+        "summary_title": ["quadrans"]
+      },
+      {
+        "term": ["term-12401"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12401"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-12401"],
+        "summary_title": ["Greek"]
+      },
+      {
+        "term": ["term-106629"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106629"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106629"],
+        "summary_title": ["Italy"]
+      },
+      {
+        "term": ["term-119297"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119297"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119297"],
+        "summary_title": ["Bruttium"]
+      }
+    ],
+    "admin": {
+      "created": ["1499096351000"],
+      "modified": ["1499095047000"],
+      "id": ["object-220706"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "publications": [
+      {
+        "term": ["publication-7245"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-7245"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-7245"],
+        "summary_title": ["Sylloge Nummorum Graecorum: The Royal Collection of Coins and Medals Danish National Museum Italy Part 1 Etruria-Campania"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-220706"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/220706"],
+    "object": ["object-220706"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

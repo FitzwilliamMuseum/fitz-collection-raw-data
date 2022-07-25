@@ -1,0 +1,174 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-133795"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-133795"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-133795"],
+        "summary_title": ["Ancient Greek"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["1976"],
+            "value": ["1976"],
+            "latest": ["1976"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Burkitt, M.I., Mrs"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159592"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159592"],
+            "agent": ["agent-159592"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["BCE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["551"],
+              "value": ["-550"],
+              "latest": ["551"]
+            },
+            "to": {
+              "era": [
+                ["BCE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["451"],
+              "value": ["-450"],
+              "latest": ["451"]
+            },
+            "earliest": ["551"],
+            "latest": ["451"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Miletus"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-170201"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-170201"],
+            "term": ["agent-170201"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Miletus"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-119388"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119388"],
+            "place": ["term-119388"],
+            "coordinates": {
+              "lat": ["39.2306436"],
+              "lng": ["-80.588709"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Turkey"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Ionia"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.BU.939-R"],
+        "type": ["accession number"],
+        "value": ["CM.BU.939-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["223026"],
+        "type": ["priref"],
+        "value": ["223026"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/223026"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/223026"]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-119622"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119622"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119622"],
+        "summary_title": ["struck"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-133795"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-133795"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-133795"],
+        "summary_title": ["Ancient Greek"]
+      },
+      {
+        "term": ["term-101134"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101134"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101134"],
+        "summary_title": ["obol"]
+      }
+    ],
+    "admin": {
+      "created": ["1512465386000"],
+      "modified": ["1512465584000"],
+      "id": ["object-223026"]
+    },
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["g"],
+          "dimension": ["Weight"],
+          "value": ["1.14"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-223026"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/223026"],
+    "object": ["object-223026"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

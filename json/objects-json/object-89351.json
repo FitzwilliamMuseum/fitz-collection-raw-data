@@ -1,0 +1,168 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-43733"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-43733"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-43733"],
+        "summary_title": ["mirror"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["1991"],
+            "value": ["1991"],
+            "latest": ["1991"]
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["BC"]
+              ],
+              "earliest": ["300"],
+              "value": ["-0300"],
+              "latest": ["300"]
+            },
+            "to": {
+              "era": [
+                ["BC"]
+              ],
+              "earliest": ["201"],
+              "value": ["-0201"],
+              "latest": ["201"]
+            },
+            "earliest": ["300"],
+            "latest": ["201"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Hellenistic"],
+            "period": ["term-14090"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-14090"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-14090"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Praeneste"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-130228"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-130228"],
+            "place": ["term-130228"],
+            "coordinates": {
+              "lat": ["41.824093"],
+              "lng": ["12.8593522"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Italy"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Etruria"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["Loan Ant.103.38"],
+        "type": ["accession number"],
+        "value": ["Loan Ant.103.38"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["89351"],
+        "type": ["priref"],
+        "value": ["89351"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/89351"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/89351"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-43733"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-43733"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-43733"],
+        "summary_title": ["mirror"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1621012150000"],
+      "id": ["object-89351"]
+    },
+    "description": [
+      {
+        "value": ["mirror, Aphrodite with man and girl"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-78339"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-78339"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-78339"],
+        "summary_title": ["equipment"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Diameter"],
+          "value": ["0.175"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.327"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-200001747"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-200001747"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-200001747"],
+        "summary_title": ["[Unknown: Proc Camb Ant Soc 5 (1880-1884)]"]
+      },
+      {
+        "term": ["publication-4082"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-4082"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-4082"],
+        "summary_title": ["Classical Heritage. Greek and Roman art from Cambridge college collections"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-89351"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/89351"],
+    "object": ["object-89351"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

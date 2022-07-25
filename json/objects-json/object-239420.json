@@ -1,0 +1,134 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1935"],
+            "value": ["1935"],
+            "latest": ["1935"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["The Friends of the Fitzwilliam Museum"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149645"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149645"],
+            "agent": ["agent-149645"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["1542"],
+              "value": ["1542"],
+              "latest": ["1542"]
+            },
+            "to": {
+              "earliest": ["1543"],
+              "value": ["1543"],
+              "latest": ["1543"]
+            },
+            "earliest": ["1542"],
+            "latest": ["1543"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Nizami"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-163220"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-163220"],
+            "term": ["agent-163220"],
+            "role": [
+              {
+                "value": ["author"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["MS 373"],
+        "type": ["accession number"],
+        "value": ["MS 373"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["239420"],
+        "type": ["priref"],
+        "value": ["239420"]
+      },
+      {
+        "source": ["Cambridge Illuminated"],
+        "type": ["project ID"],
+        "value": ["3526"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/239420"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/239420"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Owners' sealmarks on f.1 Lot 26 in sale at Sotheby's, 19 July 1935."]
+      }
+    ],
+    "admin": {
+      "created": ["1573817746000"],
+      "modified": ["1628261568000"],
+      "id": ["object-239420"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-110558"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110558"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110558"],
+        "summary_title": ["illuminated manuscript"]
+      },
+      {
+        "term": ["term-114522"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-114522"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-114522"],
+        "summary_title": ["manuscript"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "title": [
+      {
+        "value": ["Nizami's Khamseh"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-239420"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/239420"],
+    "object": ["object-239420"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

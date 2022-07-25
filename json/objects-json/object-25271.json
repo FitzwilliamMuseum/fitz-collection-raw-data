@@ -1,0 +1,183 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-91942"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-91942"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-91942"],
+        "summary_title": ["wine glass"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["C.13-1993"],
+        "type": ["accession number"],
+        "value": ["C.13-1993"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["25271"],
+        "type": ["priref"],
+        "value": ["25271"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/25271"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/25271"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["unknown before donor"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1601914261000"],
+      "id": ["object-25271"]
+    },
+    "description": [
+      {
+        "value": ["Clear glass, with conical bowl, drawn stem and plain foot with puntil mark, engraved on the underside of the foot 'EARL/HARDWICK/1823'."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1993"],
+            "value": ["1993-03-01"],
+            "latest": ["1993"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Lister, Jack, Mr & Mrs"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-155740"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-155740"],
+            "agent": ["agent-155740"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "note": [
+              {
+                "value": ["1823 or earlier"]
+              }
+            ],
+            "precision": ["in or before"],
+            "earliest": ["1823"],
+            "value": ["1823"],
+            "latest": ["1823"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["19th century"],
+            "period": ["term-106853"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106853"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106853"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["glassmaker"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "component": [
+      {
+        "name": ["Foot"],
+        "materials": []
+      },
+      {
+        "name": ["Bowl"],
+        "materials": []
+      },
+      {
+        "name": ["Decoration"],
+        "materials": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-91942"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-91942"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-91942"],
+        "summary_title": ["wine glass"]
+      },
+      {
+        "term": ["term-91741"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-91741"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-91741"],
+        "summary_title": ["drinking glasses"]
+      }
+    ],
+    "inscription": [
+      {
+        "method": ["inscribed"],
+        "transcription": [
+          {
+            "value": ["EARL/HARDWICK/1823"]
+          }
+        ],
+        "location": ["underside of foot"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-91170"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-91170"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-91170"],
+        "summary_title": ["glass"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Height"],
+          "value": ["11.8"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-25271"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/25271"],
+    "object": ["object-25271"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

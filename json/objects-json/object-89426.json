@@ -1,0 +1,146 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-90410"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-90410"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-90410"],
+        "summary_title": ["olpe"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["1991"],
+            "value": ["1991"],
+            "latest": ["1991"]
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["BC"]
+              ],
+              "earliest": ["500"],
+              "value": ["-0500"],
+              "latest": ["500"]
+            },
+            "to": {
+              "era": [
+                ["BC"]
+              ],
+              "earliest": ["401"],
+              "value": ["-0401"],
+              "latest": ["401"]
+            },
+            "earliest": ["500"],
+            "latest": ["401"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Classical"],
+            "period": ["term-14088"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-14088"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-14088"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Athens"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-107608"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107608"],
+            "place": ["term-107608"],
+            "coordinates": {
+              "lat": ["37.9839412"],
+              "lng": ["23.7283052"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Greece"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Attica"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["Loan Ant.103.113"],
+        "type": ["accession number"],
+        "value": ["Loan Ant.103.113"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["89426"],
+        "type": ["priref"],
+        "value": ["89426"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/89426"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/89426"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-90410"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-90410"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-90410"],
+        "summary_title": ["olpe"]
+      },
+      {
+        "term": ["term-89400"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89400"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89400"],
+        "summary_title": ["jug"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1625830980000"],
+      "id": ["object-89426"]
+    },
+    "description": [
+      {
+        "value": ["olpe"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-89198"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89198"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89198"],
+        "summary_title": ["vessel"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-89426"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/89426"],
+    "object": ["object-89426"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

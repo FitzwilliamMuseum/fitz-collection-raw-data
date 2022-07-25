@@ -1,0 +1,224 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-98032"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98032"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98032"],
+        "summary_title": ["print"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["P.1316-R"],
+        "type": ["accession number"],
+        "value": ["P.1316-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["3420"],
+        "type": ["priref"],
+        "value": ["3420"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/3420"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/3420"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1606826420000"],
+      "id": ["object-3420"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "title": [
+      {
+        "type": ["assigned"],
+        "value": ["Portrait of Mozart"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1920"],
+            "value": ["1920-12"],
+            "latest": ["1912"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Thompson, Henry Francis Herbert, Sir, Bart"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-192498"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-192498"],
+            "agent": ["agent-192498"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "era": [
+              ["CE"]
+            ],
+            "earliest": ["1858"],
+            "value": ["1858"],
+            "latest": ["1858"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Schroeder, E. H."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-151545"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-151545"],
+            "term": ["agent-151545"],
+            "role": [
+              {
+                "value": ["printer"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Berlin"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106551"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106551"],
+            "place": ["term-106551"],
+            "coordinates": {
+              "lat": ["52.5170365"],
+              "lng": ["13.3888599"]
+            }
+          }
+        ]
+      }
+    },
+    "school_or_style": [
+      {
+        "term": ["term-8400"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-8400"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-8400"],
+        "summary_title": ["German"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-106206"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106206"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106206"],
+            "summary_title": ["paper"]
+          }
+        ]
+      },
+      {
+        "name": ["Plate"],
+        "materials": []
+      },
+      {
+        "name": ["Sheet"],
+        "materials": []
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-29409"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-29409"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-29409"],
+        "summary_title": ["engraving"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-98032"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98032"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98032"],
+        "summary_title": ["print"]
+      }
+    ],
+    "inscription": [
+      {
+        "method": ["printed"],
+        "transcription": [
+          {
+            "value": ["Doris Stock del. 1789"]
+          }
+        ],
+        "location": ["plate lower left"],
+        "type": ["signature"]
+      },
+      {
+        "method": ["printed"],
+        "transcription": [
+          {
+            "value": ["Eduard Mandel sc.1858"]
+          }
+        ],
+        "location": ["plate lower right"],
+        "type": ["signature"]
+      },
+      {
+        "method": ["printed"],
+        "transcription": [
+          {
+            "value": ["Verlag und Eigentum von E.H. Schroeder in Berlin."]
+          }
+        ],
+        "location": ["plate lower centre"],
+        "type": ["address"]
+      },
+      {
+        "method": ["embossed"],
+        "transcription": [
+          {
+            "value": ["E.H. SCHROEDER IN BERLIN"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["inscribed in an oval"]
+          }
+        ],
+        "location": ["lower centre"],
+        "type": ["stamp"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-98032"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98032"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98032"],
+        "summary_title": ["print"]
+      }
+    ],
+    "department": {
+      "value": ["Paintings, Drawings and Prints"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-3420"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/3420"],
+    "object": ["object-3420"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

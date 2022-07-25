@@ -1,0 +1,175 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-107667"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107667"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107667"],
+        "summary_title": ["bowl"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1890"],
+            "value": ["1890"],
+            "latest": ["1890"]
+          }
+        ]
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Marion Cyprus"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-111298"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111298"],
+            "coordinates": {
+              "lat": ["35.0355325"],
+              "lng": ["32.4270822"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["BC"]
+              ],
+              "earliest": ["500"],
+              "value": ["-0500"],
+              "latest": ["500"]
+            },
+            "to": {
+              "era": [
+                ["BC"]
+              ],
+              "earliest": ["401"],
+              "value": ["-0401"],
+              "latest": ["401"]
+            },
+            "earliest": ["500"],
+            "latest": ["401"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Classical"],
+            "period": ["term-14088"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-14088"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-14088"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Athens"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-107608"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107608"],
+            "place": ["term-107608"],
+            "coordinates": {
+              "lat": ["37.9839412"],
+              "lng": ["23.7283052"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Greece"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Attica"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.158.1890"],
+        "type": ["accession number"],
+        "value": ["GR.158.1890"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["66574"],
+        "type": ["priref"],
+        "value": ["66574"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/66574"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/66574"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-107667"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107667"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107667"],
+        "summary_title": ["bowl"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1621012035000"],
+      "id": ["object-66574"]
+    },
+    "description": [
+      {
+        "value": ["bowl"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-89198"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89198"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89198"],
+        "summary_title": ["vessel"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Depth"],
+          "value": ["0.065"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.024"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-4164"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-4164"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-4164"],
+        "summary_title": ["Doctoral thesis"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-66574"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/66574"],
+    "object": ["object-66574"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

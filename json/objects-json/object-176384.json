@@ -1,0 +1,186 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-121946"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-121946"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-121946"],
+        "summary_title": ["10 gulden"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["2008"],
+            "value": ["2008-10-13"],
+            "latest": ["2008"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Museum collection boxes"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-174366"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-174366"],
+            "agent": ["agent-174366"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["1968"],
+              "value": ["1968-04-25"],
+              "latest": ["1968"]
+            },
+            "to": {
+              "earliest": ["1972"],
+              "value": ["1972"],
+              "latest": ["1972"]
+            },
+            "earliest": ["1968"],
+            "latest": ["1972"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Netherlands"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-173734"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-173734"],
+            "term": ["agent-173734"],
+            "role": [
+              {
+                "value": ["state"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.574-2008"],
+        "type": ["accession number"],
+        "value": ["CM.574-2008"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["176384"],
+        "type": ["priref"],
+        "value": ["176384"]
+      },
+      {
+        "type": ["Bruce & Shafer"],
+        "value": ["91b"]
+      },
+      {
+        "type": ["serial"],
+        "value": ["0593854596"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/176384"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/176384"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-106206"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106206"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106206"],
+            "summary_title": ["paper"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-121946"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-121946"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-121946"],
+        "summary_title": ["10 gulden"]
+      },
+      {
+        "term": ["term-100907"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100907"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100907"],
+        "summary_title": ["paper money"]
+      },
+      {
+        "term": ["term-106665"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106665"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106665"],
+        "summary_title": ["Netherlands"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1594853036000"],
+      "id": ["object-176384"]
+    },
+    "inscription": [
+      {
+        "transcription": [
+          {
+            "value": ["amsterdam 25 april 1968 // de nederlandsche bank / TIEN GULDEN"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Portrait of Franz Hals left at right"]
+          }
+        ],
+        "location": ["obverse"],
+        "type": ["design"]
+      },
+      {
+        "description": [
+          {
+            "value": ["Abstract geometrical toroid in frame, legal citation against counterfeiting at left"]
+          }
+        ],
+        "location": ["reverse"],
+        "type": ["design"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100907"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100907"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100907"],
+        "summary_title": ["paper money"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-176384"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/176384"],
+    "object": ["object-176384"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

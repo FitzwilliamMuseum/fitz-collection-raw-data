@@ -1,0 +1,167 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-91165"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-91165"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-91165"],
+        "summary_title": ["cup"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1910"],
+            "value": ["1910"],
+            "latest": ["1910"]
+          }
+        ]
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Italy"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106629"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106629"],
+            "coordinates": {
+              "lat": ["42.6384261"],
+              "lng": ["12.674297"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["BC"]
+              ],
+              "earliest": ["600"],
+              "value": ["-0600"],
+              "latest": ["600"]
+            },
+            "to": {
+              "era": [
+                ["BC"]
+              ],
+              "earliest": ["501"],
+              "value": ["-0501"],
+              "latest": ["501"]
+            },
+            "earliest": ["600"],
+            "latest": ["501"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["archaic"],
+            "period": ["term-111220"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-111220"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111220"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Athens"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-107608"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107608"],
+            "place": ["term-107608"],
+            "coordinates": {
+              "lat": ["37.9839412"],
+              "lng": ["23.7283052"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Greece"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Attica"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.23.1910"],
+        "type": ["accession number"],
+        "value": ["GR.23.1910"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["68576"],
+        "type": ["priref"],
+        "value": ["68576"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/68576"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/68576"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-91165"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-91165"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-91165"],
+        "summary_title": ["cup"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1621012072000"],
+      "id": ["object-68576"]
+    },
+    "description": [
+      {
+        "value": ["cup foot, gorgoneion"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-89198"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89198"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89198"],
+        "summary_title": ["vessel"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.03"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.085"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-68576"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/68576"],
+    "object": ["object-68576"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

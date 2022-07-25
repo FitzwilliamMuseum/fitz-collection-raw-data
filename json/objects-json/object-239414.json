@@ -1,0 +1,124 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1933"],
+            "value": ["1933"],
+            "latest": ["1933"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Henderson, James Stewart"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-154334"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-154334"],
+            "agent": ["agent-154334"]
+          }
+        }
+      },
+      "creation": {
+        "periods": [
+          {
+            "summary_title": ["15th century"],
+            "period": ["term-107270"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-107270"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107270"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Spain"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106658"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106658"],
+            "place": ["term-106658"],
+            "coordinates": {
+              "lat": ["39.3260685"],
+              "lng": ["-4.8379791"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Spain"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["MS 364**a"],
+        "type": ["accession number"],
+        "value": ["MS 364**a"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["239414"],
+        "type": ["priref"],
+        "value": ["239414"]
+      },
+      {
+        "source": ["Cambridge Illuminated"],
+        "type": ["project ID"],
+        "value": ["3535"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/239414"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/239414"]
+      }
+    ],
+    "admin": {
+      "created": ["1573817744000"],
+      "modified": ["1599046754000"],
+      "id": ["object-239414"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-110558"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110558"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110558"],
+        "summary_title": ["illuminated manuscript"]
+      },
+      {
+        "term": ["term-114522"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-114522"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-114522"],
+        "summary_title": ["manuscript"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "title": [
+      {
+        "value": ["Torah Scroll"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-239414"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/239414"],
+    "object": ["object-239414"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

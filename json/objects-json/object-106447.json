@@ -1,0 +1,382 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-101078"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101078"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101078"],
+        "summary_title": ["dirham"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bought"],
+        "agents": {
+          "agent": {
+            "summary_title": ["Ritchie-Ginsburg Fund"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-168195"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-168195"],
+            "agent": ["agent-168195"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "note": [
+              {
+                "value": ["Illegible"]
+              }
+            ],
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["uncertain"],
+              "earliest": ["907"],
+              "value": ["907"],
+              "latest": ["907"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["uncertain"],
+              "earliest": ["910"],
+              "value": ["910"],
+              "latest": ["910"]
+            },
+            "earliest": ["907"],
+            "latest": ["910"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Balkh"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-167887"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-167887"],
+            "term": ["agent-167887"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Balkh"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-123250"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-123250"],
+            "place": ["term-123250"],
+            "coordinates": {
+              "lat": ["36.7581256"],
+              "lng": ["66.8980826"]
+            }
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.852-1992"],
+        "type": ["accession number"],
+        "value": ["CM.852-1992"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["106447"],
+        "type": ["priref"],
+        "value": ["106447"]
+      },
+      {
+        "type": ["catalogue"],
+        "value": ["850"]
+      },
+      {
+        "type": ["ordering"],
+        "value": ["IS-0811"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/106447"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/106447"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["bt J. Leeder (fd near Thetford, Norfolk 1992)"]
+      }
+    ],
+    "multimedia": [
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616285825571"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm1/preview_CM_852_1992_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["248"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616285825571"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm1/CM_852_1992_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["357"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["360"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616285825571"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm1/CM_852_1992_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["357"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["360"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616285825571"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm1/CM_852_1992_281_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["357"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["360"]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616248650798"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm1/preview_CM_852_1992_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["255"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616248650798"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm1/CM_852_1992_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["365"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["358"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616248650798"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm1/CM_852_1992_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["365"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["358"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616248650798"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm1/CM_852_1992_282_29.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["365"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["358"]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-101078"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101078"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101078"],
+        "summary_title": ["dirham"]
+      },
+      {
+        "term": ["term-114652"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-114652"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-114652"],
+        "summary_title": ["contemporary copy"]
+      },
+      {
+        "term": ["term-451"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-451"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-451"],
+        "summary_title": ["Islamic"]
+      },
+      {
+        "term": ["term-117822"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117822"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-117822"],
+        "summary_title": ["Iran - The Early Period"]
+      },
+      {
+        "term": ["term-117950"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117950"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-117950"],
+        "summary_title": ["Khans of Wolga-Bulghars"]
+      }
+    ],
+    "admin": {
+      "created": ["1397472617000"],
+      "modified": ["1397473536000"],
+      "id": ["object-106447"]
+    },
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["degrees"],
+          "dimension": ["Die Axis"],
+          "value": ["275"]
+        },
+        {
+          "units": ["mm"],
+          "dimension": ["Image(height)"],
+          "value": ["27"]
+        },
+        {
+          "units": ["mm"],
+          "dimension": ["Image(width)"],
+          "value": ["28"]
+        },
+        {
+          "units": ["g"],
+          "dimension": ["Weight"],
+          "value": ["2.51"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-106447"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/106447"],
+    "object": ["object-106447"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

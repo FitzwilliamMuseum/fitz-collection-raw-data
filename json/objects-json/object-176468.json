@@ -1,0 +1,184 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-122314"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-122314"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-122314"],
+        "summary_title": ["5 rials"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["2009"],
+            "value": ["2009-12-01"],
+            "latest": ["2009"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Lewcock, Ronald, Prof."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-184900"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-184900"],
+            "agent": ["agent-184900"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "note": [
+              {
+                "value": ["AH 1420"]
+              }
+            ],
+            "era": [
+              ["CE"]
+            ],
+            "earliest": ["2000"],
+            "value": ["2000"],
+            "latest": ["2000"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Central Bank of Oman"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-175394"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-175394"],
+            "term": ["agent-175394"],
+            "role": [
+              {
+                "value": ["issuer"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.1565-2009"],
+        "type": ["accession number"],
+        "value": ["CM.1565-2009"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["176468"],
+        "type": ["priref"],
+        "value": ["176468"]
+      },
+      {
+        "type": ["Bruce & Shafer"],
+        "value": ["cf. 35"]
+      },
+      {
+        "type": ["serial"],
+        "value": ["ج/٤ ٥٧٤٣٣١٧"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/176468"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/176468"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-106206"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106206"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106206"],
+            "summary_title": ["paper"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-122314"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-122314"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-122314"],
+        "summary_title": ["5 rials"]
+      },
+      {
+        "term": ["term-100907"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100907"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100907"],
+        "summary_title": ["paper money"]
+      },
+      {
+        "term": ["term-121583"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-121583"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-121583"],
+        "summary_title": ["Oman"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1594853038000"],
+      "id": ["object-176468"]
+    },
+    "inscription": [
+      {
+        "description": [
+          {
+            "value": ["Bust of Sultan Qaboos half-left at right, Sultan Qaboos University buildings at centre with clock-tower central, bust of Qaboos half-left in watermark panel at left"]
+          }
+        ],
+        "location": ["obverse"],
+        "type": ["design"]
+      },
+      {
+        "transcription": [
+          {
+            "value": ["CENTRAL BANK OF OMAN / FIVE RIALS"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["View of city of Nizwa with shadowed buildings in foreground, bust of Sultan Qaboos half-right in watermark panel at right"]
+          }
+        ],
+        "location": ["reverse"],
+        "type": ["design"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100907"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100907"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100907"],
+        "summary_title": ["paper money"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-176468"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/176468"],
+    "object": ["object-176468"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

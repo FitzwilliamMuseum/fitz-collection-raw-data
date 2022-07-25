@@ -1,0 +1,169 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["unknown"]
+      },
+      "creation": {
+        "date": [
+          {
+            "note": [
+              {
+                "value": ["To 1865?"]
+              }
+            ],
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["1864"],
+              "value": ["1864"],
+              "latest": ["1864"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["1865"],
+              "value": ["1865"],
+              "latest": ["1865"]
+            },
+            "earliest": ["1864"],
+            "latest": ["1865"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Brooks, Vincent Robert Alfred"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-18560"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-18560"],
+            "term": ["agent-18560"],
+            "role": [
+              {
+                "value": ["lithographer"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["London"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106216"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106216"],
+            "place": ["term-106216"],
+            "coordinates": {
+              "lat": ["51.5073219"],
+              "lng": ["-0.1276474"]
+            },
+            "note": ["possibly London"],
+            "hierarchies": [
+              {
+                "summary_title": ["England"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["PB 1864.1"],
+        "type": ["accession number"],
+        "value": ["PB 1864.1"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["118500"],
+        "type": ["priref"],
+        "value": ["118500"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/118500"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/118500"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-106206"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106206"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106206"],
+            "summary_title": ["paper"]
+          }
+        ]
+      },
+      {
+        "name": ["Illustrations"],
+        "materials": []
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-27526"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27526"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27526"],
+        "summary_title": ["printing"],
+        "descriptions": []
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1467303534000"],
+      "id": ["object-118500"]
+    },
+    "description": [
+      {
+        "value": ["Volumes I and II have text printed in double columns, French and English.\nBiographical information given on each of the signatories.\nIncludes indexes."]
+      },
+      {
+        "value": ["Laid in: 2 pages from Pall Mall Budget 13.8.1891: \"The manuscripts of George Eliot's Works\"."]
+      },
+      {
+        "value": ["2 v. : ill. (incl. ports.) facsims ; 42 cm"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-102154"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-102154"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-102154"],
+        "summary_title": ["book"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["The autographic mirror: autographic letters and sketches of distinguished men of past and present times; sovereigns, statesmen, warriors, divines; historians, lawyers, literary, scientific, artistic, and theatrical celebrites : = L'Autographe cosmopolite"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-118500"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/118500"],
+    "object": ["object-118500"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

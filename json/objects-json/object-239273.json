@@ -1,0 +1,133 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1951"],
+            "value": ["1951"],
+            "latest": ["1951"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Edwards, A.C."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-154288"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-154288"],
+            "agent": ["agent-154288"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["1000"],
+              "value": ["1000"],
+              "latest": ["1000"]
+            },
+            "to": {
+              "earliest": ["1199"],
+              "value": ["1199"],
+              "latest": ["1199"]
+            },
+            "earliest": ["1000"],
+            "latest": ["1199"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Persia"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-107888"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107888"],
+            "place": ["term-107888"],
+            "coordinates": {
+              "lat": ["32.6475314"],
+              "lng": ["54.5643516"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Persia"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["MS 13-1951"],
+        "type": ["accession number"],
+        "value": ["MS 13-1951"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["239273"],
+        "type": ["priref"],
+        "value": ["239273"]
+      },
+      {
+        "source": ["Cambridge Illuminated"],
+        "type": ["project ID"],
+        "value": ["3556"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/239273"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/239273"]
+      }
+    ],
+    "admin": {
+      "created": ["1573817721000"],
+      "modified": ["1621339563000"],
+      "id": ["object-239273"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-110558"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110558"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110558"],
+        "summary_title": ["illuminated manuscript"]
+      },
+      {
+        "term": ["term-114522"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-114522"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-114522"],
+        "summary_title": ["manuscript"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "title": [
+      {
+        "value": ["Folios from a Qur'an"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-239273"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/239273"],
+    "object": ["object-239273"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

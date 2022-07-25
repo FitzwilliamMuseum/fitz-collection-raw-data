@@ -1,0 +1,184 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-12401"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12401"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-12401"],
+        "summary_title": ["Greek"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["1991"],
+            "value": ["1991"],
+            "latest": ["1991"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Lewis, S. S."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-162613"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-162613"],
+            "agent": ["agent-162613"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["BCE"]
+              ],
+              "earliest": ["6301"],
+              "value": ["-63"],
+              "latest": ["6400"]
+            },
+            "to": {
+              "era": [
+                ["BCE"]
+              ],
+              "earliest": ["4001"],
+              "value": ["-40"],
+              "latest": ["4100"]
+            },
+            "earliest": ["6301"],
+            "latest": ["4100"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Judaea"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-180375"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-180375"],
+            "term": ["agent-180375"],
+            "role": [
+              {
+                "value": ["origin"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.LS.1141-R"],
+        "type": ["accession number"],
+        "value": ["CM.LS.1141-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["113942"],
+        "type": ["priref"],
+        "value": ["113942"]
+      },
+      {
+        "type": ["SNG Lewis"],
+        "value": ["1141"]
+      },
+      {
+        "type": ["ordering"],
+        "value": ["LW-1140"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/113942"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/113942"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Bequeathed to Corpus by the Revd. Samuel Savage Lewis, 1891."]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-12401"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12401"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-12401"],
+        "summary_title": ["Greek"]
+      },
+      {
+        "term": ["term-119600"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119600"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119600"],
+        "summary_title": ["Judaea"]
+      },
+      {
+        "term": ["term-119601"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119601"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119601"],
+        "summary_title": ["Hasmonean Dynasty"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1368637816000"],
+      "id": ["object-113942"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-167778"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-167778"],
+        "owner": ["agent-167778"],
+        "summary_title": ["Corpus Christi College"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["degrees"],
+          "dimension": ["Die Axis"],
+          "value": ["0"]
+        },
+        {
+          "units": ["mm"],
+          "dimension": ["Image(height)"],
+          "value": ["15"]
+        },
+        {
+          "units": ["mm"],
+          "dimension": ["Image(width)"],
+          "value": ["14"]
+        },
+        {
+          "units": ["g"],
+          "dimension": ["Weight"],
+          "value": ["1.5"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-113942"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/113942"],
+    "object": ["object-113942"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

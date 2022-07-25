@@ -1,0 +1,178 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-89294"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89294"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89294"],
+        "summary_title": ["askos"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1963"],
+            "value": ["1963"],
+            "latest": ["1963"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Lamb, Winifred"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159497"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159497"],
+            "agent": ["agent-159497"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Rhodes Greek Islands"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-111252"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111252"],
+            "coordinates": {
+              "lat": ["36.15508495"],
+              "lng": ["29.499625120951"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "note": [
+              {
+                "value": ["import: circa 450-430 BC"]
+              }
+            ],
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["451"],
+              "value": ["-450"],
+              "latest": ["451"]
+            },
+            "to": {
+              "earliest": ["431"],
+              "value": ["-430"],
+              "latest": ["431"]
+            },
+            "earliest": ["451"],
+            "latest": ["431"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Classical"],
+            "period": ["term-14088"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-14088"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-14088"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Athens"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-107608"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107608"],
+            "place": ["term-107608"],
+            "coordinates": {
+              "lat": ["37.9839412"],
+              "lng": ["23.7283052"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Greece"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Attica"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.7.1963"],
+        "type": ["accession number"],
+        "value": ["GR.7.1963"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["69684"],
+        "type": ["priref"],
+        "value": ["69684"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/69684"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/69684"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-89294"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89294"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89294"],
+        "summary_title": ["askos"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1336738656000"],
+      "id": ["object-69684"]
+    },
+    "description": [
+      {
+        "value": ["askos, rams"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-89198"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89198"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89198"],
+        "summary_title": ["vessel"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Diameter"],
+          "value": ["0.09"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-200001550"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-200001550"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-200001550"],
+        "summary_title": ["[Unknown: Arch Reports 1965-66]"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-69684"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/69684"],
+    "object": ["object-69684"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

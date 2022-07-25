@@ -1,0 +1,178 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-115873"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-115873"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-115873"],
+        "summary_title": ["commode"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["1981"],
+            "value": ["1981"],
+            "latest": ["1981"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Anonymous"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149647"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149647"],
+            "agent": ["agent-149647"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "precision": ["circa"],
+            "earliest": ["1760"],
+            "value": ["1760"],
+            "latest": ["1760"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["18th century"],
+            "period": ["term-106400"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106400"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106400"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Lacroix, Roger"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-74808"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-74808"],
+            "term": ["agent-74808"],
+            "role": [
+              {
+                "value": ["maker"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Paris"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-129470"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-129470"],
+            "place": ["term-129470"],
+            "coordinates": {
+              "lat": ["48.8588897"],
+              "lng": ["2.3200410217201"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["France"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["AAL.1-1981"],
+        "type": ["accession number"],
+        "value": ["AAL.1-1981"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["208776"],
+        "type": ["priref"],
+        "value": ["208776"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/208776"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/208776"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Top"],
+        "materials": [
+          {
+            "term": ["term-94994"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-94994"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-94994"],
+            "summary_title": ["marble"]
+          }
+        ]
+      },
+      {
+        "name": ["Kingwood"],
+        "materials": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-115873"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-115873"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-115873"],
+        "summary_title": ["commode"]
+      }
+    ],
+    "admin": {
+      "created": ["1463137356000"],
+      "modified": ["1569413142000"],
+      "id": ["object-208776"]
+    },
+    "description": [
+      {
+        "value": ["Commode, pine veneered in kingwood (?) with ormolu mounts and breccia marble top."]
+      }
+    ],
+    "inscription": [
+      {
+        "method": ["stamped"],
+        "transcription": [
+          {
+            "value": ["stamp for the maker"]
+          }
+        ],
+        "type": ["maker's mark"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149647"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149647"],
+        "owner": ["agent-149647"],
+        "summary_title": ["Anonymous"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-67107"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-67107"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-67107"],
+        "summary_title": ["furniture"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-208776"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/208776"],
+    "object": ["object-208776"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

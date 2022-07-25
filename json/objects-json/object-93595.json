@@ -1,0 +1,150 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1991"],
+            "value": ["1991"],
+            "latest": ["1991"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Holder, Leonard A."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-150427"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-150427"],
+            "agent": ["agent-150427"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "era": [
+              ["CE"]
+            ],
+            "earliest": ["1962"],
+            "value": ["1962-05-02"],
+            "latest": ["1962"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Stanbrook Abbey Press"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-162425"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-162425"],
+            "term": ["agent-162425"],
+            "role": [
+              {
+                "value": ["private press"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Richmond (Yorks.)"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106773"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106773"],
+            "place": ["term-106773"],
+            "coordinates": {
+              "lat": ["-29.058713"],
+              "lng": ["153.324582"]
+            }
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["PB 158-1991"],
+        "type": ["accession number"],
+        "value": ["PB 158-1991"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["93595"],
+        "type": ["priref"],
+        "value": ["93595"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/93595"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/93595"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Leonard Holder was Principal Assistant at the Fitzwilliam Museum"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-106206"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106206"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106206"],
+            "summary_title": ["paper"]
+          }
+        ]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-27526"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27526"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27526"],
+        "summary_title": ["printing"],
+        "descriptions": []
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1428508664000"],
+      "id": ["object-93595"]
+    },
+    "description": [
+      {
+        "value": ["A Testimony and Appeal from the Will of Sydney Cockerell given to Leonard Holder.   With a small note from Leonard Holder."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-101531"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101531"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101531"],
+        "summary_title": ["testimony"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-93595"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/93595"],
+    "object": ["object-93595"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

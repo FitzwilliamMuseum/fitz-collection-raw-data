@@ -1,0 +1,177 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-118052"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-118052"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-118052"],
+        "summary_title": ["Fractional Dirham"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "agents": {
+          "agent": {
+            "summary_title": ["Bonser, Michael"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-167143"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-167143"],
+            "agent": ["agent-167143"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "note": [
+              {
+                "value": ["circa AH 189-90"]
+              }
+            ],
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["804"],
+              "value": ["804"],
+              "latest": ["804"]
+            },
+            "to": {
+              "precision": ["circa"],
+              "earliest": ["806"],
+              "value": ["806"],
+              "latest": ["806"]
+            },
+            "earliest": ["804"],
+            "latest": ["806"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Tashkent"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-189759"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-189759"],
+            "term": ["agent-189759"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Tashkent"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-123356"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-123356"],
+            "place": ["term-123356"],
+            "coordinates": {
+              "lat": ["41.3123363"],
+              "lng": ["69.2787079"]
+            }
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.77-1998"],
+        "type": ["accession number"],
+        "value": ["CM.77-1998"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["106561"],
+        "type": ["priref"],
+        "value": ["106561"]
+      },
+      {
+        "type": ["catalogue"],
+        "value": ["519"]
+      },
+      {
+        "type": ["ordering"],
+        "value": ["IS-0480"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/106561"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/106561"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["fd Torksey, Lincs. August 1997"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-118052"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-118052"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-118052"],
+        "summary_title": ["Fractional Dirham"]
+      },
+      {
+        "term": ["term-451"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-451"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-451"],
+        "summary_title": ["Islamic"]
+      },
+      {
+        "term": ["term-117821"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117821"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-117821"],
+        "summary_title": ["‘Abbasids"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1492707552000"],
+      "id": ["object-106561"]
+    },
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["mm"],
+          "dimension": ["Image(height)"],
+          "value": ["10"]
+        },
+        {
+          "units": ["mm"],
+          "dimension": ["Image(width)"],
+          "value": ["12"]
+        },
+        {
+          "units": ["g"],
+          "dimension": ["Weight"],
+          "value": ["0.34"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-106561"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/106561"],
+    "object": ["object-106561"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

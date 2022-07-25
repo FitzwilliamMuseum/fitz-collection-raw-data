@@ -1,0 +1,228 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-81898"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-81898"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-81898"],
+        "summary_title": ["fork"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["M.25-1930"],
+        "type": ["accession number"],
+        "value": ["M.25-1930"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["166976"],
+        "type": ["priref"],
+        "value": ["166976"]
+      },
+      {
+        "date": [
+          {
+            "earliest": ["1930"],
+            "value": ["1930"],
+            "latest": ["1930"]
+          }
+        ],
+        "source": ["The Fitzwilliam Museum"],
+        "type": ["old object number"],
+        "value": ["M.2-1930"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/166976"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/166976"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Frank Smart Collection"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1439218475000"],
+      "id": ["object-166976"]
+    },
+    "description": [
+      {
+        "value": ["ivory silver and steel; two steel tines on a pistol grip handle with ivory scales and embossed silver ornaments and piqué work"]
+      },
+      {
+        "value": ["Ivory, silver and steel; the fork has two long inward slanting tines and a vertically flat stem of steel; each side of the pistol grip handle has an embossed silver plaque below an ivory scale.  Each silver plaque is embossed with an oval of scrolling foliage.  Each ivory scale is inlaid with an embossed  silver lozenge, two pairs of pine cones, a rosette and geometric patterns of small silver piqué work circles.  The steel bolster is engraved with a flower, and the flat top edge is of steel cut in a geometric pattern."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1930"],
+            "value": ["1930"],
+            "latest": ["1930"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Duncanson, T. J. G."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-154693"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-154693"],
+            "agent": ["agent-154693"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["1680"],
+              "value": ["1680"],
+              "latest": ["1680"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["1710"],
+              "value": ["1710"],
+              "latest": ["1710"]
+            },
+            "earliest": ["1680"],
+            "latest": ["1710"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["late 17th-early 18th Century"],
+            "period": ["term-120948"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-120948"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-120948"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["unmarked"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-179597"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-179597"],
+            "term": ["agent-179597"],
+            "role": [
+              {
+                "value": ["maker"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "school_or_style": [
+      {
+        "term": ["term-8400"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-8400"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-8400"],
+        "summary_title": ["German"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Handle"],
+        "materials": [
+          {
+            "term": ["term-39778"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39778"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39778"],
+            "summary_title": ["silver"]
+          },
+          {
+            "term": ["term-40149"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-40149"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-40149"],
+            "summary_title": ["ivory"]
+          }
+        ]
+      },
+      {
+        "name": ["Tines"],
+        "materials": [
+          {
+            "term": ["term-40136"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-40136"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-40136"],
+            "summary_title": ["steel"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-81898"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-81898"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-81898"],
+        "summary_title": ["fork"]
+      },
+      {
+        "value": ["folding fork"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-81891"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-81891"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-81891"],
+        "summary_title": ["cutlery"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Length"],
+          "value": ["20"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-6476"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-6476"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-6476"],
+        "summary_title": ["Cutlery: From Gothic to Art Deco: The J. Hollander Collection"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-166976"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/166976"],
+    "object": ["object-166976"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

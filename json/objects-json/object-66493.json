@@ -1,0 +1,139 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-106616"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106616"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106616"],
+        "summary_title": ["lamp"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1890"],
+            "value": ["1890"],
+            "latest": ["1890"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Harrod, Henry Herbert"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159455"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159455"],
+            "agent": ["agent-159455"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["99"],
+              "value": ["1"],
+              "latest": ["1"]
+            },
+            "to": {
+              "earliest": ["100"],
+              "value": ["100"],
+              "latest": ["100"]
+            },
+            "earliest": ["99"],
+            "latest": ["100"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Early Roman"],
+            "period": ["term-111186"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-111186"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111186"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.5.1890"],
+        "type": ["accession number"],
+        "value": ["GR.5.1890"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["66493"],
+        "type": ["priref"],
+        "value": ["66493"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/66493"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/66493"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-106616"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106616"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106616"],
+        "summary_title": ["lamp"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1471015770000"],
+      "id": ["object-66493"]
+    },
+    "description": [
+      {
+        "value": ["lamp, in form of frog"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-110836"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110836"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110836"],
+        "summary_title": ["lighting equipment"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Depth"],
+          "value": ["0.083"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.04"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.07"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-66493"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/66493"],
+    "object": ["object-66493"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

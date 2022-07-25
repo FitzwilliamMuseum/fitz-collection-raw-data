@@ -1,0 +1,143 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1904"],
+            "value": ["1904"],
+            "latest": ["1904"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["McClean, Frank"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-172414"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-172414"],
+            "agent": ["agent-172414"]
+          }
+        }
+      },
+      "creation": {
+        "periods": [
+          {
+            "summary_title": ["12th Century"],
+            "period": ["term-107804"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-107804"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107804"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Sulpitius Severus"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-200496"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-200496"],
+            "term": ["agent-200496"],
+            "role": [
+              {
+                "value": ["author"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["England"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-107139"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107139"],
+            "place": ["term-107139"],
+            "coordinates": {
+              "lat": ["52.5310214"],
+              "lng": ["-1.2649062"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["England"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["MS McClean 118"],
+        "type": ["accession number"],
+        "value": ["MS McClean 118"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["239548"],
+        "type": ["priref"],
+        "value": ["239548"]
+      },
+      {
+        "source": ["Cambridge Illuminated"],
+        "type": ["project ID"],
+        "value": ["749"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/239548"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/239548"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Has the bookplate of William Morris, printed at the Kelmscott Press, and inserted by his executors. Purchased at Sotheby's, Dec 1898, no. 1118."]
+      }
+    ],
+    "admin": {
+      "created": ["1573817768000"],
+      "modified": ["1598267004000"],
+      "id": ["object-239548"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-110558"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110558"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110558"],
+        "summary_title": ["illuminated manuscript"]
+      },
+      {
+        "term": ["term-114522"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-114522"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-114522"],
+        "summary_title": ["manuscript"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "title": [
+      {
+        "value": ["Life of St Martin"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-239548"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/239548"],
+    "object": ["object-239548"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

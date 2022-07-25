@@ -1,0 +1,261 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-91188"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-91188"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-91188"],
+        "summary_title": ["mug"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["C.125-1918"],
+        "type": ["accession number"],
+        "value": ["C.125-1918"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["33000"],
+        "type": ["priref"],
+        "value": ["33000"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/33000"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/33000"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1467303307000"],
+      "id": ["object-33000"]
+    },
+    "description": [
+      {
+        "value": ["Soft-paste porcelain mug, painted onglaze in polychrome enamels with a bird amid berried branches."]
+      },
+      {
+        "value": ["Soft-paste porcelain mug, painted onglaze with red, pink, brown, green, blue and black enamels. This mug is cylindrical with slightly flared foot, an unglazed shallow flattened footring; it has a ribbed strap handle. It is painted in colours outlined in black with a dishevelled bird standing on a mound, flanked by berried branches, enclosed within a barbed quatrelobed panel, edged with black and red lines; with floral sprays on either side of the handle."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1918"],
+            "value": ["1918"],
+            "latest": ["1918"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Griffin, Ralph, MA, FSA"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-151196"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-151196"],
+            "agent": ["agent-151196"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["1765"],
+              "value": ["1765"],
+              "latest": ["1765"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["1768"],
+              "value": ["1768"],
+              "latest": ["1768"]
+            },
+            "earliest": ["1765"],
+            "latest": ["1768"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["mid-18th Century"],
+            "period": ["term-106496"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106496"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106496"]
+          },
+          {
+            "summary_title": ["George III"],
+            "period": ["term-107437"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-107437"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107437"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Giles, James"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-52045"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-52045"],
+            "term": ["agent-52045"],
+            "role": [
+              {
+                "value": ["painter"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Worcester"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-110248"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110248"],
+            "place": ["term-110248"],
+            "coordinates": {
+              "lat": ["42.2625621"],
+              "lng": ["-71.8018877"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["England"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Worcestershire"],
+                "type": ["region"]
+              }
+            ]
+          },
+          {
+            "summary_title": ["London"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106216"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106216"],
+            "place": ["term-106216"],
+            "coordinates": {
+              "lat": ["51.5073219"],
+              "lng": ["-0.1276474"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["England"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "component": [
+      {
+        "name": ["Decoration"],
+        "materials": [
+          {
+            "term": ["term-107563"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107563"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107563"],
+            "summary_title": ["enamels"]
+          }
+        ]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-27616"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27616"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27616"],
+        "summary_title": ["glazing (coating)"],
+        "descriptions": [
+          {
+            "description": ["soft-paste porcelain, painted onglaze with red, pink, brown, green, blue and black enamels"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-91188"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-91188"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-91188"],
+        "summary_title": ["mug"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-37637"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-37637"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-37637"],
+        "summary_title": ["soft-paste porcelain"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Diameter"],
+          "value": ["12.0"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Height"],
+          "value": ["12.5"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-200000830"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-200000830"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-200000830"],
+        "summary_title": ["The Work of James Giles"]
+      },
+      {
+        "term": ["publication-2571"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-2571"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-2571"],
+        "summary_title": ["Encyclopaedia of British Porcelain Manufacturers"]
+      },
+      {
+        "term": ["publication-2542"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-2542"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-2542"],
+        "summary_title": ["Coloured Worcester Porcelain of the First Period, 1751-1783"]
+      },
+      {
+        "term": ["publication-2556"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-2556"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-2556"],
+        "summary_title": ["Worcester Porcelain, The Klepser Collection"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-33000"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/33000"],
+    "object": ["object-33000"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

@@ -1,0 +1,184 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["2003"],
+            "value": ["2003-05"],
+            "latest": ["2005"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Dreyfus, John"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-163304"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-163304"],
+            "agent": ["agent-163304"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "era": [
+              ["CE"]
+            ],
+            "earliest": ["1985"],
+            "value": ["1985"],
+            "latest": ["1985"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Meriden Gravure Company"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-163326"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-163326"],
+            "term": ["agent-163326"],
+            "role": [
+              {
+                "value": ["printer"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Austin"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-115480"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-115480"],
+            "place": ["term-115480"],
+            "coordinates": {
+              "lat": ["30.2711286"],
+              "lng": ["-97.7436995"]
+            }
+          },
+          {
+            "summary_title": ["Mt. Vernon"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-115431"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-115431"],
+            "place": ["term-115431"],
+            "coordinates": {
+              "lat": ["38.3172715"],
+              "lng": ["-88.9031201"]
+            }
+          },
+          {
+            "summary_title": ["Meriden"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-115391"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-115391"],
+            "place": ["term-115391"],
+            "coordinates": {
+              "lat": ["41.5381535"],
+              "lng": ["-72.8070435"]
+            }
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["PB 175-2003"],
+        "type": ["accession number"],
+        "value": ["PB 175-2003"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["95638"],
+        "type": ["priref"],
+        "value": ["95638"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/95638"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/95638"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-106206"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106206"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106206"],
+            "summary_title": ["paper"]
+          }
+        ]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-27526"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27526"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27526"],
+        "summary_title": ["printing"],
+        "descriptions": []
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1418645768000"],
+      "id": ["object-95638"]
+    },
+    "description": [
+      {
+        "value": ["By Joseph Blumenthal"]
+      },
+      {
+        "value": ["xi, 105, [1]p : ill., facsims ; 28 cm"]
+      }
+    ],
+    "inscription": [
+      {
+        "method": ["graphite"],
+        "transcription": [
+          {
+            "value": ["For John with great respect and affection - both- Joe November /'85 in Cream Hollow"]
+          }
+        ],
+        "location": ["half-title page"],
+        "type": ["signature"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-102154"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-102154"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-102154"],
+        "summary_title": ["book"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["Robert Frost and his printers"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-95638"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/95638"],
+    "object": ["object-95638"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

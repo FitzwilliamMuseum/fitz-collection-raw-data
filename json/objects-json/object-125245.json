@@ -1,0 +1,80 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1933"],
+            "value": ["1933"],
+            "latest": ["1933"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Navarro, J. M. de"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-172191"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-172191"],
+            "agent": ["agent-172191"]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["NAV.47-1933"],
+        "type": ["accession number"],
+        "value": ["NAV.47-1933"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["125245"],
+        "type": ["priref"],
+        "value": ["125245"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/125245"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/125245"]
+      }
+    ],
+    "admin": {
+      "created": ["1312633661000"],
+      "modified": ["1312657068000"],
+      "id": ["object-125245"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-40400"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-40400"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-40400"],
+        "summary_title": ["pewter"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-125245"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/125245"],
+    "object": ["object-125245"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

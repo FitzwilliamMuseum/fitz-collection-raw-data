@@ -1,0 +1,181 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-90128"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-90128"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-90128"],
+        "summary_title": ["goblet"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["2009"],
+            "value": ["2009"],
+            "latest": ["2009"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Gray, Jonathan"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-193981"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-193981"],
+            "agent": ["agent-193981"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "era": [
+              ["CE"]
+            ],
+            "earliest": ["1791"],
+            "value": ["1791"],
+            "latest": ["1791"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["George III"],
+            "period": ["term-107437"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-107437"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107437"]
+          },
+          {
+            "summary_title": ["18th century"],
+            "period": ["term-106400"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106400"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106400"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["J Hampston & J Prince"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-188403"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-188403"],
+            "term": ["agent-188403"],
+            "role": [
+              {
+                "value": ["silversmith"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["York"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-107398"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107398"],
+            "place": ["term-107398"],
+            "coordinates": {
+              "lat": ["53.9590555"],
+              "lng": ["-1.0815361"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["England"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["AAL.115-2009"],
+        "type": ["accession number"],
+        "value": ["AAL.115-2009"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["185896"],
+        "type": ["priref"],
+        "value": ["185896"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/185896"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/185896"]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-5006"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-5006"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-5006"],
+        "summary_title": ["reeding"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-90128"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-90128"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-90128"],
+        "summary_title": ["goblet"]
+      }
+    ],
+    "admin": {
+      "created": ["1322234333000"],
+      "modified": ["1569413122000"],
+      "id": ["object-185896"]
+    },
+    "description": [
+      {
+        "value": ["The plain egg-shaped body upon short pedestal circular foot with reeded border."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-193982"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-193982"],
+        "owner": ["agent-193982"],
+        "summary_title": ["The Bill Gray Collection"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-39778"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39778"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39778"],
+        "summary_title": ["silver"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Diameter"],
+          "value": ["2.85"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Height"],
+          "value": ["11.1"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-185896"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/185896"],
+    "object": ["object-185896"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

@@ -1,0 +1,172 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-127667"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-127667"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-127667"],
+        "summary_title": ["Sake bottle"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["1984"],
+            "value": ["1984"],
+            "latest": ["1984"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Jenyns, Roger, Mr and Mrs"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-193309"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-193309"],
+            "agent": ["agent-193309"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["1700"],
+              "value": ["1700"],
+              "latest": ["1700"]
+            },
+            "to": {
+              "earliest": ["1725"],
+              "value": ["1725"],
+              "latest": ["1725"]
+            },
+            "earliest": ["1700"],
+            "latest": ["1725"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Edo Period (1615-1868)"],
+            "period": ["term-109673"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-109673"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-109673"]
+          },
+          {
+            "summary_title": ["early 18th Century"],
+            "period": ["term-106655"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106655"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106655"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["maker"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["JL.7-1984"],
+        "type": ["accession number"],
+        "value": ["JL.7-1984"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["140545"],
+        "type": ["priref"],
+        "value": ["140545"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/140545"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/140545"]
+      }
+    ],
+    "school_or_style": [
+      {
+        "term": ["term-15024"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-15024"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-15024"],
+        "summary_title": ["Kakiemon"]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-111179"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111179"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-111179"],
+        "summary_title": ["moulding"],
+        "descriptions": []
+      },
+      {
+        "term": ["term-28662"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-28662"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-28662"],
+        "summary_title": ["enamelling"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-127667"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-127667"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-127667"],
+        "summary_title": ["Sake bottle"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1606410605000"],
+      "id": ["object-140545"]
+    },
+    "description": [
+      {
+        "value": ["Hard-paste porcelain bamboo stem sake bottle. Moulded, and painted in enamels with birds in bamboo."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-193309"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-193309"],
+        "owner": ["agent-193309"],
+        "summary_title": ["Jenyns, Roger, Mr and Mrs"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-37627"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-37627"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-37627"],
+        "summary_title": ["hard-paste porcelain"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-140545"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/140545"],
+    "object": ["object-140545"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

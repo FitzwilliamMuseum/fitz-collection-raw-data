@@ -1,0 +1,170 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-101415"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101415"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101415"],
+        "summary_title": ["penny"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["CM.147-1994"],
+        "type": ["accession number"],
+        "value": ["CM.147-1994"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["274470"],
+        "type": ["priref"],
+        "value": ["274470"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/274470"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/274470"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Under Review"]
+      }
+    ],
+    "admin": {
+      "created": ["1605789244000"],
+      "modified": ["1632825797000"],
+      "id": ["object-274470"]
+    },
+    "description": [
+      {
+        "value": ["Utrecht, Herman of Horn? (1150-6), silver penny (Chijs pl. 5.9), 0.66g.   From L. Schulman sale 12, lot 243."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["One of five medieval coins of the Low Countries:"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["Purchased"],
+        "date": [
+          {
+            "earliest": ["1994"],
+            "value": ["1994-06-06"],
+            "latest": ["1994"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Schulman, Laurens"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-201816"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-201816"],
+            "agent": ["agent-201816"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["1150"],
+              "value": ["1150"],
+              "latest": ["1150"]
+            },
+            "to": {
+              "precision": ["possibly"],
+              "earliest": ["1156"],
+              "value": ["1156"],
+              "latest": ["1156"]
+            },
+            "earliest": ["1150"],
+            "latest": ["1156"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Herman of Horn (1150-6)"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-204922"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-204922"],
+            "term": ["agent-204922"],
+            "role": [
+              {
+                "value": ["ruler"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-39778"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39778"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39778"],
+            "summary_title": ["silver"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-101415"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101415"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101415"],
+        "summary_title": ["penny"]
+      },
+      {
+        "term": ["term-121420"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-121420"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-121420"],
+        "summary_title": ["Low Countries"]
+      },
+      {
+        "term": ["term-106627"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106627"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106627"],
+        "summary_title": ["Utrecht"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-274470"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/274470"],
+    "object": ["object-274470"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

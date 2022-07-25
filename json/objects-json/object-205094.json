@@ -1,0 +1,147 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-89389"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89389"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89389"],
+        "summary_title": ["jar"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1943"],
+            "value": ["1943-03-03"],
+            "latest": ["1943"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Goetze, Constance, Mrs"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-182630"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-182630"],
+            "agent": ["agent-182630"]
+          }
+        }
+      },
+      "creation": {
+        "periods": [
+          {
+            "summary_title": ["3rd century"],
+            "period": ["term-134349"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-134349"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-134349"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["maker"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["OC.5-1943"],
+        "type": ["accession number"],
+        "value": ["OC.5-1943"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["205094"],
+        "type": ["priref"],
+        "value": ["205094"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/205094"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/205094"]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-122641"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-122641"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-122641"],
+        "summary_title": ["glazing"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-89389"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89389"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89389"],
+        "summary_title": ["jar"]
+      }
+    ],
+    "admin": {
+      "created": ["1438947940000"],
+      "modified": ["1444146546000"],
+      "id": ["object-205094"]
+    },
+    "description": [
+      {
+        "value": ["Jar with two handles, and covered with a thick iridescent blue-green glaze."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-113346"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-113346"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-113346"],
+        "summary_title": ["pottery"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Diameter"],
+          "value": ["16.1"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Height"],
+          "value": ["26.7"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-205094"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/205094"],
+    "object": ["object-205094"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

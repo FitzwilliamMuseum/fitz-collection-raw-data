@@ -1,0 +1,152 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-43749"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-43749"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-43749"],
+        "summary_title": ["finial"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["2014"],
+            "value": ["2014"],
+            "latest": ["2014"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Montefiore Endowment"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-195004"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-195004"],
+            "agent": ["agent-195004"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["after"],
+              "earliest": ["1700"],
+              "value": ["1700"],
+              "latest": ["1700"]
+            },
+            "to": {
+              "precision": ["before"],
+              "earliest": ["1799"],
+              "value": ["1799"],
+              "latest": ["1799"]
+            },
+            "earliest": ["1700"],
+            "latest": ["1799"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["18th century"],
+            "period": ["term-106400"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106400"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106400"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["silversmith"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["AAL.9A & B-2014"],
+        "type": ["accession number"],
+        "value": ["AAL.9A & B-2014"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["208707"],
+        "type": ["priref"],
+        "value": ["208707"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/208707"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/208707"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-43749"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-43749"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-43749"],
+        "summary_title": ["finial"]
+      },
+      {
+        "value": ["rimmonim"]
+      }
+    ],
+    "admin": {
+      "created": ["1462801033000"],
+      "modified": ["1639477242000"],
+      "id": ["object-208707"]
+    },
+    "description": [
+      {
+        "value": ["Pair of silver and silver gilt rimmonim"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-195004"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-195004"],
+        "owner": ["agent-195004"],
+        "summary_title": ["Montefiore Endowment"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-39778"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39778"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39778"],
+        "summary_title": ["silver"]
+      },
+      {
+        "term": ["term-110819"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110819"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110819"],
+        "summary_title": ["religious/ritual equipment"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-208707"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/208707"],
+    "object": ["object-208707"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

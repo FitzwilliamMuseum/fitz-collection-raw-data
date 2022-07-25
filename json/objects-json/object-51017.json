@@ -1,0 +1,151 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1909"],
+            "value": ["1909"],
+            "latest": ["1909"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["The Egyptian Exploration Fund"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-173406"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-173406"],
+            "agent": ["agent-173406"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Fayum"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-112242"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-112242"],
+            "coordinates": {
+              "lat": ["29.340737"],
+              "lng": ["30.620104467965"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["3001"],
+              "value": ["-30"],
+              "latest": ["3100"]
+            },
+            "to": {
+              "earliest": ["100"],
+              "value": ["100"],
+              "latest": ["100"]
+            },
+            "earliest": ["3001"],
+            "latest": ["100"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Roman"],
+            "period": ["term-111193"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-111193"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111193"]
+          }
+        ]
+      }
+    },
+    "summary": [
+      {
+        "term": ["term-107667"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107667"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107667"],
+        "summary_title": ["bowl"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["E.19.1909"],
+        "type": ["accession number"],
+        "value": ["E.19.1909"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["51017"],
+        "type": ["priref"],
+        "value": ["51017"]
+      },
+      {
+        "type": ["oldadmincategory"],
+        "value": ["P"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/51017"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/51017"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-107667"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107667"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107667"],
+        "summary_title": ["bowl"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1582633996000"],
+      "id": ["object-51017"]
+    },
+    "description": [
+      {
+        "value": ["bowl, footed, decorated with double black line, slightly diagonal"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-89198"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89198"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89198"],
+        "summary_title": ["vessel"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Diameter"],
+          "value": ["11.2"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Length"],
+          "value": ["7"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-51017"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/51017"],
+    "object": ["object-51017"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

@@ -1,0 +1,107 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-42255"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-42255"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-42255"],
+        "summary_title": ["headrest"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1901"],
+            "value": ["1901"],
+            "latest": ["1901"]
+          }
+        ]
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Abydos"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-111939"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111939"],
+            "coordinates": {
+              "lat": ["40.19429585"],
+              "lng": ["26.411268554579"]
+            }
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["E.68.1901"],
+        "type": ["accession number"],
+        "value": ["E.68.1901"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["50383"],
+        "type": ["priref"],
+        "value": ["50383"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/50383"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/50383"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-42255"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-42255"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-42255"],
+        "summary_title": ["headrest"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1621011898000"],
+      "id": ["object-50383"]
+    },
+    "description": [
+      {
+        "value": ["headrest"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-67107"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-67107"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-67107"],
+        "summary_title": ["furniture"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Length"],
+          "value": ["0.19"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-50383"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/50383"],
+    "object": ["object-50383"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

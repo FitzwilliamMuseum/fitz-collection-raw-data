@@ -1,0 +1,149 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-101372"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101372"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101372"],
+        "summary_title": ["denarius"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1978"],
+            "value": ["1978-07-17"],
+            "latest": ["1978"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["The Friends of the Fitzwilliam Museum"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149645"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149645"],
+            "agent": ["agent-149645"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "precision": ["circa"],
+            "earliest": ["29"],
+            "value": ["-0029"],
+            "latest": ["29"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Rome"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149886"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149886"],
+            "term": ["agent-149886"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.62-1978"],
+        "type": ["accession number"],
+        "value": ["CM.62-1978"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["281769"],
+        "type": ["priref"],
+        "value": ["281769"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/281769"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/281769"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Under Review"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-39778"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39778"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39778"],
+            "summary_title": ["silver"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-101372"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101372"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101372"],
+        "summary_title": ["denarius"]
+      },
+      {
+        "term": ["term-10939"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-10939"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-10939"],
+        "summary_title": ["Roman Empire"]
+      }
+    ],
+    "admin": {
+      "created": ["1615799281000"],
+      "modified": ["1629884764000"],
+      "id": ["object-281769"]
+    },
+    "description": [
+      {
+        "value": ["Roman Empire, silver denarius of Octavian (Augustus), Rome mint ca. 29 BC, (BMCRE I 100, 615)"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-281769"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/281769"],
+    "object": ["object-281769"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

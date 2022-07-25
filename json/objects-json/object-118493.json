@@ -1,0 +1,165 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1951"],
+            "value": ["1951-04-19"],
+            "latest": ["1951"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Cippico, May"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-153006"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-153006"],
+            "agent": ["agent-153006"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["1925"],
+              "value": ["1925"],
+              "latest": ["1925"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["1927"],
+              "value": ["1927"],
+              "latest": ["1927"]
+            },
+            "earliest": ["1925"],
+            "latest": ["1927"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Insel-Verlag"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-163605"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-163605"],
+            "term": ["agent-163605"],
+            "role": [
+              {
+                "value": ["publisher"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Leipzig"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106509"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106509"],
+            "place": ["term-106509"],
+            "coordinates": {
+              "lat": ["51.3406321"],
+              "lng": ["12.3747329"]
+            }
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["PB 1925.6"],
+        "type": ["accession number"],
+        "value": ["PB 1925.6"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["118493"],
+        "type": ["priref"],
+        "value": ["118493"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/118493"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/118493"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-106206"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106206"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106206"],
+            "summary_title": ["paper"]
+          }
+        ]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-27526"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27526"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27526"],
+        "summary_title": ["printing"],
+        "descriptions": []
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1346321510000"],
+      "id": ["object-118493"]
+    },
+    "description": [
+      {
+        "value": ["Cover title of facsimile: Codex Manesse.\nText in columns."]
+      },
+      {
+        "value": ["[1], 4-428 numb. leaves : 136 col. plates ; 39 cm"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-102154"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-102154"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-102154"],
+        "summary_title": ["book"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["Die Manessische Lieder-Handschrift : Faksimile-Ausgabe"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-118493"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/118493"],
+    "object": ["object-118493"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

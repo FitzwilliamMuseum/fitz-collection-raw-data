@@ -1,0 +1,139 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-110980"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110980"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110980"],
+        "summary_title": ["mortal"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1988"],
+            "value": ["1988"],
+            "latest": ["1988"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Walston, Lord, CVO, DCL"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159588"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159588"],
+            "agent": ["agent-159588"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["401"],
+              "value": ["-400"],
+              "latest": ["401"]
+            },
+            "to": {
+              "earliest": ["302"],
+              "value": ["-301"],
+              "latest": ["302"]
+            },
+            "earliest": ["401"],
+            "latest": ["302"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Classical"],
+            "period": ["term-14088"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-14088"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-14088"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.3.1988"],
+        "type": ["accession number"],
+        "value": ["GR.3.1988"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["70476"],
+        "type": ["priref"],
+        "value": ["70476"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/70476"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/70476"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-110980"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110980"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110980"],
+        "summary_title": ["mortal"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1336755175000"],
+      "id": ["object-70476"]
+    },
+    "description": [
+      {
+        "value": ["woman, standing, veiled"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-107454"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107454"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107454"],
+        "summary_title": ["figure"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Depth"],
+          "value": ["0.049"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.219"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.082"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-70476"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/70476"],
+    "object": ["object-70476"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

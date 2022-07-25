@@ -1,0 +1,114 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1932"],
+            "value": ["1932"],
+            "latest": ["1932"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Anderson, Sara, Miss"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-202232"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-202232"],
+            "agent": ["agent-202232"]
+          }
+        }
+      },
+      "creation": {
+        "periods": [
+          {
+            "summary_title": ["19th century"],
+            "period": ["term-106853"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106853"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106853"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Ruskin"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-200488"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-200488"],
+            "term": ["agent-200488"],
+            "role": [
+              {
+                "value": ["author"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["MS 332"],
+        "type": ["accession number"],
+        "value": ["MS 332"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["239391"],
+        "type": ["priref"],
+        "value": ["239391"]
+      },
+      {
+        "source": ["Cambridge Illuminated"],
+        "type": ["project ID"],
+        "value": ["3493"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/239391"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/239391"]
+      }
+    ],
+    "admin": {
+      "created": ["1573817741000"],
+      "modified": ["1602162345000"],
+      "id": ["object-239391"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-110558"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110558"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110558"],
+        "summary_title": ["illuminated manuscript"]
+      },
+      {
+        "term": ["term-114522"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-114522"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-114522"],
+        "summary_title": ["manuscript"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-239391"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/239391"],
+    "object": ["object-239391"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

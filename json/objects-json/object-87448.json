@@ -1,0 +1,145 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-42634"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-42634"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-42634"],
+        "summary_title": ["sherd"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1932"],
+            "value": ["1932"],
+            "latest": ["1932"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["British School of Archaeology"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159709"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159709"],
+            "agent": ["agent-159709"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Tell el Ajjul Gaza Strip"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-127508"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-127508"]
+          }
+        ]
+      },
+      "creation": {
+        "places": [
+          {
+            "summary_title": ["Tell el Ajjul"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-132829"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-132829"],
+            "place": ["term-132829"],
+            "hierarchies": [
+              {
+                "summary_title": ["Gaza Strip"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["ANE.558.1932"],
+        "type": ["accession number"],
+        "value": ["ANE.558.1932"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["87448"],
+        "type": ["priref"],
+        "value": ["87448"]
+      },
+      {
+        "type": ["oldadmincategory"],
+        "value": ["O"]
+      },
+      {
+        "type": ["oldobjectnumber"],
+        "value": ["WAE.558.1932"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/87448"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/87448"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-42634"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-42634"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-42634"],
+        "summary_title": ["sherd"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1448296453000"],
+      "id": ["object-87448"]
+    },
+    "description": [
+      {
+        "value": ["body sherd of jar, with raised, stamped decoration of palm fronds"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-89198"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89198"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89198"],
+        "summary_title": ["vessel"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Diameter"],
+          "value": ["0.007"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.048"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.064"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-87448"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/87448"],
+    "object": ["object-87448"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

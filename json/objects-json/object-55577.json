@@ -1,0 +1,175 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-42180"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-42180"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-42180"],
+        "summary_title": ["amulet"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1943"],
+            "value": ["1943"],
+            "latest": ["1943"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Gayer-Anderson, R. G. (Major)"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159803"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159803"],
+            "agent": ["agent-159803"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Egypt"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-107870"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107870"],
+            "coordinates": {
+              "lat": ["26.2540493"],
+              "lng": ["29.2675469"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "periods": [
+          {
+            "summary_title": ["New Kingdom"],
+            "period": ["term-12502"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-12502"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12502"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["E.GA.1167.1943"],
+        "type": ["accession number"],
+        "value": ["E.GA.1167.1943"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["55577"],
+        "type": ["priref"],
+        "value": ["55577"]
+      },
+      {
+        "type": ["oldadmincategory"],
+        "value": ["SC"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/55577"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/55577"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-42180"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-42180"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-42180"],
+        "summary_title": ["amulet"]
+      },
+      {
+        "value": ["scarab"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1594852244000"],
+      "id": ["object-55577"]
+    },
+    "description": [
+      {
+        "value": ["rectangular plaque in green glazed faience, inscribed with throne name of Seti I on one side and his personal name on the other side"]
+      },
+      {
+        "value": ["Very carefully worked and carved consistent rectangular plaque with convex top inscribed in raised relief with Men-maat-Re, the throne name of Sethos I, and a flat base inscribed in sunk relief with Sety, the personal name of the same king, and the additional epitheton Merj-n-Ptah. For this plaque it is possible to differentiate between top and base due to the indicated and separated base similar to the one scarabs normally have (0,001m high). The hieroglyphs are carved very carefully and in much detail. The plaque has a vertical suspension hole indicating the function as an amulet. Due to the convex top this plaque is very close to the meaning of scarabs (for the example of a rectangular scarab see E.117.1920)."]
+      }
+    ],
+    "inscription": [
+      {
+        "transcription": [
+          {
+            "value": ["Men-maat-Re"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["The hieroglyphs are in raised relief (bas relief) and very carefully done with all the inner details of the signs. The inscription is encircled by a single line which seems to form a raised frame around the inscription due to the fact that the whole area around the  hieroglyphs is lowered to make them raised."]
+          }
+        ],
+        "location": ["top (obverse)"],
+        "type": ["inscription"]
+      },
+      {
+        "transcription": [
+          {
+            "value": ["Sety Merj-n-Ptah"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["This inscription is done in sunk relief, but likewise very carafully engraved. The name is encircled by a single line"]
+          }
+        ],
+        "location": ["base (reverse)"],
+        "type": ["inscription"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-109541"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-109541"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-109541"],
+        "summary_title": ["jewellery"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.0028"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Length"],
+          "value": ["0.0135"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.0085"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-55577"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/55577"],
+    "object": ["object-55577"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

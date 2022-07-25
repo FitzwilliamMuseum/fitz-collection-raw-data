@@ -1,0 +1,182 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-125023"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-125023"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-125023"],
+        "summary_title": ["quattrino"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["1981"],
+            "value": ["1981"],
+            "latest": ["1981"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Family of the Late Prof. Roberto Weiss"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-199211"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-199211"],
+            "agent": ["agent-199211"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["1503"],
+              "value": ["1503"],
+              "latest": ["1503"]
+            },
+            "earliest": ["1503"],
+            "latest": ["1503"]
+          },
+          {
+            "range": ["1"],
+            "to": {
+              "earliest": ["1513"],
+              "value": ["1513"],
+              "latest": ["1513"]
+            },
+            "earliest": ["1513"],
+            "latest": ["1513"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Viterbo"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-199207"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-199207"],
+            "term": ["agent-199207"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.81A.56.4-1981"],
+        "type": ["accession number"],
+        "value": ["CM.81A.56.4-1981"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["226859"],
+        "type": ["priref"],
+        "value": ["226859"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/226859"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/226859"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-39745"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39745"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39745"],
+            "summary_title": ["billon"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-125023"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-125023"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-125023"],
+        "summary_title": ["quattrino"]
+      },
+      {
+        "term": ["term-106629"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106629"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106629"],
+        "summary_title": ["Italy"]
+      }
+    ],
+    "admin": {
+      "created": ["1549879865000"],
+      "modified": ["1582640935000"],
+      "id": ["object-226859"]
+    },
+    "inscription": [
+      {
+        "transcription": [
+          {
+            "value": ["IVLIVS · II · PONT · MAX ·"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Tree"]
+          }
+        ],
+        "location": ["obverse"],
+        "type": ["design"]
+      },
+      {
+        "transcription": [
+          {
+            "value": ["S · PETRVS APOSTOL"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Standing St Peter"]
+          }
+        ],
+        "location": ["reverse"],
+        "type": ["design"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-199211"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-199211"],
+        "owner": ["agent-199211"],
+        "summary_title": ["Family of the Late Prof. Roberto Weiss"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-226859"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/226859"],
+    "object": ["object-226859"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

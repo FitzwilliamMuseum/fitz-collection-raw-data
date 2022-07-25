@@ -1,0 +1,145 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-101389"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101389"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101389"],
+        "summary_title": ["tetradrachm"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["unknown"],
+        "agents": {
+          "agent": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "agent": ["agent-149652"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["224"],
+              "value": ["0224"],
+              "latest": ["224"]
+            },
+            "to": {
+              "earliest": ["242"],
+              "value": ["0242"],
+              "latest": ["242"]
+            },
+            "earliest": ["224"],
+            "latest": ["242"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Ardashir I (224-242)"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-204197"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-204197"],
+            "term": ["agent-204197"],
+            "role": [
+              {
+                "value": ["ruler"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.PI.1-R"],
+        "type": ["accession number"],
+        "value": ["CM.PI.1-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["300553"],
+        "type": ["priref"],
+        "value": ["300553"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/300553"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/300553"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-39745"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39745"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39745"],
+            "summary_title": ["billon"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-101389"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101389"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101389"],
+        "summary_title": ["tetradrachm"]
+      },
+      {
+        "term": ["term-10549"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-10549"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-10549"],
+        "summary_title": ["Sassanian"]
+      }
+    ],
+    "admin": {
+      "created": ["1626343501000"],
+      "modified": ["1626432302000"],
+      "id": ["object-300553"]
+    },
+    "description": [
+      {
+        "value": ["Sassanian, billon tetradrachm of Ardashir I (224-242)"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-300553"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/300553"],
+    "object": ["object-300553"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

@@ -1,0 +1,357 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-77185"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-77185"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-77185"],
+        "summary_title": ["earring"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["E.20.1950"],
+        "type": ["accession number"],
+        "value": ["E.20.1950"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["62046"],
+        "type": ["priref"],
+        "value": ["62046"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/62046"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/62046"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1370279131000"],
+      "id": ["object-62046"]
+    },
+    "description": [
+      {
+        "value": ["earrings, pair, with beads"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["Greek and Roman jewellery"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1950"],
+            "value": ["1950"],
+            "latest": ["1950"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Green, F. W., family of"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159821"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159821"],
+            "agent": ["agent-159821"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "era": [
+              ["BCE"]
+            ],
+            "earliest": ["301"],
+            "value": ["-300"],
+            "latest": ["301"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Ptolemaic"],
+            "period": ["term-10575"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-10575"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-10575"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["production"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "component": [
+      {
+        "name": ["Stone"],
+        "materials": [
+          {
+            "term": ["term-129948"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-129948"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-129948"],
+            "summary_title": ["amazonite"]
+          },
+          {
+            "term": ["term-32997"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-32997"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-32997"],
+            "summary_title": ["agate"]
+          }
+        ]
+      }
+    ],
+    "multimedia": [
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616265433887"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant39/preview_E_20_1950.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["161"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616265433887"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant39/E_20_1950.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["488"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["760"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616265433887"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant39/E_20_1950.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["488"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["760"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1616265433887"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant39/mid_E_20_1950.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["321"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "preview": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1554766649000"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/638/670/preview_E_20_1950_201006_amt49_mas.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["195"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["250"]
+              }
+            ]
+          }
+        },
+        "original": {
+          "processed": ["1"],
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1554766649000"],
+          "rotated": ["1"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/638/670/E_20_1950_201006_amt49_mas.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["3648"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["4686"]
+              }
+            ]
+          }
+        },
+        "large": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1554766649000"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/638/670/large_E_20_1950_201006_amt49_mas.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["797"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["1024"]
+              }
+            ]
+          }
+        },
+        "mid": {
+          "resizable": ["1"],
+          "format": ["jpeg"],
+          "modified": ["1554766649000"],
+          "location": ["https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/638/670/mid_E_20_1950_201006_amt49_mas.jpg"],
+          "location_is_relative": ["1"],
+          "type": ["image"],
+          "measurements": {
+            "dimensions": [
+              {
+                "units": ["pixels"],
+                "dimension": ["height"],
+                "value": ["389"]
+              },
+              {
+                "units": ["pixels"],
+                "dimension": ["width"],
+                "value": ["500"]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-77185"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-77185"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-77185"],
+        "summary_title": ["earring"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-109541"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-109541"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-109541"],
+        "summary_title": ["jewellery"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.025"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.03"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-382"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-382"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-382"],
+        "summary_title": ["Treasures of the Fitzwilliam Museum"],
+        "page": ["195"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-62046"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/62046"],
+    "object": ["object-62046"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

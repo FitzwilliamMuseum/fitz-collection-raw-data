@@ -1,0 +1,186 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-123920"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-123920"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-123920"],
+        "summary_title": ["radiate"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-200860"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-200860"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-200860"],
+        "summary_title": ["CAMFZ"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["2016"],
+            "value": ["2016-07-11"],
+            "latest": ["2016"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Buttrey, T.V., Prof."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-196171"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-196171"],
+            "agent": ["agent-196171"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["286"],
+              "value": ["0286"],
+              "latest": ["286"]
+            },
+            "to": {
+              "earliest": ["293"],
+              "value": ["0293"],
+              "latest": ["293"]
+            },
+            "earliest": ["286"],
+            "latest": ["293"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["C mint"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-201511"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-201511"],
+            "term": ["agent-201511"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.373-2016"],
+        "type": ["accession number"],
+        "value": ["CM.373-2016"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["242934"],
+        "type": ["priref"],
+        "value": ["242934"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/242934"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/242934"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-40365"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-40365"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-40365"],
+            "summary_title": ["bronze"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-123920"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-123920"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-123920"],
+        "summary_title": ["radiate"]
+      },
+      {
+        "term": ["term-113870"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-113870"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-113870"],
+        "summary_title": ["Roman Imperial"]
+      }
+    ],
+    "admin": {
+      "created": ["1597679983000"],
+      "modified": ["1626868401000"],
+      "id": ["object-242934"]
+    },
+    "inscription": [
+      {
+        "transcription": [
+          {
+            "value": ["IMP C CARAVSIVS P AVG"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Radiate, draped, cuirassed bust right"]
+          }
+        ],
+        "location": ["obverse"],
+        "type": ["design"]
+      },
+      {
+        "transcription": [
+          {
+            "value": ["PROVID AVG. Mintmark: [S]/P//C"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Providentia standing to left."]
+          }
+        ],
+        "location": ["reverse"],
+        "type": ["design"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "publications": [
+      {
+        "term": ["publication-7587"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-7587"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-7587"],
+        "summary_title": ["Roman Imperial Coinage V Part II"],
+        "page": ["494"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-242934"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/242934"],
+    "object": ["object-242934"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

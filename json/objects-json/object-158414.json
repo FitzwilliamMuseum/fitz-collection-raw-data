@@ -1,0 +1,202 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-42208"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-42208"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-42208"],
+        "summary_title": ["sword"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["O.99-1879"],
+        "type": ["accession number"],
+        "value": ["O.99-1879"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["158414"],
+        "type": ["priref"],
+        "value": ["158414"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/158414"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/158414"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1582636415000"],
+      "id": ["object-158414"]
+    },
+    "description": [
+      {
+        "value": ["The steel blade is curved and single edged. The hilt is of red wood, with a copper alloy ferrule at either end, that at the guard is decorated with a band of fine punched herringbone and dots"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1879"],
+            "value": ["1879"],
+            "latest": ["1879"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Taylor, Robert, MA"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-180016"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-180016"],
+            "agent": ["agent-180016"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["1800"],
+              "value": ["1800"],
+              "latest": ["1800"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["1879"],
+              "value": ["1879"],
+              "latest": ["1879"]
+            },
+            "earliest": ["1800"],
+            "latest": ["1879"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["19th century"],
+            "period": ["term-106853"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106853"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106853"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["maker"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "component": [
+      {
+        "name": ["Blade"],
+        "materials": [
+          {
+            "term": ["term-40136"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-40136"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-40136"],
+            "summary_title": ["steel"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-42208"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-42208"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-42208"],
+        "summary_title": ["sword"]
+      },
+      {
+        "value": ["dha"]
+      }
+    ],
+    "inscription": [
+      {
+        "method": ["inscribed"],
+        "transcription": [
+          {
+            "value": ["99"]
+          }
+        ],
+        "type": ["tag"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-86575"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-86575"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-86575"],
+        "summary_title": ["weapons"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Blade Length"],
+          "value": ["46.5"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Overall Length"],
+          "value": ["85.5"]
+        },
+        {
+          "units": ["g"],
+          "dimension": ["Weight"],
+          "value": ["660"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-6089"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-6089"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-6089"],
+        "summary_title": ["List of arms presented to the Fitzwilliam Museum by Robert Tayler, Esq. February 10 1879"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-158414"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/158414"],
+    "object": ["object-158414"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

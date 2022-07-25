@@ -1,0 +1,166 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-130595"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-130595"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-130595"],
+        "summary_title": ["Rod fragment"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1996"],
+            "value": ["1996-10-14"],
+            "latest": ["1996"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Blackburn, Mark, Dr"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159402"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159402"],
+            "agent": ["agent-159402"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Torksey, Lincolnshire"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-130593"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-130593"],
+            "coordinates": {
+              "lat": ["53.3002756"],
+              "lng": ["-0.7448882"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["800"],
+              "value": ["800"],
+              "latest": ["800"]
+            },
+            "to": {
+              "earliest": ["999"],
+              "value": ["999"],
+              "latest": ["999"]
+            },
+            "earliest": ["800"],
+            "latest": ["999"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Early Medieval"],
+            "period": ["term-12571"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-12571"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12571"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Viking"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-187570"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-187570"],
+            "term": ["agent-187570"]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.868-1996"],
+        "type": ["accession number"],
+        "value": ["CM.868-1996"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["183679"],
+        "type": ["priref"],
+        "value": ["183679"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/183679"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/183679"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Bought from Bob Winterton."]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-39593"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39593"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39593"],
+            "summary_title": ["gold"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-130595"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-130595"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-130595"],
+        "summary_title": ["Rod fragment"]
+      },
+      {
+        "term": ["term-130590"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-130590"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-130590"],
+        "summary_title": ["Hackgold"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1492767106000"],
+      "id": ["object-183679"]
+    },
+    "description": [
+      {
+        "value": ["Section of gold rod broken at both ends"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-183679"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/183679"],
+    "object": ["object-183679"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

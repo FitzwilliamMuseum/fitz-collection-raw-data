@@ -1,0 +1,153 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-107609"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107609"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107609"],
+        "summary_title": ["flask"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1972"],
+            "value": ["1972"],
+            "latest": ["1972"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Keeper of Antiquities"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-161857"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-161857"],
+            "agent": ["agent-161857"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Palestine"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-109977"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-109977"],
+            "coordinates": {
+              "lat": ["31.46242095"],
+              "lng": ["34.262716572131"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "note": [
+              {
+                "value": ["import: circa 2000-1801 BC"]
+              }
+            ],
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["2000"],
+              "value": ["-2000"],
+              "latest": ["2000"]
+            },
+            "to": {
+              "earliest": ["1801"],
+              "value": ["-1801"],
+              "latest": ["1801"]
+            },
+            "earliest": ["2000"],
+            "latest": ["1801"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["ANE.7.1972"],
+        "type": ["accession number"],
+        "value": ["ANE.7.1972"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["87684"],
+        "type": ["priref"],
+        "value": ["87684"]
+      },
+      {
+        "type": ["oldadmincategory"],
+        "value": ["O"]
+      },
+      {
+        "type": ["oldobjectnumber"],
+        "value": ["WAE.7.1972"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/87684"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/87684"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-107609"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107609"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107609"],
+        "summary_title": ["flask"]
+      }
+    ],
+    "admin": {
+      "created": ["1312633661000"],
+      "modified": ["1329220192000"],
+      "id": ["object-87684"]
+    },
+    "description": [
+      {
+        "value": ["flask, pear shaped, red burnished ware, Palestinian type"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-89198"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89198"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89198"],
+        "summary_title": ["vessel"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Length"],
+          "value": ["0.121"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.069"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-87684"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/87684"],
+    "object": ["object-87684"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

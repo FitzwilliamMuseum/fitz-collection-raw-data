@@ -1,0 +1,177 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-122520"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-122520"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-122520"],
+        "summary_title": ["inscribed brick"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1864"],
+            "value": ["1864"],
+            "latest": ["1864"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Moore, D., Reverend"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-161807"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-161807"],
+            "agent": ["agent-161807"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "note": [
+              {
+                "value": ["reign of Sennacherib"]
+              }
+            ],
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["BCE"]
+              ],
+              "earliest": ["705"],
+              "value": ["-704"],
+              "latest": ["705"]
+            },
+            "to": {
+              "era": [
+                ["BCE"]
+              ],
+              "earliest": ["682"],
+              "value": ["-681"],
+              "latest": ["682"]
+            },
+            "earliest": ["705"],
+            "latest": ["682"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Late Assyrian"],
+            "period": ["term-12355"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-12355"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12355"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Nineveh"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-12966"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12966"],
+            "place": ["term-12966"],
+            "coordinates": {
+              "lat": ["36.3564339"],
+              "lng": ["43.162164712886"]
+            },
+            "note": ["Assyria"],
+            "hierarchies": [
+              {
+                "summary_title": ["Iraq"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["ANE.1.1864"],
+        "type": ["accession number"],
+        "value": ["ANE.1.1864"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["86637"],
+        "type": ["priref"],
+        "value": ["86637"]
+      },
+      {
+        "type": ["oldadmincategory"],
+        "value": ["O"]
+      },
+      {
+        "type": ["oldobjectnumber"],
+        "value": ["WAE.1.1864"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/86637"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/86637"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-122520"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-122520"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-122520"],
+        "summary_title": ["inscribed brick"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1337168079000"],
+      "id": ["object-86637"]
+    },
+    "description": [
+      {
+        "value": ["brick, inscribed with text for 'Palace of Sennacherib', Nineveh"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-43046"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-43046"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-43046"],
+        "summary_title": ["architectural element"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Depth"],
+          "value": ["0.115"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Length"],
+          "value": ["0.348"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.35"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-86637"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/86637"],
+    "object": ["object-86637"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

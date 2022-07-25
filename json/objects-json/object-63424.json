@@ -1,0 +1,162 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-98879"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98879"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98879"],
+        "summary_title": ["relief"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["unknown"]
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Upper Egypt"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-112891"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-112891"],
+            "coordinates": {
+              "lat": ["26"],
+              "lng": ["32"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["BC"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["1295"],
+              "value": ["-1295"],
+              "latest": ["1295"]
+            },
+            "to": {
+              "era": [
+                ["BC"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["1069"],
+              "value": ["-1069"],
+              "latest": ["1069"]
+            },
+            "earliest": ["1295"],
+            "latest": ["1069"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["New Kingdom"],
+            "period": ["term-12502"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-12502"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12502"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["E.SS.51"],
+        "type": ["accession number"],
+        "value": ["E.SS.51"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["63424"],
+        "type": ["priref"],
+        "value": ["63424"]
+      },
+      {
+        "type": ["oldadmincategory"],
+        "value": ["SS"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/63424"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/63424"]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-26428"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-26428"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-26428"],
+        "summary_title": ["carved"],
+        "descriptions": [
+          {
+            "description": ["painted"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-98879"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98879"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98879"],
+        "summary_title": ["relief"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1621011957000"],
+      "id": ["object-63424"]
+    },
+    "description": [
+      {
+        "value": ["fragment, Amun Min, inscribed, traces of paint"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-43046"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-43046"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-43046"],
+        "summary_title": ["architectural element"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["Sandstone relief of Amun Min"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Length"],
+          "value": ["90"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Width"],
+          "value": ["55"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-63424"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/63424"],
+    "object": ["object-63424"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

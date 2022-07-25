@@ -1,0 +1,168 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-34935"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-34935"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-34935"],
+        "summary_title": ["plate"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bought"],
+        "date": [
+          {
+            "earliest": ["1908"],
+            "value": ["1908"],
+            "latest": ["1908"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Wace, A. J. B., Professor"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159474"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159474"],
+            "agent": ["agent-159474"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Rhodes Greek Islands"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-111252"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111252"],
+            "coordinates": {
+              "lat": ["36.15508495"],
+              "lng": ["29.499625120951"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["601"],
+              "value": ["-600"],
+              "latest": ["601"]
+            },
+            "to": {
+              "earliest": ["502"],
+              "value": ["-501"],
+              "latest": ["502"]
+            },
+            "earliest": ["601"],
+            "latest": ["502"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["archaic"],
+            "period": ["term-111220"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-111220"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111220"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Rhodes"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-15226"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-15226"],
+            "place": ["term-15226"],
+            "coordinates": {
+              "lat": ["36.17262995"],
+              "lng": ["27.919418145633"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Greek Islands"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.131.1908"],
+        "type": ["accession number"],
+        "value": ["GR.131.1908"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["68439"],
+        "type": ["priref"],
+        "value": ["68439"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/68439"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/68439"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-34935"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-34935"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-34935"],
+        "summary_title": ["plate"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1336668378000"],
+      "id": ["object-68439"]
+    },
+    "description": [
+      {
+        "value": ["plate"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-89198"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89198"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89198"],
+        "summary_title": ["vessel"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Diameter"],
+          "value": ["0.205"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-4113"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-4113"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-4113"],
+        "summary_title": ["Corpus vasorum antiquorum. Great Britain ; fasc.6, fasc.1. Cambridge"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-68439"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/68439"],
+    "object": ["object-68439"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

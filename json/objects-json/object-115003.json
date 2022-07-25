@@ -1,0 +1,175 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-119290"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119290"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119290"],
+        "summary_title": ["sextans"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["1937"],
+            "value": ["1937-08-11"],
+            "latest": ["1937"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Trinity College, Cambridge"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-169619"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-169619"],
+            "agent": ["agent-169619"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["212"],
+              "value": ["-211"],
+              "latest": ["212"]
+            },
+            "to": {
+              "earliest": ["209"],
+              "value": ["-208"],
+              "latest": ["209"]
+            },
+            "earliest": ["212"],
+            "latest": ["209"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Sicily"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-170438"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-170438"],
+            "term": ["agent-170438"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.TR.731-R"],
+        "type": ["accession number"],
+        "value": ["CM.TR.731-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["115003"],
+        "type": ["priref"],
+        "value": ["115003"]
+      },
+      {
+        "type": ["RRC"],
+        "value": ["69/6a"]
+      },
+      {
+        "type": ["ordering"],
+        "value": ["RR-0393"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/115003"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/115003"]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-119622"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119622"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119622"],
+        "summary_title": ["struck"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-119290"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119290"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119290"],
+        "summary_title": ["sextans"]
+      },
+      {
+        "term": ["term-119616"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119616"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119616"],
+        "summary_title": ["Roman Republic"]
+      }
+    ],
+    "admin": {
+      "created": ["1397472617000"],
+      "modified": ["1397475688000"],
+      "id": ["object-115003"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-169619"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-169619"],
+        "owner": ["agent-169619"],
+        "summary_title": ["Trinity College, Cambridge"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["degrees"],
+          "dimension": ["Die Axis"],
+          "value": ["240"]
+        },
+        {
+          "units": ["mm"],
+          "dimension": ["Image(height)"],
+          "value": ["19"]
+        },
+        {
+          "units": ["mm"],
+          "dimension": ["Image(width)"],
+          "value": ["19"]
+        },
+        {
+          "units": ["g"],
+          "dimension": ["Weight"],
+          "value": ["4.78"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-115003"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/115003"],
+    "object": ["object-115003"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

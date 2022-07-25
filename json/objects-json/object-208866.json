@@ -1,0 +1,160 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-98228"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98228"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98228"],
+        "summary_title": ["sculpture"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["1999"],
+            "value": ["1999"],
+            "latest": ["1999"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Anonymous"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149647"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149647"],
+            "agent": ["agent-149647"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["after"],
+              "earliest": ["1737"],
+              "value": ["1737"],
+              "latest": ["1737"]
+            },
+            "to": {
+              "precision": ["before"],
+              "earliest": ["1823"],
+              "value": ["1823"],
+              "latest": ["1823"]
+            },
+            "earliest": ["1737"],
+            "latest": ["1823"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["18th-19th century"],
+            "period": ["term-120911"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-120911"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-120911"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Nollekens, Joseph"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-99604"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-99604"],
+            "term": ["agent-99604"],
+            "role": [
+              {
+                "value": ["sculptor"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["AAL.8-1999"],
+        "type": ["accession number"],
+        "value": ["AAL.8-1999"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["208866"],
+        "type": ["priref"],
+        "value": ["208866"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/208866"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/208866"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-98228"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98228"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98228"],
+        "summary_title": ["sculpture"]
+      }
+    ],
+    "admin": {
+      "created": ["1463758854000"],
+      "modified": ["1569413146000"],
+      "id": ["object-208866"]
+    },
+    "description": [
+      {
+        "value": ["Two nymphs serving Lot wine. Terracotta, on an integral oval plinth with a label on the underside inscribed ‘1617’."]
+      }
+    ],
+    "inscription": [
+      {
+        "method": ["inscribed"],
+        "transcription": [
+          {
+            "value": ["'1617'"]
+          }
+        ],
+        "location": ["underside"],
+        "type": ["label"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149647"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149647"],
+        "owner": ["agent-149647"],
+        "summary_title": ["Anonymous"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-33162"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-33162"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-33162"],
+        "summary_title": ["terracotta"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["Lot and his daughters"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-208866"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/208866"],
+    "object": ["object-208866"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

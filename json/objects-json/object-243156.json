@@ -1,0 +1,186 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-123920"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-123920"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-123920"],
+        "summary_title": ["radiate"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-200860"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-200860"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-200860"],
+        "summary_title": ["CAMFZ"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bought"],
+        "date": [
+          {
+            "earliest": ["2016"],
+            "value": ["2016-11-21"],
+            "latest": ["2016"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Savoca Numismatik GmbH & Co. KG"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-190700"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-190700"],
+            "agent": ["agent-190700"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["254"],
+              "value": ["0254"],
+              "latest": ["254"]
+            },
+            "to": {
+              "earliest": ["255"],
+              "value": ["0255"],
+              "latest": ["255"]
+            },
+            "earliest": ["254"],
+            "latest": ["255"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Valerian I (253-260)"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-189237"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-189237"],
+            "term": ["agent-189237"],
+            "role": [
+              {
+                "value": ["ruler"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.595-2016"],
+        "type": ["accession number"],
+        "value": ["CM.595-2016"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["243156"],
+        "type": ["priref"],
+        "value": ["243156"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/243156"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/243156"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-39778"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39778"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39778"],
+            "summary_title": ["silver"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-123920"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-123920"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-123920"],
+        "summary_title": ["radiate"]
+      },
+      {
+        "term": ["term-113870"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-113870"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-113870"],
+        "summary_title": ["Roman Imperial"]
+      }
+    ],
+    "admin": {
+      "created": ["1597680012000"],
+      "modified": ["1626868412000"],
+      "id": ["object-243156"]
+    },
+    "inscription": [
+      {
+        "transcription": [
+          {
+            "value": ["IMP C P LIC VALERIANVS AVG"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Radiate, draped bust right"]
+          }
+        ],
+        "location": ["obverse"],
+        "type": ["design"]
+      },
+      {
+        "transcription": [
+          {
+            "value": ["VICTOR-IAE AVGG"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Soldier standing left with spear and shield."]
+          }
+        ],
+        "location": ["reverse"],
+        "type": ["design"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "publications": [
+      {
+        "term": ["publication-7515"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-7515"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-7515"],
+        "summary_title": ["Roman Imperial Coinage V Part I"],
+        "page": ["55"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-243156"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/243156"],
+    "object": ["object-243156"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

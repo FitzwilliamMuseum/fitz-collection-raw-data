@@ -1,0 +1,167 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-115238"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-115238"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-115238"],
+        "summary_title": ["stone vessel"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["unknown"],
+        "date": [
+          {
+            "earliest": ["1900"],
+            "value": ["1900"],
+            "latest": ["1900"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Egyptian Research Account"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159676"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159676"],
+            "agent": ["agent-159676"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Abydos"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-111939"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111939"],
+            "coordinates": {
+              "lat": ["40.19429585"],
+              "lng": ["26.411268554579"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "periods": [
+          {
+            "summary_title": ["Dynasty XIII"],
+            "period": ["term-134056"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-134056"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-134056"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Abydos"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-111939"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111939"],
+            "place": ["term-111939"],
+            "coordinates": {
+              "lat": ["40.19429585"],
+              "lng": ["26.411268554579"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Egypt"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["E.235.1900"],
+        "type": ["accession number"],
+        "value": ["E.235.1900"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["200501"],
+        "type": ["priref"],
+        "value": ["200501"]
+      },
+      {
+        "date": [
+          {
+            "earliest": ["1900"],
+            "value": ["1900"],
+            "latest": ["1900"]
+          }
+        ],
+        "source": ["Egyptian Research Account"],
+        "type": ["Excavation"],
+        "value": ["E.251"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/200501"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/200501"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Object marked 'E.251'. Catalogue card refers to Garstang's El Arabah, 1900, which references tomb group E.251 that includes a small alabaster vessel."]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-115238"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-115238"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-115238"],
+        "summary_title": ["stone vessel"]
+      }
+    ],
+    "admin": {
+      "created": ["1423477091000"],
+      "modified": ["1458231888000"],
+      "id": ["object-200501"]
+    },
+    "description": [
+      {
+        "value": ["A small vase or vessel with a slightly flared out top."]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-89198"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89198"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89198"],
+        "summary_title": ["vessel"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["Small vase"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "publications": [
+      {
+        "term": ["publication-4182"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-4182"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-4182"],
+        "summary_title": ["El Arabah. A cemetery of the Middle Kingdom. Survey of the Old Kingdom temenos. Graffiti from the temple of Sety"],
+        "page": ["p. 6; p. 45"],
+        "notes": ["Site report including reference to the grave group E.251 on p. 45 and references dating the vessel on p. 6."]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-200501"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/200501"],
+    "object": ["object-200501"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

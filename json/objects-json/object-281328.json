@@ -1,0 +1,166 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-118965"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-118965"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-118965"],
+        "summary_title": ["unit"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149639"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149639"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149639"],
+        "summary_title": ["Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["Purchased"],
+        "date": [
+          {
+            "earliest": ["1991"],
+            "value": ["1991-10-14"],
+            "latest": ["1991"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Glendining's"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-174919"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-174919"],
+            "agent": ["agent-174919"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["43"],
+              "value": ["0043"],
+              "latest": ["43"]
+            },
+            "to": {
+              "precision": ["circa"],
+              "earliest": ["51"],
+              "value": ["0051"],
+              "latest": ["51"]
+            },
+            "earliest": ["43"],
+            "latest": ["51"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Caratacus (c. AD43-51)"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-204588"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-204588"],
+            "term": ["agent-204588"],
+            "role": [
+              {
+                "value": ["ruler"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.381-1991"],
+        "type": ["accession number"],
+        "value": ["CM.381-1991"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["281328"],
+        "type": ["priref"],
+        "value": ["281328"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/281328"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/281328"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Under Review"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-39778"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39778"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39778"],
+            "summary_title": ["silver"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-118965"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-118965"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-118965"],
+        "summary_title": ["unit"]
+      },
+      {
+        "term": ["term-137847"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-137847"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-137847"],
+        "summary_title": ["Ancient British"]
+      },
+      {
+        "term": ["term-136640"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-136640"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-136640"],
+        "summary_title": ["Atrebates"]
+      }
+    ],
+    "admin": {
+      "created": ["1614247193000"],
+      "modified": ["1631021549000"],
+      "id": ["object-281328"]
+    },
+    "description": [
+      {
+        "value": ["Ancient British, Atrebates, Caratacus (c. AD 43-51), silver unit (Mack 265, Van Arsdell 593-1); 1.27g.  Glendining Auction 6 November 1991 (H.R. Mossop collection), lot 51."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149639"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149639"],
+        "owner": ["agent-149639"],
+        "summary_title": ["Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-281328"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/281328"],
+    "object": ["object-281328"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

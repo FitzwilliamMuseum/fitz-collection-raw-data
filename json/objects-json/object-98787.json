@@ -1,0 +1,193 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-98032"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98032"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98032"],
+        "summary_title": ["print"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["P.18-R"],
+        "type": ["accession number"],
+        "value": ["P.18-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["98787"],
+        "type": ["priref"],
+        "value": ["98787"]
+      },
+      {
+        "type": ["temporary number"],
+        "value": ["T.18"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/98787"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/98787"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1358159038000"],
+      "id": ["object-98787"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["Death of the Virgin Mary"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1915"],
+            "value": ["1915-12"],
+            "latest": ["1912"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Middleton-Wake, Charles H."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149739"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149739"],
+            "agent": ["agent-149739"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["1859"],
+              "value": ["1859"],
+              "latest": ["1859"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["1880"],
+              "value": ["1880"],
+              "latest": ["1880"]
+            },
+            "earliest": ["1859"],
+            "latest": ["1880"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Rembrandt Harmensz. van Rijn"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-113833"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-113833"],
+            "term": ["agent-113833"],
+            "role": [
+              {
+                "value": ["printmaker"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-37178"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-37178"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-37178"],
+            "summary_title": ["wove paper"]
+          }
+        ]
+      },
+      {
+        "name": ["Image"],
+        "materials": []
+      },
+      {
+        "name": ["Sheet"],
+        "materials": []
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-99807"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-99807"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-99807"],
+        "summary_title": ["etching"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-98032"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98032"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98032"],
+        "summary_title": ["print"]
+      }
+    ],
+    "inscription": [
+      {
+        "method": ["printed"],
+        "transcription": [
+          {
+            "value": ["Rembrandt f 1659"]
+          }
+        ],
+        "location": ["image lower left"],
+        "type": ["inscription"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-98032"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98032"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98032"],
+        "summary_title": ["print"]
+      },
+      {
+        "term": ["term-41238"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-41238"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-41238"],
+        "summary_title": ["portfolio (group of works)"]
+      }
+    ],
+    "department": {
+      "value": ["Paintings, Drawings and Prints"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-98787"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/98787"],
+    "object": ["object-98787"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

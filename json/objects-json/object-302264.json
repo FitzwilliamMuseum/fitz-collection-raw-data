@@ -1,0 +1,178 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-135951"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-135951"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-135951"],
+        "summary_title": ["one twelfth ecu"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["CM.758-2019"],
+        "type": ["accession number"],
+        "value": ["CM.758-2019"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["302264"],
+        "type": ["priref"],
+        "value": ["302264"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/302264"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/302264"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Solidus Numismatik, Auction 38, lot 860."]
+      }
+    ],
+    "admin": {
+      "created": ["1628159024000"],
+      "modified": ["1628159024000"],
+      "id": ["object-302264"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["French silver one twelfth ecu of Louis XIV (1643-1715), Lyon mint, 1663."]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-200860"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-200860"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-200860"],
+        "summary_title": ["CAMFZ"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bought"],
+        "date": [
+          {
+            "earliest": ["2019"],
+            "value": ["2019-04-29"],
+            "latest": ["2019"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Solidus Numismatik"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-190697"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-190697"],
+            "agent": ["agent-190697"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "earliest": ["1663"],
+            "value": ["1663"],
+            "latest": ["1663"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Lyon"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-82885"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-82885"],
+            "term": ["agent-82885"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-39778"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39778"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39778"],
+            "summary_title": ["silver"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-135951"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-135951"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-135951"],
+        "summary_title": ["one twelfth ecu"]
+      },
+      {
+        "term": ["term-120306"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-120306"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-120306"],
+        "summary_title": ["France"]
+      }
+    ],
+    "inscription": [
+      {
+        "transcription": [
+          {
+            "value": [". LVD . XIIII . D . G * FR . ET . NAV . REX ."]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Laureate, draped, cuirassed bust, right."]
+          }
+        ],
+        "location": ["obverse"],
+        "type": ["design"]
+      },
+      {
+        "transcription": [
+          {
+            "value": [". SIT . NOMEN . DOMINI . BENEDICTVM . 1663"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Crowned shield."]
+          }
+        ],
+        "location": ["reverse"],
+        "type": ["design"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-302264"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/302264"],
+    "object": ["object-302264"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

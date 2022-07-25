@@ -1,0 +1,155 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-34935"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-34935"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-34935"],
+        "summary_title": ["plate"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1914"],
+            "value": ["1914"],
+            "latest": ["1914"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Bahr, A.W."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-166139"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-166139"],
+            "agent": ["agent-166139"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["1600"],
+              "value": ["1600"],
+              "latest": ["1600"]
+            },
+            "to": {
+              "earliest": ["1699"],
+              "value": ["1699"],
+              "latest": ["1699"]
+            },
+            "earliest": ["1600"],
+            "latest": ["1699"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["17th Century"],
+            "period": ["term-106447"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106447"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106447"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["maker"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["C.6-1914"],
+        "type": ["accession number"],
+        "value": ["C.6-1914"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["206807"],
+        "type": ["priref"],
+        "value": ["206807"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/206807"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/206807"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-34935"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-34935"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-34935"],
+        "summary_title": ["plate"]
+      }
+    ],
+    "admin": {
+      "created": ["1442576801000"],
+      "modified": ["1442573476000"],
+      "id": ["object-206807"]
+    },
+    "description": [
+      {
+        "value": ["Stoneware (?) plate. Kwangtung"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-42825"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-42825"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-42825"],
+        "summary_title": ["stoneware"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Diameter"],
+          "value": ["9.2"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Height"],
+          "value": ["2.5"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-206807"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/206807"],
+    "object": ["object-206807"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

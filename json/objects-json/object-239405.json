@@ -1,0 +1,143 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1933"],
+            "value": ["1933"],
+            "latest": ["1933"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Henderson, James Stewart"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-154334"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-154334"],
+            "agent": ["agent-154334"]
+          }
+        }
+      },
+      "creation": {
+        "periods": [
+          {
+            "summary_title": ["15th century"],
+            "period": ["term-107270"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-107270"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107270"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["St Edmund of A."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-200492"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-200492"],
+            "term": ["agent-200492"],
+            "role": [
+              {
+                "value": ["author"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["England"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-107139"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107139"],
+            "place": ["term-107139"],
+            "coordinates": {
+              "lat": ["52.5310214"],
+              "lng": ["-1.2649062"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["England"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["MS 356"],
+        "type": ["accession number"],
+        "value": ["MS 356"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["239405"],
+        "type": ["priref"],
+        "value": ["239405"]
+      },
+      {
+        "source": ["Cambridge Illuminated"],
+        "type": ["project ID"],
+        "value": ["3513"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/239405"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/239405"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Ownership note on last flyleaf, 17th cent., Dickenson Aldbroughe. This may be William Dickenson, M.D., of St Thomas's Hospital, sale by D. Brown, London, 1 June 1719. (See De Ricci slips at Univ. of London Library.) \nLater owned by Alfred John Horwood Temple. Lot 1298 in his sale at Sotheby's, 8 June 1883. His signature is inside upper cover. Bought by Hirst."]
+      }
+    ],
+    "admin": {
+      "created": ["1573817743000"],
+      "modified": ["1598266985000"],
+      "id": ["object-239405"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-110558"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110558"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110558"],
+        "summary_title": ["illuminated manuscript"]
+      },
+      {
+        "term": ["term-114522"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-114522"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-114522"],
+        "summary_title": ["manuscript"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "title": [
+      {
+        "value": ["Speculum ecclesie"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-239405"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/239405"],
+    "object": ["object-239405"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

@@ -1,0 +1,103 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["2019"],
+            "value": ["2019-07-01"],
+            "latest": ["2019"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Clifford, Timothy, Sir"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-200699"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-200699"],
+            "agent": ["agent-200699"]
+          }
+        }
+      },
+      "creation": {
+        "maker": {
+          "maker": {
+            "summary_title": ["Valentino, Giovan Domenico"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-137926"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-137926"],
+            "term": ["agent-137926"]
+          }
+        }
+      }
+    },
+    "summary": [
+      {
+        "term": ["term-106226"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106226"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106226"],
+        "summary_title": ["painting"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["loan 3016.1"],
+        "type": ["accession number"],
+        "value": ["loan 3016.1"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["240228"],
+        "type": ["priref"],
+        "value": ["240228"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/240228"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/240228"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-106226"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106226"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106226"],
+        "summary_title": ["painting"]
+      }
+    ],
+    "admin": {
+      "created": ["1581353180000"],
+      "modified": ["1599557106000"],
+      "id": ["object-240228"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-200699"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-200699"],
+        "owner": ["agent-200699"],
+        "summary_title": ["Clifford, Timothy, Sir"]
+      }
+    ],
+    "department": {
+      "value": ["Paintings, Drawings and Prints"]
+    },
+    "title": [
+      {
+        "value": ["A Kitchen interior with a maid filleting fish at a table"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-240228"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/240228"],
+    "object": ["object-240228"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

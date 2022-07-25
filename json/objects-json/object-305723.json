@@ -1,0 +1,145 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-135985"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-135985"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-135985"],
+        "summary_title": ["Litra"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "agents": {
+          "agent": {
+            "summary_title": ["Mossop, John Coubro'"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-180960"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-180960"],
+            "agent": ["agent-180960"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["241"],
+              "value": ["-0241"],
+              "latest": ["241"]
+            },
+            "to": {
+              "earliest": ["235"],
+              "value": ["-0235"],
+              "latest": ["235"]
+            },
+            "earliest": ["241"],
+            "latest": ["235"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Rome"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149886"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149886"],
+            "term": ["agent-149886"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.MO.1-R"],
+        "type": ["accession number"],
+        "value": ["CM.MO.1-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["305723"],
+        "type": ["priref"],
+        "value": ["305723"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/305723"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/305723"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-39778"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39778"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39778"],
+            "summary_title": ["silver"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-135985"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-135985"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-135985"],
+        "summary_title": ["Litra"]
+      },
+      {
+        "term": ["term-119616"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119616"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119616"],
+        "summary_title": ["Roman Republic"]
+      }
+    ],
+    "admin": {
+      "created": ["1629298288000"],
+      "modified": ["1629298288000"],
+      "id": ["object-305723"]
+    },
+    "description": [
+      {
+        "value": ["Roman Republic, silver litra, Rome, Crawford 25/3"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-305723"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/305723"],
+    "object": ["object-305723"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

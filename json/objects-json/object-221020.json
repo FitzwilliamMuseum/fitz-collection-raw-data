@@ -1,0 +1,169 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-121505"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-121505"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-121505"],
+        "summary_title": ["Romania"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["2015"],
+            "value": ["2015-01-26"],
+            "latest": ["2015"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Popescu, A., Dr"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-174452"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-174452"],
+            "agent": ["agent-174452"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["1930"],
+              "value": ["1930"],
+              "latest": ["1930"]
+            },
+            "earliest": ["1930"],
+            "latest": ["1930"]
+          },
+          {
+            "range": ["1"],
+            "to": {
+              "earliest": ["1940"],
+              "value": ["1940"],
+              "latest": ["1940"]
+            },
+            "earliest": ["1940"],
+            "latest": ["1940"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Carol II (1930-40)"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-197759"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-197759"],
+            "term": ["agent-197759"],
+            "role": [
+              {
+                "value": ["ruler"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.129-2015"],
+        "type": ["accession number"],
+        "value": ["CM.129-2015"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["221020"],
+        "type": ["priref"],
+        "value": ["221020"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/221020"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/221020"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-40365"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-40365"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-40365"],
+            "summary_title": ["bronze"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-121505"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-121505"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-121505"],
+        "summary_title": ["Romania"]
+      },
+      {
+        "term": ["term-107982"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107982"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107982"],
+        "summary_title": ["school"]
+      },
+      {
+        "term": ["term-1987"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-1987"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-1987"],
+        "summary_title": ["prize"]
+      },
+      {
+        "term": ["term-135215"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-135215"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-135215"],
+        "summary_title": ["Ministry of Instruction"]
+      }
+    ],
+    "admin": {
+      "created": ["1312640861000"],
+      "modified": ["1567684308000"],
+      "id": ["object-221020"]
+    },
+    "description": [
+      {
+        "value": ["Third prize medal."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-42993"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-42993"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-42993"],
+        "summary_title": ["medal"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-221020"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/221020"],
+    "object": ["object-221020"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

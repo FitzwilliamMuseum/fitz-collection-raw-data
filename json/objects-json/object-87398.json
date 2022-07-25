@@ -1,0 +1,135 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-110841"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110841"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110841"],
+        "summary_title": ["pendant"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1932"],
+            "value": ["1932"],
+            "latest": ["1932"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["British School of Archaeology"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159709"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159709"],
+            "agent": ["agent-159709"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Tell el Ajjul Gaza Strip"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-127508"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-127508"]
+          }
+        ]
+      },
+      "creation": {
+        "places": [
+          {
+            "summary_title": ["Tell el Ajjul"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-132829"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-132829"],
+            "place": ["term-132829"],
+            "hierarchies": [
+              {
+                "summary_title": ["Gaza Strip"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["ANE.508.1932"],
+        "type": ["accession number"],
+        "value": ["ANE.508.1932"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["87398"],
+        "type": ["priref"],
+        "value": ["87398"]
+      },
+      {
+        "type": ["oldadmincategory"],
+        "value": ["O"]
+      },
+      {
+        "type": ["oldobjectnumber"],
+        "value": ["WAE.508.1932"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/87398"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/87398"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-110841"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110841"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110841"],
+        "summary_title": ["pendant"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1337263735000"],
+      "id": ["object-87398"]
+    },
+    "description": [
+      {
+        "value": ["pendant, glazed, with decoration"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-109541"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-109541"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-109541"],
+        "summary_title": ["jewellery"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Length"],
+          "value": ["0.0175"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-87398"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/87398"],
+    "object": ["object-87398"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

@@ -1,0 +1,293 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-91292"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-91292"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-91292"],
+        "summary_title": ["salt"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["C.78-1950"],
+        "type": ["accession number"],
+        "value": ["C.78-1950"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["140364"],
+        "type": ["priref"],
+        "value": ["140364"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/140364"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/140364"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["uncertain before Mrs W.D. (Frances Louisa Dickson)"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1476881888000"],
+      "id": ["object-140364"]
+    },
+    "description": [
+      {
+        "value": ["Hard-paste porcelain painted in enamels"]
+      },
+      {
+        "value": ["Hard-paste porcelain, moulded, tin-glazed, and painted in blue, green, yellow, puce, reddish-brown, brown, and a little dark brown enamels; the underside has a small circular ventilation hole. The mermaid is supported on a rectangular base with rounded corners and a scrolled edge painted blue and puce. Her front half is sphinx like, and she has long brown hair, dark brown eyes and pale red lips, two green fins on her back, and a green-edged tail which curves upwards to support a shell dish,which is also supported by her backward tilting head. The shell is outlined in puce and blue and has a green leaf at the hinge end. The interior is striped horizontally in puce, yellow and reddish-brown."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["Mermaid supporting a Shell Dish"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1950"],
+            "value": ["1950-09"],
+            "latest": ["1909"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Dickson, W. D. (Frances Louisa), Mrs"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-180712"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-180712"],
+            "agent": ["agent-180712"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "note": [
+              {
+                "value": ["Accessioned as early 19th century"]
+              }
+            ],
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["1760"],
+              "value": ["1760"],
+              "latest": ["1760"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["1770"],
+              "value": ["1770"],
+              "latest": ["1770"]
+            },
+            "earliest": ["1760"],
+            "latest": ["1770"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["third quarter of 18th century"],
+            "period": ["term-113159"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-113159"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-113159"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Doccia Porcelain Factory"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-166157"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-166157"],
+            "term": ["agent-166157"],
+            "role": [
+              {
+                "value": ["factory"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Doccia"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-117018"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117018"],
+            "place": ["term-117018"],
+            "coordinates": {
+              "lat": ["44.1905139"],
+              "lng": ["10.67221"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Italy"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Tuscany"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "school_or_style": [
+      {
+        "term": ["term-9010"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-9010"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-9010"],
+        "summary_title": ["Rococo"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Decoration"],
+        "materials": [
+          {
+            "term": ["term-107563"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107563"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107563"],
+            "summary_title": ["enamels"]
+          }
+        ]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-120085"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-120085"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-120085"],
+        "summary_title": ["press-moulding"],
+        "descriptions": [
+          {
+            "description": ["hard-paste porcelain, moulded in parts, glazed, and painted in blue, green, yellow, puce, reddish-brown, and dark brown enamels"]
+          }
+        ]
+      },
+      {
+        "term": ["term-120059"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-120059"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-120059"],
+        "summary_title": ["tin-glazing"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-91292"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-91292"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-91292"],
+        "summary_title": ["salt"]
+      },
+      {
+        "value": ["shell dish"]
+      }
+    ],
+    "inscription": [
+      {
+        "method": ["painted in pale purple enamel"],
+        "transcription": [
+          {
+            "value": ["6."]
+          }
+        ],
+        "location": ["on base"],
+        "type": ["mark"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-37627"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-37627"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-37627"],
+        "summary_title": ["hard-paste porcelain"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Height"],
+          "value": ["7.6"]
+        },
+        {
+          "units": ["in"],
+          "dimension": ["Height"],
+          "value": ["3"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Width"],
+          "value": ["8.5"]
+        },
+        {
+          "units": ["in"],
+          "dimension": ["Width"],
+          "value": ["3 5/16"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-200003003"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-200003003"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-200003003"],
+        "summary_title": ["Doccia Porcelain in the Fitzwilliam Museum"],
+        "page": ["108"],
+        "notes": ["Publ. p. 108, illustrated fig. 11"]
+      },
+      {
+        "term": ["publication-4908"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-4908"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-4908"],
+        "summary_title": ["Le porcellane di Capodimonte"]
+      },
+      {
+        "term": ["publication-200003004"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-200003004"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-200003004"],
+        "summary_title": ["The Victoria and Albert Museum Collection"],
+        "page": ["61-2"],
+        "notes": ["Cf. pp. 61-2, nos. 36 and 37, Two comparable harpy salt cellars. The author, A. d'Agliano mentions documentary evidence for the factory making vessels incoporating harpies, sirens or sphinxes."]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-140364"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/140364"],
+    "object": ["object-140364"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

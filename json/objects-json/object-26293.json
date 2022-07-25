@@ -1,0 +1,207 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-111033"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111033"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-111033"],
+        "summary_title": ["tumbler"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["C.9-1983"],
+        "type": ["accession number"],
+        "value": ["C.9-1983"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["26293"],
+        "type": ["priref"],
+        "value": ["26293"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/26293"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/26293"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["The Hilton Gallery, St. Mary's Passage, Cambridge"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1582633383000"],
+      "id": ["object-26293"]
+    },
+    "description": [
+      {
+        "value": ["Clear glass with trailed blue glass rim. Engraved with various symbols, the inscription 'INDEPENDENT ORDER OF ODD FELLOWS' and the name 'ROBERT/CHADBURN' with two fern sprays and a bow below."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bought"],
+        "date": [
+          {
+            "earliest": ["1983"],
+            "value": ["1983-03-14"],
+            "latest": ["1983"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Hilton Gallery"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-178491"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-178491"],
+            "agent": ["agent-178491"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["1800"],
+              "value": ["1800"],
+              "latest": ["1800"]
+            },
+            "to": {
+              "earliest": ["1825"],
+              "value": ["1825"],
+              "latest": ["1825"]
+            },
+            "earliest": ["1800"],
+            "latest": ["1825"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["early 19th Century"],
+            "period": ["term-106498"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106498"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106498"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["glassmaker"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "component": [
+      {
+        "name": ["Rim"],
+        "materials": [
+          {
+            "term": ["term-109823"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-109823"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-109823"],
+            "summary_title": ["blue glass"]
+          }
+        ]
+      },
+      {
+        "name": ["Body"],
+        "materials": []
+      },
+      {
+        "name": ["Decoration"],
+        "materials": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-111033"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111033"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-111033"],
+        "summary_title": ["tumbler"]
+      },
+      {
+        "term": ["term-91741"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-91741"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-91741"],
+        "summary_title": ["drinking glasses"]
+      }
+    ],
+    "inscription": [
+      {
+        "method": ["inscribed"],
+        "transcription": [
+          {
+            "value": ["INDEPENDENT ORDER OF ODD FELLOWS"]
+          }
+        ]
+      },
+      {
+        "method": ["inscribed"],
+        "transcription": [
+          {
+            "value": ["ROBERT/CHADBURN"]
+          }
+        ]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-91170"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-91170"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-91170"],
+        "summary_title": ["glass"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Diameter"],
+          "value": ["8.6"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Height"],
+          "value": ["10.3"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-26293"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/26293"],
+    "object": ["object-26293"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

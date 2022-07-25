@@ -1,0 +1,177 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-89480"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89480"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89480"],
+        "summary_title": ["vase"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["2016"],
+            "value": ["2016"],
+            "latest": ["2016"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["McMullen, David"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-173219"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-173219"],
+            "agent": ["agent-173219"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["1800"],
+              "value": ["1800"],
+              "latest": ["1800"]
+            },
+            "to": {
+              "earliest": ["1899"],
+              "value": ["1899"],
+              "latest": ["1899"]
+            },
+            "earliest": ["1800"],
+            "latest": ["1899"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Edo period (1615-1868) / Meiji period (1868-1912)"],
+            "period": ["term-127568"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-127568"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-127568"]
+          },
+          {
+            "summary_title": ["19th century"],
+            "period": ["term-106853"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106853"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106853"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Mikawachi Kilns"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-195097"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-195097"],
+            "term": ["agent-195097"],
+            "role": [
+              {
+                "value": ["production"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Hirado"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-13964"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-13964"],
+            "place": ["term-13964"],
+            "coordinates": {
+              "lat": ["33.3680705"],
+              "lng": ["129.5539153"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Japan"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Hizen"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["C.728-2016"],
+        "type": ["accession number"],
+        "value": ["C.728-2016"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["208857"],
+        "type": ["priref"],
+        "value": ["208857"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/208857"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/208857"]
+      }
+    ],
+    "school_or_style": [
+      {
+        "term": ["term-134510"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-134510"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-134510"],
+        "summary_title": ["Hirado Ware"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-89480"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89480"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89480"],
+        "summary_title": ["vase"]
+      }
+    ],
+    "admin": {
+      "created": ["1463741256000"],
+      "modified": ["1602514357000"],
+      "id": ["object-208857"]
+    },
+    "description": [
+      {
+        "value": ["Large hard-paste porcelain vase, decorated with an old pine tree with cranes in underglaze blue."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-37627"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-37627"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-37627"],
+        "summary_title": ["hard-paste porcelain"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-208857"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/208857"],
+    "object": ["object-208857"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

@@ -1,0 +1,167 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-124890"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-124890"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-124890"],
+        "summary_title": ["half farthing"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-200860"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-200860"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-200860"],
+        "summary_title": ["CAMFZ"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["2016"],
+            "value": ["2016-11-21"],
+            "latest": ["2016"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Buttrey, T.V., Prof."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-196171"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-196171"],
+            "agent": ["agent-196171"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "earliest": ["1854"],
+            "value": ["1854"],
+            "latest": ["1854"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Royal Mint"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-180322"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-180322"],
+            "term": ["agent-180322"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.496-2016"],
+        "type": ["accession number"],
+        "value": ["CM.496-2016"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["243057"],
+        "type": ["priref"],
+        "value": ["243057"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/243057"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/243057"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-39588"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39588"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39588"],
+            "summary_title": ["copper"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-124890"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-124890"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-124890"],
+        "summary_title": ["half farthing"]
+      },
+      {
+        "term": ["term-115357"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-115357"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-115357"],
+        "summary_title": ["United Kingdom"]
+      }
+    ],
+    "admin": {
+      "created": ["1597679998000"],
+      "modified": ["1626868407000"],
+      "id": ["object-243057"]
+    },
+    "inscription": [
+      {
+        "transcription": [
+          {
+            "value": ["VICTORIA DG BRITANNIAR REGINA F D"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Young Head, left."]
+          }
+        ],
+        "location": ["obverse"],
+        "type": ["design"]
+      },
+      {
+        "transcription": [
+          {
+            "value": ["HALF FARTHING 1834"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Inscription, crowned, laurel below."]
+          }
+        ],
+        "location": ["reverse"],
+        "type": ["design"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-243057"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/243057"],
+    "object": ["object-243057"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

@@ -1,0 +1,169 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-117777"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117777"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-117777"],
+        "summary_title": ["drachm"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["CM.52-1980"],
+        "type": ["accession number"],
+        "value": ["CM.52-1980"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["282280"],
+        "type": ["priref"],
+        "value": ["282280"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/282280"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/282280"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Under Review"]
+      }
+    ],
+    "admin": {
+      "created": ["1615982630000"],
+      "modified": ["1622192969000"],
+      "id": ["object-282280"]
+    },
+    "description": [
+      {
+        "value": ["Alexander III (336-323 BC), AR drachm, heavily corroded. illegible mint. 3.53g"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["One of a collection of electrotypes of Greek and Roman coins and Genuine Greek and Roman coins in bronze.(see also CM.27-35-1986)"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1980"],
+            "value": ["1980-12-01"],
+            "latest": ["1980"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Laurie, A. H., Mr & Mrs"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-175596"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-175596"],
+            "agent": ["agent-175596"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["336"],
+              "value": ["-0336"],
+              "latest": ["336"]
+            },
+            "to": {
+              "earliest": ["323"],
+              "value": ["-0323"],
+              "latest": ["323"]
+            },
+            "earliest": ["336"],
+            "latest": ["323"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Alexander III the Great (336-323 BC)"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-197771"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-197771"],
+            "term": ["agent-197771"],
+            "role": [
+              {
+                "value": ["ruler"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-39778"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39778"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39778"],
+            "summary_title": ["silver"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-117777"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117777"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-117777"],
+        "summary_title": ["drachm"]
+      },
+      {
+        "term": ["term-12401"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12401"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-12401"],
+        "summary_title": ["Greek"]
+      },
+      {
+        "term": ["term-136007"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-136007"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-136007"],
+        "summary_title": ["Macedon"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-282280"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/282280"],
+    "object": ["object-282280"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

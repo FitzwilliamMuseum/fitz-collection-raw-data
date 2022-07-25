@@ -1,0 +1,130 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["1997"],
+            "value": ["1997"],
+            "latest": ["1997"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Museum of Archaeology and Anthropology, Cambridge"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-161764"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-161764"],
+            "agent": ["agent-161764"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Cyprus"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-109616"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-109616"],
+            "coordinates": {
+              "lat": ["34.9823018"],
+              "lng": ["33.1451285"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "periods": [
+          {
+            "summary_title": ["Late Bronze Age"],
+            "period": ["term-8272"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-8272"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-8272"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["Loan Ant.112.33"],
+        "type": ["accession number"],
+        "value": ["Loan Ant.112.33"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["167918"],
+        "type": ["priref"],
+        "value": ["167918"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/167918"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/167918"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1607339368000"],
+      "id": ["object-167918"]
+    },
+    "description": [
+      {
+        "value": ["high-lipped tankard in fine white slipped ware with brown painted decoration"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-161764"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-161764"],
+        "owner": ["agent-161764"],
+        "summary_title": ["Museum of Archaeology and Anthropology, Cambridge"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-89198"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89198"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89198"],
+        "summary_title": ["vessel"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.206"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.114"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-7478"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-7478"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-7478"],
+        "summary_title": ["Art of Ancient Cyprus in the Fitzwilliam Museum, Cambridge"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-167918"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/167918"],
+    "object": ["object-167918"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

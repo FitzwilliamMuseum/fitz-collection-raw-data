@@ -1,0 +1,171 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-90410"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-90410"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-90410"],
+        "summary_title": ["olpe"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bought"],
+        "date": [
+          {
+            "earliest": ["1917"],
+            "value": ["1917"],
+            "latest": ["1917"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Hope, Francis Pelham Clinton, Lord"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159501"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159501"],
+            "agent": ["agent-159501"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["601"],
+              "value": ["-600"],
+              "latest": ["601"]
+            },
+            "to": {
+              "earliest": ["502"],
+              "value": ["-501"],
+              "latest": ["502"]
+            },
+            "earliest": ["601"],
+            "latest": ["502"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["archaic"],
+            "period": ["term-111220"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-111220"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111220"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Athens"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-107608"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107608"],
+            "place": ["term-107608"],
+            "coordinates": {
+              "lat": ["37.9839412"],
+              "lng": ["23.7283052"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Greece"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Attica"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.22.1917"],
+        "type": ["accession number"],
+        "value": ["GR.22.1917"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["68683"],
+        "type": ["priref"],
+        "value": ["68683"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/68683"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/68683"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Rim"],
+        "materials": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-90410"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-90410"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-90410"],
+        "summary_title": ["olpe"]
+      },
+      {
+        "term": ["term-89400"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89400"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89400"],
+        "summary_title": ["jug"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1336738653000"],
+      "id": ["object-68683"]
+    },
+    "description": [
+      {
+        "value": ["olpe, Dionysos' chariot"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-89198"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89198"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89198"],
+        "summary_title": ["vessel"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.22"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-4538"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-4538"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-4538"],
+        "summary_title": ["The Hope Vases. A catalogue and a discussion of the Hope collection of Greek vases and an introduction on the history of the collection and on late Attic and South Italian vases"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-68683"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/68683"],
+    "object": ["object-68683"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

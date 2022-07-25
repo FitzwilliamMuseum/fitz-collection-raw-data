@@ -1,0 +1,180 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-43000"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-43000"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-43000"],
+        "summary_title": ["statuette"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1981"],
+            "value": ["1981"],
+            "latest": ["1981"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Wellcome Institute, the trustees of the"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-166444"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-166444"],
+            "agent": ["agent-166444"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Egypt"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-107870"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107870"],
+            "coordinates": {
+              "lat": ["26.2540493"],
+              "lng": ["29.2675469"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["BC"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["100"],
+              "value": ["-0100"],
+              "latest": ["100"]
+            },
+            "to": {
+              "era": [
+                ["BC"]
+              ],
+              "earliest": ["1"],
+              "value": ["-0001"],
+              "latest": ["1"]
+            },
+            "earliest": ["100"],
+            "latest": ["1"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Ptolemaic"],
+            "period": ["term-10575"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-10575"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-10575"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["E.32.1982"],
+        "type": ["accession number"],
+        "value": ["E.32.1982"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["63206"],
+        "type": ["priref"],
+        "value": ["63206"]
+      },
+      {
+        "type": ["oldadmincategory"],
+        "value": ["P"]
+      },
+      {
+        "source": ["Wellcome Institute acquisition number"],
+        "type": ["othernumber"],
+        "value": ["A9235"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/63206"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/63206"]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-107436"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107436"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107436"],
+        "summary_title": ["moulded"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-43000"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-43000"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-43000"],
+        "summary_title": ["statuette"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1631615306000"],
+      "id": ["object-63206"]
+    },
+    "description": [
+      {
+        "value": ["standing nude figure of Aphrodite, with \"Libyan\" curls, a garland bound with a fillet, polos (partly broken away), bracelets, amulet band and anklet"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-107454"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107454"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107454"],
+        "summary_title": ["figure"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.152"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.0595"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-4467"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-4467"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-4467"],
+        "summary_title": ["Sotheby's Sale Catalogue, 21-23 July 1920"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-63206"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/63206"],
+    "object": ["object-63206"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

@@ -1,0 +1,181 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-110277"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110277"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110277"],
+        "summary_title": ["animal figure"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["2015"],
+            "value": ["2015-04-27"],
+            "latest": ["2015"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Batchelor, Ivor, Sir and Lady"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-166527"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-166527"],
+            "agent": ["agent-166527"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "precision": ["circa"],
+            "earliest": ["1966"],
+            "value": ["1966"],
+            "latest": ["1966"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["20th century"],
+            "period": ["term-107318"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-107318"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107318"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Grut, Jeanne Vivian"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-194954"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-194954"],
+            "term": ["agent-194954"],
+            "role": [
+              {
+                "value": ["designer"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Copenhagen"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-107776"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107776"],
+            "place": ["term-107776"],
+            "coordinates": {
+              "lat": ["55.6867243"],
+              "lng": ["12.5700724"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Denmark"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["C.123-2015"],
+        "type": ["accession number"],
+        "value": ["C.123-2015"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["207642"],
+        "type": ["priref"],
+        "value": ["207642"]
+      },
+      {
+        "date": [
+          {
+            "earliest": ["2006"],
+            "value": ["2006"],
+            "latest": ["2006"]
+          }
+        ],
+        "source": ["The Fitzwilliam Museum"],
+        "type": ["old loan number"],
+        "value": ["AAL.123-2006"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/207642"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/207642"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-110277"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110277"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110277"],
+        "summary_title": ["animal figure"]
+      }
+    ],
+    "admin": {
+      "created": ["1453128097000"],
+      "modified": ["1462275999000"],
+      "id": ["object-207642"]
+    },
+    "description": [
+      {
+        "value": ["Horse lying on its back. Porcelain ‘blanc de chine’\nDesigned by Jeanne Grut in 1960"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-37642"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-37642"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-37642"],
+        "summary_title": ["porcelain"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Height"],
+          "value": ["18"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Length"],
+          "value": ["17.8"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Width"],
+          "value": ["12.1"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-207642"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/207642"],
+    "object": ["object-207642"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

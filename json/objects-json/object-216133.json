@@ -1,0 +1,188 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-117783"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117783"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-117783"],
+        "summary_title": ["nummus"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1995"],
+            "value": ["1995-01-23"],
+            "latest": ["1995"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Owens, Roy"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-186049"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-186049"],
+            "agent": ["agent-186049"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["332"],
+              "value": ["332"],
+              "latest": ["332"]
+            },
+            "earliest": ["332"],
+            "latest": ["332"]
+          },
+          {
+            "range": ["1"],
+            "to": {
+              "earliest": ["333"],
+              "value": ["333"],
+              "latest": ["333"]
+            },
+            "earliest": ["333"],
+            "latest": ["333"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Trier"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-169635"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-169635"],
+            "term": ["agent-169635"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.9-1995"],
+        "type": ["accession number"],
+        "value": ["CM.9-1995"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["216133"],
+        "type": ["priref"],
+        "value": ["216133"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/216133"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/216133"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Found by Roy Owens near Mildenhall, Suffolk, 1993/94."]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-40365"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-40365"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-40365"],
+            "summary_title": ["bronze"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-117783"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117783"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-117783"],
+        "summary_title": ["nummus"]
+      },
+      {
+        "term": ["term-113870"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-113870"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-113870"],
+        "summary_title": ["Roman Imperial"]
+      }
+    ],
+    "admin": {
+      "created": ["1499093431000"],
+      "modified": ["1499090689000"],
+      "id": ["object-216133"]
+    },
+    "inscription": [
+      {
+        "transcription": [
+          {
+            "value": ["CONSTANTINVS IVN NOB C"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Laureate, draped, cuirassed bust right."]
+          }
+        ],
+        "location": ["obverse"],
+        "type": ["design"]
+      },
+      {
+        "transcription": [
+          {
+            "value": ["GLORIA EXERCITVS. Mintmark: -/-//TRS*"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Two soldiers, two standards between them."]
+          }
+        ],
+        "location": ["reverse"],
+        "type": ["design"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-216133"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/216133"],
+    "object": ["object-216133"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

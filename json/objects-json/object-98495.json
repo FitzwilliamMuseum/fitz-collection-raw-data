@@ -1,0 +1,160 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1999"],
+            "value": ["1999"],
+            "latest": ["1999"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Scrase, David E."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149654"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149654"],
+            "agent": ["agent-149654"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "earliest": ["1925"],
+            "value": ["1925"],
+            "latest": ["1925"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Cloister Press"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-163731"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-163731"],
+            "term": ["agent-163731"],
+            "role": [
+              {
+                "value": ["printer"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["London"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106216"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106216"],
+            "place": ["term-106216"],
+            "coordinates": {
+              "lat": ["51.5073219"],
+              "lng": ["-0.1276474"]
+            },
+            "note": ["possibly London"],
+            "hierarchies": [
+              {
+                "summary_title": ["England"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["PB 1925.2"],
+        "type": ["accession number"],
+        "value": ["PB 1925.2"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["98495"],
+        "type": ["priref"],
+        "value": ["98495"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/98495"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/98495"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-106206"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106206"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106206"],
+            "summary_title": ["paper"]
+          }
+        ]
+      },
+      {
+        "name": ["Illustrations"],
+        "materials": []
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-27526"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27526"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27526"],
+        "summary_title": ["printing"],
+        "descriptions": []
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1467303467000"],
+      "id": ["object-98495"]
+    },
+    "description": [
+      {
+        "value": ["By Stephen Bone ; with letterpress by Gertrude Bone ; preface by Neil Munro."]
+      },
+      {
+        "value": ["[12], 17-59, [1] p., : ill. (some col.), maps (on lining paper) ; 29 cm"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-102154"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-102154"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-102154"],
+        "summary_title": ["book"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["Of the Western Isles : forty woodcuts"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-98495"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/98495"],
+    "object": ["object-98495"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

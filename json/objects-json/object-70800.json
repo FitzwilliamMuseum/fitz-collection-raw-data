@@ -1,0 +1,164 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-91165"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-91165"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-91165"],
+        "summary_title": ["cup"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["BC"]
+              ],
+              "earliest": ["500"],
+              "value": ["-0500"],
+              "latest": ["500"]
+            },
+            "to": {
+              "era": [
+                ["BC"]
+              ],
+              "earliest": ["401"],
+              "value": ["-0401"],
+              "latest": ["401"]
+            },
+            "earliest": ["500"],
+            "latest": ["401"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Classical"],
+            "period": ["term-14088"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-14088"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-14088"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Euboea"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-119452"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119452"],
+            "place": ["term-119452"],
+            "coordinates": {
+              "lat": ["38.49417235"],
+              "lng": ["23.911084399138"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Greek Islands"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.P.59"],
+        "type": ["accession number"],
+        "value": ["GR.P.59"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["70800"],
+        "type": ["priref"],
+        "value": ["70800"]
+      },
+      {
+        "type": ["oldmuseumnumber"],
+        "value": ["G237"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/70800"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/70800"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-91165"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-91165"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-91165"],
+        "summary_title": ["cup"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1621012104000"],
+      "id": ["object-70800"]
+    },
+    "description": [
+      {
+        "value": ["cup, bird"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-89198"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89198"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89198"],
+        "summary_title": ["vessel"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Diameter"],
+          "value": ["0.2"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.057"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-4059"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-4059"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-4059"],
+        "summary_title": ["Catalogue of the Greek vases in the Fitzwilliam Museum, Cambridge"]
+      },
+      {
+        "term": ["publication-4110"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-4110"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-4110"],
+        "summary_title": ["Corpus vasorum antiquorum. Great Britain ; fasc.11, fasc.2. Cambridge"]
+      },
+      {
+        "term": ["publication-4113"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-4113"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-4113"],
+        "summary_title": ["Corpus vasorum antiquorum. Great Britain ; fasc.6, fasc.1. Cambridge"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-70800"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/70800"],
+    "object": ["object-70800"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

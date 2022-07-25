@@ -1,0 +1,172 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-119316"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119316"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119316"],
+        "summary_title": ["One litra"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["1978"],
+            "value": ["1978-07-17"],
+            "latest": ["1978"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Gow, A.S.F."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-197674"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-197674"],
+            "agent": ["agent-197674"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["411"],
+              "value": ["-410"],
+              "latest": ["411"]
+            },
+            "earliest": ["411"],
+            "latest": ["411"]
+          },
+          {
+            "range": ["1"],
+            "to": {
+              "precision": ["circa"],
+              "earliest": ["381"],
+              "value": ["-380"],
+              "latest": ["381"]
+            },
+            "earliest": ["381"],
+            "latest": ["381"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Rhegium"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-170125"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-170125"],
+            "term": ["agent-170125"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.302-1978"],
+        "type": ["accession number"],
+        "value": ["CM.302-1978"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["219385"],
+        "type": ["priref"],
+        "value": ["219385"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/219385"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/219385"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["A.S.F. Gow collection of Greek and Roman coins deposited on loan by Prof. Snodgrass, Museum of Classical Archaeology"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-39778"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39778"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39778"],
+            "summary_title": ["silver"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-119316"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119316"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119316"],
+        "summary_title": ["One litra"]
+      },
+      {
+        "term": ["term-12401"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12401"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-12401"],
+        "summary_title": ["Greek"]
+      },
+      {
+        "term": ["term-106629"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106629"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106629"],
+        "summary_title": ["Italy"]
+      },
+      {
+        "term": ["term-119297"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119297"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119297"],
+        "summary_title": ["Bruttium"]
+      }
+    ],
+    "admin": {
+      "created": ["1499096351000"],
+      "modified": ["1499094797000"],
+      "id": ["object-219385"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-174471"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-174471"],
+        "owner": ["agent-174471"],
+        "summary_title": ["Museum of Classical Archaeology"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-219385"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/219385"],
+    "object": ["object-219385"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

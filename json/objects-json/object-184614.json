@@ -1,0 +1,184 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-130665"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-130665"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-130665"],
+        "summary_title": ["tumbler cup"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["2009"],
+            "value": ["2009"],
+            "latest": ["2009"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Gray, Jonathan"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-193981"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-193981"],
+            "agent": ["agent-193981"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "era": [
+              ["CE"]
+            ],
+            "earliest": ["1776"],
+            "value": ["1776"],
+            "latest": ["1776"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["George III"],
+            "period": ["term-107437"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-107437"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107437"]
+          },
+          {
+            "summary_title": ["18th century"],
+            "period": ["term-106400"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-106400"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106400"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Cowles, George"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-31358"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-31358"],
+            "term": ["agent-31358"],
+            "role": [
+              {
+                "value": ["silversmith"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["London"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106216"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106216"],
+            "place": ["term-106216"],
+            "coordinates": {
+              "lat": ["51.5073219"],
+              "lng": ["-0.1276474"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["England"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["AAL.93-2009"],
+        "type": ["accession number"],
+        "value": ["AAL.93-2009"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["184614"],
+        "type": ["priref"],
+        "value": ["184614"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/184614"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/184614"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-130665"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-130665"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-130665"],
+        "summary_title": ["tumbler cup"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1569413118000"],
+      "id": ["object-184614"]
+    },
+    "description": [
+      {
+        "value": ["With everted lip and slightly flattened base. Engraved on one side with monogram 'W. F.' surrounded by laurel wreath, and on the other, a vertical hand on a horizontal striped bar, holding a dagger."]
+      }
+    ],
+    "inscription": [
+      {
+        "method": ["engraved"],
+        "transcription": [
+          {
+            "value": ["'W. F.'"]
+          }
+        ],
+        "location": ["side"],
+        "type": ["monogram"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-193982"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-193982"],
+        "owner": ["agent-193982"],
+        "summary_title": ["The Bill Gray Collection"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-39778"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39778"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39778"],
+        "summary_title": ["silver"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Diameter"],
+          "value": ["7.5"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Height"],
+          "value": ["6"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-184614"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/184614"],
+    "object": ["object-184614"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

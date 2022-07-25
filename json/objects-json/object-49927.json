@@ -1,0 +1,138 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-43000"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-43000"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-43000"],
+        "summary_title": ["statuette"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bought"],
+        "date": [
+          {
+            "earliest": ["1900"],
+            "value": ["1900"],
+            "latest": ["1900"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Petrie, William Matthew Flinders, Sir"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159661"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159661"],
+            "agent": ["agent-159661"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Egypt"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-107870"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107870"],
+            "coordinates": {
+              "lat": ["26.2540493"],
+              "lng": ["29.2675469"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["150"],
+              "value": ["150"],
+              "latest": ["150"]
+            },
+            "to": {
+              "earliest": ["250"],
+              "value": ["250"],
+              "latest": ["250"]
+            },
+            "earliest": ["150"],
+            "latest": ["250"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["E.12.1900"],
+        "type": ["accession number"],
+        "value": ["E.12.1900"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["49927"],
+        "type": ["priref"],
+        "value": ["49927"]
+      },
+      {
+        "type": ["oldadmincategory"],
+        "value": ["MW"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/49927"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/49927"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-43000"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-43000"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-43000"],
+        "summary_title": ["statuette"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1555086607000"],
+      "id": ["object-49927"]
+    },
+    "description": [
+      {
+        "value": ["male figure wearing kilt and holding club in upraised right arm, crude workmanship."]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-107454"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107454"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107454"],
+        "summary_title": ["figure"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Length"],
+          "value": ["9"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-49927"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/49927"],
+    "object": ["object-49927"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

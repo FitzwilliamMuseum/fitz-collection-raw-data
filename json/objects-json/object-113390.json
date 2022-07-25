@@ -1,0 +1,191 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-12401"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12401"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-12401"],
+        "summary_title": ["Greek"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["1991"],
+            "value": ["1991"],
+            "latest": ["1991"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Lewis, S. S."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-162613"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-162613"],
+            "agent": ["agent-162613"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["BCE"]
+              ],
+              "precision": ["uncertain"],
+              "earliest": ["149"],
+              "value": ["-148"],
+              "latest": ["149"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["146"],
+              "value": ["146"],
+              "latest": ["146"]
+            },
+            "earliest": ["149"],
+            "latest": ["146"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Macedonia"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-174093"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-174093"],
+            "term": ["agent-174093"],
+            "role": [
+              {
+                "value": ["origin"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.LS.549-R"],
+        "type": ["accession number"],
+        "value": ["CM.LS.549-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["113390"],
+        "type": ["priref"],
+        "value": ["113390"]
+      },
+      {
+        "type": ["SNG Lewis"],
+        "value": ["549"]
+      },
+      {
+        "type": ["ordering"],
+        "value": ["LW-0548"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/113390"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/113390"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Bompois 684"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-12401"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12401"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-12401"],
+        "summary_title": ["Greek"]
+      },
+      {
+        "term": ["term-119370"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119370"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119370"],
+        "summary_title": ["Macedonia"]
+      },
+      {
+        "term": ["term-119371"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119371"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119371"],
+        "summary_title": ["Kings of Macedonia"]
+      },
+      {
+        "term": ["term-119391"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119391"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119391"],
+        "summary_title": ["Under Roman rule"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1594852402000"],
+      "id": ["object-113390"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-167778"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-167778"],
+        "owner": ["agent-167778"],
+        "summary_title": ["Corpus Christi College"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["degrees"],
+          "dimension": ["Die Axis"],
+          "value": ["150"]
+        },
+        {
+          "units": ["mm"],
+          "dimension": ["Image(height)"],
+          "value": ["25"]
+        },
+        {
+          "units": ["mm"],
+          "dimension": ["Image(width)"],
+          "value": ["25"]
+        },
+        {
+          "units": ["g"],
+          "dimension": ["Weight"],
+          "value": ["12.06"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-113390"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/113390"],
+    "object": ["object-113390"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

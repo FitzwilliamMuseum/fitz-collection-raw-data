@@ -1,0 +1,211 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-89480"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89480"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89480"],
+        "summary_title": ["vase"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["C.13-1975"],
+        "type": ["accession number"],
+        "value": ["C.13-1975"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["27105"],
+        "type": ["priref"],
+        "value": ["27105"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/27105"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/27105"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Michael Whiteway, Kensington Church Street, London"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1582633450000"],
+      "id": ["object-27105"]
+    },
+    "description": [
+      {
+        "value": ["Green glass,  with square body, long cylindrical neck surmounted by a wide flat rim. 'Clutha' type glass."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1975"],
+            "value": ["1975-04-24"],
+            "latest": ["1975"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["The Friends of the Fitzwilliam Museum"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149645"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149645"],
+            "agent": ["agent-149645"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "era": [
+              ["CE"]
+            ],
+            "precision": ["circa"],
+            "earliest": ["1888"],
+            "value": ["1888"],
+            "latest": ["1888"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["late 19th Century"],
+            "period": ["term-108070"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-108070"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-108070"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Thomas Webb & Sons"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-156019"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-156019"],
+            "term": ["agent-156019"],
+            "role": [
+              {
+                "value": ["glassworks"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Glasgow"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-106233"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106233"],
+            "place": ["term-106233"],
+            "coordinates": {
+              "lat": ["55.8609825"],
+              "lng": ["-4.2488787"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["England"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "component": [
+      {
+        "name": ["Body"],
+        "materials": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-89480"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89480"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89480"],
+        "summary_title": ["vase"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-33356"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-33356"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-33356"],
+        "summary_title": ["Clutha glass"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Height"],
+          "value": ["38.0"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Width"],
+          "value": ["12.5"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-1924"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-1924"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-1924"],
+        "summary_title": ["Glass at the Fitzwilliam Museum"],
+        "page": ["p. 124"],
+        "notes": ["Publ. p. 124, no. 326"]
+      },
+      {
+        "term": ["publication-200000730"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-200000730"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-200000730"],
+        "summary_title": ["Christopher Dresser's Art Glass and Stained Glass"],
+        "page": ["pp. 13-24"],
+        "notes": ["Ref. For glass designed by Christopher Dresser for James Couper & Son of Glasgow, see pp. 13-24"]
+      },
+      {
+        "term": ["publication-1948"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-1948"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-1948"],
+        "summary_title": ["Nineteenth Century British Glass"],
+        "page": ["p. 53"],
+        "notes": ["Cf. p. 53, this vase is probably imitation and produced by Thomas Webb and Sons under the name 'Old Roman'."]
+      },
+      {
+        "term": ["publication-7702"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-7702"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-7702"],
+        "summary_title": ["Truth, Beauty, Power. The Designs of Dr Christopher Dresser. The John Scott Collection, Volume Five"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-27105"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/27105"],
+    "object": ["object-27105"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

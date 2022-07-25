@@ -1,0 +1,186 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-118035"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-118035"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-118035"],
+        "summary_title": ["Tanka"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bought"],
+        "agents": {
+          "agent": {
+            "summary_title": ["Coins and Medals Fund"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-167878"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-167878"],
+            "agent": ["agent-167878"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "note": [
+              {
+                "value": ["Uncertain date"]
+              }
+            ],
+            "range": ["1"],
+            "from": {
+              "earliest": ["1561"],
+              "value": ["1561"],
+              "latest": ["1561"]
+            },
+            "to": {
+              "earliest": ["1583"],
+              "value": ["1583"],
+              "latest": ["1583"]
+            },
+            "earliest": ["1561"],
+            "latest": ["1583"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Bukhara"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-168023"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-168023"],
+            "term": ["agent-168023"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Bukhara"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-15361"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-15361"],
+            "place": ["term-15361"],
+            "coordinates": {
+              "lat": ["39.7675529"],
+              "lng": ["64.4231326"]
+            }
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.2298-1997"],
+        "type": ["accession number"],
+        "value": ["CM.2298-1997"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["107350"],
+        "type": ["priref"],
+        "value": ["107350"]
+      },
+      {
+        "type": ["catalogue"],
+        "value": ["1926"]
+      },
+      {
+        "type": ["ordering"],
+        "value": ["IS-1890"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/107350"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/107350"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["bt Baldwin 1997"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-118035"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-118035"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-118035"],
+        "summary_title": ["Tanka"]
+      },
+      {
+        "term": ["term-451"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-451"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-451"],
+        "summary_title": ["Islamic"]
+      },
+      {
+        "term": ["term-117857"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117857"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-117857"],
+        "summary_title": ["Later Central Asia"]
+      },
+      {
+        "term": ["term-117891"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117891"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-117891"],
+        "summary_title": ["Shaybanids"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1563985843000"],
+      "id": ["object-107350"]
+    },
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["degrees"],
+          "dimension": ["Die Axis"],
+          "value": ["280"]
+        },
+        {
+          "units": ["mm"],
+          "dimension": ["Image(height)"],
+          "value": ["33"]
+        },
+        {
+          "units": ["mm"],
+          "dimension": ["Image(width)"],
+          "value": ["32"]
+        },
+        {
+          "units": ["g"],
+          "dimension": ["Weight"],
+          "value": ["4.27"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-107350"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/107350"],
+    "object": ["object-107350"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

@@ -1,0 +1,85 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "creation": {
+        "places": [
+          {
+            "summary_title": ["Persia"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-107888"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107888"],
+            "place": ["term-107888"],
+            "coordinates": {
+              "lat": ["32.6475314"],
+              "lng": ["54.5643516"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Persia"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["MS 327"],
+        "type": ["accession number"],
+        "value": ["MS 327"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["239388"],
+        "type": ["priref"],
+        "value": ["239388"]
+      },
+      {
+        "source": ["Cambridge Illuminated"],
+        "type": ["project ID"],
+        "value": ["3489"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/239388"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/239388"]
+      }
+    ],
+    "admin": {
+      "created": ["1573817740000"],
+      "modified": ["1598266983000"],
+      "id": ["object-239388"]
+    },
+    "categories": [
+      {
+        "term": ["term-110558"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110558"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-110558"],
+        "summary_title": ["illuminated manuscript"]
+      },
+      {
+        "term": ["term-114522"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-114522"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-114522"],
+        "summary_title": ["manuscript"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-239388"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/239388"],
+    "object": ["object-239388"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

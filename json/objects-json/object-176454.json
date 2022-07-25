@@ -1,0 +1,193 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-122304"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-122304"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-122304"],
+        "summary_title": ["10 forint"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["2009"],
+            "value": ["2009-12-01"],
+            "latest": ["2009"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Lewcock, Ronald, Prof."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-184900"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-184900"],
+            "agent": ["agent-184900"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "earliest": ["1969"],
+            "value": ["1969-06-30"],
+            "latest": ["1969"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Nagy, Zoltán"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-186116"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-186116"],
+            "term": ["agent-186116"],
+            "role": [
+              {
+                "value": ["engraver"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Budapest"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-116209"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-116209"],
+            "place": ["term-116209"],
+            "coordinates": {
+              "lat": ["47.4979937"],
+              "lng": ["19.0403594"]
+            }
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.1551-2009"],
+        "type": ["accession number"],
+        "value": ["CM.1551-2009"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["176454"],
+        "type": ["priref"],
+        "value": ["176454"]
+      },
+      {
+        "type": ["Bruce & Shafer"],
+        "value": ["168d"]
+      },
+      {
+        "type": ["serial"],
+        "value": ["A 575  075629"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/176454"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/176454"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-106206"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106206"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106206"],
+            "summary_title": ["paper"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-122304"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-122304"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-122304"],
+        "summary_title": ["10 forint"]
+      },
+      {
+        "term": ["term-100907"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100907"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100907"],
+        "summary_title": ["paper money"]
+      },
+      {
+        "term": ["term-109244"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-109244"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-109244"],
+        "summary_title": ["Hungary"]
+      }
+    ],
+    "admin": {
+      "created": ["1397472617000"],
+      "modified": ["1397472888000"],
+      "id": ["object-176454"]
+    },
+    "inscription": [
+      {
+        "transcription": [
+          {
+            "value": ["TÍZ FORINT / BUDAPEST, 1969, ÉVI JÚNIUS HÓ 30-ÁN / MAGYAR NEMZETI BANK"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Denomination in concentric oval rosette at left, legend and signatures at centre, portrait of Sandor Petöfi half-left, head facing, in oval frame at right"]
+          }
+        ],
+        "location": ["obverse"],
+        "type": ["design"]
+      },
+      {
+        "transcription": [
+          {
+            "value": ["TíZ FORINT / TÍZ FORINT"]
+          }
+        ],
+        "description": [
+          {
+            "value": ["Pastoral gathering under two trees at riverside, similar gathering along shore in background, all in oval frame with ornamented border"]
+          }
+        ],
+        "location": ["reverse"],
+        "type": ["design"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100907"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100907"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100907"],
+        "summary_title": ["paper money"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-176454"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/176454"],
+    "object": ["object-176454"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

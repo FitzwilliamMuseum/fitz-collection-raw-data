@@ -1,0 +1,152 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-12401"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12401"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-12401"],
+        "summary_title": ["Greek"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["2007"],
+            "value": ["2007-06-04"],
+            "latest": ["2007"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Mossop, John Coubro'"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-180960"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-180960"],
+            "agent": ["agent-180960"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["432"],
+              "value": ["-431"],
+              "latest": ["432"]
+            },
+            "to": {
+              "precision": ["circa"],
+              "earliest": ["371"],
+              "value": ["-370"],
+              "latest": ["371"]
+            },
+            "earliest": ["432"],
+            "latest": ["371"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Same"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-189208"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-189208"],
+            "term": ["agent-189208"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.3550-2007"],
+        "type": ["accession number"],
+        "value": ["CM.3550-2007"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["189546"],
+        "type": ["priref"],
+        "value": ["189546"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/189546"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/189546"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-40365"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-40365"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-40365"],
+            "summary_title": ["bronze"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-12401"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12401"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-12401"],
+        "summary_title": ["Greek"]
+      }
+    ],
+    "admin": {
+      "created": ["1349790710000"],
+      "modified": ["1349790713000"],
+      "id": ["object-189546"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159350"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159350"],
+        "owner": ["agent-159350"],
+        "summary_title": ["Fitzwilliam Musem"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "publications": [
+      {
+        "term": ["publication-7273"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-7273"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-7273"],
+        "summary_title": ["A Catalogue of the Greek coins in the British Museum: Peloponnesus"],
+        "page": ["91"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-189546"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/189546"],
+    "object": ["object-189546"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

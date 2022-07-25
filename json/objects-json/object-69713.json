@@ -1,0 +1,170 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-78430"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-78430"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-78430"],
+        "summary_title": ["utensil"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bequeathed"],
+        "date": [
+          {
+            "earliest": ["1963"],
+            "value": ["1963"],
+            "latest": ["1963"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Lamb, Winifred"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159497"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159497"],
+            "agent": ["agent-159497"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Thermi Lesbos Greek Islands"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-111666"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111666"]
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["2700"],
+              "value": ["-2700"],
+              "latest": ["2700"]
+            },
+            "to": {
+              "earliest": ["2501"],
+              "value": ["-2501"],
+              "latest": ["2501"]
+            },
+            "earliest": ["2700"],
+            "latest": ["2501"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Early Bronze Age"],
+            "period": ["term-8268"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-8268"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-8268"]
+          }
+        ],
+        "places": [
+          {
+            "summary_title": ["Lesbos"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-118815"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-118815"],
+            "place": ["term-118815"],
+            "coordinates": {
+              "lat": ["39.17584185"],
+              "lng": ["25.998913450232"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Greek Islands"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["GR.31f.1963"],
+        "type": ["accession number"],
+        "value": ["GR.31f.1963"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["69713"],
+        "type": ["priref"],
+        "value": ["69713"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/69713"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/69713"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-78430"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-78430"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-78430"],
+        "summary_title": ["utensil"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1336668360000"],
+      "id": ["object-69713"]
+    },
+    "description": [
+      {
+        "value": ["chisel"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-78339"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-78339"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-78339"],
+        "summary_title": ["equipment"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Length"],
+          "value": ["0.042"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-3936"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-3936"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-3936"],
+        "summary_title": ["Aegean metalwork"]
+      },
+      {
+        "term": ["publication-200001383"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-200001383"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-200001383"],
+        "summary_title": ["Excavations at Thermi in Lesbos"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-69713"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/69713"],
+    "object": ["object-69713"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

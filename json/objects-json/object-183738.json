@@ -1,0 +1,172 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-3460"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-3460"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-3460"],
+        "summary_title": ["weight"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1996"],
+            "value": ["1996-01-22"],
+            "latest": ["1996"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Abramson, A. I. J."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-187526"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-187526"],
+            "agent": ["agent-187526"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Torksey, Lincolnshire"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-130593"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-130593"],
+            "coordinates": {
+              "lat": ["53.3002756"],
+              "lng": ["-0.7448882"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["850"],
+              "value": ["0850"],
+              "latest": ["850"]
+            },
+            "to": {
+              "era": [
+                ["CE"]
+              ],
+              "earliest": ["950"],
+              "value": ["0950"],
+              "latest": ["950"]
+            },
+            "earliest": ["850"],
+            "latest": ["950"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Early Medieval"],
+            "period": ["term-12571"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-12571"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-12571"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Viking"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-187570"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-187570"],
+            "term": ["agent-187570"]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.17-1996"],
+        "type": ["accession number"],
+        "value": ["CM.17-1996"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["183738"],
+        "type": ["priref"],
+        "value": ["183738"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/183738"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/183738"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Found at Torksey, Lincs., 1995."]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-39741"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39741"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39741"],
+            "summary_title": ["copper alloy"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-3460"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-3460"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-3460"],
+        "summary_title": ["weight"]
+      },
+      {
+        "term": ["term-130606"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-130606"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-130606"],
+        "summary_title": ["Polyhedral weight"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1607611543000"],
+      "id": ["object-183738"]
+    },
+    "description": [
+      {
+        "value": ["A copper-alloy Polyhedral weight with four dots and a punched border on the square faces."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-183738"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/183738"],
+    "object": ["object-183738"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-101116"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101116"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101116"],
+        "summary_title": ["antoninianus"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149639"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149639"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149639"],
+        "summary_title": ["Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["Purchased"],
+        "date": [
+          {
+            "earliest": ["1991"],
+            "value": ["1991-04-29"],
+            "latest": ["1991"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Hirsch, Gerhard"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-201600"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-201600"],
+            "agent": ["agent-201600"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["249"],
+              "value": ["0249"],
+              "latest": ["249"]
+            },
+            "to": {
+              "earliest": ["251"],
+              "value": ["0251"],
+              "latest": ["251"]
+            },
+            "earliest": ["249"],
+            "latest": ["251"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Trajan Decius (AD 249-51)"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-162127"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-162127"],
+            "term": ["agent-162127"],
+            "role": [
+              {
+                "value": ["ruler"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.275-1991"],
+        "type": ["accession number"],
+        "value": ["CM.275-1991"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["281239"],
+        "type": ["priref"],
+        "value": ["281239"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/281239"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/281239"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Under Review"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Object"],
+        "materials": [
+          {
+            "term": ["term-39778"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-39778"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-39778"],
+            "summary_title": ["silver"]
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-101116"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-101116"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-101116"],
+        "summary_title": ["antoninianus"]
+      },
+      {
+        "term": ["term-10939"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-10939"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-10939"],
+        "summary_title": ["Roman Empire"]
+      }
+    ],
+    "admin": {
+      "created": ["1614247188000"],
+      "modified": ["1633704253000"],
+      "id": ["object-281239"]
+    },
+    "description": [
+      {
+        "value": ["Trajan Decius (249-51), silver antoninianus, PVDICITIA AVG(gusta).  Antioch mint (RIC 4.3, 125.46); 5.07g.  Bought Hirsch auction 164, lot 1266."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149639"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149639"],
+        "owner": ["agent-149639"],
+        "summary_title": ["Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-281239"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/281239"],
+    "object": ["object-281239"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

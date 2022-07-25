@@ -1,0 +1,190 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-117142"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117142"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-117142"],
+        "summary_title": ["sampler"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1996"],
+            "value": ["1996-01-22"],
+            "latest": ["1996"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Smith, P. M., Mrs"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-161065"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-161065"],
+            "agent": ["agent-161065"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["after"],
+              "earliest": ["1940"],
+              "value": ["1940"],
+              "latest": ["1940"]
+            },
+            "to": {
+              "precision": ["before"],
+              "earliest": ["1949"],
+              "value": ["1949"],
+              "latest": ["1949"]
+            },
+            "earliest": ["1940"],
+            "latest": ["1949"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["1940s"],
+            "period": ["term-107003"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-107003"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107003"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Smith, P. M., Mrs"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-161065"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-161065"],
+            "term": ["agent-161065"],
+            "role": [
+              {
+                "value": ["maker"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["T.1-1996"],
+        "type": ["accession number"],
+        "value": ["T.1-1996"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["81934"],
+        "type": ["priref"],
+        "value": ["81934"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/81934"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/81934"]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-27589"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27589"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27589"],
+        "summary_title": ["weaving"],
+        "descriptions": [
+          {
+            "description": ["Sampler, linen, embroidered with polychrome stranded cottons in cross, stem, chain, satin and lazy-daisy stitch; whipped stitches, laid and couched work and French knots"]
+          }
+        ]
+      },
+      {
+        "term": ["term-29899"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-29899"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-29899"],
+        "summary_title": ["embroidering"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-117142"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117142"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-117142"],
+        "summary_title": ["sampler"]
+      },
+      {
+        "value": ["border sampler"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1594997028000"],
+      "id": ["object-81934"]
+    },
+    "description": [
+      {
+        "value": ["Sampler, linen, embroidered with polychrome stranded cottons in cross, stem, chain, satin and lazy-daisy stitch; whipped stitches, laid and couched work and French knots.  A repeat floral border encloses rectangular panels which include an alphabet, a flowerpot and bird, various flowers and branch motifs and short pattern bands."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-29556"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-29556"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-29556"],
+        "summary_title": ["embroidery"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Length"],
+          "value": ["27.5"]
+        },
+        {
+          "units": ["in"],
+          "dimension": ["Length"],
+          "value": ["10.3/4"]
+        },
+        {
+          "units": ["cm"],
+          "dimension": ["Width"],
+          "value": ["25.5"]
+        },
+        {
+          "units": ["in"],
+          "dimension": ["Width"],
+          "value": ["10"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-81934"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/81934"],
+    "object": ["object-81934"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

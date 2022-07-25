@@ -1,0 +1,158 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-133795"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-133795"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-133795"],
+        "summary_title": ["Ancient Greek"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["loan"],
+        "date": [
+          {
+            "earliest": ["1976"],
+            "value": ["1976"],
+            "latest": ["1976"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Burkitt, M.I., Mrs"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159592"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159592"],
+            "agent": ["agent-159592"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["289"],
+              "value": ["-288"],
+              "latest": ["289"]
+            },
+            "to": {
+              "earliest": ["280"],
+              "value": ["-279"],
+              "latest": ["280"]
+            },
+            "earliest": ["289"],
+            "latest": ["280"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Syracuse"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-170147"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-170147"],
+            "term": ["agent-170147"],
+            "role": [
+              {
+                "value": ["mint"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Syracuse"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-119331"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119331"],
+            "place": ["term-119331"],
+            "coordinates": {
+              "lat": ["37.0646139"],
+              "lng": ["15.2907196"]
+            }
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["CM.BU.957bis-R"],
+        "type": ["accession number"],
+        "value": ["CM.BU.957bis-R"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["222867"],
+        "type": ["priref"],
+        "value": ["222867"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/222867"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/222867"]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-119622"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-119622"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-119622"],
+        "summary_title": ["struck"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-133795"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-133795"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-133795"],
+        "summary_title": ["Ancient Greek"]
+      }
+    ],
+    "admin": {
+      "created": ["1511780084000"],
+      "modified": ["1511780642000"],
+      "id": ["object-222867"]
+    },
+    "categories": [
+      {
+        "term": ["term-100804"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-100804"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-100804"],
+        "summary_title": ["coin"]
+      }
+    ],
+    "department": {
+      "value": ["Coins and Medals"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["g"],
+          "dimension": ["Weight"],
+          "value": ["7.138"]
+        }
+      ]
+    },
+    "publications": [
+      {
+        "term": ["publication-7405"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/publication/publication-7405"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/publications/publication-7405"],
+        "summary_title": ["Corpus Nummorum Siculorum. La Monetazione di Bronzo: the bronze coinage. Volume primo: first volume"]
+      }
+    ],
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-222867"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/222867"],
+    "object": ["object-222867"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

@@ -1,0 +1,161 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-42634"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-42634"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-42634"],
+        "summary_title": ["sherd"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1985"],
+            "value": ["1985"],
+            "latest": ["1985"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Scrase, David E."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149654"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149654"],
+            "agent": ["agent-149654"]
+          }
+        }
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Petra Jordan"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-112729"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-112729"],
+            "coordinates": {
+              "lat": ["30.3497724"],
+              "lng": ["35.376484630029"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "precision": ["circa"],
+              "earliest": ["99"],
+              "value": ["1"],
+              "latest": ["1"]
+            },
+            "to": {
+              "earliest": ["100"],
+              "value": ["100"],
+              "latest": ["100"]
+            },
+            "earliest": ["99"],
+            "latest": ["100"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Nabatean"],
+            "period": ["term-10984"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-10984"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-10984"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["ANE.2.1985"],
+        "type": ["accession number"],
+        "value": ["ANE.2.1985"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["87915"],
+        "type": ["priref"],
+        "value": ["87915"]
+      },
+      {
+        "type": ["oldadmincategory"],
+        "value": ["O"]
+      },
+      {
+        "type": ["oldobjectnumber"],
+        "value": ["WAE.2.1985"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/87915"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/87915"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-42634"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-42634"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-42634"],
+        "summary_title": ["sherd"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1482163180000"],
+      "id": ["object-87915"]
+    },
+    "description": [
+      {
+        "value": ["fragment of bowl, eggshell ware with rouletted decoration."]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-89198"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-89198"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-89198"],
+        "summary_title": ["vessel"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Diameter"],
+          "value": ["0.23"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Length"],
+          "value": ["0.042"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.058"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-87915"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/87915"],
+    "object": ["object-87915"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

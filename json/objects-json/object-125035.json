@@ -1,0 +1,152 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-103262"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-103262"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-103262"],
+        "summary_title": ["letter (correspondence)"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["2005"],
+            "value": ["2005-10"],
+            "latest": ["2010"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Lubbock, Joseph Guy"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-157865"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-157865"],
+            "agent": ["agent-157865"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "era": [
+              ["CE"]
+            ],
+            "earliest": ["2005"],
+            "value": ["2005-10-17"],
+            "latest": ["2005"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Lubbock, Joseph Guy"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-157865"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-157865"],
+            "term": ["agent-157865"],
+            "role": [
+              {
+                "value": ["writer"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Woodbridge"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-107448"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107448"],
+            "place": ["term-107448"],
+            "coordinates": {
+              "lat": ["40.5576045"],
+              "lng": ["-74.2845911"]
+            }
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["Lubbock 1.1"],
+        "type": ["accession number"],
+        "value": ["Lubbock 1.1"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["125035"],
+        "type": ["priref"],
+        "value": ["125035"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/125035"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/125035"]
+      }
+    ],
+    "component": [
+      {
+        "name": ["Support"],
+        "materials": [
+          {
+            "term": ["term-106206"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-106206"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-106206"],
+            "summary_title": ["paper"]
+          }
+        ]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-27007"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27007"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27007"],
+        "summary_title": ["handwriting"],
+        "descriptions": []
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-103262"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-103262"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-103262"],
+        "summary_title": ["letter (correspondence)"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1582636163000"],
+      "id": ["object-125035"]
+    },
+    "description": [
+      {
+        "value": ["Letter from J. G. Lubbock to Stella Panayotova  17.10.2005"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-117339"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-117339"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-117339"],
+        "summary_title": ["archive document"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-125035"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/125035"],
+    "object": ["object-125035"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

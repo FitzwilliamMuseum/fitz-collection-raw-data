@@ -1,0 +1,160 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-107454"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107454"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107454"],
+        "summary_title": ["figure"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bought"],
+        "date": [
+          {
+            "earliest": ["1898"],
+            "value": ["1898"],
+            "latest": ["1898"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Rawlins, J. P., Mrs"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-193340"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-193340"],
+            "agent": ["agent-193340"]
+          }
+        }
+      },
+      "creation": {
+        "periods": [
+          {
+            "summary_title": ["8th Century"],
+            "period": ["term-109494"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-109494"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-109494"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["maker"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Punjab"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-128091"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-128091"],
+            "place": ["term-128091"],
+            "coordinates": {
+              "lat": ["30.9293211"],
+              "lng": ["75.5004841"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["India"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["north"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["O.3-1898"],
+        "type": ["accession number"],
+        "value": ["O.3-1898"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["138179"],
+        "type": ["priref"],
+        "value": ["138179"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/138179"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/138179"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-107454"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-107454"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-107454"],
+        "summary_title": ["figure"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1435073609000"],
+      "id": ["object-138179"]
+    },
+    "description": [
+      {
+        "value": ["Standing figure of Vishnu"]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-98228"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-98228"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-98228"],
+        "summary_title": ["sculpture"]
+      }
+    ],
+    "title": [
+      {
+        "value": ["Standing figure of Vishnu"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["cm"],
+          "dimension": ["Height"],
+          "value": ["18.7"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-138179"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/138179"],
+    "object": ["object-138179"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

@@ -1,0 +1,143 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1923"],
+            "value": ["1923"],
+            "latest": ["1923"]
+          }
+        ]
+      },
+      "collection": {
+        "places": [
+          {
+            "summary_title": ["Menelaion Sparta Greece"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-114267"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-114267"],
+            "coordinates": {
+              "lat": ["37.0657435"],
+              "lng": ["22.4534818"]
+            }
+          }
+        ]
+      },
+      "creation": {
+        "date": [
+          {
+            "note": [
+              {
+                "value": ["import: circa 700-551 BC"]
+              }
+            ],
+            "range": ["1"],
+            "from": {
+              "era": [
+                ["BC"]
+              ],
+              "precision": ["circa"],
+              "earliest": ["700"],
+              "value": ["-0700"],
+              "latest": ["700"]
+            },
+            "to": {
+              "era": [
+                ["BC"]
+              ],
+              "earliest": ["551"],
+              "value": ["-0551"],
+              "latest": ["551"]
+            },
+            "earliest": ["700"],
+            "latest": ["551"]
+          }
+        ]
+      }
+    },
+    "summary": [
+      {
+        "term": ["term-77418"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-77418"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-77418"],
+        "summary_title": ["brooch"]
+      }
+    ],
+    "identifier": [
+      {
+        "accession_number": ["GR.4057.1923"],
+        "type": ["accession number"],
+        "value": ["GR.4057.1923"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["88420"],
+        "type": ["priref"],
+        "value": ["88420"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/88420"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/88420"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-77418"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-77418"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-77418"],
+        "summary_title": ["brooch"]
+      }
+    ],
+    "admin": {
+      "created": ["1312633661000"],
+      "modified": ["1621012127000"],
+      "id": ["object-88420"]
+    },
+    "description": [
+      {
+        "value": ["disk, embossed with rosette, fragment"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-109541"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-109541"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-109541"],
+        "summary_title": ["jewellery"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Depth"],
+          "value": ["0.001"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.045"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-88420"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/88420"],
+    "object": ["object-88420"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

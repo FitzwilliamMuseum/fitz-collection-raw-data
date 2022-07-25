@@ -1,0 +1,161 @@
+{
+  "data": {
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["2013"],
+            "value": ["2013-11"],
+            "latest": ["2011"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Hall, David J."],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-152962"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-152962"],
+            "agent": ["agent-152962"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "era": [
+              ["CE"]
+            ],
+            "earliest": ["1952"],
+            "value": ["1952"],
+            "latest": ["1952"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Deberny et Peignot"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-190650"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-190650"],
+            "term": ["agent-190650"],
+            "role": [
+              {
+                "value": ["publisher"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Harmondsworth"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-110681"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-110681"],
+            "place": ["term-110681"],
+            "coordinates": {
+              "lat": ["51.4889317"],
+              "lng": ["-0.4755435"]
+            }
+          },
+          {
+            "summary_title": ["Paris"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-129470"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-129470"],
+            "place": ["term-129470"],
+            "coordinates": {
+              "lat": ["48.8588897"],
+              "lng": ["2.3200410217201"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["England"],
+                "type": ["country"]
+              },
+              {
+                "summary_title": ["Middlesex"],
+                "type": ["region"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["PB 11-2013"],
+        "type": ["accession number"],
+        "value": ["PB 11-2013"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["197533"],
+        "type": ["priref"],
+        "value": ["197533"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/197533"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/197533"]
+      }
+    ],
+    "techniques": [
+      {
+        "term": ["term-27526"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-27526"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-27526"],
+        "summary_title": ["printing"],
+        "descriptions": []
+      }
+    ],
+    "admin": {
+      "created": ["1386260182000"],
+      "modified": ["1417190573000"],
+      "id": ["object-197533"]
+    },
+    "description": [
+      {
+        "value": ["37, [2] p., 64 p. of plates : facsims. ; 19 cm.\nPresentation copy to Dorothy Hutton with ms note by the author."]
+      }
+    ],
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-102154"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-102154"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-102154"],
+        "summary_title": ["book"]
+      }
+    ],
+    "title": [
+      {
+        "translation": [
+          {
+            "value": ["Translatiion of: A book of scripts"]
+          }
+        ],
+        "value": ["Ecritures"]
+      }
+    ],
+    "department": {
+      "value": ["Manuscripts and Printed Books"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-197533"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/197533"],
+    "object": ["object-197533"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

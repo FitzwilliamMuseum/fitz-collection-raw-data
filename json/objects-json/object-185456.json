@@ -1,0 +1,171 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-67775"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-67775"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-67775"],
+        "summary_title": ["rug"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["bought"],
+        "date": [
+          {
+            "earliest": ["1984"],
+            "value": ["1984-01-30"],
+            "latest": ["1984"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Zoë Hadwen Fund"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-182325"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-182325"],
+            "agent": ["agent-182325"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["1900"],
+              "value": ["1900"],
+              "latest": ["1900"]
+            },
+            "to": {
+              "earliest": ["1925"],
+              "value": ["1925"],
+              "latest": ["1925"]
+            },
+            "earliest": ["1900"],
+            "latest": ["1925"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["early 20th century"],
+            "period": ["term-109008"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-109008"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-109008"]
+          }
+        ],
+        "maker": {
+          "maker": {
+            "summary_title": ["Unknown"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/agent-149652"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149652"],
+            "term": ["agent-149652"],
+            "role": [
+              {
+                "value": ["production"]
+              }
+            ]
+          }
+        },
+        "places": [
+          {
+            "summary_title": ["Herez"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/places/term-130777"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-130777"],
+            "place": ["term-130777"],
+            "coordinates": {
+              "lat": ["48.4892986"],
+              "lng": ["-2.7270226"]
+            },
+            "hierarchies": [
+              {
+                "summary_title": ["Persia"],
+                "type": ["country"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["T.2-1984"],
+        "type": ["accession number"],
+        "value": ["T.2-1984"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["185456"],
+        "type": ["priref"],
+        "value": ["185456"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/185456"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/185456"]
+      }
+    ],
+    "note": [
+      {
+        "type": ["history note"],
+        "value": ["Purchased from The Tun house, Whitwell, Hitchin, Herts SG4 8AG"]
+      }
+    ],
+    "school_or_style": [
+      {
+        "term": ["term-8990"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-8990"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-8990"],
+        "summary_title": ["Persian"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-67775"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-67775"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-67775"],
+        "summary_title": ["rug"]
+      },
+      {
+        "value": ["runner"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1507567185000"],
+      "id": ["object-185456"]
+    },
+    "owners": [
+      {
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "owner": ["agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-42576"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-42576"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-42576"],
+        "summary_title": ["textiles"]
+      }
+    ],
+    "department": {
+      "value": ["Applied Arts"]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-185456"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/185456"],
+    "object": ["object-185456"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}

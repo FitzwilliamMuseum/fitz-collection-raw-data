@@ -1,0 +1,142 @@
+{
+  "data": {
+    "summary": [
+      {
+        "term": ["term-111179"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111179"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-111179"],
+        "summary_title": ["moulding"]
+      }
+    ],
+    "institutions": [
+      {
+        "term": ["agent-149638"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-149638"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-149638"],
+        "summary_title": ["The Fitzwilliam Museum"]
+      }
+    ],
+    "lifecycle": {
+      "acquisition": {
+        "method": ["given"],
+        "date": [
+          {
+            "earliest": ["1904"],
+            "value": ["1904"],
+            "latest": ["1904"]
+          }
+        ],
+        "agents": {
+          "agent": {
+            "summary_title": ["Hugh Smith, A. J. & Sykes, M., Captain"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/agent/agent-159704"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/agents/agent-159704"],
+            "agent": ["agent-159704"]
+          }
+        }
+      },
+      "creation": {
+        "date": [
+          {
+            "range": ["1"],
+            "from": {
+              "earliest": ["1101"],
+              "value": ["1101"],
+              "latest": ["1101"]
+            },
+            "to": {
+              "earliest": ["1300"],
+              "value": ["1300"],
+              "latest": ["1300"]
+            },
+            "earliest": ["1101"],
+            "latest": ["1300"]
+          }
+        ],
+        "periods": [
+          {
+            "summary_title": ["Seljuk"],
+            "period": ["term-10856"],
+            "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/periods/term-10856"],
+            "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-10856"]
+          }
+        ]
+      }
+    },
+    "identifier": [
+      {
+        "accession_number": ["ANE.102.1904"],
+        "type": ["accession number"],
+        "value": ["ANE.102.1904"],
+        "primary": ["1"]
+      },
+      {
+        "priref": ["86712"],
+        "type": ["priref"],
+        "value": ["86712"]
+      },
+      {
+        "type": ["oldadmincategory"],
+        "value": ["O"]
+      },
+      {
+        "type": ["oldobjectnumber"],
+        "value": ["WAE.102.1904"]
+      },
+      {
+        "type": ["uri"],
+        "uri": ["https://data.fitzmuseum.cam.ac.uk/id/object/86712"],
+        "value": ["https://data.fitzmuseum.cam.ac.uk/id/object/86712"]
+      }
+    ],
+    "name": [
+      {
+        "term": ["term-111179"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-111179"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-111179"],
+        "summary_title": ["moulding"]
+      }
+    ],
+    "admin": {
+      "created": ["1312637261000"],
+      "modified": ["1482324510000"],
+      "id": ["object-86712"]
+    },
+    "description": [
+      {
+        "value": ["cornice moulding, possibly a corner piece, with male figure"]
+      }
+    ],
+    "categories": [
+      {
+        "term": ["term-43046"],
+        "URI": ["https://data.fitzmuseum.cam.ac.uk/id/terminology/term-43046"],
+        "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/terminology/term-43046"],
+        "summary_title": ["architectural element"]
+      }
+    ],
+    "department": {
+      "value": ["Antiquities"]
+    },
+    "measurements": {
+      "dimensions": [
+        {
+          "units": ["m"],
+          "dimension": ["Height"],
+          "value": ["0.19"]
+        },
+        {
+          "units": ["m"],
+          "dimension": ["Width"],
+          "value": ["0.18"]
+        }
+      ]
+    },
+    "type": ["objects"],
+    "apiURI": ["https://data.fitzmuseum.cam.ac.uk/api/v1/objects/object-86712"],
+    "URI": ["https://data.fitzmuseum.cam.ac.uk/id/object/86712"],
+    "object": ["object-86712"]
+  },
+  "message": ["Retrieved successfully"],
+  "httpCode": [200]
+}
