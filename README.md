@@ -2,7 +2,9 @@
 
 ![A social card for this repository](https://repository-images.githubusercontent.com/511317066/1123904f-cfce-40b2-a3f4-775186e178b3)
 
-[![ORCiD](https://img.shields.io/badge/ORCiD-0000--0002--0246--2335-green.svg)](http://orcid.org/0000-0002-0246-2335)
+[![ORCiD](https://img.shields.io/badge/ORCiD-0000--0002--0246--2335-green.svg)](http://orcid.org/0000-0002-0246-2335)   [![DOI](https://zenodo.org/badge/511317066.svg)](https://zenodo.org/badge/latestdoi/511317066)
+
+
 
 This repository holds raw data mined from the Museum's collections information systems. These data have been released under CC0 license since around 2010.
 
